@@ -1,7 +1,7 @@
 # What is this?
 
-I'm quite active in OS (Open Source) communities different some channels eg. IRC, Slack, etc. and I 
-noticed that there is a lot of interested links that I would like to share with you all.
+I'm quite active in OS (Open Source) communities social media channels eg. IRC, Slack, etc. and I 
+noticed that there is a lot of interested links / articles that I would like to share with you all.
 
 So basically that is what this repository will be, I'll try to group links per week, and I'll try to
 update this repository all the time - I have noticed that I remember to see some article "somewhere"
