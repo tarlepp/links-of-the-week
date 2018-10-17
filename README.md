@@ -25,9 +25,11 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Web Workers and OffscreenCanvas](https://spectrum.chat/thread/00d7da6a-8ba8-4675-8ef7-8be1f709ddf1)
  - [Open source mindset benefits](https://medium.com/@decathlonDevelopers/open-source-mindset-benefits-5245f38957f4)
  - [TravisCI Windows support](https://twitter.com/travisci/status/1050475566770589697)
- - [GitHub - new features](https://twitter.com/fatih/status/1052238735755173888)
+ - [Tweet - (GitHub - new features)](https://twitter.com/fatih/status/1052238735755173888)
  - [New in MakerBundle 1.8: Instant User & Login Form Commands](https://symfony.com/blog/new-in-makerbundle-1-8-instant-user-login-form-commands)
  - [The Future of the Zend Engine and the Zend Framework](http://zsuraski.blogspot.com/2018/10/the-future-of-zend-engine-and-zend.html)
+ - [Tweet - (TravisCI - access to repositories)](https://twitter.com/Majkl578/status/1052594545458905088)
+ - [IntelliJ IDEA 2018.3 EAP: GitHub pull requests and more](https://blog.jetbrains.com/idea/2018/10/intellij-idea-2018-3-eap-github-pull-requests-and-more)
 
 ## Authors
 
