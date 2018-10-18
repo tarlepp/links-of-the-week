@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Future of the Zend Engine and the Zend Framework](http://zsuraski.blogspot.com/2018/10/the-future-of-zend-engine-and-zend.html)
  - [Tweet - (TravisCI - access to repositories)](https://twitter.com/Majkl578/status/1052594545458905088)
  - [IntelliJ IDEA 2018.3 EAP: GitHub pull requests and more](https://blog.jetbrains.com/idea/2018/10/intellij-idea-2018-3-eap-github-pull-requests-and-more)
+ - [Enable foreign keys for SQLite-based Symfony tests](https://tomnewby.net/posts/enable-foreign-keys-in-sqlite-symfony-tests/)
 
 ## Authors
 
