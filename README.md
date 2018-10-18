@@ -31,6 +31,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - (TravisCI - access to repositories)](https://twitter.com/Majkl578/status/1052594545458905088)
  - [IntelliJ IDEA 2018.3 EAP: GitHub pull requests and more](https://blog.jetbrains.com/idea/2018/10/intellij-idea-2018-3-eap-github-pull-requests-and-more)
  - [Enable foreign keys for SQLite-based Symfony tests](https://tomnewby.net/posts/enable-foreign-keys-in-sqlite-symfony-tests/)
+ - [Tweet - (VSCode in CodeSandbox!)](https://twitter.com/CompuIves/status/1052594462768148480)
 
 ## Authors
 
