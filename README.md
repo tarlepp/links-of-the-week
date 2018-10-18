@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [IntelliJ IDEA 2018.3 EAP: GitHub pull requests and more](https://blog.jetbrains.com/idea/2018/10/intellij-idea-2018-3-eap-github-pull-requests-and-more)
  - [Enable foreign keys for SQLite-based Symfony tests](https://tomnewby.net/posts/enable-foreign-keys-in-sqlite-symfony-tests/)
  - [Tweet - (VSCode in CodeSandbox!)](https://twitter.com/CompuIves/status/1052594462768148480)
+ - [Diving into Symfony’s DependencyInjection — Part 1: First steps with the container](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052)
 
 ## Authors
 
