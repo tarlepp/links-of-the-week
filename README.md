@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Diving into Symfony’s DependencyInjection — Part 1: First steps with the container](https://medium.com/manomano-tech/diving-into-symfonys-dependencyinjection-part-1-first-steps-with-the-container-2fad0593c052)
  - [Introducing the Raspberry PI TV HAT](https://www.raspberrypi.org/blog/raspberry-pi-tv-hat/)
  - [Focus on what matters: code](https://github.com/features/actions)
+ - [Sous Vide Cooking](http://www.douglasbaldwin.com/sous-vide.html)
 
 ## Authors
 
