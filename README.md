@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing the Raspberry PI TV HAT](https://www.raspberrypi.org/blog/raspberry-pi-tv-hat/)
  - [Focus on what matters: code](https://github.com/features/actions)
  - [Sous Vide Cooking](http://www.douglasbaldwin.com/sous-vide.html)
+ - [The Mine: No JS, CSS only adventure game](https://codepen.io/jcoulterdesign/pen/NOMeEb)
 
 ## Authors
 
