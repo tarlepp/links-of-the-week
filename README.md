@@ -22,7 +22,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 42
 
- - [Web Workers and OffscreenCanvas](https://spectrum.chat/thread/00d7da6a-8ba8-4675-8ef7-8be1f709ddf1){:target="_blank"}
+ - [Web Workers and OffscreenCanvas](https://spectrum.chat/thread/00d7da6a-8ba8-4675-8ef7-8be1f709ddf1)
  - [Open source mindset benefits](https://medium.com/@decathlonDevelopers/open-source-mindset-benefits-5245f38957f4)
  - [TravisCI Windows support](https://twitter.com/travisci/status/1050475566770589697)
  - [Tweet - GitHub - new features](https://twitter.com/fatih/status/1052238735755173888)
