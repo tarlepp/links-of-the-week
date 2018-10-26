@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Mine: No JS, CSS only adventure game](https://codepen.io/jcoulterdesign/pen/NOMeEb)
  - [Tweet - Reminder: You only have last 2 months to migrate to a modern PHP](https://twitter.com/Majkl578/status/1055059156812656642)
  - [Stonehenge - Local development environment toolset on Docker supporting multiple projects](https://github.com/druidfi/stonehenge)
+ - [The Symfony Ecosystem with Nicolas Grekas](https://threedevsandamaybe.com/the-symfony-ecosystem-with-nicolas-grekas/)
 
 ## Authors
 
