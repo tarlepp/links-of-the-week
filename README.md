@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - Reminder: You only have last 2 months to migrate to a modern PHP](https://twitter.com/Majkl578/status/1055059156812656642)
  - [Stonehenge - Local development environment toolset on Docker supporting multiple projects](https://github.com/druidfi/stonehenge)
  - [The Symfony Ecosystem with Nicolas Grekas](https://threedevsandamaybe.com/the-symfony-ecosystem-with-nicolas-grekas/)
+ - [PhpStorm 2018.3 EAP 183.3975.17](https://blog.jetbrains.com/phpstorm/2018/10/phpstorm-2018-3-eap-183-3975-17/)
 
 ## Authors
 
