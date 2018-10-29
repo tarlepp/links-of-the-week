@@ -15,6 +15,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
   * [2018](#2018)
      * [Week 42](#week-42)
+     * [Week 43](#week-43)
   * [Authors](#authors)
   * [License](#license)
 
@@ -41,6 +42,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Stonehenge - Local development environment toolset on Docker supporting multiple projects](https://github.com/druidfi/stonehenge)
  - [The Symfony Ecosystem with Nicolas Grekas](https://threedevsandamaybe.com/the-symfony-ecosystem-with-nicolas-grekas/)
  - [PhpStorm 2018.3 EAP 183.3975.17](https://blog.jetbrains.com/phpstorm/2018/10/phpstorm-2018-3-eap-183-3975-17/)
+
+### Week 43
+
+ - [Create compelling Documentation with Github Pages](https://medium.com/@thomas.reinecke/create-compelling-documentation-with-github-pages-16e4149efe9e)
 
 ## Authors
 
