@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Create compelling Documentation with Github Pages](https://medium.com/@thomas.reinecke/create-compelling-documentation-with-github-pages-16e4149efe9e)
  - [Symfony + Doctrine dynamic data connection](https://gist.github.com/Xymanek/8fbbd127eeeca2c6c15aad6acfd0e07b)
+ - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 
 ## Authors
 
