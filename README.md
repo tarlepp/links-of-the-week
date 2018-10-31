@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
  - [Enqueue ](https://github.com/php-enqueue/enqueue-dev)
  - [New in Symfony 4.2: Define env vars per environment](https://symfony.com/blog/new-in-symfony-4-2-define-env-vars-per-environment)
+ - [Google Cloud Next 2018 in under 12 minutes](https://www.youtube.com/watch?v=CNxV_ExKdas)
 
 ## Authors
 
