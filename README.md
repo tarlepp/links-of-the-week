@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - New feature shipping now: bookmark the notifications you want to save for later](https://twitter.com/natfriedman/status/1058390820879982592)
  - [Audit Bundle](https://github.com/DATA-DOG/DataDogAuditBundle)
  - [Q is tomorrow’s payment network](https://initiativeq.com/)
+ - [Projects | The State of the Octoverse](https://octoverse.github.com/projects.html)
 
 ## Authors
 
