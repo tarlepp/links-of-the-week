@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Understanding Dependency Injection by example with the Symfony DI component (part 1/2)](https://medium.com/@galopintitouan/understanding-dependency-injection-by-example-with-the-symfony-di-component-part-1-2-15ac4bfd0f81)
  - [Tweet - New feature shipping now: bookmark the notifications you want to save for later](https://twitter.com/natfriedman/status/1058390820879982592)
  - [Audit Bundle](https://github.com/DATA-DOG/DataDogAuditBundle)
+ - [Q is tomorrow’s payment network](https://initiativeq.com/)
 
 ## Authors
 
