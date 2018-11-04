@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Audit Bundle](https://github.com/DATA-DOG/DataDogAuditBundle)
  - [Q is tomorrow’s payment network](https://initiativeq.com/)
  - [Projects | The State of the Octoverse](https://octoverse.github.com/projects.html)
+ - [Symfony - How to inject Twig](https://stackoverflow.com/questions/49344753/cannot-inject-templating-on-symfony-4-service)
 
 ## Authors
 
