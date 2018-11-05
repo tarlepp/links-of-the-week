@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 44
 
  - [SO - User Deprecated: Doctrine\Common\ClassLoader is deprecated](https://stackoverflow.com/questions/51342512/user-deprecated-doctrine-common-classloader-is-deprecated)
+ - [YouTube - Saarna päälliköstä](https://www.youtube.com/watch?v=T3qE-0DNqs0)
 
 ## Authors
 
