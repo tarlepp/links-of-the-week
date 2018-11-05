@@ -16,6 +16,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2018](#2018)
      * [Week 42](#week-42)
      * [Week 43](#week-43)
+     * [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -58,6 +59,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Q is tomorrow’s payment network](https://initiativeq.com/)
  - [Projects | The State of the Octoverse](https://octoverse.github.com/projects.html)
  - [SO - Symfony - How to inject Twig](https://stackoverflow.com/questions/49344753/cannot-inject-templating-on-symfony-4-service)
+ 
+### Week 44
+
+ - [SO - User Deprecated: Doctrine\Common\ClassLoader is deprecated](https://stackoverflow.com/questions/51342512/user-deprecated-doctrine-common-classloader-is-deprecated)
 
 ## Authors
 
