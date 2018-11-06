@@ -68,6 +68,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Daniel Ek Buys New Startup For €250 Million, Saying "This is Where the Future Lies"](http://www.octoreport.com/daniel-ek-sells-all-his-spotify-shares/)
  - [The how and why of the migration from RabbitMqBundle to EnqueueBundle](https://blog.forma-pro.com/the-how-and-why-of-the-migration-from-rabbitmqbundle-to-enqueuebundle-6c4054135e2b)
  - [This is a proof-of-concept exploit of the PortSmash microarchitecture attack, tracked by CVE-2018-5407](https://github.com/bbbrumley/portsmash)
+ - [Getafix: How Facebook tools learn to fix bugs automatically](https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)
 
 ## Authors
 
