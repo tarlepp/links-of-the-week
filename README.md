@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SO - User Deprecated: Doctrine\Common\ClassLoader is deprecated](https://stackoverflow.com/questions/51342512/user-deprecated-doctrine-common-classloader-is-deprecated)
  - [YouTube - Saarna päälliköstä](https://www.youtube.com/watch?v=T3qE-0DNqs0)
  - [Daniel Ek Buys New Startup For €250 Million, Saying "This is Where the Future Lies"](http://www.octoreport.com/daniel-ek-sells-all-his-spotify-shares/)
+ - [The how and why of the migration from RabbitMqBundle to EnqueueBundle](https://blog.forma-pro.com/the-how-and-why-of-the-migration-from-rabbitmqbundle-to-enqueuebundle-6c4054135e2b)
 
 ## Authors
 
