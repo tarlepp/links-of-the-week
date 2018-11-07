@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [This is a proof-of-concept exploit of the PortSmash microarchitecture attack, tracked by CVE-2018-5407](https://github.com/bbbrumley/portsmash)
  - [Getafix: How Facebook tools learn to fix bugs automatically](https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)
  - [How to match "A B C" where A+B=C: The Beast Reborn](http://www.drregex.com/2018/11/how-to-match-b-c-where-abc-beast-reborn.html)
+ - [Building a first class REST API with Symfony](https://speakerdeck.com/michaelcullum/building-a-first-class-rest-api-with-symfony)
 
 ## Authors
 
