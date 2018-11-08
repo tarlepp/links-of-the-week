@@ -72,6 +72,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to match "A B C" where A+B=C: The Beast Reborn](http://www.drregex.com/2018/11/how-to-match-b-c-where-abc-beast-reborn.html)
  - [Building a first class REST API with Symfony](https://speakerdeck.com/michaelcullum/building-a-first-class-rest-api-with-symfony)
  - [WAVE Web Accessibility Tool](https://wave.webaim.org/)
+ - [Introduction to PHP session blocking](https://demo.ma.ttias.be/demo-php-blocking-sessions/)
 
 ## Authors
 
