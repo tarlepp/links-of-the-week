@@ -75,6 +75,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introduction to PHP session blocking](https://demo.ma.ttias.be/demo-php-blocking-sessions/)
  - [Je t'aime… moi non plus](https://www.facebook.com/pochemuzik/videos/1590609057913403/)
  - [PhpStorm 2018.3 Public Preview](https://blog.jetbrains.com/phpstorm/2018/11/phpstorm-2018-3-public-preview/)
+ - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
 
 ## Authors
 
