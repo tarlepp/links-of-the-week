@@ -81,6 +81,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  ### Week 45
  
   - [HTTP/3](https://daniel.haxx.se/blog/2018/11/11/http-3/)
+  - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 
 ## Authors
 
