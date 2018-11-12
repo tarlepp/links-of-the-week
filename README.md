@@ -82,6 +82,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  
   - [HTTP/3](https://daniel.haxx.se/blog/2018/11/11/http-3/)
   - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+  - [PHP 7 Compatibility Checker(php7cc)](https://github.com/sstalle/php7cc)
 
 ## Authors
 
