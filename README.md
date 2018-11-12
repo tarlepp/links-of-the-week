@@ -84,6 +84,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
   - [PHP 7 Compatibility Checker(php7cc)](https://github.com/sstalle/php7cc)
   - [Goodbye Slack, Hello Discord!](https://statamic.com/blog/goodbye-slack-hello-discord)
+  - [Legendary Marvel Comics creator Stan Lee has died](https://arstechnica.com/gaming/2018/11/legendary-marvel-comics-creator-stan-lee-has-died/)
 
 ## Authors
 
