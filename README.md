@@ -17,6 +17,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 42](#week-42)
      * [Week 43](#week-43)
      * [Week 44](#week-44)
+     * [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -76,6 +77,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Je t'aime… moi non plus](https://www.facebook.com/pochemuzik/videos/1590609057913403/)
  - [PhpStorm 2018.3 Public Preview](https://blog.jetbrains.com/phpstorm/2018/11/phpstorm-2018-3-public-preview/)
  - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
+ 
+ ### Week 45
+ 
+  - [HTTP/3](https://daniel.haxx.se/blog/2018/11/11/http-3/)
 
 ## Authors
 
