@@ -13,11 +13,16 @@ use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\Response;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Input\ArrayInput;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Question\Question;
 use Symfony\Component\Console\Style\SymfonyStyle;
+use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface;
+use function file_get_contents;
+use function filter_var;
+use function strpos;
 
 /**
  * Class LinksAddCommand
@@ -35,6 +40,11 @@ class LinksAddCommand extends Command
     protected static $defaultName = 'links:add';
 
     /**
+     * @var string
+     */
+    private $projectDir;
+
+    /**
      * @var SymfonyStyle
      */
     private $io;
@@ -43,6 +53,18 @@ class LinksAddCommand extends Command
      * @var Response
      */
     private $response;
+
+    /**
+     * LinksAddCommand constructor.
+     *
+     * @param ParameterBagInterface $parameterBag
+     */
+    public function __construct(ParameterBagInterface $parameterBag)
+    {
+        parent::__construct(self::$defaultName);
+
+        $this->projectDir = $parameterBag->get('kernel.project_dir');
+    }
 
     /**
      * @return void
@@ -61,19 +83,33 @@ class LinksAddCommand extends Command
      * @param OutputInterface $output
      *
      * @return int|null
+     *
+     * @throws \Exception
      */
     protected function execute(InputInterface $input, OutputInterface $output): ?int
     {
         $this->io = new SymfonyStyle($input, $output);
 
+        // Rebase current working copy with origin master
+        $this->makeRebase($output);
+
         // Determine URL to use within this run time, after this we have a valid URL and `$this->response` to go on
         $url = $this->getUrl($input->getArgument('url'));
 
-        $this->checkIfUrlAlreadyExists($url);
-
-        $this->io->success('You have a new command! Now make it your own! Pass --help to see your options.');
+        $this->io->success('TODO: just implemented the rest of this URL: ' . $url);
 
         return null;
+    }
+
+    /**
+     * @param OutputInterface $output
+     *
+     * @throws \Exception
+     */
+    private function makeRebase(OutputInterface $output): void
+    {
+        $command = $this->getApplication()->find('rebase');
+        $command->run(new ArrayInput([]), $output);
     }
 
     /**
@@ -105,7 +141,9 @@ class LinksAddCommand extends Command
     {
         $url = filter_var($url, FILTER_SANITIZE_URL);
 
-        return filter_var($url, FILTER_VALIDATE_URL) && $this->makeRequest($url);
+        return filter_var($url, FILTER_VALIDATE_URL)
+            && $this->makeRequest($url)
+            && $this->checkIfUrlAlreadyExists($url) === false;
     }
 
     /**
@@ -149,9 +187,20 @@ class LinksAddCommand extends Command
      * Method to check if URL already exists on current README.md
      *
      * @param string $url
+     *
+     * @return bool
      */
-    private function checkIfUrlAlreadyExists(string $url): void
+    private function checkIfUrlAlreadyExists(string $url): bool
     {
-        // TODO implement in next phase
+        $output = false;
+        $contents = file_get_contents($this->projectDir . DIRECTORY_SEPARATOR . 'README.md');
+
+        if (strpos($contents, $url) !== false) {
+            $this->io->warning('This URL already exists on README.md');
+
+            $output = true;
+        }
+
+        return $output;
     }
 }
