@@ -85,6 +85,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [PHP 7 Compatibility Checker(php7cc)](https://github.com/sstalle/php7cc)
   - [Goodbye Slack, Hello Discord!](https://statamic.com/blog/goodbye-slack-hello-discord)
   - [Legendary Marvel Comics creator Stan Lee has died](https://arstechnica.com/gaming/2018/11/legendary-marvel-comics-creator-stan-lee-has-died/)
+  - [The original sources of MS-DOS 1.25 and 2.0, for reference purposes](https://github.com/Microsoft/MS-DOS)
 
 ## Authors
 
