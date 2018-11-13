@@ -120,10 +120,6 @@ class LinksAddCommand extends Command
     private function getUrl(?string $url): string
     {
         while (!$this->isValidUrl($url)) {
-            if ($url !== null) {
-                $this->io->warning('Given URL isn\'t valid');
-            }
-
             $question = new Question('Give an URL to add to README.md', $url);
 
             $url = (string)$this->io->askQuestion($question);
@@ -141,9 +137,28 @@ class LinksAddCommand extends Command
     {
         $url = filter_var($url, FILTER_SANITIZE_URL);
 
-        return filter_var($url, FILTER_VALIDATE_URL)
+        return $this->validateUrl($url)
             && $this->makeRequest($url)
-            && $this->checkIfUrlAlreadyExists($url) === false;
+            && $this->checkIfUrlAlreadyExists($url) === false
+        ;
+    }
+
+    /**
+     * @param string $url
+     *
+     * @return bool
+     */
+    private function validateUrl(string $url): bool
+    {
+        $output = true;
+
+        if (filter_var($url, FILTER_VALIDATE_URL) === false) {
+            $this->io->warning('Given URL isn\'t valid');
+
+            $output = false;
+        }
+
+        return $output;
     }
 
     /**
