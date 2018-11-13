@@ -86,6 +86,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Goodbye Slack, Hello Discord!](https://statamic.com/blog/goodbye-slack-hello-discord)
   - [Legendary Marvel Comics creator Stan Lee has died](https://arstechnica.com/gaming/2018/11/legendary-marvel-comics-creator-stan-lee-has-died/)
   - [The original sources of MS-DOS 1.25 and 2.0, for reference purposes](https://github.com/Microsoft/MS-DOS)
+  - [Tweet - Al Gore was right all along...](https://twitter.com/SouthPark/status/1061309758681034752)
 
 ## Authors
 
