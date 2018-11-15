@@ -14,16 +14,16 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Table of Contents
 
   * [2018](#2018)
-     * [Week 42](#week-42)
      * [Week 43](#week-43)
      * [Week 44](#week-44)
      * [Week 45](#week-45)
+     * [Week 46](#week-46)
   * [Authors](#authors)
   * [License](#license)
 
 ## 2018 
 
-### Week 42
+### Week 43
 
  - [Web Workers and OffscreenCanvas](https://spectrum.chat/thread/00d7da6a-8ba8-4675-8ef7-8be1f709ddf1)
  - [Open source mindset benefits](https://medium.com/@decathlonDevelopers/open-source-mindset-benefits-5245f38957f4)
@@ -45,7 +45,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Symfony Ecosystem with Nicolas Grekas](https://threedevsandamaybe.com/the-symfony-ecosystem-with-nicolas-grekas/)
  - [PhpStorm 2018.3 EAP 183.3975.17](https://blog.jetbrains.com/phpstorm/2018/10/phpstorm-2018-3-eap-183-3975-17/)
 
-### Week 43
+### Week 44
 
  - [Create compelling Documentation with Github Pages](https://medium.com/@thomas.reinecke/create-compelling-documentation-with-github-pages-16e4149efe9e)
  - [Symfony + Doctrine dynamic data connection](https://gist.github.com/Xymanek/8fbbd127eeeca2c6c15aad6acfd0e07b)
@@ -61,7 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Projects | The State of the Octoverse](https://octoverse.github.com/projects.html)
  - [SO - Symfony - How to inject Twig](https://stackoverflow.com/questions/49344753/cannot-inject-templating-on-symfony-4-service)
  
-### Week 44
+### Week 45
 
  - [How to add push notifications to a web app with Firebase](https://medium.freecodecamp.org/how-to-add-push-notifications-to-a-web-app-with-firebase-528a702e13e1)
  - [SO - User Deprecated: Doctrine\Common\ClassLoader is deprecated](https://stackoverflow.com/questions/51342512/user-deprecated-doctrine-common-classloader-is-deprecated)
@@ -78,7 +78,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PhpStorm 2018.3 Public Preview](https://blog.jetbrains.com/phpstorm/2018/11/phpstorm-2018-3-public-preview/)
  - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
  
- ### Week 45
+ ### Week 46
  
   - [HTTP/3](https://daniel.haxx.se/blog/2018/11/11/http-3/)
   - [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
