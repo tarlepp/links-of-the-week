@@ -88,6 +88,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [The original sources of MS-DOS 1.25 and 2.0, for reference purposes](https://github.com/Microsoft/MS-DOS)
   - [Tweet - Al Gore was right all along...](https://twitter.com/SouthPark/status/1061309758681034752)
   - [Tweet - Includes? Ain't nobody got time for that! Preloading RFC approved unanimously 48:0](https://twitter.com/official_php/status/1062710650537943041)
+  - [Project maintainance tool for GitHub repositories - BETA quality](http://www.park-manager.com/hubkit/)
 
 ## Authors
 
