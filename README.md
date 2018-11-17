@@ -94,6 +94,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [TensorFlow AutoGraph (TensorFlow @ O’Reilly AI Conference, San Francisco '18)](https://www.youtube.com/watch?v=lDAiLRcS8X8)
   - [Grönlannin jään alta löytyi jättikraatteri – asteroidissako syy ilmastonmuutokseen 12 800 vuotta sitten?](https://yle.fi/uutiset/3-10512685)
   - [Tweet - Let the force (push) be with you Seriously.](https://twitter.com/github/status/1063498022963699712)
+  - [Testing actual behavior](https://matthiasnoback.nl/2018/06/testing-actual-behavior/)
 
 ## Authors
 
