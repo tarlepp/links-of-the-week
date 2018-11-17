@@ -91,6 +91,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Project maintainance tool for GitHub repositories - BETA quality](http://www.park-manager.com/hubkit/)
   - [New in Symfony 4.2: Profiler log filter](https://symfony.com/blog/new-in-symfony-4-2-profiler-log-filter)
   - [A better PHP testing experience Part II: Pick your test doubles wisely](https://matthiasnoback.nl/2014/07/test-doubles/)
+  - [TensorFlow AutoGraph (TensorFlow @ O’Reilly AI Conference, San Francisco '18)](https://www.youtube.com/watch?v=lDAiLRcS8X8)
 
 ## Authors
 
