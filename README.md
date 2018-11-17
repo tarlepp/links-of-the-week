@@ -92,6 +92,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [New in Symfony 4.2: Profiler log filter](https://symfony.com/blog/new-in-symfony-4-2-profiler-log-filter)
   - [A better PHP testing experience Part II: Pick your test doubles wisely](https://matthiasnoback.nl/2014/07/test-doubles/)
   - [TensorFlow AutoGraph (TensorFlow @ O’Reilly AI Conference, San Francisco '18)](https://www.youtube.com/watch?v=lDAiLRcS8X8)
+  - [Grönlannin jään alta löytyi jättikraatteri – asteroidissako syy ilmastonmuutokseen 12 800 vuotta sitten?](https://yle.fi/uutiset/3-10512685)
 
 ## Authors
 
