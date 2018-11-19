@@ -18,6 +18,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 44](#week-44)
      * [Week 45](#week-45)
      * [Week 46](#week-46)
+     * [Week 47](#week-47)
   * [Authors](#authors)
   * [License](#license)
 
@@ -95,6 +96,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Grönlannin jään alta löytyi jättikraatteri – asteroidissako syy ilmastonmuutokseen 12 800 vuotta sitten?](https://yle.fi/uutiset/3-10512685)
   - [Tweet - Let the force (push) be with you Seriously.](https://twitter.com/github/status/1063498022963699712)
   - [Testing actual behavior](https://matthiasnoback.nl/2018/06/testing-actual-behavior/)
+  
+### Week 47
+  
+  - [Psalm v3](https://github.com/vimeo/psalm/releases/tag/3.0.0)
 
 ## Authors
 
