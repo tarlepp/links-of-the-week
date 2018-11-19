@@ -100,6 +100,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 47
   
   - [Psalm v3](https://github.com/vimeo/psalm/releases/tag/3.0.0)
+  - [Improvements to the Handling of .env Files for all Symfony Versions](https://symfony.com/blog/improvements-to-the-handling-of-env-files-for-all-symfony-versions)
 
 ## Authors
 
