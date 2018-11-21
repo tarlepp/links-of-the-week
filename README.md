@@ -104,6 +104,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [The State of the Octoverse: top programming languages of 2018](https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/)
   - [Tweet - PHP-FIG **was** a great way to create a common ground for PHP projects, **interoperability-first**](https://twitter.com/fabpot/status/1064946698089365505)
   - [Avoiding Interface Pollution with the Interface Segregation Principle](https://medium.com/@severinperez/avoiding-interface-pollution-with-the-interface-segregation-principle-5d3859c21013)
+  - [Bus factor](https://en.wikipedia.org/wiki/Bus_factor)
 
 ## Authors
 
