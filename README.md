@@ -106,6 +106,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Avoiding Interface Pollution with the Interface Segregation Principle](https://medium.com/@severinperez/avoiding-interface-pollution-with-the-interface-segregation-principle-5d3859c21013)
   - [Bus factor](https://en.wikipedia.org/wiki/Bus_factor)
   - [Arbitrary-precision decimal arithmetic for PHP 7](http://php-decimal.io/)
+  - [JavaScript Weekly: Graceful Error Handling](https://medium.com/launch-school/javascript-weekly-graceful-error-handling-2f4045262df)
 
 ## Authors
 
