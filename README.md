@@ -114,6 +114,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [C3.js D3-based reusable chart library](https://c3js.org/)
  - [Using page speed in mobile search ranking](https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html)
  - [ADR pattern, autowiring, DunglasActionBundle: Symfony controllers redesigned](https://dunglas.fr/2016/06/adr-pattern-autowiring-dunglasactionbundle-symfony-controllers-redesigned/)
+ - [Symfony 4.2 curated new features](https://symfony.com/blog/symfony-4-2-curated-new-features)
 
 ## Authors
 
