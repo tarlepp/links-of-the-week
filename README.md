@@ -112,6 +112,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 48
 
  - [C3.js D3-based reusable chart library](https://c3js.org/)
+ - [Using page speed in mobile search ranking](https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html)
 
 ## Authors
 
