@@ -117,6 +117,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 4.2 curated new features](https://symfony.com/blog/symfony-4-2-curated-new-features)
  - [Tweet - Holy hell, Node. A package with 2 million downloads a week and the maintainer hands over control to a rando stranger? And now it's mining cryptocurrency. Wow.](https://twitter.com/kennwhite/status/1067133581435305984)
  - [Rogue Developer Infects Widely Used NodeJS Module to Steal Bitcoins](https://thehackernews.com/2018/11/nodejs-event-stream-module.html)
+ - [NPM dependency hell: comparison with Symfony, Laravel and API Platform](https://dunglas.fr/2018/11/about-the-dependencies-of-symfony/)
 
 ## Authors
 
