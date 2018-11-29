@@ -119,6 +119,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rogue Developer Infects Widely Used NodeJS Module to Steal Bitcoins](https://thehackernews.com/2018/11/nodejs-event-stream-module.html)
  - [NPM dependency hell: comparison with Symfony, Laravel and API Platform](https://dunglas.fr/2018/11/about-the-dependencies-of-symfony/)
  - [Exclusive: The Pentagon’s Massive Accounting Fraud Exposed](https://www.thenation.com/article/pentagon-audit-budget-fraud/)
+ - [NES-style CSS Framework](https://bcrikko.github.io/NES.css/)
 
 ## Authors
 
