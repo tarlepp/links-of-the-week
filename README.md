@@ -123,6 +123,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Certification Preparation List](https://thomasberends.github.io/symfony-certification-preparation-list/)
  - [Meet the newest member of the Symfony family: SymfonyCloud](https://symfony.com/blog/meet-the-newest-member-of-the-symfony-family-symfonycloud)
  - [RFC for 700 HTTP Status Codes](https://github.com/joho/7XX-rfc)
+ - [Spectrum is joining GitHub!](https://spectrum.chat/spectrum/general/spectrum-is-joining-github~1d3eb8ee-4c99-46c0-8daf-ca35a96be6ce)
 
 ## Authors
 
