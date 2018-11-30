@@ -122,6 +122,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [NES-style CSS Framework](https://bcrikko.github.io/NES.css/)
  - [Symfony Certification Preparation List](https://thomasberends.github.io/symfony-certification-preparation-list/)
  - [Meet the newest member of the Symfony family: SymfonyCloud](https://symfony.com/blog/meet-the-newest-member-of-the-symfony-family-symfonycloud)
+ - [RFC for 700 HTTP Status Codes](https://github.com/joho/7XX-rfc)
 
 ## Authors
 
