@@ -125,6 +125,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [RFC for 700 HTTP Status Codes](https://github.com/joho/7XX-rfc)
  - [Spectrum is joining GitHub!](https://spectrum.chat/spectrum/general/spectrum-is-joining-github~1d3eb8ee-4c99-46c0-8daf-ca35a96be6ce)
  - [Juhla Mokka -mainos osa 2](https://www.youtube.com/watch?v=t4E2DdImwI0)
+ - [[Update: Google confirms shut down, denies timeline] 2019 is your last year to use Google Hangouts if you haven’t moved on already](https://9to5google.com/2018/12/01/google-hangouts-shutting-down/)
 
 ## Authors
 
