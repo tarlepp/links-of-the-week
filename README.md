@@ -127,6 +127,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Juhla Mokka -mainos osa 2](https://www.youtube.com/watch?v=t4E2DdImwI0)
  - [[Update: Google confirms shut down, denies timeline] 2019 is your last year to use Google Hangouts if you haven’t moved on already](https://9to5google.com/2018/12/01/google-hangouts-shutting-down/)
  - [10 Bad Habits To Avoid As A Developer](https://medium.com/@traversymedia/10-bad-habits-to-avoid-as-a-developer-64a1677c60fe)
+ - [A Very SLEEPy MySQL Attack](https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7)
 
 ## Authors
 
