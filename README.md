@@ -132,6 +132,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 49
  - [Tweet - Headphone software made by Sennheiser has been installing a root certificate, plus the private key, onto people's computers](https://twitter.com/__agwa/status/1067553630868258816)
+ - [An amazing QEMU disk image every day!](https://www.qemu-advent-calendar.org/2018/)
 
 ## Authors
 
