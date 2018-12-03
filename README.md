@@ -20,6 +20,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 46](#week-46)
      * [Week 47](#week-47)
      * [Week 48](#week-48)
+     * [Week 49](#week-49)
   * [Authors](#authors)
   * [License](#license)
 
@@ -128,6 +129,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [[Update: Google confirms shut down, denies timeline] 2019 is your last year to use Google Hangouts if you haven’t moved on already](https://9to5google.com/2018/12/01/google-hangouts-shutting-down/)
  - [10 Bad Habits To Avoid As A Developer](https://medium.com/@traversymedia/10-bad-habits-to-avoid-as-a-developer-64a1677c60fe)
  - [A Very SLEEPy MySQL Attack](https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7)
+
+### Week 49
+ - [Tweet - Headphone software made by Sennheiser has been installing a root certificate, plus the private key, onto people's computers](https://twitter.com/__agwa/status/1067553630868258816)
 
 ## Authors
 
