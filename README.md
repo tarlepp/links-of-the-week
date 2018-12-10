@@ -21,6 +21,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 47](#week-47)
      * [Week 48](#week-48)
      * [Week 49](#week-49)
+     * [Week 50](#week-50)
   * [Authors](#authors)
   * [License](#license)
 
@@ -131,10 +132,15 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A Very SLEEPy MySQL Attack](https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7)
 
 ### Week 49
+
  - [Tweet - Headphone software made by Sennheiser has been installing a root certificate, plus the private key, onto people's computers](https://twitter.com/__agwa/status/1067553630868258816)
  - [An amazing QEMU disk image every day!](https://www.qemu-advent-calendar.org/2018/)
  - [Tweet - Before #SymfonyCon ends, don't forget to take a picture of you and your colleagues/workmates/friends at the huge wall banner. Lots already did.](https://twitter.com/symfony_en/status/1070954700940423168)
  - [Symfony Local Web Server ... reloaded](https://speakerdeck.com/fabpot/symfony-local-web-server-dot-dot-dot-reloaded)
+
+### Week 50
+
+ - [Why I Still Use Vim](https://medium.com/commitlog/why-i-still-use-vim-67afd76b4db6)
 
 ## Authors
 
