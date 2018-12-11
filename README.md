@@ -143,6 +143,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why I Still Use Vim](https://medium.com/commitlog/why-i-still-use-vim-67afd76b4db6)
  - [What I’ve learnt after starting to work with Symfony and Postgresql?](https://speakerdeck.com/llaakkkk/what-ive-learnt-after-starting-to-work-with-symfony-and-postgresql)
  - [Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm)
+ - [14 Stock Photo Memes That'll Put A Big Fake Smile On Your Face](https://cheezburger.com/7069445/14-stock-photo-memes-thatll-put-a-big-fake-smile-on-your-face)
 
 ## Authors
 
