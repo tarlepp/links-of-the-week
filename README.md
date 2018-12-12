@@ -144,6 +144,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What I’ve learnt after starting to work with Symfony and Postgresql?](https://speakerdeck.com/llaakkkk/what-ive-learnt-after-starting-to-work-with-symfony-and-postgresql)
  - [Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm)
  - [14 Stock Photo Memes That'll Put A Big Fake Smile On Your Face](https://cheezburger.com/7069445/14-stock-photo-memes-thatll-put-a-big-fake-smile-on-your-face)
+ - [PHP was never meant to die](https://blog.spiralscout.com/php-was-never-meant-to-die-830de87915ee)
 
 ## Authors
 
