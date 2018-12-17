@@ -153,6 +153,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [A business model for Symfony](https://symfony.com/blog/a-business-model-for-symfony)
  - [Developer Arguments](http://www.developerarguments.com/)
+ - [Logitech Options users should uninstall immediately after disclosure of very easy to exploit bug](https://www.myce.com/news/85620-85620/)
 
 ## Authors
 
