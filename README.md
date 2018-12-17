@@ -152,6 +152,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 51
 
  - [A business model for Symfony](https://symfony.com/blog/a-business-model-for-symfony)
+ - [Developer Arguments](http://www.developerarguments.com/)
 
 ## Authors
 
