@@ -22,6 +22,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 48](#week-48)
      * [Week 49](#week-49)
      * [Week 50](#week-50)
+     * [Week 51](#week-51)
   * [Authors](#authors)
   * [License](#license)
 
@@ -147,6 +148,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP was never meant to die](https://blog.spiralscout.com/php-was-never-meant-to-die-830de87915ee)
  - [Monolithic repositories vs. Many repositories](https://www.dotconferences.com/2016/05/fabien-potencier-monolithic-repositories-vs-many-repositories)
   - [feature #29168 [Console] Add hyperlinks support (ostrolucky)](https://github.com/symfony/symfony/commit/58b29d6a111230ae61ff628ddd9ffa3f161ebf74)
+  
+### Week 51
+
+ - [A business model for Symfony](https://symfony.com/blog/a-business-model-for-symfony)
 
 ## Authors
 
