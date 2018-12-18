@@ -155,6 +155,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Developer Arguments](http://www.developerarguments.com/)
  - [Logitech Options users should uninstall immediately after disclosure of very easy to exploit bug](https://www.myce.com/news/85620-85620/)
  - [Sale twiittaa kuin Trump](https://twitter.com/SaulitettuTrump)
+ - [Crash Chrome 70 with the SQLite Magellan bug](https://worthdoingbadly.com/sqlitebug/)
 
 ## Authors
 
