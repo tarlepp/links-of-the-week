@@ -157,6 +157,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Sale twiittaa kuin Trump](https://twitter.com/SaulitettuTrump)
  - [Crash Chrome 70 with the SQLite Magellan bug](https://worthdoingbadly.com/sqlitebug/)
  - [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
+ - [Valtava paljastus: Facebook antoi Spotifyn, Netflixin ja venäläisen hakukoneen päästä käyttäjiensä tietoihin - ja lukea käyttäjiensä yksityisviestit](https://fin.afterdawn.com/uutiset/artikkeli.cfm/2018/12/19/facebook-spotifyn-netflix-yandex-yksityisyys)
 
 ## Authors
 
