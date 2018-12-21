@@ -160,6 +160,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Valtava paljastus: Facebook antoi Spotifyn, Netflixin ja venäläisen hakukoneen päästä käyttäjiensä tietoihin - ja lukea käyttäjiensä yksityisviestit](https://fin.afterdawn.com/uutiset/artikkeli.cfm/2018/12/19/facebook-spotifyn-netflix-yandex-yksityisyys)
  - [[meta] Annotations 2.0 (ng)](https://github.com/doctrine/annotations/issues/232)
  - [New in Symfony 4.3: Console Hyperlinks](https://symfony.com/blog/new-in-symfony-4-3-console-hyperlinks)
+ - [PHP The Right Way](https://phptherightway.com/)
 
 ## Authors
 
