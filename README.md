@@ -162,6 +162,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 4.3: Console Hyperlinks](https://symfony.com/blog/new-in-symfony-4-3-console-hyperlinks)
  - [PHP The Right Way](https://phptherightway.com/)
  - [On call during the holidays](http://www.commitstrip.com/en/2018/12/21/on-call-during-the-holidays/)
+ - [New in FixturesBundle: Group your Fixtures](https://symfony.com/blog/new-in-fixturesbundle-group-your-fixtures)
 
 ## Authors
 
