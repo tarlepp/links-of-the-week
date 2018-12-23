@@ -164,6 +164,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [On call during the holidays](http://www.commitstrip.com/en/2018/12/21/on-call-during-the-holidays/)
  - [New in FixturesBundle: Group your Fixtures](https://symfony.com/blog/new-in-fixturesbundle-group-your-fixtures)
  - [Symfony Messenger is here, but your project is on Symfony 3.4, no problem! (part 1)](https://medium.com/@dimitri.gritsajuk/symfony-messenger-is-here-but-your-project-is-on-symfony-3-4-no-problem-part-1-29c453e3d0b6)
+ - [The most advanced Digital Signage Platform for the Raspberry Pi - Open Source Packages, Tools & Example Code](https://github.com/info-beamer)
 
 ## Authors
 
