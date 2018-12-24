@@ -23,6 +23,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 49](#week-49)
      * [Week 50](#week-50)
      * [Week 51](#week-51)
+     * [Week 52](#week-52)
   * [Authors](#authors)
   * [License](#license)
 
@@ -165,6 +166,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in FixturesBundle: Group your Fixtures](https://symfony.com/blog/new-in-fixturesbundle-group-your-fixtures)
  - [Symfony Messenger is here, but your project is on Symfony 3.4, no problem! (part 1)](https://medium.com/@dimitri.gritsajuk/symfony-messenger-is-here-but-your-project-is-on-symfony-3-4-no-problem-part-1-29c453e3d0b6)
  - [The most advanced Digital Signage Platform for the Raspberry Pi - Open Source Packages, Tools & Example Code](https://github.com/info-beamer)
+ 
+### Week 52
+
+ - [Snapshot testing with PHPUnit](https://github.com/spatie/phpunit-snapshot-assertions)
 
 ## Authors
 
