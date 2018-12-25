@@ -172,6 +172,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Snapshot testing with PHPUnit](https://github.com/spatie/phpunit-snapshot-assertions)
  - [Modelling Time - Eric Evans - DDD Europe 2018](https://www.youtube.com/watch?v=T29WzvaPNc8)
  - [The human factor: Pursuing success and averting drift into failure - Sidney Dekker - DDD Europe 2018](https://www.youtube.com/watch?v=9fwJ9xgvu3A)
+ - [Upgrade Your SSH Key to Ed25519](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 
 ## Authors
 
