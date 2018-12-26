@@ -176,6 +176,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Convert RTSP to HLS using FFmpeg](https://medium.com/androvideo/convert-rtsp-to-hls-using-ffmpeg-2fe2cdf3a0de)
  - [React Authentication with Twitter, Google, Facebook and Github](https://codeburst.io/react-authentication-with-twitter-google-facebook-and-github-862d59583105)
  - [Don't Use Entities in Symfony Forms. Use Custom Data Objects Instead](https://blog.martinhujer.cz/symfony-forms-with-request-objects/)
+ - [Star Trek Discovery Lawsuit Reminder | Enjoy the Short Trek](https://www.youtube.com/watch?v=rbWhfeDwEDk)
 
 ## Authors
 
