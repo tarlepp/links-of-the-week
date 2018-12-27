@@ -178,6 +178,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Don't Use Entities in Symfony Forms. Use Custom Data Objects Instead](https://blog.martinhujer.cz/symfony-forms-with-request-objects/)
  - [Star Trek Discovery Lawsuit Reminder | Enjoy the Short Trek](https://www.youtube.com/watch?v=rbWhfeDwEDk)
  - [Jymfony is a Node.js framework for applications and a set of reusable Javascript components](https://github.com/jymfony/jymfony)
+ - [Git quick statistics](https://lukasmestan.com/git-quick-stats/)
 
 ## Authors
 
