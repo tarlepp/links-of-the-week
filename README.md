@@ -180,6 +180,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Jymfony is a Node.js framework for applications and a set of reusable Javascript components](https://github.com/jymfony/jymfony)
  - [Git quick statistics](https://lukasmestan.com/git-quick-stats/)
  - [Tweet - TIL about  "model factories"](https://twitter.com/Ocramius/status/1078617542850240513)
+ - [jq is a lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/)
 
 ## Authors
 
