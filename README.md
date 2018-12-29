@@ -183,6 +183,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [jq is a lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/)
  - [In January, the EU starts running Bug Bounties on Free and Open Source Software](https://juliareda.eu/2018/12/eu-fossa-bug-bounties/)
  - [How to deprecate a type in php](https://dev.to/greg0ire/how-to-deprecate-a-type-in-php-48cf)
+ - [Mailtrap - Safe Email Testing for Development Teams](https://mailtrap.io/)
 
 ## Authors
 
