@@ -185,6 +185,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to deprecate a type in php](https://dev.to/greg0ire/how-to-deprecate-a-type-in-php-48cf)
  - [Mailtrap - Safe Email Testing for Development Teams](https://mailtrap.io/)
  - [How To Speed Up The Code Review](https://sergeyzhuk.me/2018/12/29/code_review/)
+ - [Git Gud](https://greg0ire.fr/git-gud/#/)
 
 ## Authors
 
