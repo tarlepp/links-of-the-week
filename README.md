@@ -195,6 +195,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 1
 
  - [Tweet - WebAssemblyWeekly](https://twitter.com/WasmWeekly/status/1080088478417895424)
+ - [Are you ready? Here is all the data Facebook and Google have on you](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
 
 ## Authors
 
