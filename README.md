@@ -24,6 +24,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 50](#week-50)
      * [Week 51](#week-51)
      * [Week 52](#week-52)
+  * [2019](#2019)
+     * [Week 1](#week-1)
   * [Authors](#authors)
   * [License](#license)
 
@@ -187,6 +189,12 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How To Speed Up The Code Review](https://sergeyzhuk.me/2018/12/29/code_review/)
  - [Git Gud](https://greg0ire.fr/git-gud/#/)
  - [Symfony Messenger Polyfill](https://github.com/Lendable/symfony-messenger-polyfill)
+
+## 2019
+
+### Week 1
+
+ - [Tweet - WebAssemblyWeekly](https://twitter.com/WasmWeekly/status/1080088478417895424)
 
 ## Authors
 
