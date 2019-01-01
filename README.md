@@ -196,6 +196,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Tweet - WebAssemblyWeekly](https://twitter.com/WasmWeekly/status/1080088478417895424)
  - [Are you ready? Here is all the data Facebook and Google have on you](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
+ - [Split Tokens: Token-Based Authentication Protocols without Side-Channels](https://paragonie.com/blog/2017/02/split-tokens-token-based-authentication-protocols-without-side-channels)
 
 ## Authors
 
