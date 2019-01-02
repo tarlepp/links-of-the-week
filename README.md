@@ -198,6 +198,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Are you ready? Here is all the data Facebook and Google have on you](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
  - [Split Tokens: Token-Based Authentication Protocols without Side-Channels](https://paragonie.com/blog/2017/02/split-tokens-token-based-authentication-protocols-without-side-channels)
  - [Halite is a high-level cryptography interface that relies on libsodium for all of its underlying cryptography operations.](https://github.com/paragonie/halite)
+ - [PHPStan Banned Code](https://github.com/ekino/phpstan-banned-code)
 
 ## Authors
 
