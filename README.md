@@ -200,6 +200,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Halite is a high-level cryptography interface that relies on libsodium for all of its underlying cryptography operations.](https://github.com/paragonie/halite)
  - [PHPStan Banned Code](https://github.com/ekino/phpstan-banned-code)
  - [Doctrine Watcher Bundle](https://github.com/bpolaszek/doctrine-watcher-bundle)
+ - [Announcing Psalm v3](https://medium.com/vimeo-engineering-blog/announcing-psalm-v3-76ec78e312ce)
 
 ## Authors
 
