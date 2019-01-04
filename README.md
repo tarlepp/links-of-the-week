@@ -201,6 +201,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHPStan Banned Code](https://github.com/ekino/phpstan-banned-code)
  - [Doctrine Watcher Bundle](https://github.com/bpolaszek/doctrine-watcher-bundle)
  - [Announcing Psalm v3](https://medium.com/vimeo-engineering-blog/announcing-psalm-v3-76ec78e312ce)
+ - [Tweet - The @doctrineproject ORM GitHub repository has been renamed from doctrine/doctrine2 to doctrine/orm](https://twitter.com/Majkl578/status/1080968366079262721)
 
 ## Authors
 
