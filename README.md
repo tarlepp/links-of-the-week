@@ -26,6 +26,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 52](#week-52)
   * [2019](#2019)
      * [Week 1](#week-1)
+     * [Week 2](#week-2)
   * [Authors](#authors)
   * [License](#license)
 
@@ -203,6 +204,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Announcing Psalm v3](https://medium.com/vimeo-engineering-blog/announcing-psalm-v3-76ec78e312ce)
  - [Tweet - The @doctrineproject ORM GitHub repository has been renamed from doctrine/doctrine2 to doctrine/orm](https://twitter.com/Majkl578/status/1080968366079262721)
  - [2990WX Threadripper Performance Regression FIXED on Windows](https://www.youtube.com/watch?v=M2LOMTpCtLA)
+
+### Week 2
+
+ - [On developer happiness and where to find it](https://www.banterly.net/2019/01/06/developer-hapiness-and-where-to-find-it/)
 
 ## Authors
 
