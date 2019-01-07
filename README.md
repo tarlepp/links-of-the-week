@@ -210,6 +210,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [On developer happiness and where to find it](https://www.banterly.net/2019/01/06/developer-hapiness-and-where-to-find-it/)
  - [Artificial Overmind Challenge](https://artificial-overmind.reaktor.com/)
  - [When to declare classes final](https://ocramius.github.io/blog/when-to-declare-classes-final/)
+ - [New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering](https://blog.github.com/2019-01-07-new-year-new-github/)
 
 ## Authors
 
