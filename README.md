@@ -213,6 +213,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering](https://blog.github.com/2019-01-07-new-year-new-github/)
  - [Smile and SensioLabs: the alliance of two market leaders in open-source](https://www.smile.eu/en/sensiolabs)
  - [Pelastetaan Internet](https://www.pelastetaaninternet.fi/)
+ - [Der Päpste - Karjala (Popeda cover "Lihaa ja Perunaa")](https://www.youtube.com/watch?v=pttBgt9mPm8)
 
 ## Authors
 
