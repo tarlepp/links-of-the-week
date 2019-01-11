@@ -217,6 +217,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Add a HIDDEN select column to Doctrine query builder](https://coderwall.com/p/o5snag/add-a-hidden-select-column-to-doctrine-query-builder)
   - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
   - [Top 7: Best PHP Http Client Libraries](https://ourcodeworld.com/articles/read/674/top-7-best-php-http-client-libraries)
+  - [Auditing for Doctrine ORM](https://github.com/API-Skeletons/zf-doctrine-audit)
 
 ## Authors
 
