@@ -219,6 +219,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Top 7: Best PHP Http Client Libraries](https://ourcodeworld.com/articles/read/674/top-7-best-php-http-client-libraries)
   - [Auditing for Doctrine ORM](https://github.com/API-Skeletons/zf-doctrine-audit)
   - [Visualize ORM definitions easily](https://www.pulpo18.com/)
+  - [Anime.js](https://animejs.com/)
 
 ## Authors
 
