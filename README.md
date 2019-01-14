@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2019](#2019)
      * [Week 1](#week-1)
      * [Week 2](#week-2)
+     * [Week 3](#week-3)
   * [Authors](#authors)
   * [License](#license)
 
@@ -221,6 +222,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Visualize ORM definitions easily](https://www.pulpo18.com/)
   - [Anime.js](https://animejs.com/)
   - [SIMH for Minis and Mainframes. Old ( 3b2, PDP, VAX, Eclipse, Nova, Honeywell, HP and more.)](https://hub.docker.com/r/rattydave/alpine-simh/)
+
+### Week 2
+
+ - [Violinist | Automate your composer updates](https://violinist.io/)
 
 ## Authors
 
