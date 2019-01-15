@@ -227,6 +227,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Violinist | Automate your composer updates](https://violinist.io/)
  - [Nixu Challenge 2019](https://thenixuchallenge.com/entry/)
+ - [Top 3 Best JavaScript Frameworks for 2019](https://medium.com/cuelogic-technologies/top-3-best-javascript-frameworks-for-2019-3e6d21eff3d0)
 
 ## Authors
 
