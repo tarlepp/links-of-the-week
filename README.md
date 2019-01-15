@@ -226,6 +226,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 2
 
  - [Violinist | Automate your composer updates](https://violinist.io/)
+ - [Nixu Challenge 2019](https://thenixuchallenge.com/entry/)
 
 ## Authors
 
