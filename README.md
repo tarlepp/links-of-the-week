@@ -232,6 +232,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Slack - Brand Identity](https://www.pentagram.com/work/slack/story)
  - [The 773 Million Record "Collection #1" Data Breach](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/)
  - [Behind The Meme: Hide The Pain Harold](https://www.facebook.com/ladbibleoriginals/videos/1706592876062876/)
+ - [PHP: Use associative arrays basically never](https://steemit.com/php/@crell/php-use-associative-arrays-basically-never)
 
 ## Authors
 
