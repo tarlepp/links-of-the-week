@@ -223,7 +223,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Anime.js](https://animejs.com/)
   - [SIMH for Minis and Mainframes. Old ( 3b2, PDP, VAX, Eclipse, Nova, Honeywell, HP and more.)](https://hub.docker.com/r/rattydave/alpine-simh/)
 
-### Week 2
+### Week 3
 
  - [Violinist | Automate your composer updates](https://violinist.io/)
  - [Nixu Challenge 2019](https://thenixuchallenge.com/entry/)
