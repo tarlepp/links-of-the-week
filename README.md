@@ -235,6 +235,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP: Use associative arrays basically never](https://steemit.com/php/@crell/php-use-associative-arrays-basically-never)
  - [Knowing your state machines - SymfonyCon Lisbon](https://www.slideshare.net/TobiasNyholm/knowing-your-state-machines-symfonycon-lisbon)
  - [Create a custom template for Doctrine Migrations](https://medium.com/@kcmueller/create-a-custom-template-for-doctrine-migrations-24d2b0314376)
+ - [BenTV: Tämä ilmiö ei ole Suomessa uusi](https://www.youtube.com/watch?time_continue=290&v=rSPdcWC8ynQ)
 
 ## Authors
 
