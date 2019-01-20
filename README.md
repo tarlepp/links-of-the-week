@@ -238,6 +238,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [BenTV: Tämä ilmiö ei ole Suomessa uusi](https://www.youtube.com/watch?time_continue=290&v=rSPdcWC8ynQ)
  - [CQRS](https://www.martinfowler.com/bliki/CQRS.html)
  - [Q2VKPT is the first playable game that is entirely raytraced and efficiently simulates fully dynamic lighting in real-time](http://brechpunkt.de/q2vkpt/)
+ - [Tricking Colleagues into Writing Documentation via Contract Testing](https://blog.apisyouwonthate.com/tricking-colleagues-into-writing-documentation-via-contract-testing-206308b47e05)
 
 ## Authors
 
