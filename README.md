@@ -28,6 +28,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 1](#week-1)
      * [Week 2](#week-2)
      * [Week 3](#week-3)
+     * [Week 4](#week-4)
   * [Authors](#authors)
   * [License](#license)
 
@@ -239,6 +240,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [CQRS](https://www.martinfowler.com/bliki/CQRS.html)
  - [Q2VKPT is the first playable game that is entirely raytraced and efficiently simulates fully dynamic lighting in real-time](http://brechpunkt.de/q2vkpt/)
  - [Tricking Colleagues into Writing Documentation via Contract Testing](https://blog.apisyouwonthate.com/tricking-colleagues-into-writing-documentation-via-contract-testing-206308b47e05)
+ 
+### Week 4
+
+ - [Octobox - Untangle your GitHub Notifications](https://octobox.io/)
 
 ## Authors
 
