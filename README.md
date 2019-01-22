@@ -247,6 +247,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Full recorded videos of Web Summer Camp 2018 are now available](https://mailchi.mp/ca05c3324665/watch-full-recorded-workshops-of-web-summer-camp-2018)
  - [Fogger - GDPR friendly database masker](https://github.com/TheSoftwareHouse/fogger)
  - [Doctrine ColumnHydrator](https://gist.github.com/ostrolucky/f9f1e0b271357573fde55b7a2ba91a32)
+ - [retry() - usage of goto explained](https://github.com/igorw/retry/issues/3)
 
 ## Authors
 
