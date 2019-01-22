@@ -244,6 +244,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 4
 
  - [Octobox - Untangle your GitHub Notifications](https://octobox.io/)
+ - [Full recorded videos of Web Summer Camp 2018 are now available](https://mailchi.mp/ca05c3324665/watch-full-recorded-workshops-of-web-summer-camp-2018)
 
 ## Authors
 
