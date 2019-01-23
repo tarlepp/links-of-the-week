@@ -249,6 +249,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine ColumnHydrator](https://gist.github.com/ostrolucky/f9f1e0b271357573fde55b7a2ba91a32)
  - [retry() - usage of goto explained](https://github.com/igorw/retry/issues/3)
  - [Someone Hacked PHP PEAR Site and Replaced the Official Package Manager](https://thehackernews.com/2019/01/php-pear-hacked.html)
+ - [SymfonyCon 2018 Lisbon Conference Videos](https://symfonycasts.com/screencast/symfonycon2018)
 
 ## Authors
 
