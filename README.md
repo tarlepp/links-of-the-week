@@ -250,6 +250,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [retry() - usage of goto explained](https://github.com/igorw/retry/issues/3)
  - [Someone Hacked PHP PEAR Site and Replaced the Official Package Manager](https://thehackernews.com/2019/01/php-pear-hacked.html)
  - [SymfonyCon 2018 Lisbon Conference Videos](https://symfonycasts.com/screencast/symfonycon2018)
+ - [Travis CI joins the Idera family](https://blog.travis-ci.com/2019-01-23-travis-ci-joins-idera-inc)
 
 ## Authors
 
