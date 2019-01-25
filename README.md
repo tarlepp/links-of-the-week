@@ -253,6 +253,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Travis CI joins the Idera family](https://blog.travis-ci.com/2019-01-23-travis-ci-joins-idera-inc)
  - [Tweet - New RFC proposing a replacement for the broken Serializable interface](https://twitter.com/nikita_ppv/status/1088431321276403713)
  - [Fundamentals of “security exploits”](https://docs.google.com/presentation/d/1UipZbo_5dGAsZxFAvOAYtvJwhJ6eVnRrBzY04BKGJDs/edit#slide=id.p)
+ - [How to Kill Parents](https://www.tomasvotruba.cz/blog/2019/01/24/how-to-kill-parents/)
 
 ## Authors
 
