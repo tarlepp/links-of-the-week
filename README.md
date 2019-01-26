@@ -256,6 +256,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to Kill Parents](https://www.tomasvotruba.cz/blog/2019/01/24/how-to-kill-parents/)
  - [HTTP/3: From root to tip](https://blog.cloudflare.com/http-3-from-root-to-tip/)
  - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://nickm.com/trope_tank/10_PRINT_121114.pdf)
+ - [Tweet - @googlechrome 73: Logpoints](https://twitter.com/NetanelBasal/status/1088300399185022977?s=19)
 
 ## Authors
 
