@@ -254,6 +254,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - New RFC proposing a replacement for the broken Serializable interface](https://twitter.com/nikita_ppv/status/1088431321276403713)
  - [Fundamentals of “security exploits”](https://docs.google.com/presentation/d/1UipZbo_5dGAsZxFAvOAYtvJwhJ6eVnRrBzY04BKGJDs/edit#slide=id.p)
  - [How to Kill Parents](https://www.tomasvotruba.cz/blog/2019/01/24/how-to-kill-parents/)
+ - [HTTP/3: From root to tip](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 
 ## Authors
 
