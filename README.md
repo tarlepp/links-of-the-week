@@ -258,6 +258,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://nickm.com/trope_tank/10_PRINT_121114.pdf)
  - [Tweet - @googlechrome 73: Logpoints](https://twitter.com/NetanelBasal/status/1088300399185022977?s=19)
  - [Tweet - Finally all of #PHP's SPL supported by @pchpcompiler!](https://twitter.com/misekjakub/status/1088471499697201153)
+ - [Symfony Code of Conduct Transparency Report 2018](https://symfony.com/blog/symfony-code-of-conduct-transparency-report-2018)
 
 ## Authors
 
