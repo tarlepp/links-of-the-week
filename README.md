@@ -29,7 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 2](#week-2)
      * [Week 3](#week-3)
      * [Week 4](#week-4)
-     * [Week 5](#week_5)
+     * [Week 5](#week-5)
   * [Authors](#authors)
   * [License](#license)
 
