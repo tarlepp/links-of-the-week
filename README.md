@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 2](#week-2)
      * [Week 3](#week-3)
      * [Week 4](#week-4)
+     * [Week 5](#week_5)
   * [Authors](#authors)
   * [License](#license)
 
@@ -259,6 +260,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - @googlechrome 73: Logpoints](https://twitter.com/NetanelBasal/status/1088300399185022977?s=19)
  - [Tweet - Finally all of #PHP's SPL supported by @pchpcompiler!](https://twitter.com/misekjakub/status/1088471499697201153)
  - [Symfony Code of Conduct Transparency Report 2018](https://symfony.com/blog/symfony-code-of-conduct-transparency-report-2018)
+
+### Week 5
+
+ - [Hoivaskandaalin keskellä oleva Esperi kasvaa kovaa ja tekee tappiota – Suomeen ei ole maksettu veroja viime vuosina](https://yle.fi/uutiset/3-10616935)
 
 ## Authors
 
