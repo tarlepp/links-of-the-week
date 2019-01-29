@@ -264,6 +264,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 5
 
  - [Hoivaskandaalin keskellä oleva Esperi kasvaa kovaa ja tekee tappiota – Suomeen ei ole maksettu veroja viime vuosina](https://yle.fi/uutiset/3-10616935)
+ - [Guide : How to provide the best solutions for your PHP & Symfony Projects and Teams?](https://sensiolabs.com/en/ressources/white_papers/guide-how-to-provide-the-best-solutions-for-your-php-symfony-projects-and-teams.html)
 
 ## Authors
 
