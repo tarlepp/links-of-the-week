@@ -266,6 +266,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hoivaskandaalin keskellä oleva Esperi kasvaa kovaa ja tekee tappiota – Suomeen ei ole maksettu veroja viime vuosina](https://yle.fi/uutiset/3-10616935)
  - [Guide : How to provide the best solutions for your PHP & Symfony Projects and Teams?](https://sensiolabs.com/en/ressources/white_papers/guide-how-to-provide-the-best-solutions-for-your-php-symfony-projects-and-teams.html)
  - [I am Fabien Potencier, creator of Symfony (PHP Framework). Ask me anything!](https://hashnode.com/post/i-am-fabien-potencier-creator-of-symfony-php-framework-ask-me-anything-cjrgm6vpu00azufs1ayr4h86m)
+ - [Tweet - Currently there is the idea to move the official #Symfony slack to a new @discordapp](https://twitter.com/mablae/status/1089089545310797824)
 
 ## Authors
 
