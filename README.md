@@ -267,6 +267,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Guide : How to provide the best solutions for your PHP & Symfony Projects and Teams?](https://sensiolabs.com/en/ressources/white_papers/guide-how-to-provide-the-best-solutions-for-your-php-symfony-projects-and-teams.html)
  - [I am Fabien Potencier, creator of Symfony (PHP Framework). Ask me anything!](https://hashnode.com/post/i-am-fabien-potencier-creator-of-symfony-php-framework-ask-me-anything-cjrgm6vpu00azufs1ayr4h86m)
  - [Tweet - Currently there is the idea to move the official #Symfony slack to a new @discordapp](https://twitter.com/mablae/status/1089089545310797824)
+ - [Amiga Music Tracker and Player in JavaScript](https://www.ghacks.net/2019/01/31/amiga-music-tracker-and-player-in-javascript/)
 
 ## Authors
 
