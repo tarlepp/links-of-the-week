@@ -270,6 +270,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Amiga Music Tracker and Player in JavaScript](https://www.ghacks.net/2019/01/31/amiga-music-tracker-and-player-in-javascript/)
  - [Conventional Commits](https://www.conventionalcommits.org)
  - [PHPUnit 8](https://phpunit.de/announcements/phpunit-8.html)
+ - [psalm/plugin-phpunit](https://packagist.org/packages/psalm/plugin-phpunit)
 
 ## Authors
 
