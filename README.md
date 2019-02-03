@@ -271,6 +271,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Conventional Commits](https://www.conventionalcommits.org)
  - [PHPUnit 8](https://phpunit.de/announcements/phpunit-8.html)
  - [psalm/plugin-phpunit](https://packagist.org/packages/psalm/plugin-phpunit)
+ - [Anonimatron](https://github.com/realrolfje/anonimatron)
 
 ## Authors
 
