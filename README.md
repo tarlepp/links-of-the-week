@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 3](#week-3)
      * [Week 4](#week-4)
      * [Week 5](#week-5)
+     * [Week 6](#week-6)
   * [Authors](#authors)
   * [License](#license)
 
@@ -273,6 +274,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [psalm/plugin-phpunit](https://packagist.org/packages/psalm/plugin-phpunit)
  - [Anonimatron](https://github.com/realrolfje/anonimatron)
  - [NoMachine](https://www.nomachine.com/)
+
+### Week 5
+
+ - [Powerful PHP Computer Vision Library](https://phpopencv.org/)
 
 ## Authors
 
