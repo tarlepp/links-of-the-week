@@ -278,6 +278,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 5
 
  - [Powerful PHP Computer Vision Library](https://phpopencv.org/)
+ - [Symlex - A lean framework stack for agile Web development based on Symfony and Vuetify](https://symlex.org/)
 
 ## Authors
 
