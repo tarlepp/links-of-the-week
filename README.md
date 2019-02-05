@@ -289,4 +289,4 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 [The MIT License (MIT)](LICENSE)
 
-Copyright (c) 2018 Tarmo Leppänen
+Copyright (c) 2019 Tarmo Leppänen
