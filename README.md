@@ -280,6 +280,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Powerful PHP Computer Vision Library](https://phpopencv.org/)
  - [Symlex - A lean framework stack for agile Web development based on Symfony and Vuetify](https://symlex.org/)
  - [INPUT™ Fonts for code from DJR & Font Bureau](http://input.fontbureau.com/)
+ - [NPM dependency hell: comparison with Symfony, Laravel and API Platform](https://dunglas.fr/2018/11/about-the-dependencies-of-symfony/)
 
 ## Authors
 
