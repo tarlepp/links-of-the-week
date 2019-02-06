@@ -282,6 +282,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [INPUT™ Fonts for code from DJR & Font Bureau](http://input.fontbureau.com/)
  - [NPM dependency hell: comparison with Symfony, Laravel and API Platform](https://dunglas.fr/2018/11/about-the-dependencies-of-symfony/)
  - [Why and how some people run open source projects](https://www.goetas.com/blog/why-and-how-some-people-run-open-source-projects/)
+ - [Apple just endorsed AT&T’s fake 5G E network](https://www.theverge.com/2019/2/4/18211044/apple-att-5g-e-network-icon-iphones-misleading-ios-software-update-beta)
 
 ## Authors
 
