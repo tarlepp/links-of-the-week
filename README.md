@@ -285,6 +285,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Apple just endorsed AT&T’s fake 5G E network](https://www.theverge.com/2019/2/4/18211044/apple-att-5g-e-network-icon-iphones-misleading-ios-software-update-beta)
  - [What Happened to the 100,000-Hour LED Bulbs?](https://hackaday.com/2019/02/05/what-happened-to-the-100000-hour-led-bulbs/)
  - [Son is Suing Parents Because He Did Not Consent to Being Born](https://www.fatherly.com/news/man-sues-parents-born-without-consent/)
+ - [Emoji Mosaic](https://ericandrewlewis.github.io/emoji-mosaic/)
 
 ## Authors
 
