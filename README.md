@@ -287,6 +287,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Son is Suing Parents Because He Did Not Consent to Being Born](https://www.fatherly.com/news/man-sues-parents-born-without-consent/)
  - [Emoji Mosaic](https://ericandrewlewis.github.io/emoji-mosaic/)
  - [PHP RFC: Annotations 2.0](https://wiki.php.net/rfc/annotations_v2)
+ - [Opera Project](https://opera-project.github.io/)
 
 ## Authors
 
