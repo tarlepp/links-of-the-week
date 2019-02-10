@@ -290,6 +290,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Opera Project](https://opera-project.github.io/)
  - [Moving from Go to PHP again](https://dannyvankooten.com/from-go-back-to-php-again/)
  - [20 Tricks to Appear Smart In Meetings](https://www.sadanduseless.com/work-meeting-lifehacks/)
+ - [Book recommendations for Developers](https://medium.com/@kunicmarko20/book-recommendations-for-developers-11b96ed59d4a)
+ - [Political Correctness Manual 2019 - Things You Can't Say](https://www.youtube.com/watch?v=EYCW73_3JHU)
 
 ## Authors
 
