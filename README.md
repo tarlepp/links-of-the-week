@@ -289,6 +289,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Annotations 2.0](https://wiki.php.net/rfc/annotations_v2)
  - [Opera Project](https://opera-project.github.io/)
  - [Moving from Go to PHP again](https://dannyvankooten.com/from-go-back-to-php-again/)
+ - [20 Tricks to Appear Smart In Meetings](https://www.sadanduseless.com/work-meeting-lifehacks/)
 
 ## Authors
 
