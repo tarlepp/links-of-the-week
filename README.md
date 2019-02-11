@@ -31,6 +31,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 4](#week-4)
      * [Week 5](#week-5)
      * [Week 6](#week-6)
+     * [Week 7](#week-7)
   * [Authors](#authors)
   * [License](#license)
 
@@ -275,7 +276,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Anonimatron](https://github.com/realrolfje/anonimatron)
  - [NoMachine](https://www.nomachine.com/)
 
-### Week 5
+### Week 6
 
  - [Powerful PHP Computer Vision Library](https://phpopencv.org/)
  - [Symlex - A lean framework stack for agile Web development based on Symfony and Vuetify](https://symlex.org/)
@@ -292,6 +293,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [20 Tricks to Appear Smart In Meetings](https://www.sadanduseless.com/work-meeting-lifehacks/)
  - [Book recommendations for Developers](https://medium.com/@kunicmarko20/book-recommendations-for-developers-11b96ed59d4a)
  - [Political Correctness Manual 2019 - Things You Can't Say](https://www.youtube.com/watch?v=EYCW73_3JHU)
+ 
+### Week 7
+
+ - [Tame Behat with the Brand New Symfony Extension](https://kamilkokot.com/tame-behat-with-the-brand-new-symfony-extension/)
 
 ## Authors
 
