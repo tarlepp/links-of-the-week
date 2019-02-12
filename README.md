@@ -297,6 +297,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 7
 
  - [Tame Behat with the Brand New Symfony Extension](https://kamilkokot.com/tame-behat-with-the-brand-new-symfony-extension/)
+ - [Using the Symfony Serializer with Doctrine relations — Part 1](https://medium.com/cloudstek/using-the-symfony-serializer-with-doctrine-relations-69ecb17e6ebd)
 
 ## Authors
 
