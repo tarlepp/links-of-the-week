@@ -298,6 +298,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Tame Behat with the Brand New Symfony Extension](https://kamilkokot.com/tame-behat-with-the-brand-new-symfony-extension/)
  - [Using the Symfony Serializer with Doctrine relations — Part 1](https://medium.com/cloudstek/using-the-symfony-serializer-with-doctrine-relations-69ecb17e6ebd)
+ - [Windows 10 on ARM will run on your Raspberry Pi 3](https://www.techradar.com/uk/news/windows-10-on-arm-will-run-on-your-raspberry-pi-3)
 
 ## Authors
 
