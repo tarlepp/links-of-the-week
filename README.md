@@ -303,6 +303,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Fast Serialization with Liip Serializer](https://www.liip.ch/en/blog/fast-serialization-with-liip-serializer)
  - [To Create An Evolvable API, Stop Thinking About URLs](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
  - [Database as Filesystem](https://www.youtube.com/watch?v=wN6IwNriwHc)
+ - [Tweet - Don't want to commit? Open a draft PR. GitHub ❤️'s your WIP](https://twitter.com/github/status/1096093162345508864)
 
 ## Authors
 
