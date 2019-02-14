@@ -302,6 +302,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHPStan’s Doctrine extension just got a lot better!](https://medium.com/@ondrejmirtes/phpstans-doctrine-extension-just-got-a-lot-better-2e0f5af68723)
  - [Fast Serialization with Liip Serializer](https://www.liip.ch/en/blog/fast-serialization-with-liip-serializer)
  - [To Create An Evolvable API, Stop Thinking About URLs](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
+ - [Database as Filesystem](https://www.youtube.com/watch?v=wN6IwNriwHc)
 
 ## Authors
 
