@@ -305,6 +305,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Database as Filesystem](https://www.youtube.com/watch?v=wN6IwNriwHc)
  - [Tweet - Don't want to commit? Open a draft PR. GitHub ❤️'s your WIP](https://twitter.com/github/status/1096093162345508864)
  - [Your Test Should Verify If The Code Solves The Problem, Not If It Runs 🔊](https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e)
+ - [Symfony 4: request data bundle](https://medium.com/@bilyiv/symfony-4-request-data-bundle-fb512fd382be)
 
 ## Authors
 
