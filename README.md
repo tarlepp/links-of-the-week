@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 5](#week-5)
      * [Week 6](#week-6)
      * [Week 7](#week-7)
+     * [Week 8](#week-8)
   * [Authors](#authors)
   * [License](#license)
 
@@ -307,6 +308,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Your Test Should Verify If The Code Solves The Problem, Not If It Runs 🔊](https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e)
  - [Symfony 4: request data bundle](https://medium.com/@bilyiv/symfony-4-request-data-bundle-fb512fd382be)
  - [Quantum Socket](https://xmunkki.itch.io/quantum-socket)
+
+### Week 7
+
+ - [Introducing the SymfonyInsight Portfolio](https://symfony.com/blog/introducing-the-symfonyinsight-portfolio)
 
 ## Authors
 
