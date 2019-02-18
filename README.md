@@ -312,6 +312,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 7
 
  - [Introducing the SymfonyInsight Portfolio](https://symfony.com/blog/introducing-the-symfonyinsight-portfolio)
+ - [ES2015 Unicode regular expression transpiler](https://mothereff.in/regexpu)
 
 ## Authors
 
