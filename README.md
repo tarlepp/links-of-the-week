@@ -315,6 +315,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [ES2015 Unicode regular expression transpiler](https://mothereff.in/regexpu)
  - [XRegExp provides augmented (and extensible) JavaScript regular expressions.](https://github.com/slevithan/XRegExp)
  - [Hello, .dev!](https://www.blog.google/technology/developers/hello-dev/)
+ - [Powerful implementation of the Specification pattern in PHP](https://github.com/K-Phoen/rulerz)
 
 ## Authors
 
