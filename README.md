@@ -317,6 +317,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hello, .dev!](https://www.blog.google/technology/developers/hello-dev/)
  - [Powerful implementation of the Specification pattern in PHP](https://github.com/K-Phoen/rulerz)
  - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html)
+ - [CERN 2019 WorldWideWeb Rebuild](https://worldwideweb.cern.ch/)
 
 ## Authors
 
