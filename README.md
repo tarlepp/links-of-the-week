@@ -316,6 +316,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [XRegExp provides augmented (and extensible) JavaScript regular expressions.](https://github.com/slevithan/XRegExp)
  - [Hello, .dev!](https://www.blog.google/technology/developers/hello-dev/)
  - [Powerful implementation of the Specification pattern in PHP](https://github.com/K-Phoen/rulerz)
+ - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html)
 
 ## Authors
 
