@@ -319,6 +319,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html)
  - [CERN 2019 WorldWideWeb Rebuild](https://worldwideweb.cern.ch/)
  - [Moving away from magic — or: why I don’t want to use Laravel anymore](https://medium.freecodecamp.org/moving-away-from-magic-or-why-i-dont-want-to-use-laravel-anymore-2ce098c979bd)
+ - [Symfony console autocomplete](https://github.com/bamarni/symfony-console-autocomplete)
 
 ## Authors
 
