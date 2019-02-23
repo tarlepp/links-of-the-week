@@ -323,6 +323,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Your PR was already reviewed, But now it’s time for round 2!](https://twitter.com/github/status/1098688981598842880)
  - [Your website, closer to your code](https://github.dev/)
  - [SymfonyTest](https://github.com/SymfonyTest)
+ - [Here is why vim uses the hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
 
 ## Authors
 
