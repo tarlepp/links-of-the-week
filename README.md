@@ -324,6 +324,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Your website, closer to your code](https://github.dev/)
  - [SymfonyTest](https://github.com/SymfonyTest)
  - [Here is why vim uses the hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
+ - [The rise and fall of the Dungeon Master](https://medium.com/@ziobrando/the-rise-and-fall-of-the-dungeon-master-c2d511eed12f)
 
 ## Authors
 
