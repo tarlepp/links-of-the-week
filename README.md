@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 6](#week-6)
      * [Week 7](#week-7)
      * [Week 8](#week-8)
+     * [Week 9](#week-9)
   * [Authors](#authors)
   * [License](#license)
 
@@ -309,7 +310,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 4: request data bundle](https://medium.com/@bilyiv/symfony-4-request-data-bundle-fb512fd382be)
  - [Quantum Socket](https://xmunkki.itch.io/quantum-socket)
 
-### Week 7
+### Week 8
 
  - [Introducing the SymfonyInsight Portfolio](https://symfony.com/blog/introducing-the-symfonyinsight-portfolio)
  - [ES2015 Unicode regular expression transpiler](https://mothereff.in/regexpu)
@@ -327,6 +328,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The rise and fall of the Dungeon Master](https://medium.com/@ziobrando/the-rise-and-fall-of-the-dungeon-master-c2d511eed12f)
  - [Mobile apps built with Facebook's SDK secretly shovel mountains of personal information into the Zuckermouth](https://boingboing.net/2019/02/23/surveillance-zucksterism.html)
  - [Need cameras? The Nokia 9 PureView has lots](https://techcrunch.com/2019/02/24/need-cameras-the-nokia-9-pureview-has-lots/)
+
+### Week 9
+
+ - [Serializer Component with Symfony](https://mertblog.net/serializer-component-with-symfony/)
 
 ## Authors
 
