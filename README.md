@@ -332,6 +332,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 9
 
  - [Serializer Component with Symfony](https://mertblog.net/serializer-component-with-symfony/)
+ - [TypeScript - Iterators and Generators](https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html)
 
 ## Authors
 
