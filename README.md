@@ -333,6 +333,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Serializer Component with Symfony](https://mertblog.net/serializer-component-with-symfony/)
  - [TypeScript - Iterators and Generators](https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html)
+ - [Tweet - Reminder: I will shut down the HTTP endpoint used by versions < 5 of security-checker](https://twitter.com/fabpot/status/1099994260051582978)
 
 ## Authors
 
