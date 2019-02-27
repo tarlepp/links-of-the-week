@@ -338,6 +338,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Usage of HTTP/2 for websites](https://w3techs.com/technologies/details/ce-http2/all/all)
  - [Rust Platform Support](https://forge.rust-lang.org/platform-support.html)
  - [Safe PHP](https://github.com/thecodingmachine/safe)
+ - [ASCIIFlow Infinity](http://asciiflow.com/)
 
 ## Authors
 
