@@ -339,6 +339,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rust Platform Support](https://forge.rust-lang.org/platform-support.html)
  - [Safe PHP](https://github.com/thecodingmachine/safe)
  - [ASCIIFlow Infinity](http://asciiflow.com/)
+ - [Tweet - Thursday 2pm](https://twitter.com/elonmusk/status/1100646870601220098)
 
 ## Authors
 
