@@ -340,6 +340,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Safe PHP](https://github.com/thecodingmachine/safe)
  - [ASCIIFlow Infinity](http://asciiflow.com/)
  - [Tweet - Thursday 2pm](https://twitter.com/elonmusk/status/1100646870601220098)
+ - [TypeScript Deep Dive](https://github.com/basarat/typescript-book)
 
 ## Authors
 
