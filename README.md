@@ -344,6 +344,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Emails reloaded](https://speakerdeck.com/fabpot/emails-reloaded)
  - [2 new Symfony components: HttpClient and MIME](https://speakerdeck.com/fabpot/2-new-symfony-components-httpclient-and-mime?slide=19)
  - [HTTP/2 is the future of the Web, and it is here!](https://http2.akamai.com/demo)
+ - [Redesigning Github repository page](http://tonsky.me/blog/github-redesign/)
 
 ## Authors
 
