@@ -341,6 +341,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [ASCIIFlow Infinity](http://asciiflow.com/)
  - [Tweet - Thursday 2pm](https://twitter.com/elonmusk/status/1100646870601220098)
  - [TypeScript Deep Dive](https://github.com/basarat/typescript-book)
+ - [Emails reloaded](https://speakerdeck.com/fabpot/emails-reloaded)
  - [2 new Symfony components: HttpClient and MIME](https://speakerdeck.com/fabpot/2-new-symfony-components-httpclient-and-mime?slide=19)
 
 ## Authors
