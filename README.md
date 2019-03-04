@@ -34,6 +34,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 7](#week-7)
      * [Week 8](#week-8)
      * [Week 9](#week-9)
+     * [Week 10](#week-10)
   * [Authors](#authors)
   * [License](#license)
 
@@ -345,6 +346,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [2 new Symfony components: HttpClient and MIME](https://speakerdeck.com/fabpot/2-new-symfony-components-httpclient-and-mime?slide=19)
  - [HTTP/2 is the future of the Web, and it is here!](https://http2.akamai.com/demo)
  - [Redesigning Github repository page](http://tonsky.me/blog/github-redesign/)
+ 
+### Week 10
+
+ - [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 
 ## Authors
 
