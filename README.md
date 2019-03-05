@@ -351,6 +351,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
  - [Announcing Psalm support for Laravel](https://medium.com/@muglug/announcing-psalm-support-for-laravel-8a0fc507e220)
+ - [Tweet - Tired of remembering and typing out "not" queries?](https://twitter.com/github/status/1102979804079415296)
 
 ## Authors
 
