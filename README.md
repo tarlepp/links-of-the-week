@@ -354,6 +354,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - Tired of remembering and typing out "not" queries?](https://twitter.com/github/status/1102979804079415296)
  - [New 'Spoiler' vulnerability in all Intel Core processors exposed by researchers](https://appleinsider.com/articles/19/03/05/new-spoiler-vulnerability-in-all-intel-core-processors-exposed-by-researchers)
  - [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+ - [New in Twig: Namespaced Classes](https://symfony.com/blog/new-in-twig-namespaced-classes)
 
 ## Authors
 
