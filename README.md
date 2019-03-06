@@ -357,6 +357,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Twig: Namespaced Classes](https://symfony.com/blog/new-in-twig-namespaced-classes)
  - [Build intelligent ideas with our platform for local AI](https://coral.withgoogle.com/)
  - [You don’t need standup](https://medium.com/@jsonpify/you-dont-need-standup-9a74782517c1)
+ - [Running Symfony on AWS Lambda](https://skillsmatter.com/skillscasts/13519-running-symfony-on-aws-lambda)
 
 ## Authors
 
