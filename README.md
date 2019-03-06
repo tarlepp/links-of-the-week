@@ -356,6 +356,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
  - [New in Twig: Namespaced Classes](https://symfony.com/blog/new-in-twig-namespaced-classes)
  - [Build intelligent ideas with our platform for local AI](https://coral.withgoogle.com/)
+ - [You don’t need standup](https://medium.com/@jsonpify/you-dont-need-standup-9a74782517c1)
 
 ## Authors
 
