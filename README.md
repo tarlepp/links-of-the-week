@@ -358,6 +358,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Build intelligent ideas with our platform for local AI](https://coral.withgoogle.com/)
  - [You don’t need standup](https://medium.com/@jsonpify/you-dont-need-standup-9a74782517c1)
  - [Running Symfony on AWS Lambda](https://skillsmatter.com/skillscasts/13519-running-symfony-on-aws-lambda)
+ - [Symfony Gets Real-time Push Capabilities!](https://symfony.com/blog/symfony-gets-real-time-push-capabilities)
 
 ## Authors
 
