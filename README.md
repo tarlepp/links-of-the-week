@@ -363,6 +363,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Open Source Guides](https://opensource.guide/)
  - [Open Source status page system - Cachet](https://cachethq.io/)
  - [New in Symfony Flex 1.2](https://symfony.com/blog/new-in-symfony-flex-1-2)
+ - [Contract tests](https://gist.github.com/ciaranmcnulty/a23e90006f2b9338771b7299c362c235)
 
 ## Authors
 
