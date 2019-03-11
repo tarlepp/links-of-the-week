@@ -369,6 +369,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 11
 
  - [Doctrine examples by Marco Pivetta](https://github.com/shittysoft)
+ - [Optimize Composer for Drupal projects](https://github.com/zaporylie/composer-drupal-optimizations)
 
 ## Authors
 
