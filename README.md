@@ -371,6 +371,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine examples by Marco Pivetta](https://github.com/shittysoft)
  - [Optimize Composer for Drupal projects](https://github.com/zaporylie/composer-drupal-optimizations)
  - ["What's the typeof null?", and other confusing JavaScript Types](https://bitsofco.de/javascript-typeof/)
+ - [takeover.sh](https://github.com/marcan/takeover.sh)
 
 ## Authors
 
