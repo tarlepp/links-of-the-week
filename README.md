@@ -373,6 +373,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - ["What's the typeof null?", and other confusing JavaScript Types](https://bitsofco.de/javascript-typeof/)
  - [takeover.sh](https://github.com/marcan/takeover.sh)
  - [NGINX to Join F5: Proud to Finish One Chapter and Excited to Start the Next](https://www.nginx.com/blog/nginx-joins-f5/)
+ - [Introducing: Sentry's Unified PHP SDK](https://blog.sentry.io/2019/03/12/sentry-unified-php-sdk)
 
 ## Authors
 
