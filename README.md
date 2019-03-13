@@ -377,6 +377,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Node.js and JS Foundations Are Merging To Form OpenJS](https://linux.slashdot.org/story/19/03/12/167203/nodejs-and-js-foundations-are-merging-to-form-openjs)
  - [Thanos JS](https://thanosjs.org/)
  - [Scientists Have Reversed Time in a Quantum Computer](https://www.newsweek.com/time-reversed-quantum-computer-1361215)
+ - [Untangling the Forget-Me Knot: Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple)
 
 ## Authors
 
