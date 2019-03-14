@@ -378,6 +378,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Thanos JS](https://thanosjs.org/)
  - [Scientists Have Reversed Time in a Quantum Computer](https://www.newsweek.com/time-reversed-quantum-computer-1361215)
  - [Untangling the Forget-Me Knot: Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple)
+ - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 ## Authors
 
