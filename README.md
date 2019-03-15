@@ -380,6 +380,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Untangling the Forget-Me Knot: Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple)
  - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
  - [Streaming JSON Encoder](https://github.com/violet-php/streaming-json-encoder)
+ - [SAFE](https://safe-stack.github.io/)
 
 ## Authors
 
