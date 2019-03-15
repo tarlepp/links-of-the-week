@@ -382,6 +382,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Streaming JSON Encoder](https://github.com/violet-php/streaming-json-encoder)
  - [SAFE](https://safe-stack.github.io/)
  - [New in Symfony 4.3: Native PHP Serialization for Messenger](https://symfony.com/blog/new-in-symfony-4-3-native-php-serialization-for-messenger)
+ - [DoctrineAuditBundle](https://github.com/DamienHarper/DoctrineAuditBundle)
 
 ## Authors
 
