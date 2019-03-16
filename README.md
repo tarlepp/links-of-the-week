@@ -384,6 +384,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 4.3: Native PHP Serialization for Messenger](https://symfony.com/blog/new-in-symfony-4-3-native-php-serialization-for-messenger)
  - [DoctrineAuditBundle](https://github.com/DamienHarper/DoctrineAuditBundle)
  - [Four Startup Engineering Killers](https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d)
+ - [Symfony HTTP Responder](https://github.com/ro0NL/symfony-http-responder)
 
 ## Authors
 
