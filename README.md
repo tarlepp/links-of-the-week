@@ -387,6 +387,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony HTTP Responder](https://github.com/ro0NL/symfony-http-responder)
  - [Symfony Security: Is Security about User management?](https://wouterj.nl/2019/03/security-removing-user)
  - [Are we web yet?](https://www.arewewebyet.org/)
+ - [Nerd vs Geek](https://www.facebook.com/RhettAndLink/videos/vb.6057751475/10156328454191476/?type=2&theater)
 
 ## Authors
 
