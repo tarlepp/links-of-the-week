@@ -386,6 +386,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Four Startup Engineering Killers](https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d)
  - [Symfony HTTP Responder](https://github.com/ro0NL/symfony-http-responder)
  - [Symfony Security: Is Security about User management?](https://wouterj.nl/2019/03/security-removing-user)
+ - [Are we web yet?](https://www.arewewebyet.org/)
 
 ## Authors
 
