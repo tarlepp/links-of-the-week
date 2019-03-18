@@ -393,6 +393,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 11
 
  - [GitHub Coding Challenge | Codemotion Amsterdam 2019](https://events.codemotion.com/conferences/amsterdam/2019/github-coding-challenge/)
+ - [Dick Dale, godfather of surf guitar, dies aged 81](https://www.theguardian.com/music/2019/mar/17/dick-dale-dies-aged-81-misirlou-pulp-fiction)
 
 ## Authors
 
