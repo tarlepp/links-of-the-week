@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 9](#week-9)
      * [Week 10](#week-10)
      * [Week 11](#week-11)
+     * [Week 12](#week-12)
   * [Authors](#authors)
   * [License](#license)
 
@@ -388,6 +389,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Security: Is Security about User management?](https://wouterj.nl/2019/03/security-removing-user)
  - [Are we web yet?](https://www.arewewebyet.org/)
  - [Nerd vs Geek](https://www.facebook.com/RhettAndLink/videos/vb.6057751475/10156328454191476/?type=2&theater)
+
+### Week 11
+
+ - [GitHub Coding Challenge | Codemotion Amsterdam 2019](https://events.codemotion.com/conferences/amsterdam/2019/github-coding-challenge/)
 
 ## Authors
 
