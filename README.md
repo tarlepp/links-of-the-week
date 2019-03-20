@@ -396,6 +396,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dick Dale, godfather of surf guitar, dies aged 81](https://www.theguardian.com/music/2019/mar/17/dick-dale-dies-aged-81-misirlou-pulp-fiction)
  - [Faster PostgreSQL Counting](https://dzone.com/articles/faster-postgresql-counting)
  - [NVIDIA's $99 Jetson Nano is an AI computer for DIY enthusiasts](https://www.engadget.com/2019/03/18/nvidia-jetson-nano-ai-computer/)
+ - [Understanding Symfony Security by Using it Standalone](https://wouterj.nl/2019/03/understanding-symfony-security-by-using-it-standalone)
 
 ## Authors
 
