@@ -400,6 +400,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Unique Rule SQL Injection Warning](https://blog.laravel.com/unique-rule-sql-injection-warning)
  - [Brexit: EU says delay is possible if MPs back deal](https://www.bbc.com/news/uk-politics-47636011)
  - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
+ - [MySQL CHECK Constraint Emulation](http://www.mysqltutorial.org/mysql-check-constraint/)
 
 ## Authors
 
