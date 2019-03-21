@@ -401,6 +401,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Brexit: EU says delay is possible if MPs back deal](https://www.bbc.com/news/uk-politics-47636011)
  - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
  - [MySQL CHECK Constraint Emulation](http://www.mysqltutorial.org/mysql-check-constraint/)
+ - [Facebook has been storing 'hundreds of millions' of user passwords in plaintext](https://www.theinquirer.net/inquirer/news/3072974/facebook-has-been-storing-hundreds-of-millions-of-user-passwords-in-plaintext)
 
 ## Authors
 
