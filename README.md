@@ -390,7 +390,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Are we web yet?](https://www.arewewebyet.org/)
  - [Nerd vs Geek](https://www.facebook.com/RhettAndLink/videos/vb.6057751475/10156328454191476/?type=2&theater)
 
-### Week 11
+### Week 12
 
  - [GitHub Coding Challenge | Codemotion Amsterdam 2019](https://events.codemotion.com/conferences/amsterdam/2019/github-coding-challenge/)
  - [Dick Dale, godfather of surf guitar, dies aged 81](https://www.theguardian.com/music/2019/mar/17/dick-dale-dies-aged-81-misirlou-pulp-fiction)
