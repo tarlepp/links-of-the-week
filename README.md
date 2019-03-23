@@ -403,6 +403,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [MySQL CHECK Constraint Emulation](http://www.mysqltutorial.org/mysql-check-constraint/)
  - [Facebook has been storing 'hundreds of millions' of user passwords in plaintext](https://www.theinquirer.net/inquirer/news/3072974/facebook-has-been-storing-hundreds-of-millions-of-user-passwords-in-plaintext)
  - [Google might use 7nm Epyc Rome in 2019](https://www.reddit.com/r/Amd/comments/b3occk/google_might_use_7nm_epyc_rome_in_2019/)
+ - [WordPress Ends Support for PHP 5.2 – 5.5, Bumps Minimum Required PHP Version to 5.6](https://wptavern.com/wordpress-ends-support-for-php-5-2-5-5-bumps-minimum-required-php-version-to-5-6)
 
 ## Authors
 
