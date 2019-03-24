@@ -405,6 +405,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Google might use 7nm Epyc Rome in 2019](https://www.reddit.com/r/Amd/comments/b3occk/google_might_use_7nm_epyc_rome_in_2019/)
  - [WordPress Ends Support for PHP 5.2 – 5.5, Bumps Minimum Required PHP Version to 5.6](https://wptavern.com/wordpress-ends-support-for-php-5-2-5-5-bumps-minimum-required-php-version-to-5-6)
  - [Two Years Alone in the Wilderness | Escape the City to Build Off Grid | Log Cabin](https://www.youtube.com/watch?v=AxM9FYSs8V4)
+ - [How to deploy and scale Symfony web applications on Kubernetes](https://itnext.io/scaling-your-symfony-application-and-preparing-it-for-deployment-on-kubernetes-c102bf246a93)
 
 ## Authors
 
