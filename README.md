@@ -407,6 +407,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Two Years Alone in the Wilderness | Escape the City to Build Off Grid | Log Cabin](https://www.youtube.com/watch?v=AxM9FYSs8V4)
  - [How to deploy and scale Symfony web applications on Kubernetes](https://itnext.io/scaling-your-symfony-application-and-preparing-it-for-deployment-on-kubernetes-c102bf246a93)
  - [Responsive Patterns - A collection of patterns and modules for responsive designs.](http://bradfrost.github.io/this-is-responsive/patterns.html)
+ - [Static type checker for the Python language](https://github.com/Microsoft/pyright)
 
 ## Authors
 
