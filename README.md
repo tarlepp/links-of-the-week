@@ -37,6 +37,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 10](#week-10)
      * [Week 11](#week-11)
      * [Week 12](#week-12)
+     * [Week 13](#week-13)
   * [Authors](#authors)
   * [License](#license)
 
@@ -408,6 +409,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to deploy and scale Symfony web applications on Kubernetes](https://itnext.io/scaling-your-symfony-application-and-preparing-it-for-deployment-on-kubernetes-c102bf246a93)
  - [Responsive Patterns - A collection of patterns and modules for responsive designs.](http://bradfrost.github.io/this-is-responsive/patterns.html)
  - [Static type checker for the Python language](https://github.com/Microsoft/pyright)
+
+### Week 13
+
+ - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 
 ## Authors
 
