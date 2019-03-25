@@ -413,6 +413,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
  - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
+ - [Tweet - Released: @doctrineproject collections 1.6.0](https://twitter.com/Ocramius/status/1109884643925475328)
 
 ## Authors
 
