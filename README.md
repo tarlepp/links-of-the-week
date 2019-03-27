@@ -415,6 +415,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
  - [Tweet - Released: @doctrineproject collections 1.6.0](https://twitter.com/Ocramius/status/1109884643925475328)
  - [php-service-bus/performance-comparison](https://github.com/php-service-bus/performance-comparison)
+ - [What We Learned from the Recent Mandrill Outage](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
 
 ## Authors
 
