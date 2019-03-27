@@ -416,6 +416,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - Released: @doctrineproject collections 1.6.0](https://twitter.com/Ocramius/status/1109884643925475328)
  - [php-service-bus/performance-comparison](https://github.com/php-service-bus/performance-comparison)
  - [What We Learned from the Recent Mandrill Outage](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
+ - [Unlocking your €100,000 car is now easier than ever](https://twitter.com/somospostpc/status/1110563865140649986)
 
 ## Authors
 
