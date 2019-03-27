@@ -418,6 +418,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What We Learned from the Recent Mandrill Outage](https://mailchimp.com/what-we-learned-from-the-recent-mandrill-outage/)
  - [Unlocking your €100,000 car is now easier than ever](https://twitter.com/somospostpc/status/1110563865140649986)
  - [How to save Power on your Raspberry Pi](https://learn.pi-supply.com/make/how-to-save-power-on-your-raspberry-pi/)
+ - [My local server with the Symfony binary](https://jolicode.com/blog/my-local-server-with-the-symfony-binary)
 
 ## Authors
 
