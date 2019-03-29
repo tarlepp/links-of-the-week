@@ -421,6 +421,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [My local server with the Symfony binary](https://jolicode.com/blog/my-local-server-with-the-symfony-binary)
  - [Add the Mailer component](https://github.com/symfony/symfony/pull/30741)
  - [Rammstein - Deutschland (Official Video)](https://www.youtube.com/watch?v=NeQM1c-XCDc)
+ - [Boston Dynamics’ latest robot is a mechanical ostrich that loads pallets](https://arstechnica.com/gadgets/2019/03/boston-dynamics-latest-robot-is-a-mechanical-ostrich-that-loads-pallets/)
 
 ## Authors
 
