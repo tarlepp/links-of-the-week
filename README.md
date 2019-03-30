@@ -424,6 +424,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Boston Dynamics’ latest robot is a mechanical ostrich that loads pallets](https://arstechnica.com/gadgets/2019/03/boston-dynamics-latest-robot-is-a-mechanical-ostrich-that-loads-pallets/)
  - [Using WhatsApp for work? Be aware of the risks.](https://www.secapp.fi/en/using-whatsapp-for-work-be-aware-of-the-risks/)
  - [Symfony Mime / Mailer](https://speakerdeck.com/fabpot/mailer)
+ - [Ubiquity - php rapid development framework](https://ubiquity.kobject.net/)
 
 ## Authors
 
