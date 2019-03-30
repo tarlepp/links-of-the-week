@@ -425,6 +425,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using WhatsApp for work? Be aware of the risks.](https://www.secapp.fi/en/using-whatsapp-for-work-be-aware-of-the-risks/)
  - [Symfony Mime / Mailer](https://speakerdeck.com/fabpot/mailer)
  - [Ubiquity - php rapid development framework](https://ubiquity.kobject.net/)
+ - [Overview of the new Symfony HttpClient component and contracts](https://www.reddit.com/r/PHP/comments/b7edcp/overview_of_the_new_symfony_httpclient_component/)
 
 ## Authors
 
