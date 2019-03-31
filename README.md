@@ -426,6 +426,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Mime / Mailer](https://speakerdeck.com/fabpot/mailer)
  - [Ubiquity - php rapid development framework](https://ubiquity.kobject.net/)
  - [Overview of the new Symfony HttpClient component and contracts](https://www.reddit.com/r/PHP/comments/b7edcp/overview_of_the_new_symfony_httpclient_component/)
+ - [Symfony Request Tip](https://blog.radnok.com/posts/symfony-request-tip)
+ - [Serializer Component with Symfony](https://dev.to/_mertsimsek/serializer-component-with-symfony-49l3)
 
 ## Authors
 
