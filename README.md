@@ -433,6 +433,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 14
 
  - [The Difference Between Living in New York and San Francisco](https://thecooperreview.com/difference-between-living-in-new-york-and-san-francisco/)
+ - [New in Symfony 4.3: Automatic validation](https://symfony.com/blog/new-in-symfony-4-3-automatic-validation)
 
 ## Authors
 
