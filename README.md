@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 11](#week-11)
      * [Week 12](#week-12)
      * [Week 13](#week-13)
+     * [Week 14](#week-14)
   * [Authors](#authors)
   * [License](#license)
 
@@ -428,6 +429,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Overview of the new Symfony HttpClient component and contracts](https://www.reddit.com/r/PHP/comments/b7edcp/overview_of_the_new_symfony_httpclient_component/)
  - [Symfony Request Tip](https://blog.radnok.com/posts/symfony-request-tip)
  - [Serializer Component with Symfony](https://dev.to/_mertsimsek/serializer-component-with-symfony-49l3)
+
+### Week 14
+
+ - [The Difference Between Living in New York and San Francisco](https://thecooperreview.com/difference-between-living-in-new-york-and-san-francisco/)
 
 ## Authors
 
