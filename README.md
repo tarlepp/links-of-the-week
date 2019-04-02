@@ -436,6 +436,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 4.3: Automatic validation](https://symfony.com/blog/new-in-symfony-4-3-automatic-validation)
  - [#3 Webinar - Apresentação detalhada do componente Symfony HttpClient](https://www.youtube.com/watch?v=IuR3DD-mO20)
  - [Snapshot testing with PHPUnit](https://github.com/spatie/phpunit-snapshot-assertions)
+ - [Anatomy of a Task](https://locastic.com/blog/anatomy-of-a-task/)
 
 ## Authors
 
