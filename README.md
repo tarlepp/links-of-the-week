@@ -438,6 +438,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Snapshot testing with PHPUnit](https://github.com/spatie/phpunit-snapshot-assertions)
  - [Anatomy of a Task](https://locastic.com/blog/anatomy-of-a-task/)
  - [🐘+🦀+🕸 php-ext-wasm: Migrating from wasmi to Wasmer](https://medium.com/wasmer/php-ext-wasm-migrating-from-wasmi-to-wasmer-4d1014f41c88)
+ - [A technology company has created an electronic badge that can monitor workers’ conversations, posture and even time spent in the toilet. This type of office surveillance raises concerns about workers’ rights and privacy](https://twitter.com/TheEconomist/status/1112778211262332928)
 
 ## Authors
 
