@@ -441,6 +441,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A technology company has created an electronic badge that can monitor workers’ conversations, posture and even time spent in the toilet. This type of office surveillance raises concerns about workers’ rights and privacy](https://twitter.com/TheEconomist/status/1112778211262332928)
  - [New in Symfony 4.3: Configuring services with immutable setters](https://symfony.com/blog/new-in-symfony-4-3-configuring-services-with-immutable-setters)
  - [Rakastettu näyttelijä Lasse Pöysti on kuollut](https://www.ksml.fi/kotimaa/Rakastettu-n%C3%A4yttelij%C3%A4-Lasse-P%C3%B6ysti-on-kuollut/1352187)
+ - [Easy meat & rice stuffed peppers](https://tatyanaseverydayfood.com/recipe-items/easy-stuffed-peppers/)
 
 ## Authors
 
