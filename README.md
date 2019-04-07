@@ -444,6 +444,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Easy meat & rice stuffed peppers](https://tatyanaseverydayfood.com/recipe-items/easy-stuffed-peppers/)
  - [Storing secrets for Symfony applications – some ideas how to approach the topic](https://www.webfactory.de/blog/storing-secrets-for-symfony-applications)
  - [Symfony4 Kubernetes Local Development Environment #2 Looking at Speed Issues](https://medium.com/@wuestkamp/symfony4-kubernetes-local-development-environment-2-looking-at-speed-issues-a61955927e69)
+ - [The Truth About Vaccines](https://medium.com/s/story/the-truth-about-vaccines-ecd99a1e759f)
 
 ## Authors
 
