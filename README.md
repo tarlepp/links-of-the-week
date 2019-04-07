@@ -447,6 +447,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Truth About Vaccines](https://medium.com/s/story/the-truth-about-vaccines-ecd99a1e759f)
  - [Jake Busey Confirms Starship Troopers TV Show Talks with Original Cast](https://tvweb.com/starship-troopers-tv-series-talks-jake-busey/)
  - [[RFC] Symfony Security rework tracking issue](https://github.com/symfony/symfony/issues/30914)
+ - [Tweet - Falcon Heavy’s 27 Merlin engines generate more than 5 million pounds of thrust at liftoff, making it the world’s most powerful operational rocket by a factor of two](https://twitter.com/SpaceX/status/1114932679688900608)
 
 ## Authors
 
