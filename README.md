@@ -442,6 +442,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 4.3: Configuring services with immutable setters](https://symfony.com/blog/new-in-symfony-4-3-configuring-services-with-immutable-setters)
  - [Rakastettu näyttelijä Lasse Pöysti on kuollut](https://www.ksml.fi/kotimaa/Rakastettu-n%C3%A4yttelij%C3%A4-Lasse-P%C3%B6ysti-on-kuollut/1352187)
  - [Easy meat & rice stuffed peppers](https://tatyanaseverydayfood.com/recipe-items/easy-stuffed-peppers/)
+ - [Storing secrets for Symfony applications – some ideas how to approach the topic](https://www.webfactory.de/blog/storing-secrets-for-symfony-applications)
 
 ## Authors
 
