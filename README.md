@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 12](#week-12)
      * [Week 13](#week-13)
      * [Week 14](#week-14)
+     * [Week 15](#week-15)
   * [Authors](#authors)
   * [License](#license)
 
@@ -448,6 +449,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Jake Busey Confirms Starship Troopers TV Show Talks with Original Cast](https://tvweb.com/starship-troopers-tv-series-talks-jake-busey/)
  - [[RFC] Symfony Security rework tracking issue](https://github.com/symfony/symfony/issues/30914)
  - [Tweet - Falcon Heavy’s 27 Merlin engines generate more than 5 million pounds of thrust at liftoff, making it the world’s most powerful operational rocket by a factor of two](https://twitter.com/SpaceX/status/1114932679688900608)
+
+### Week 15
+
+ - [‘Veggie discs’ to replace veggie burgers in EU crackdown on food labels](https://www.theguardian.com/food/2019/apr/04/eu-to-ban-non-meat-product-labels-veggie-burgers-and-vegan-steaks)
 
 ## Authors
 
