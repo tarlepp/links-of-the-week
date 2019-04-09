@@ -458,6 +458,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What to expect in the new Microsoft Edge Insider Channels](https://blogs.windows.com/msedgedev/2019/04/08/microsoft-edge-preview-channel-details/)
  - [Union Types vs. Intersection Types](https://medium.com/@ondrejmirtes/union-types-vs-intersection-types-fd44a8eacbb)
  - [Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
+ - [Jaguar Land Rover begins Brexit-linked UK plant shutdowns](https://www.reuters.com/article/us-britain-eu-jaguarlandrover/jaguar-land-rover-begins-brexit-linked-uk-plant-shutdowns-idUSKCN1RK11J)
 
 ## Authors
 
