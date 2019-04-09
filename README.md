@@ -456,6 +456,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [🤖 A bot that comments on PRs that try to disable certain eslint rules](https://github.com/koddsson/eslint-disable-probot)
  - [You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
  - [What to expect in the new Microsoft Edge Insider Channels](https://blogs.windows.com/msedgedev/2019/04/08/microsoft-edge-preview-channel-details/)
+ - [Union Types vs. Intersection Types](https://medium.com/@ondrejmirtes/union-types-vs-intersection-types-fd44a8eacbb)
 
 ## Authors
 
