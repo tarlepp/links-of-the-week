@@ -454,6 +454,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [‘Veggie discs’ to replace veggie burgers in EU crackdown on food labels](https://www.theguardian.com/food/2019/apr/04/eu-to-ban-non-meat-product-labels-veggie-burgers-and-vegan-steaks)
  - [🤖 A bot that comments on PRs that try to disable certain eslint rules](https://github.com/koddsson/eslint-disable-probot)
+ - [You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
 
 ## Authors
 
