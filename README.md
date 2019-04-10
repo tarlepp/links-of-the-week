@@ -460,6 +460,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)
  - [Jaguar Land Rover begins Brexit-linked UK plant shutdowns](https://www.reuters.com/article/us-britain-eu-jaguarlandrover/jaguar-land-rover-begins-brexit-linked-uk-plant-shutdowns-idUSKCN1RK11J)
  - [New API version](http://www.commitstrip.com/en/2019/04/10/new-api-version/)
+ - [Feelreal - The World's First Multisensory VR Mask](https://www.kickstarter.com/projects/feelreal/feelreal/)
 
 ## Authors
 
