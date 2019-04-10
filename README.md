@@ -461,6 +461,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Jaguar Land Rover begins Brexit-linked UK plant shutdowns](https://www.reuters.com/article/us-britain-eu-jaguarlandrover/jaguar-land-rover-begins-brexit-linked-uk-plant-shutdowns-idUSKCN1RK11J)
  - [New API version](http://www.commitstrip.com/en/2019/04/10/new-api-version/)
  - [Feelreal - The World's First Multisensory VR Mask](https://www.kickstarter.com/projects/feelreal/feelreal/)
+ - [Weird Al explains "Smell-O-Vision"](https://www.youtube.com/watch?v=jlD6ST_BrG4)
 
 ## Authors
 
