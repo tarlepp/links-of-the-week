@@ -462,6 +462,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New API version](http://www.commitstrip.com/en/2019/04/10/new-api-version/)
  - [Feelreal - The World's First Multisensory VR Mask](https://www.kickstarter.com/projects/feelreal/feelreal/)
  - [Weird Al explains "Smell-O-Vision"](https://www.youtube.com/watch?v=jlD6ST_BrG4)
+ - [Can you spot the vulnerability? #PHP #coding #codechallenge](https://twitter.com/ripstech/status/1114181397470531584)
 
 ## Authors
 
