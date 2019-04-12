@@ -464,6 +464,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Weird Al explains "Smell-O-Vision"](https://www.youtube.com/watch?v=jlD6ST_BrG4)
  - [Can you spot the vulnerability? #PHP #coding #codechallenge](https://twitter.com/ripstech/status/1114181397470531584)
  - [European Commission raises bounty awards to challenge developers](https://joinup.ec.europa.eu/news/ready-challenge)
+ - [NaN Gates and Flip FLOPS](https://www.youtube.com/watch?v=5TFDG-y-EHs)
 
 ## Authors
 
