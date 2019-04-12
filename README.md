@@ -466,6 +466,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [European Commission raises bounty awards to challenge developers](https://joinup.ec.europa.eu/news/ready-challenge)
  - [NaN Gates and Flip FLOPS](https://www.youtube.com/watch?v=5TFDG-y-EHs)
  - [Rector - Automated Way to Instantly Upgrade and Refactor any PHP code](https://getrector.org/)
+ - [First EU-FOSSA Hackathon about security, PHP, Symfony and API Platform](https://not-a-number.io/2019/eufossa-hackathon-security-php-symfony)
 
 ## Authors
 
