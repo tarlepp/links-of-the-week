@@ -468,6 +468,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rector - Automated Way to Instantly Upgrade and Refactor any PHP code](https://getrector.org/)
  - [First EU-FOSSA Hackathon about security, PHP, Symfony and API Platform](https://not-a-number.io/2019/eufossa-hackathon-security-php-symfony)
  - [Shepherd](https://shepherd.dev/)
+ - [Drupal 8 successes and failures](https://www.jeffgeerling.com/blog/2019/drupal-8-successes-and-failures)
 
 ## Authors
 
