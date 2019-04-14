@@ -472,6 +472,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Cloud Engineering on GCP as a Symfony Developer](https://medium.com/@ClementGautier/cloud-engineering-on-gcp-as-a-symfony-developer-bd08ce5e5979)
  - [Containerizing a Symfony application](https://itnext.io/containerizing-a-symfony-application-14d03f9c0b18)
  - [Say good bye to endless Symfony classes!](https://medium.com/@mathias.arlaud/symbok-dbc77f1d8ff8)
+ - [Is Zend Dead? Is Laravel Losing Breath? Trends of PHP Frameworks in Numbers](https://www.tomasvotruba.cz/blog/2019/04/11/trends-of-php-frameworks-in-numbers/)
 
 ## Authors
 
