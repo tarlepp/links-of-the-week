@@ -470,6 +470,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Shepherd](https://shepherd.dev/)
  - [Drupal 8 successes and failures](https://www.jeffgeerling.com/blog/2019/drupal-8-successes-and-failures)
  - [Cloud Engineering on GCP as a Symfony Developer](https://medium.com/@ClementGautier/cloud-engineering-on-gcp-as-a-symfony-developer-bd08ce5e5979)
+ - [Containerizing a Symfony application](https://itnext.io/containerizing-a-symfony-application-14d03f9c0b18)
 
 ## Authors
 
