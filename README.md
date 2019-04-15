@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 13](#week-13)
      * [Week 14](#week-14)
      * [Week 15](#week-15)
+     * [Week 16](#week-16)
   * [Authors](#authors)
   * [License](#license)
 
@@ -473,6 +474,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Containerizing a Symfony application](https://itnext.io/containerizing-a-symfony-application-14d03f9c0b18)
  - [Say good bye to endless Symfony classes!](https://medium.com/@mathias.arlaud/symbok-dbc77f1d8ff8)
  - [Is Zend Dead? Is Laravel Losing Breath? Trends of PHP Frameworks in Numbers](https://www.tomasvotruba.cz/blog/2019/04/11/trends-of-php-frameworks-in-numbers/)
+
+### Week 16
+
+ - [New in Symfony 4.3: Workflow improvements](https://symfony.com/blog/new-in-symfony-4-3-workflow-improvements)
 
 ## Authors
 
