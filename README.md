@@ -479,6 +479,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [New in Symfony 4.3: Workflow improvements](https://symfony.com/blog/new-in-symfony-4-3-workflow-improvements)
  - [Notre-Dame cathedral in Paris on fire (PHOTO, VIDEO)](https://www.rt.com/news/456608-notre-dame-cathedral-fire-paris/)
+ - [Introducing Gitpod – Frictionless Coding on GitHub](https://www.gitpod.io/blog/gitpod-launch/)
 
 ## Authors
 
