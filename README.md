@@ -481,6 +481,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Notre-Dame cathedral in Paris on fire (PHOTO, VIDEO)](https://www.rt.com/news/456608-notre-dame-cathedral-fire-paris/)
  - [Introducing Gitpod – Frictionless Coding on GitHub](https://www.gitpod.io/blog/gitpod-launch/)
  - [Harold Meme Swimsuit](https://jagy.ca/products/harold-meme-swimsuit)
+ - [Tweet: Today I was kicked from...](https://twitter.com/Majkl578/status/1118249950725451778)
 
 ## Authors
 
