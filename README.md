@@ -482,6 +482,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing Gitpod – Frictionless Coding on GitHub](https://www.gitpod.io/blog/gitpod-launch/)
  - [Harold Meme Swimsuit](https://jagy.ca/products/harold-meme-swimsuit)
  - [Tweet: Today I was kicked from...](https://twitter.com/Majkl578/status/1118249950725451778)
+ - [Quality Processes - The Case of Symfony](https://speakerdeck.com/nicolasgrekas/quality-processes-the-case-of-symfony)
 
 ## Authors
 
