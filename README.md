@@ -484,6 +484,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet: Today I was kicked from...](https://twitter.com/Majkl578/status/1118249950725451778)
  - [Quality Processes - The Case of Symfony](https://speakerdeck.com/nicolasgrekas/quality-processes-the-case-of-symfony)
  - [Tweet - Linux Foundation to lead the next phase of growth for #ZendFramework](https://twitter.com/zfdevteam/status/1118514727955644416)
+ - [Fluent 1.0: a localization system for natural-sounding translations](https://hacks.mozilla.org/2019/04/fluent-1-0-a-localization-system-for-natural-sounding-translations/)
 
 ## Authors
 
