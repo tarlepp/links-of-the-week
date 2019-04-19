@@ -486,6 +486,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - Linux Foundation to lead the next phase of growth for #ZendFramework](https://twitter.com/zfdevteam/status/1118514727955644416)
  - [Fluent 1.0: a localization system for natural-sounding translations](https://hacks.mozilla.org/2019/04/fluent-1-0-a-localization-system-for-natural-sounding-translations/)
  - [Tekata - Teamwork evolved](https://tekata.io/)
+ - [Introducing the official Flysystem bundle](https://titouangalopin.com/introducing-the-official-flysystem-bundle/)
 
 ## Authors
 
