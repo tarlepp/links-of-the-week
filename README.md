@@ -489,6 +489,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Implement a "Read in your language" link with Symfony](https://www.strangebuzz.com/en/blog/implement-a-read-in-your-language-link-with-symfony)
  - [Introducing the official Flysystem bundle](https://titouangalopin.com/introducing-the-official-flysystem-bundle/)
  - [GitLab CI/CD for GitHub](https://about.gitlab.com/solutions/github/)
+ - [Weird PHP bug](https://3v4l.org/V6088)
 
 ## Authors
 
