@@ -495,6 +495,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How PHP Environment Variables Actually work](https://mattallan.me/posts/how-php-environment-variables-actually-work/)
  - [Intercept insert and do upsert instead using Postgres trigger](https://medium.com/@tylercubell/intercept-insert-and-do-upsert-instead-using-postgres-trigger-67d029f7f05c)
  - [Tweet - We've opened the nominations!](https://twitter.com/phpfig/status/1115208284586356736)
+ - [Continuously Build, Test, and Deploy with Symfony on Google Cloud](https://dev.to/_mertsimsek/continuously-build-test-and-deploy-with-symfony-on-google-cloud-5a6i)
 
 ## Authors
 
