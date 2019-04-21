@@ -493,6 +493,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Drones and Robots that Helped Save Notre Dame](https://hackaday.com/2019/04/17/the-drones-and-robots-that-helped-save-notre-dame/)
  - [PHP UK Conference 2019](https://www.youtube.com/playlist?list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f)
  - [How PHP Environment Variables Actually work](https://mattallan.me/posts/how-php-environment-variables-actually-work/)
+ - [Intercept insert and do upsert instead using Postgres trigger](https://medium.com/@tylercubell/intercept-insert-and-do-upsert-instead-using-postgres-trigger-67d029f7f05c)
 
 ## Authors
 
