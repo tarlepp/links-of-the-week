@@ -490,6 +490,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing the official Flysystem bundle](https://titouangalopin.com/introducing-the-official-flysystem-bundle/)
  - [GitLab CI/CD for GitHub](https://about.gitlab.com/solutions/github/)
  - [Weird PHP bug](https://3v4l.org/V6088)
+ - [The Drones and Robots that Helped Save Notre Dame](https://hackaday.com/2019/04/17/the-drones-and-robots-that-helped-save-notre-dame/)
 
 ## Authors
 
