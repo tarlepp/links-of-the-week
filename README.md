@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 14](#week-14)
      * [Week 15](#week-15)
      * [Week 16](#week-16)
+     * [Week 17](#week-17)
   * [Authors](#authors)
   * [License](#license)
 
@@ -496,6 +497,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Intercept insert and do upsert instead using Postgres trigger](https://medium.com/@tylercubell/intercept-insert-and-do-upsert-instead-using-postgres-trigger-67d029f7f05c)
  - [Tweet - We've opened the nominations!](https://twitter.com/phpfig/status/1115208284586356736)
  - [Continuously Build, Test, and Deploy with Symfony on Google Cloud](https://dev.to/_mertsimsek/continuously-build-test-and-deploy-with-symfony-on-google-cloud-5a6i)
+
+### Week 17
+
+ - [Unmasked: What 10 million passwords reveal about the people who choose them](https://wpengine.com/unmasked/)
 
 ## Authors
 
