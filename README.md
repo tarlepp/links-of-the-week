@@ -503,6 +503,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Unmasked: What 10 million passwords reveal about the people who choose them](https://wpengine.com/unmasked/)
  - [Symfony4 Kubernetes Local Development Environment #3 Ksync](https://medium.com/@wuestkamp/symfony4-kubernetes-local-development-environment-3-ksync-510deb161da3)
  - [Fixtures, the right gestures](https://blog.theodo.fr/2019/04/fixtures-right-gestures/)
+ - [Tweet - A file's first commit can determine its code-quality destiny](https://twitter.com/alexander_bird/status/1117919091497623553)
 
 ## Authors
 
