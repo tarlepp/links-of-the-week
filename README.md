@@ -506,6 +506,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - A file's first commit can determine its code-quality destiny](https://twitter.com/alexander_bird/status/1117919091497623553)
  - [Accenture sued over website redesign so bad it Hertz: Car hire biz demands $32m+ for 'defective' cyber-revamp](https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/)
  - [The Longest-Range Electric Vehicle Now Goes Even Farther](https://www.tesla.com/da_DK/blog/longest-range-electric-vehicle-now-goes-even-farther)
+ - [PHP RFC: Deprecate left-associative ternary operator](https://wiki.php.net/rfc/ternary_associativity)
 
 ## Authors
 
