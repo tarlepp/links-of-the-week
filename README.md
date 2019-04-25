@@ -508,6 +508,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Longest-Range Electric Vehicle Now Goes Even Farther](https://www.tesla.com/da_DK/blog/longest-range-electric-vehicle-now-goes-even-farther)
  - [PHP RFC: Deprecate left-associative ternary operator](https://wiki.php.net/rfc/ternary_associativity)
  - [Tweet - Bye Apache, won't miss you.](https://twitter.com/Majkl578/status/1121133642712014850)
+ - [A PHP Compiler, aka The FFI Rabbit Hole](https://blog.ircmaxell.com/2019/04/compilers-ffi.html)
 
 ## Authors
 
