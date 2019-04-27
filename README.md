@@ -514,6 +514,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Language-agnostic HTTP API Testing Tool](https://github.com/apiaryio/dredd)
  - [FusionAuth](https://fusionauth.io/)
  - [CodeSandbox](https://codesandbox.io/)
+ - [Avengers Endgame Trailer – Developer edition [No spoilers]](http://www.commitstrip.com/en/2019/04/26/avengers-endgame-trailer-developer-edition-no-spoilers/)
 
 ## Authors
 
