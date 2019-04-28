@@ -515,6 +515,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [FusionAuth](https://fusionauth.io/)
  - [CodeSandbox](https://codesandbox.io/)
  - [Avengers Endgame Trailer – Developer edition [No spoilers]](http://www.commitstrip.com/en/2019/04/26/avengers-endgame-trailer-developer-edition-no-spoilers/)
+ - [Ratchet WebSockets for PHP](http://socketo.me/)
 
 ## Authors
 
