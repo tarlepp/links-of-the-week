@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 15](#week-15)
      * [Week 16](#week-16)
      * [Week 17](#week-17)
+     * [Week 18](#week-18)
   * [Authors](#authors)
   * [License](#license)
 
@@ -516,6 +517,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [CodeSandbox](https://codesandbox.io/)
  - [Avengers Endgame Trailer – Developer edition [No spoilers]](http://www.commitstrip.com/en/2019/04/26/avengers-endgame-trailer-developer-edition-no-spoilers/)
  - [Ratchet WebSockets for PHP](http://socketo.me/)
+
+### Week 18
+
+ - [GSM VoIP Gateway with Chan_dongle](http://www.raspberry-asterisk.org/documentation/gsm-voip-gateway-with-chan_dongle/)
 
 ## Authors
 
