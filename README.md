@@ -522,6 +522,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [GSM VoIP Gateway with Chan_dongle](http://www.raspberry-asterisk.org/documentation/gsm-voip-gateway-with-chan_dongle/)
  - [Something you probably didn't know HTML/CSS could do. SUPER useful!](https://twitter.com/calebporzio/status/1122924167769264130)
+ - [Alustatalouden haasteet ja epäkohdat](https://areena.yle.fi/1-50138481)
 
 ## Authors
 
