@@ -525,6 +525,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Alustatalouden haasteet ja epäkohdat](https://areena.yle.fi/1-50138481)
  - [Store translation messages in database in Symfony](https://medium.com/@andrew72ru/store-translation-messages-in-database-in-symfony-3f12e579df74)
  - [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/)
+ - [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.org/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81)
 
 ## Authors
 
