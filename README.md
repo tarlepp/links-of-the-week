@@ -524,6 +524,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Something you probably didn't know HTML/CSS could do. SUPER useful!](https://twitter.com/calebporzio/status/1122924167769264130)
  - [Alustatalouden haasteet ja epäkohdat](https://areena.yle.fi/1-50138481)
  - [Store translation messages in database in Symfony](https://medium.com/@andrew72ru/store-translation-messages-in-database-in-symfony-3f12e579df74)
+ - [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ## Authors
 
