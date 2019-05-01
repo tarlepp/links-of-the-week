@@ -527,6 +527,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/)
  - [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.org/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81)
  - [Mattermost](https://mattermost.com/)
+ - [Copy code from symfony.com examples](https://symfony.com/blog/copy-code-from-symfony-com-examples)
 
 ## Authors
 
