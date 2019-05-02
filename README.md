@@ -529,6 +529,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Mattermost](https://mattermost.com/)
  - [Copy code from symfony.com examples](https://symfony.com/blog/copy-code-from-symfony-com-examples)
  - [PHP RFC: Arrow Functions 2.0](https://wiki.php.net/rfc/arrow_functions_v2)
+ - [Poem Portraits](https://artsexperiments.withgoogle.com/poemportraits)
 
 ## Authors
 
