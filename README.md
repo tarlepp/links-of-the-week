@@ -531,6 +531,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Arrow Functions 2.0](https://wiki.php.net/rfc/arrow_functions_v2)
  - [Poem Portraits](https://artsexperiments.withgoogle.com/poemportraits)
  - [Hashids - generate short unique ids from integers](https://hashids.org/)
+ - [Pointer Pointer](https://pointerpointer.com/)
 
 ## Authors
 
