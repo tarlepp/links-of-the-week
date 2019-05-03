@@ -532,6 +532,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Poem Portraits](https://artsexperiments.withgoogle.com/poemportraits)
  - [Hashids - generate short unique ids from integers](https://hashids.org/)
  - [Pointer Pointer](https://pointerpointer.com/)
+ - [Terminal Tips](https://gist.github.com/supercid/1be22a2f5ecd93ea1ce7112aaf929fb8)
 
 ## Authors
 
