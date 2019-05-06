@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 16](#week-16)
      * [Week 17](#week-17)
      * [Week 18](#week-18)
+     * [Week 19](#week-19)
   * [Authors](#authors)
   * [License](#license)
 
@@ -535,6 +536,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Terminal Tips](https://gist.github.com/supercid/1be22a2f5ecd93ea1ce7112aaf929fb8)
  - [NASA Investigation Uncovers Cause of Two Science Mission Launch Failures](https://www.nasa.gov/press-release/nasa-investigation-uncovers-cause-of-two-science-mission-launch-failures)
  - [Let’s Stop Building APIs Around a Network Hack](https://blog.apisyouwonthate.com/lets-stop-building-apis-around-a-network-hack-9a68f7e83dd2)
+
+### Week 18
+
+ - [A startup’s codebase](http://www.commitstrip.com/en/2019/05/03/a-startups-codebase/)
 
 ## Authors
 
