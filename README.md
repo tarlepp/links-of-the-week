@@ -543,6 +543,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
  - [roave/you-are-using-it-wrong](https://github.com/Roave/you-are-using-it-wrong)
  - [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf)
+ - [The new Windows Terminal](https://www.youtube.com/watch?v=8gw0rXPMMPE)
 
 ## Authors
 
