@@ -542,6 +542,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A startup’s codebase](http://www.commitstrip.com/en/2019/05/03/a-startups-codebase/)
  - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
  - [roave/you-are-using-it-wrong](https://github.com/Roave/you-are-using-it-wrong)
+ - [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf)
 
 ## Authors
 
