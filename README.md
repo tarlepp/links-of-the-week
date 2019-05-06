@@ -540,6 +540,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 18
 
  - [A startup’s codebase](http://www.commitstrip.com/en/2019/05/03/a-startups-codebase/)
+ - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
 
 ## Authors
 
