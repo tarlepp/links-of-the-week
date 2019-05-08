@@ -537,13 +537,14 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [NASA Investigation Uncovers Cause of Two Science Mission Launch Failures](https://www.nasa.gov/press-release/nasa-investigation-uncovers-cause-of-two-science-mission-launch-failures)
  - [Let’s Stop Building APIs Around a Network Hack](https://blog.apisyouwonthate.com/lets-stop-building-apis-around-a-network-hack-9a68f7e83dd2)
 
-### Week 18
+### Week 19
 
  - [A startup’s codebase](http://www.commitstrip.com/en/2019/05/03/a-startups-codebase/)
  - [Decoupling your application User entity from Symfony’s security](https://medium.com/@simshaun/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
  - [roave/you-are-using-it-wrong](https://github.com/Roave/you-are-using-it-wrong)
  - [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf)
  - [The new Windows Terminal](https://www.youtube.com/watch?v=8gw0rXPMMPE)
+ - [Comparing Data At-Rest Encryption Features for MariaDB, MySQL and Percona Server for MySQL](https://www.percona.com/blog/2018/08/23/comparing-data-at-rest-encryption-features-for-mariadb-mysql-and-percona-server-for-mysql/)
 
 ## Authors
 
