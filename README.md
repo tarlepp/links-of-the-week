@@ -547,6 +547,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Comparing Data At-Rest Encryption Features for MariaDB, MySQL and Percona Server for MySQL](https://www.percona.com/blog/2018/08/23/comparing-data-at-rest-encryption-features-for-mariadb-mysql-and-percona-server-for-mysql/)
  - [Tweet - For the many people who requested it, you’ll be happy to know that you now receive notifications when people comment on your gists](https://twitter.com/natfriedman/status/1126122115189493765)
  - [GrumPHP](https://github.com/phpro/grumphp)
+ - [PHPLint](https://github.com/overtrue/phplint)
 
 ## Authors
 
