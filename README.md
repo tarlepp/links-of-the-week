@@ -548,6 +548,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - For the many people who requested it, you’ll be happy to know that you now receive notifications when people comment on your gists](https://twitter.com/natfriedman/status/1126122115189493765)
  - [GrumPHP](https://github.com/phpro/grumphp)
  - [PHPLint](https://github.com/overtrue/phplint)
+ - [Chrome extension and Express server that exploits keylogging abilities of CSS.](https://github.com/maxchehab/CSS-Keylogging)
 
 ## Authors
 
