@@ -549,6 +549,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GrumPHP](https://github.com/phpro/grumphp)
  - [PHPLint](https://github.com/overtrue/phplint)
  - [Chrome extension and Express server that exploits keylogging abilities of CSS.](https://github.com/maxchehab/CSS-Keylogging)
+ - [India Did Major Damage to a New $3 Billion Submarine By Leaving a Hatch Open](https://nationalinterest.org/blog/buzz/india-did-major-damage-new-3-billion-submarine-leaving-hatch-open-52292)
 
 ## Authors
 
