@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 17](#week-17)
      * [Week 18](#week-18)
      * [Week 19](#week-19)
+     * [Week 20](#week-20)
   * [Authors](#authors)
   * [License](#license)
 
@@ -554,6 +555,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GitHub Package Registry](https://github.com/features/package-registry/)
  - [Liquid Death - Hey Kids, Murder Your Thirst](https://www.youtube.com/watch?time_continue=51&v=jYkKBXqqunE)
  - [Frightened children shown horror film instead of Detective Pikachu in cinema mix up](https://www.radiotimes.com/news/film/2019-05-12/detective-pikachu-children-horror-film-cinema-montreal/)
+
+### Week 20
+
+ - [Red Hat Introduces the Industry’s First Kubernetes-Native Integrated Developer Environment with Red Hat CodeReady Workspaces](https://www.redhat.com/en/about/press-releases/red-hat-introduces-industrys-first-kubernetes-native-integrated-developer-environment-red-hat-codeready-workspaces)
 
 ## Authors
 
