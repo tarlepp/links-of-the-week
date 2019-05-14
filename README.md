@@ -562,6 +562,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP ETL (Extract / Transform / Load) library with SOLID principles + almost no dependency](https://github.com/bpolaszek/bentools-etl)
  - [Why test POJOs?](https://dev.to/scottshipp/why-test-pojos-1lfb)
  - [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
+ - [EU-FOSSA held its first hackathon with PHP Symfony community on 6-7 April](https://www.youtube.com/watch?v=oPCeDAD9sjk&feature=youtu.be)
 
 ## Authors
 
