@@ -561,6 +561,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Red Hat Introduces the Industry’s First Kubernetes-Native Integrated Developer Environment with Red Hat CodeReady Workspaces](https://www.redhat.com/en/about/press-releases/red-hat-introduces-industrys-first-kubernetes-native-integrated-developer-environment-red-hat-codeready-workspaces)
  - [PHP ETL (Extract / Transform / Load) library with SOLID principles + almost no dependency](https://github.com/bpolaszek/bentools-etl)
  - [Why test POJOs?](https://dev.to/scottshipp/why-test-pojos-1lfb)
+ - [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 
 ## Authors
 
