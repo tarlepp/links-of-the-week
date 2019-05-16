@@ -566,6 +566,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Steps to reproduce](https://www.monkeyuser.com/2017/steps-to-reproduce/)
  - [How to configure PHPStorm to use PHP-CS-Fixer](https://hackernoon.com/how-to-configure-phpstorm-to-use-php-cs-fixer-1844991e521f)
  - [Talk to Transformer](https://talktotransformer.com/)
+ - [Augmented reality dragon performance at a baseball tournament in South Korea...](https://www.reddit.com/r/Damnthatsinteresting/comments/bpcani/augmented_reality_dragon_performance_at_a/)
 
 ## Authors
 
