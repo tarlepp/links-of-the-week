@@ -564,6 +564,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
  - [EU-FOSSA held its first hackathon with PHP Symfony community on 6-7 April](https://www.youtube.com/watch?v=oPCeDAD9sjk&feature=youtu.be)
  - [Steps to reproduce](https://www.monkeyuser.com/2017/steps-to-reproduce/)
+ - [How to configure PHPStorm to use PHP-CS-Fixer](https://hackernoon.com/how-to-configure-phpstorm-to-use-php-cs-fixer-1844991e521f)
 
 ## Authors
 
