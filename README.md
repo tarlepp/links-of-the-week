@@ -570,6 +570,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP Insights](https://github.com/nunomaduro/phpinsights)
  - [Are we game yet?](http://arewegameyet.com/)
  - [Is Your Code Readable By Humans? Cognitive Complexity Tells You](https://www.tomasvotruba.cz/blog/2018/05/21/is-your-code-readable-by-humans-cognitive-complexity-tells-you/)
+ - [Wanking Simulator - Reveal Trailer](https://www.youtube.com/watch?v=e502S5QNylE)
 
 ## Authors
 
