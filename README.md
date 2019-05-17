@@ -569,6 +569,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Augmented reality dragon performance at a baseball tournament in South Korea...](https://www.reddit.com/r/Damnthatsinteresting/comments/bpcani/augmented_reality_dragon_performance_at_a/)
  - [PHP Insights](https://github.com/nunomaduro/phpinsights)
  - [Are we game yet?](http://arewegameyet.com/)
+ - [Is Your Code Readable By Humans? Cognitive Complexity Tells You](https://www.tomasvotruba.cz/blog/2018/05/21/is-your-code-readable-by-humans-cognitive-complexity-tells-you/)
 
 ## Authors
 
