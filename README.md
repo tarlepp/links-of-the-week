@@ -572,6 +572,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Is Your Code Readable By Humans? Cognitive Complexity Tells You](https://www.tomasvotruba.cz/blog/2018/05/21/is-your-code-readable-by-humans-cognitive-complexity-tells-you/)
  - [Wanking Simulator - Reveal Trailer](https://www.youtube.com/watch?v=e502S5QNylE)
  - [Don't Ever use Symfony Listeners](https://www.tomasvotruba.cz/blog/2019/05/16/don-t-ever-use-listeners/)
+ - [Tweet - Oh my God these folks have lost it](https://twitter.com/QasimRashid/status/1129738944357326851)
 
 ## Authors
 
