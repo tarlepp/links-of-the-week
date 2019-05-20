@@ -45,6 +45,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 18](#week-18)
      * [Week 19](#week-19)
      * [Week 20](#week-20)
+     * [Week 21](#week-21)
   * [Authors](#authors)
   * [License](#license)
 
@@ -573,6 +574,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Wanking Simulator - Reveal Trailer](https://www.youtube.com/watch?v=e502S5QNylE)
  - [Don't Ever use Symfony Listeners](https://www.tomasvotruba.cz/blog/2019/05/16/don-t-ever-use-listeners/)
  - [Tweet - Oh my God these folks have lost it](https://twitter.com/QasimRashid/status/1129738944357326851)
+
+### Week 21
+
+ - [Private Packagist for Vendors](https://blog.packagist.com/private-packagist-for-vendors/)
 
 ## Authors
 
