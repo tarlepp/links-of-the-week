@@ -578,6 +578,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 21
 
  - [Private Packagist for Vendors](https://blog.packagist.com/private-packagist-for-vendors/)
+ - [Progressively enhance your Symfony 4 app using Vue, API Platform, Mercure and Panther](https://www.slideshare.net/coopTilleuls/progressively-enhance-your-symfony-4-app-using-vue-api-platform-mercure-and-panther)
 
 ## Authors
 
