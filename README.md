@@ -581,6 +581,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Progressively enhance your Symfony 4 app using Vue, API Platform, Mercure and Panther](https://www.slideshare.net/coopTilleuls/progressively-enhance-your-symfony-4-app-using-vue-api-platform-mercure-and-panther)
  - [Generator vs array_map](http://remyhonig.github.io/blog/generator-vs-array_map/)
  - [About GitHub Sponsors](https://help.github.com/en/articles/about-github-sponsors)
+ - [Announcing the web-sys crate!](https://rustwasm.github.io/2018/09/26/announcing-web-sys.html)
 
 ## Authors
 
