@@ -586,6 +586,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to get the Windows 10 May 2019 Update](https://blogs.windows.com/windowsexperience/2019/05/21/how-to-get-the-windows-10-may-2019-update/#cXcRPjyBxrgRgdVh.97)
  - [Systemd Now Has More Than 1.2 Million Lines of Code](https://linux.slashdot.org/story/19/05/25/0538206/systemd-now-has-more-than-12-million-lines-of-code)
  - [Automated dependency updates](https://dependabot.com/)
+ - [Facebook admits it stored ‘hundreds of millions’ of account passwords in plaintext](https://techcrunch.com/2019/03/21/facebook-plaintext-passwords/)
 
 ## Authors
 
