@@ -587,6 +587,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Systemd Now Has More Than 1.2 Million Lines of Code](https://linux.slashdot.org/story/19/05/25/0538206/systemd-now-has-more-than-12-million-lines-of-code)
  - [Automated dependency updates](https://dependabot.com/)
  - [Facebook admits it stored ‘hundreds of millions’ of account passwords in plaintext](https://techcrunch.com/2019/03/21/facebook-plaintext-passwords/)
+ - [Thousands of Czechs protest for fourth week against justice minister](https://www.reuters.com/article/us-czech-protests/thousands-of-czechs-protest-for-fourth-week-against-justice-minister-idUSKCN1SR2AB)
 
 ## Authors
 
