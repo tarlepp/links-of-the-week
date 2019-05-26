@@ -588,6 +588,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dependabot is joining GitHub](https://dependabot.com/blog/hello-github/)
  - [Facebook admits it stored ‘hundreds of millions’ of account passwords in plaintext](https://techcrunch.com/2019/03/21/facebook-plaintext-passwords/)
  - [Thousands of Czechs protest for fourth week against justice minister](https://www.reuters.com/article/us-czech-protests/thousands-of-czechs-protest-for-fourth-week-against-justice-minister-idUSKCN1SR2AB)
+ - [Symfony 4.2 Console Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-2-console-cheat-sheet-da6c675806d)
 
 ## Authors
 
