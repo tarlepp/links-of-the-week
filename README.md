@@ -590,6 +590,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Thousands of Czechs protest for fourth week against justice minister](https://www.reuters.com/article/us-czech-protests/thousands-of-czechs-protest-for-fourth-week-against-justice-minister-idUSKCN1SR2AB)
  - [Symfony 4.2 Console Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-2-console-cheat-sheet-da6c675806d)
  - [How to deploy a Symfony application with Bref?](https://blog.theodo.com/2019/05/serverless-symfony-on-aws-lambda-with-bref/)
+ - [Symfony and ReactPHP Series — Chapter 1](https://medium.com/@apisearch/symfony-and-reactphp-series-chapter-1-28e90bde6082)
 
 ## Authors
 
