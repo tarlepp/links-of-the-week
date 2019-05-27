@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 19](#week-19)
      * [Week 20](#week-20)
      * [Week 21](#week-21)
+     * [Week 22](#week-22)
   * [Authors](#authors)
   * [License](#license)
 
@@ -591,6 +592,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 4.2 Console Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-2-console-cheat-sheet-da6c675806d)
  - [How to deploy a Symfony application with Bref?](https://blog.theodo.com/2019/05/serverless-symfony-on-aws-lambda-with-bref/)
  - [Symfony and ReactPHP Series — Chapter 1](https://medium.com/@apisearch/symfony-and-reactphp-series-chapter-1-28e90bde6082)
+
+### Week 22
+
+ - [On Aggregates and Domain Service interaction](https://ocramius.github.io/blog/on-aggregates-and-external-context-interactions/)
 
 ## Authors
 
