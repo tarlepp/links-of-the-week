@@ -600,6 +600,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [git-standup](https://github.com/kamranahmedse/git-standup)
  - [Awesome PHPStorm](https://github.com/WyriHaximus/awesome-phpstorm)
  - [Symfony 4.3 curated new features](https://symfony.com/blog/symfony-4-3-curated-new-features)
+ - [How to Deploy a PHP Symfony Application on Aws Lambda Using Bref?](https://blog.theodo.com/2019/05/serverless-symfony-on-aws-lambda-with-bref/)
 
 ## Authors
 
