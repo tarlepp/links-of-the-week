@@ -599,6 +599,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Contracts, battle-tested semantics you can depend on](https://symfony.com/blog/symfony-contracts-battle-tested-semantics-you-can-depend-on)
  - [git-standup](https://github.com/kamranahmedse/git-standup)
  - [Awesome PHPStorm](https://github.com/WyriHaximus/awesome-phpstorm)
+ - [Symfony 4.3 curated new features](https://symfony.com/blog/symfony-4-3-curated-new-features)
 
 ## Authors
 
