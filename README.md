@@ -598,6 +598,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [On Aggregates and Domain Service interaction](https://ocramius.github.io/blog/on-aggregates-and-external-context-interactions/)
  - [Symfony Contracts, battle-tested semantics you can depend on](https://symfony.com/blog/symfony-contracts-battle-tested-semantics-you-can-depend-on)
  - [git-standup](https://github.com/kamranahmedse/git-standup)
+ - [Awesome PHPStorm](https://github.com/WyriHaximus/awesome-phpstorm)
 
 ## Authors
 
