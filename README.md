@@ -605,6 +605,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Semver check](https://jubianchi.github.io/semver-check/#/)
   - [(Open) source of anxiety](https://increment.com/open-source/open-source-of-anxiety/)
   - [Gigabyte teases "World's first PCIe 4.0 M.2 SSD" - 5GB/s speeds](https://hexus.net/tech/news/storage/130922-gigabyte-teases-worlds-first-pcie-40-m2-ssd-5gbs-speeds/)
+  - [Tweet - Found this in production today](https://twitter.com/Zorchenhimer/status/1134178911628267520)
 
 ## Authors
 
