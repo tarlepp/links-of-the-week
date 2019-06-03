@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 20](#week-20)
      * [Week 21](#week-21)
      * [Week 22](#week-22)
+     * [Week 23](#week-23)
   * [Authors](#authors)
   * [License](#license)
 
@@ -607,6 +608,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
   - [Gigabyte teases "World's first PCIe 4.0 M.2 SSD" - 5GB/s speeds](https://hexus.net/tech/news/storage/130922-gigabyte-teases-worlds-first-pcie-40-m2-ssd-5gbs-speeds/)
   - [Tweet - Found this in production today](https://twitter.com/Zorchenhimer/status/1134178911628267520)
   - [Efficient data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
+
+### Week 23
+
+ - [Foreign Data Wrappers with PostgreSQL and PHP](https://gonzalo123.com/2016/02/22/foreign-data-wrappers-with-postgresql-and-php/)
 
 ## Authors
 
