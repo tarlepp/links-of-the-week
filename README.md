@@ -614,6 +614,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Foreign Data Wrappers with PostgreSQL and PHP](https://gonzalo123.com/2016/02/22/foreign-data-wrappers-with-postgresql-and-php/)
  - [Expose a REST API to different kinds of users with Api-Platform [Part 1/4]](https://medium.com/@bpolaszek/expose-a-rest-api-to-different-kinds-of-users-with-api-platform-part-1-4-713f3c6db86f)
  - [FORD v FERRARI | Official Trailer [HD] | 20th Century FOX](https://www.youtube.com/watch?v=zyYgDtY2AMY)
+ - [GIT GUD](https://greg0ire.fr/git-gud/#/)
 
 ## Authors
 
