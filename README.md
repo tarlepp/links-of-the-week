@@ -615,6 +615,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Expose a REST API to different kinds of users with Api-Platform [Part 1/4]](https://medium.com/@bpolaszek/expose-a-rest-api-to-different-kinds-of-users-with-api-platform-part-1-4-713f3c6db86f)
  - [FORD v FERRARI | Official Trailer [HD] | 20th Century FOX](https://www.youtube.com/watch?v=zyYgDtY2AMY)
  - [Git Gud](https://greg0ire.fr/git-gud/#/)
+ - [The Query of Despair](http://thedailywtf.com/articles/The-Query-of-Despair)
 
 ## Authors
 
