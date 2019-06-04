@@ -616,6 +616,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [FORD v FERRARI | Official Trailer [HD] | 20th Century FOX](https://www.youtube.com/watch?v=zyYgDtY2AMY)
  - [Git Gud](https://greg0ire.fr/git-gud/#/)
  - [The Query of Despair](http://thedailywtf.com/articles/The-Query-of-Despair)
+ - [API Doc for a Symfony Project](https://medium.com/@ScullWM/api-doc-for-a-symfony-project-737d38fc0c0f)
 
 ## Authors
 
