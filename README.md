@@ -618,6 +618,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Query of Despair](http://thedailywtf.com/articles/The-Query-of-Despair)
  - [API Doc for a Symfony Project](https://medium.com/@ScullWM/api-doc-for-a-symfony-project-737d38fc0c0f)
  - [Bulma](https://bulma.io/)
+ - [Roadstar-autostereot](https://elavamuisti.fi/aikajana/roadstar-autostereot)
 
 ## Authors
 
