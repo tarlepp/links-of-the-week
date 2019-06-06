@@ -619,6 +619,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [API Doc for a Symfony Project](https://medium.com/@ScullWM/api-doc-for-a-symfony-project-737d38fc0c0f)
  - [Bulma](https://bulma.io/)
  - [Roadstar-autostereot](https://elavamuisti.fi/aikajana/roadstar-autostereot)
+ - [Getting ready for Doctrine MongoDB ODM 2.0](https://medium.com/@alcaeus/getting-ready-for-doctrine-mongodb-odm-2-0-a97dc6e13068)
 
 ## Authors
 
