@@ -621,6 +621,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Roadstar-autostereot](https://elavamuisti.fi/aikajana/roadstar-autostereot)
  - [Getting ready for Doctrine MongoDB ODM 2.0](https://medium.com/@alcaeus/getting-ready-for-doctrine-mongodb-odm-2-0-a97dc6e13068)
  - [Why you don’t need JWT](https://jolicode.com/blog/why-you-dont-need-jwt)
+ - [Fuck Yes or No](https://markmanson.net/fuck-yes)
 
 ## Authors
 
