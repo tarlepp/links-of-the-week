@@ -624,6 +624,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Fuck Yes or No](https://markmanson.net/fuck-yes)
  - [VS Code Remote Development](https://www.brianketelsen.com/vscode-remote-development/)
  - [Jiro Dreams of Sushi HD (English Subtitle)](https://www.youtube.com/watch?v=Q3Ve7ec1HpY)
+ - [Plot to steal cryptocurrency foiled by the npm security team](https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm)
 
 ## Authors
 
