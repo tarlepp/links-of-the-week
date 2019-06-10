@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 21](#week-21)
      * [Week 22](#week-22)
      * [Week 23](#week-23)
+     * [Week 24](#week-24)
   * [Authors](#authors)
   * [License](#license)
 
@@ -625,6 +626,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [VS Code Remote Development](https://www.brianketelsen.com/vscode-remote-development/)
  - [Jiro Dreams of Sushi HD (English Subtitle)](https://www.youtube.com/watch?v=Q3Ve7ec1HpY)
  - [Plot to steal cryptocurrency foiled by the npm security team](https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm)
+
+### Week 24
+
+ - [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 ## Authors
 
