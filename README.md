@@ -630,6 +630,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
  - [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+ - [Google Just Gave 2 Billion Chrome Users A Reason To Switch To Firefox](https://www.forbes.com/sites/kateoflahertyuk/2019/05/30/google-just-gave-2-billion-chrome-users-a-reason-to-switch-to-firefox/#5993f711751f)
 
 ## Authors
 
