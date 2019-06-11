@@ -632,6 +632,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
  - [Google Just Gave 2 Billion Chrome Users A Reason To Switch To Firefox](https://www.forbes.com/sites/kateoflahertyuk/2019/05/30/google-just-gave-2-billion-chrome-users-a-reason-to-switch-to-firefox/#5993f711751f)
  - [Your Linux Can Get Hacked Just by Opening a File in Vim or Neovim Editor](https://thehackernews.com/2019/06/linux-vim-vulnerability.html)
+ - [About Doctrine inheritance](https://romaricdrigon.github.io/2019/06/11/doctrine-inheritance)
 
 ## Authors
 
