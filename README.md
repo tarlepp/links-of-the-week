@@ -637,6 +637,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [YamlDb](https://github.com/asgrim/yamldb)
  - [Dispatching Multiple Actions from NGRX Effects](https://medium.com/@amcdnl/dispatching-multiple-actions-from-ngrx-effects-c1447ceb6b22)
  - [Mandelbrot Set in SQL using SVG with RLE](http://lin-ear-th-inking.blogspot.com/2019/06/mandelbrot-set-in-sql-using-svg-with-rle.html)
+ - [Traps on the way of Blue-Green deployments](https://www.goetas.com/blog/traps-on-the-way-of-blue-green-deployments/)
 
 ## Authors
 
