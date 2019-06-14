@@ -638,6 +638,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dispatching Multiple Actions from NGRX Effects](https://medium.com/@amcdnl/dispatching-multiple-actions-from-ngrx-effects-c1447ceb6b22)
  - [Mandelbrot Set in SQL using SVG with RLE](http://lin-ear-th-inking.blogspot.com/2019/06/mandelbrot-set-in-sql-using-svg-with-rle.html)
  - [Traps on the way of Blue-Green deployments](https://www.goetas.com/blog/traps-on-the-way-of-blue-green-deployments/)
+ - [Selvitys antaa karun kuvan tietosuojauudistuksesta – Annatko sinäkin riskillä ja summassa suostumuksen tietojesi käyttöön?](https://yle.fi/uutiset/3-10828341)
 
 ## Authors
 
