@@ -639,6 +639,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Mandelbrot Set in SQL using SVG with RLE](http://lin-ear-th-inking.blogspot.com/2019/06/mandelbrot-set-in-sql-using-svg-with-rle.html)
  - [Traps on the way of Blue-Green deployments](https://www.goetas.com/blog/traps-on-the-way-of-blue-green-deployments/)
  - [Selvitys antaa karun kuvan tietosuojauudistuksesta – Annatko sinäkin riskillä ja summassa suostumuksen tietojesi käyttöön?](https://yle.fi/uutiset/3-10828341)
+ - [Doctrine and Generated Columns](https://www.liip.ch/en/blog/doctrine-and-generated-columns)
 
 ## Authors
 
