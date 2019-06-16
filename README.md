@@ -641,6 +641,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Selvitys antaa karun kuvan tietosuojauudistuksesta – Annatko sinäkin riskillä ja summassa suostumuksen tietojesi käyttöön?](https://yle.fi/uutiset/3-10828341)
  - [Doctrine and Generated Columns](https://www.liip.ch/en/blog/doctrine-and-generated-columns)
  - [Angular 8 - What's New? What changed?](https://www.youtube.com/watch?v=5_IC_ZJrVMg)
+ - [Bridging the Internet's Digital Language Divide](https://www.wired.com/story/internet-digital-language-divide/)
 
 ## Authors
 
