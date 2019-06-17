@@ -648,6 +648,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Cost and value of DocBlocks](https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/)
  - [Astral](https://astralapp.com/)
+ - [JavaScript tells all, which turns out not to be so great for privacy: Side-channel leaks can be exploited to follow you around the interweb](https://www.theregister.co.uk/2019/06/11/javascript_fingerprinting/)
 
 ## Authors
 
