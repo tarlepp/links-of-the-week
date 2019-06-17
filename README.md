@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 22](#week-22)
      * [Week 23](#week-23)
      * [Week 24](#week-24)
+     * [Week 25](#week-25)
   * [Authors](#authors)
   * [License](#license)
 
@@ -642,6 +643,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine and Generated Columns](https://www.liip.ch/en/blog/doctrine-and-generated-columns)
  - [Angular 8 - What's New? What changed?](https://www.youtube.com/watch?v=5_IC_ZJrVMg)
  - [Bridging the Internet's Digital Language Divide](https://www.wired.com/story/internet-digital-language-divide/)
+
+### Week 24
+
+ - [Cost and value of DocBlocks](https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/)
 
 ## Authors
 
