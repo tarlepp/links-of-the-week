@@ -647,6 +647,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
  - [Cost and value of DocBlocks](https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/)
+ - [Astral](https://astralapp.com/)
 
 ## Authors
 
