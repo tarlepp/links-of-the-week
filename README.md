@@ -651,6 +651,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [JavaScript tells all, which turns out not to be so great for privacy: Side-channel leaks can be exploited to follow you around the interweb](https://www.theregister.co.uk/2019/06/11/javascript_fingerprinting/)
  - [Fuck Off As A Service](https://www.foaas.com/)
  - [Docker ❤️ WSL 2 – The Future of Docker Desktop for Windows](https://engineering.docker.com/2019/06/docker-hearts-wsl-2/)
+ - [Slack CLI](https://pypi.org/project/slack-cli/)
 
 ## Authors
 
