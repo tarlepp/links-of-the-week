@@ -655,6 +655,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing the new HTML element - welcome <clippy>!](https://shkspr.mobi/blog/2019/06/introducing-the-new-html-element-welcome/)
  - [Building a dynamic instrumentation agent for PHP](https://blog.sqreen.com/dynamic-instrumentation-agent-php/)
  - [Scraping Burned Toast](http://adrianroselli.com/2019/06/scraping-burned-toast.html)
+ - [Facebook moderators break their NDAs to expose desperate working conditions](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)
 
 ## Authors
 
