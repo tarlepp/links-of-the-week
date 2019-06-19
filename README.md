@@ -653,6 +653,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Docker ❤️ WSL 2 – The Future of Docker Desktop for Windows](https://engineering.docker.com/2019/06/docker-hearts-wsl-2/)
  - [Slack CLI](https://pypi.org/project/slack-cli/)
  - [Introducing the new HTML element - welcome <clippy>!](https://shkspr.mobi/blog/2019/06/introducing-the-new-html-element-welcome/)
+ - [Building a dynamic instrumentation agent for PHP](https://blog.sqreen.com/dynamic-instrumentation-agent-php/)
 
 ## Authors
 
