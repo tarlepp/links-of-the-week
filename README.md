@@ -659,6 +659,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP Generics Today (almost)](https://www.daveliddament.co.uk/articles/php-generics-today-almost/)
  - [Use wisely](https://img.devrant.com/devrant/rant/r_656650_KcF3X.jpg)
  - [Handling transactions and concurrency in MikroORM](https://medium.com/dailyjs/handling-transactions-and-concurrency-in-mikro-orm-ba80d0a65805)
+ - [Mobile (in)Security Series: Application "Czech Public Transport IDOS" leaks your location, password & email address](https://www.civilsphereproject.org/blog/2019/6/6/mobile-insecurity-series-application-czech-public-transport-idos-leaks-your-location-password-and-email-1)
 
 ## Authors
 
