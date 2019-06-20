@@ -657,6 +657,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Scraping Burned Toast](http://adrianroselli.com/2019/06/scraping-burned-toast.html)
  - [Facebook moderators break their NDAs to expose desperate working conditions](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)
  - [PHP Generics Today (almost)](https://www.daveliddament.co.uk/articles/php-generics-today-almost/)
+ - [Use wisely](https://img.devrant.com/devrant/rant/r_656650_KcF3X.jpg)
 
 ## Authors
 
