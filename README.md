@@ -663,6 +663,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [CQRS, Symfony, ElasticSearch and React](https://romaricdrigon.github.io/2019/06/19/cqrs-symfony-elasticsearch-react)
  - [Thousands of Christians Demand That Netflix Cancel a Show It Does Not Air](https://www.vanityfair.com/hollywood/2019/06/good-omens-petition-protest-netflix)
  - [The V Programming Language](https://vlang.io/)
+ - [Code Folder Structure](http://verraes.net/2011/10/code-folder-structure/)
 
 ## Authors
 
