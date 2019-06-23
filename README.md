@@ -664,6 +664,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Thousands of Christians Demand That Netflix Cancel a Show It Does Not Air](https://www.vanityfair.com/hollywood/2019/06/good-omens-petition-protest-netflix)
  - [The V Programming Language](https://vlang.io/)
  - [Code Folder Structure](http://verraes.net/2011/10/code-folder-structure/)
+ - [Facebook’s cryptocurrency has a trust problem](https://www.theverge.com/2019/6/18/18683867/facebook-cryptocurrency-libra-calibra-trust-banking)
 
 ## Authors
 
