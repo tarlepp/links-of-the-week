@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 23](#week-23)
      * [Week 24](#week-24)
      * [Week 25](#week-25)
+     * [Week 26](#week-26)
   * [Authors](#authors)
   * [License](#license)
 
@@ -644,7 +645,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Angular 8 - What's New? What changed?](https://www.youtube.com/watch?v=5_IC_ZJrVMg)
  - [Bridging the Internet's Digital Language Divide](https://www.wired.com/story/internet-digital-language-divide/)
 
-### Week 24
+### Week 25
 
  - [Cost and value of DocBlocks](https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/)
  - [Astral](https://astralapp.com/)
@@ -666,6 +667,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Code Folder Structure](http://verraes.net/2011/10/code-folder-structure/)
  - [Facebook’s cryptocurrency has a trust problem](https://www.theverge.com/2019/6/18/18683867/facebook-cryptocurrency-libra-calibra-trust-banking)
  - [Czech Republic protests: Andrej Babis urged to quit as PM](https://www.bbc.com/news/world-europe-48737467)
+
+### Week 26
+
+ - [The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
 
 ## Authors
 
