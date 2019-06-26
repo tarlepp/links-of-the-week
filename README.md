@@ -673,6 +673,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
  - [Don't Use Entities in Symfony Forms. Use Custom Data Objects Instead](https://blog.martinhujer.cz/symfony-forms-with-request-objects/)
  - [🚦 Funnel Http Client](https://github.com/bpolaszek/funnel-http-client)
+ - [This Star Wars Furniture Is the Stylishly Nerdy Home Decor You Never Knew You Needed](https://9gag.com/gag/a83RyXQ)
 
 ## Authors
 
