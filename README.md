@@ -675,6 +675,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [🚦 Funnel Http Client](https://github.com/bpolaszek/funnel-http-client)
  - [This Star Wars Furniture Is the Stylishly Nerdy Home Decor You Never Knew You Needed](https://9gag.com/gag/a83RyXQ)
  - [V is for Vaporware](https://christine.website/blog/v-vaporware-2019-06-23)
+ - [Asynchronous concurrency made simple](https://amphp.org/)
 
 ## Authors
 
