@@ -676,6 +676,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [This Star Wars Furniture Is the Stylishly Nerdy Home Decor You Never Knew You Needed](https://9gag.com/gag/a83RyXQ)
  - [V is for Vaporware](https://christine.website/blog/v-vaporware-2019-06-23)
  - [Asynchronous concurrency made simple](https://amphp.org/)
+ - [Sensible database-native change management for framework-free development and dependable deployment](https://sqitch.org/)
 
 ## Authors
 
