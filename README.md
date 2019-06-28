@@ -677,6 +677,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [V is for Vaporware](https://christine.website/blog/v-vaporware-2019-06-23)
  - [Asynchronous concurrency made simple](https://amphp.org/)
  - [Sensible database-native change management for framework-free development and dependable deployment](https://sqitch.org/)
+ - [The little legacy code that could: a fable of software ownership](https://circleci.com/blog/the-little-legacy-code-that-could-a-fable-of-software-ownership/)
 
 ## Authors
 
