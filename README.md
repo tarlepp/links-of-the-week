@@ -677,6 +677,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [V is for Vaporware](https://christine.website/blog/v-vaporware-2019-06-23)
  - [Asynchronous concurrency made simple](https://amphp.org/)
 
+### Week 27
+
+ - [Announcing NgRx Version 8: @ngrx/data, creator functions, run-time checks, and isolated tests](https://medium.com/ngrx/announcing-ngrx-version-8-ngrx-data-create-functions-runtime-checks-and-mock-selectors-a44fac112627)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
