@@ -679,6 +679,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Sensible database-native change management for framework-free development and dependable deployment](https://sqitch.org/)
  - [The little legacy code that could: a fable of software ownership](https://circleci.com/blog/the-little-legacy-code-that-could-a-fable-of-software-ownership/)
  - [Anteeksi automies. Ei ollut tarkoitus.](https://www.linkedin.com/content-guest/article/anteeksi-automies-ei-ollut-tarkoitus-jaana-utti)
+ - [Tweet - not like this](https://twitter.com/brutaldev/status/1144636596731437060)
 
 ## Authors
 
