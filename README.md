@@ -681,6 +681,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Anteeksi automies. Ei ollut tarkoitus.](https://www.linkedin.com/content-guest/article/anteeksi-automies-ei-ollut-tarkoitus-jaana-utti)
  - [Tweet - not like this](https://twitter.com/brutaldev/status/1144636596731437060)
  - [Do you want more PHPStan violations?](https://jolicode.com/blog/do-you-want-more-phpstan-violations)
+ - [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
 
 ## Authors
 
