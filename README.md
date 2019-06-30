@@ -682,6 +682,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tweet - not like this](https://twitter.com/brutaldev/status/1144636596731437060)
  - [Do you want more PHPStan violations?](https://jolicode.com/blog/do-you-want-more-phpstan-violations)
  - [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
+ - [Symfony 4.4 Security Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-4-security-cheat-sheet-5e9e75fbacc0)
 
 ## Authors
 
