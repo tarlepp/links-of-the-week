@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 24](#week-24)
      * [Week 25](#week-25)
      * [Week 26](#week-26)
+     * [Week 27](#week-27)
   * [Authors](#authors)
   * [License](#license)
 
