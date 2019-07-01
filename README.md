@@ -689,6 +689,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Announcing NgRx Version 8: @ngrx/data, creator functions, run-time checks, and isolated tests](https://medium.com/ngrx/announcing-ngrx-version-8-ngrx-data-create-functions-runtime-checks-and-mock-selectors-a44fac112627)
  - [Your mission control center for PHP application performance](https://tideways.com/)
+ - [Marco Pivetta "Doctrine Best Practices"](https://www.youtube.com/watch?v=WW2qPKukoZY)
 
 ## Authors
 
