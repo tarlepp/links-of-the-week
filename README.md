@@ -684,6 +684,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
  - [Symfony 4.4 Security Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-4-security-cheat-sheet-5e9e75fbacc0)
 
+### Week 27
+
+ - [Announcing NgRx Version 8: @ngrx/data, creator functions, run-time checks, and isolated tests](https://medium.com/ngrx/announcing-ngrx-version-8-ngrx-data-create-functions-runtime-checks-and-mock-selectors-a44fac112627)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
