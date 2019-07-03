@@ -692,6 +692,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Marco Pivetta "Doctrine Best Practices"](https://www.youtube.com/watch?v=WW2qPKukoZY)
  - [Volumio - The Audiophile Music Player](https://volumio.org/)
  - [“Try” makes error handling much, much worse](https://www.reddit.com/r/golang/comments/c877cb/try_makes_error_handling_much_much_worse/)
+ - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 
 ## Authors
 
