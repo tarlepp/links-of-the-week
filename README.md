@@ -693,6 +693,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Volumio - The Audiophile Music Player](https://volumio.org/)
  - [“Try” makes error handling much, much worse](https://www.reddit.com/r/golang/comments/c877cb/try_makes_error_handling_much_much_worse/)
  - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+ - [On Aggregates and Domain Service interaction](https://ocramius.github.io/blog/on-aggregates-and-external-context-interactions/)
 
 ## Authors
 
