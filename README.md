@@ -696,6 +696,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [On Aggregates and Domain Service interaction](https://ocramius.github.io/blog/on-aggregates-and-external-context-interactions/)
  - [Stop repeating yourself in Doctrine and Symfony forms with Value objects](https://romaricdrigon.github.io/2019/07/05/value-objects-doctrine-and-symfony-forms)
  - [Internet group brands Mozilla ‘internet villain’ for supporting DNS privacy feature](https://techcrunch.com/2019/07/05/isp-group-mozilla-internet-villain-dns-privacy/)
+ - [How to Enable DNS-over-HTTPS (DoH) in Mozilla Firefox](https://www.trishtech.com/2018/08/how-to-enable-dns-over-https-doh-in-mozilla-firefox/)
 
 ## Authors
 
