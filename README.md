@@ -698,6 +698,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Internet group brands Mozilla ‘internet villain’ for supporting DNS privacy feature](https://techcrunch.com/2019/07/05/isp-group-mozilla-internet-villain-dns-privacy/)
  - [How to Enable DNS-over-HTTPS (DoH) in Mozilla Firefox](https://www.trishtech.com/2018/08/how-to-enable-dns-over-https-doh-in-mozilla-firefox/)
  - ['Scarecrow' statue of Melania Trump unveiled in Slovenia to mixed reviews](https://www.theguardian.com/us-news/2019/jul/05/melania-trump-statue-slovenia-sevnica)
+ - [Nobody talks about the real reason to use Tabs over Spaces](https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/)
 
 ## Authors
 
