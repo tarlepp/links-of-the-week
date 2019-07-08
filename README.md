@@ -52,6 +52,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 25](#week-25)
      * [Week 26](#week-26)
      * [Week 27](#week-27)
+     * [Week 28](#week-28)
   * [Authors](#authors)
   * [License](#license)
 
@@ -699,6 +700,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to Enable DNS-over-HTTPS (DoH) in Mozilla Firefox](https://www.trishtech.com/2018/08/how-to-enable-dns-over-https-doh-in-mozilla-firefox/)
  - ['Scarecrow' statue of Melania Trump unveiled in Slovenia to mixed reviews](https://www.theguardian.com/us-news/2019/jul/05/melania-trump-statue-slovenia-sevnica)
  - [Nobody talks about the real reason to use Tabs over Spaces](https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/)
+ 
+### Week 28
+
+ - [Abusing PHP query string parser to bypass IDS, IPS, and WAF](https://www.secjuice.com/abusing-php-query-string-parser-bypass-ids-ips-waf/)
 
 ## Authors
 
