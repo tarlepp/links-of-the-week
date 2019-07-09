@@ -704,6 +704,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 28
 
  - [Abusing PHP query string parser to bypass IDS, IPS, and WAF](https://www.secjuice.com/abusing-php-query-string-parser-bypass-ids-ips-waf/)
+ - [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
 
 ## Authors
 
