@@ -707,6 +707,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
  - [Bose Frames review: smart audio sunglasses are a blast](https://www.theguardian.com/technology/2019/jul/08/bose-frames-review-smart-audio-sunglasses-are-a-blast)
  - [Road to Estimates](https://locastic.com/blog/road-to-estimates/)
+ - [Browsh - A fully interactive, realtime and modern browser rendered to TTY](https://www.brow.sh/)
 
 ## Authors
 
