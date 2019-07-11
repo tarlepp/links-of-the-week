@@ -709,6 +709,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Road to Estimates](https://locastic.com/blog/road-to-estimates/)
  - [Browsh - A fully interactive, realtime and modern browser rendered to TTY](https://www.brow.sh/)
  - [I'm a Makefile PHONY](https://vsupalov.com/makefile-phony/)
+ - [Object-Oriented Programming — The Trillion Dollar Disaster](https://medium.com/@ilyasz/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7)
 
 ## Authors
 
