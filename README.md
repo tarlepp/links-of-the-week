@@ -708,6 +708,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Bose Frames review: smart audio sunglasses are a blast](https://www.theguardian.com/technology/2019/jul/08/bose-frames-review-smart-audio-sunglasses-are-a-blast)
  - [Road to Estimates](https://locastic.com/blog/road-to-estimates/)
  - [Browsh - A fully interactive, realtime and modern browser rendered to TTY](https://www.brow.sh/)
+ - [I'm a Makefile PHONY](https://vsupalov.com/makefile-phony/)
 
 ## Authors
 
