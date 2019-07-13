@@ -711,6 +711,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [I'm a Makefile PHONY](https://vsupalov.com/makefile-phony/)
  - [Object-Oriented Programming — The Trillion Dollar Disaster](https://medium.com/@ilyasz/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7)
  - [Representing a UUID as a Base62 Hash ID for short, pretty URLs](https://medium.com/@huntie/representing-a-uuid-as-a-base-62-hash-id-for-short-pretty-urls-c30e66bf35f9)
+ - [The Comprehensive Guide to URL Parameter Encryption in PHP](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php)
 
 ## Authors
 
