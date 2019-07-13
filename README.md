@@ -710,6 +710,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Browsh - A fully interactive, realtime and modern browser rendered to TTY](https://www.brow.sh/)
  - [I'm a Makefile PHONY](https://vsupalov.com/makefile-phony/)
  - [Object-Oriented Programming — The Trillion Dollar Disaster](https://medium.com/@ilyasz/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7)
+ - [Representing a UUID as a Base62 Hash ID for short, pretty URLs](https://medium.com/@huntie/representing-a-uuid-as-a-base-62-hash-id-for-short-pretty-urls-c30e66bf35f9)
 
 ## Authors
 
