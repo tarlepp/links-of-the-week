@@ -53,6 +53,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 26](#week-26)
      * [Week 27](#week-27)
      * [Week 28](#week-28)
+     * [Week 29](#week-29)
   * [Authors](#authors)
   * [License](#license)
 
@@ -713,6 +714,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Representing a UUID as a Base62 Hash ID for short, pretty URLs](https://medium.com/@huntie/representing-a-uuid-as-a-base-62-hash-id-for-short-pretty-urls-c30e66bf35f9)
  - [The Comprehensive Guide to URL Parameter Encryption in PHP](https://paragonie.com/blog/2015/09/comprehensive-guide-url-parameter-encryption-in-php)
  - [The Twelve Factor Symfony App](https://skillsmatter.com/skillscasts/14099-the-twelve-factor-symfony-app)
+ 
+### Week 29
 
 ## Authors
 
