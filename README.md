@@ -719,6 +719,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Backup Solr on Platform.sh](https://www.contextualcode.com/Blog/Backup-Solr-on-Platform.sh)
  - [Docker & Makefile | X-Ops — sharing infra-as-code parts](https://itnext.io/docker-makefile-x-ops-sharing-infra-as-code-parts-ea6fa0d22946)
+ - [Tuupola/Base62](https://github.com/tuupola/base62)
 
 ## Authors
 
