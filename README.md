@@ -722,6 +722,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tuupola/Base62](https://github.com/tuupola/base62)
  - [Running PHP in Javascript 🤯](https://francisco.io/blog/running-php-in-javascript/)
  - [Introducing our Docker Starter-Kit](https://jolicode.com/blog/introducing-our-docker-starter-kit)
+ - [16.3: ES6 Arrow Function - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=mrYMzpbFz18)
 
 ## Authors
 
