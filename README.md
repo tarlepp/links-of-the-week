@@ -721,6 +721,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Docker & Makefile | X-Ops — sharing infra-as-code parts](https://itnext.io/docker-makefile-x-ops-sharing-infra-as-code-parts-ea6fa0d22946)
  - [Tuupola/Base62](https://github.com/tuupola/base62)
  - [Running PHP in Javascript 🤯](https://francisco.io/blog/running-php-in-javascript/)
+ - [Introducing our Docker Starter-Kit](https://jolicode.com/blog/introducing-our-docker-starter-kit)
 
 ## Authors
 
