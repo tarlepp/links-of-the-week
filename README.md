@@ -723,6 +723,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Running PHP in Javascript 🤯](https://francisco.io/blog/running-php-in-javascript/)
  - [Introducing our Docker Starter-Kit](https://jolicode.com/blog/introducing-our-docker-starter-kit)
  - [16.3: ES6 Arrow Function - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=mrYMzpbFz18)
+ - [City to ban gendered language like "manhole," "manpower" and "firemen"](https://www.cbsnews.com/news/berkeley-california-to-ban-gendered-language-like-manhole-manpower-and-firemen/)
 
 ## Authors
 
