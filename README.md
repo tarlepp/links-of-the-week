@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 27](#week-27)
      * [Week 28](#week-28)
      * [Week 29](#week-29)
+     * [Week 30](#week-30)
   * [Authors](#authors)
   * [License](#license)
 
@@ -724,6 +725,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing our Docker Starter-Kit](https://jolicode.com/blog/introducing-our-docker-starter-kit)
  - [16.3: ES6 Arrow Function - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=mrYMzpbFz18)
  - [City to ban gendered language like "manhole," "manpower" and "firemen"](https://www.cbsnews.com/news/berkeley-california-to-ban-gendered-language-like-manhole-manpower-and-firemen/)
+
+### Week 30
 
 ## Authors
 
