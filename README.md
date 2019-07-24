@@ -730,6 +730,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [DreamTime](https://github.com/private-dreamnet/dreamtime)
  - [Devs sharing their stories](https://devrant.com/)
+ - [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names/)
 
 ## Authors
 
