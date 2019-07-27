@@ -732,6 +732,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Devs sharing their stories](https://devrant.com/)
  - [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names/)
  - [Watch Netflix at work by making it look like you’re on a conference call](https://netflixhangouts.com/)
+ - [A Message to GitHub](https://github.com/1995parham/github-do-not-ban-us)
 
 ## Authors
 
