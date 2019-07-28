@@ -734,6 +734,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Watch Netflix at work by making it look like you’re on a conference call](https://netflixhangouts.com/)
  - [A Message to GitHub](https://github.com/1995parham/github-do-not-ban-us)
  - [Expanse](https://twitter.com/TheExpanseWR/status/1155156975568576513)
+ - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 
 ## Authors
 
