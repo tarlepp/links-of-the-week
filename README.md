@@ -741,6 +741,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Tom, pls](https://twitter.com/Ocramius/status/1155848589756829696)
  - [jit-hydrator](https://github.com/ovrflo/jit-hydrator)
+ - [What's new in PhpStorm 2019.2](https://www.youtube.com/watch?v=oA7Xmc_FwK0)
 
 ## Authors
 
