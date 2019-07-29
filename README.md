@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 28](#week-28)
      * [Week 29](#week-29)
      * [Week 30](#week-30)
+     * [Week 31](#week-31)
   * [Authors](#authors)
   * [License](#license)
 
@@ -735,6 +736,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A Message to GitHub](https://github.com/1995parham/github-do-not-ban-us)
  - [Expanse](https://twitter.com/TheExpanseWR/status/1155156975568576513)
  - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
+
+### Week 31
 
 ## Authors
 
