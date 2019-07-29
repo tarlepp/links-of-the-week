@@ -739,6 +739,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 31
 
+ - [Tom, pls](https://twitter.com/Ocramius/status/1155848589756829696)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
