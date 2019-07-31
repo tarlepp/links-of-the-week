@@ -743,6 +743,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [jit-hydrator](https://github.com/ovrflo/jit-hydrator)
  - [What's new in PhpStorm 2019.2](https://www.youtube.com/watch?v=oA7Xmc_FwK0)
  - [Serializing Symfony Forms into JSON schema](http://nacho-martin.com/serializing-symfony-forms-to-json-schema.html)
+ - [Things dependency injection is not about](https://stitcher.io/blog/things-dependency-injection-is-not-about)
 
 ## Authors
 
