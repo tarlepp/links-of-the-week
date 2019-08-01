@@ -745,6 +745,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Serializing Symfony Forms into JSON schema](http://nacho-martin.com/serializing-symfony-forms-to-json-schema.html)
  - [Things dependency injection is not about](https://stitcher.io/blog/things-dependency-injection-is-not-about)
  - [Pest](https://github.com/nunomaduro/pest)
+ - [Preloading in PHP 7.4](https://stitcher.io/blog/preloading-in-php-74)
 
 ## Authors
 
