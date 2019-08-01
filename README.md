@@ -746,6 +746,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Things dependency injection is not about](https://stitcher.io/blog/things-dependency-injection-is-not-about)
  - [Pest](https://github.com/nunomaduro/pest)
  - [Preloading in PHP 7.4](https://stitcher.io/blog/preloading-in-php-74)
+ - [Yksittäinen rumpukomppikin voi olla jatkossa suojattu](https://yle.fi/uutiset/3-10900575)
 
 ## Authors
 
