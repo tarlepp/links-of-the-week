@@ -748,6 +748,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Preloading in PHP 7.4](https://stitcher.io/blog/preloading-in-php-74)
  - [Yksittäinen rumpukomppikin voi olla jatkossa suojattu](https://yle.fi/uutiset/3-10900575)
  - [Service locator: an anti-pattern](https://stitcher.io/blog/service-locator-anti-pattern)
+ - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 ## Authors
 
