@@ -750,6 +750,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Service locator: an anti-pattern](https://stitcher.io/blog/service-locator-anti-pattern)
  - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
  - [Yugoslavian Computer Magazine Cover Girls of the 1980s-90s](https://flashbak.com/yugoslavian-computer-magazine-cover-girls-of-the-1980s-90s-370271/)
+ - [Top 8 Web Development Technologies and Frameworks](https://dev.to/decipherzonesoft/top-8-web-development-technologies-and-frameworks-3g4i)
 
 ## Authors
 
