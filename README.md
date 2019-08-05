@@ -756,6 +756,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 32
 
  - [Inject locale's requirements in your Symfony routes](https://www.strangebuzz.com/en/snippets/inject-locales-requirements-in-your-symfony-routes)
+ - [Symfony Maintenance: Changes for Standard Releases](https://symfony.com/blog/symfony-maintenance-changes-for-standard-releases)
 
 ## Authors
 
