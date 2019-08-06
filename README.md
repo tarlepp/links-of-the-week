@@ -757,6 +757,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Inject locale's requirements in your Symfony routes](https://www.strangebuzz.com/en/snippets/inject-locales-requirements-in-your-symfony-routes)
  - [Symfony Maintenance: Changes for Standard Releases](https://symfony.com/blog/symfony-maintenance-changes-for-standard-releases)
+ - [Domino's is stockpiling pizza ingredients to protect against a disorderly Brexit](https://edition.cnn.com/2019/08/06/business/dominos-stockpiling-ingredients-gbr-intl-scli/index.html)
 
 ## Authors
 
