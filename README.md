@@ -760,6 +760,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Domino's is stockpiling pizza ingredients to protect against a disorderly Brexit](https://edition.cnn.com/2019/08/06/business/dominos-stockpiling-ingredients-gbr-intl-scli/index.html)
  - [Maksullinen viisumi Venäjälle poistuu - VR ei pysty lisäämään Allegro-junia](https://www.tekniikkatalous.fi/uutiset/maksullinen-viisumi-venajalle-poistuu-vr-ei-pysty-lisaamaan-allegro-junia/2dfe0a67-1609-410f-843c-a3ae1875092d)
  - [Read private properties in PHP without reflection](https://3v4l.org/lqZBd)
+ - [Bringing Peace to the Galaxy](https://news-web.php.net/php.internals/106453)
 
 ## Authors
 
