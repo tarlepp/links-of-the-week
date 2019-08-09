@@ -763,6 +763,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Bringing Peace to the Galaxy](https://news-web.php.net/php.internals/106453)
  - [GitHub Actions now supports CI/CD, free for public repositories](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/)
  - [Close call: Passenger jet narrowly escapes disaster during takeoff at Moscow airport (VIDEO)](https://www.rt.com/russia/466077-russia-plane-takeoff-domodedovo-s7/)
+ - [Two databases with Symfony 4 & Doctrine 2? Not as straightforward as it might look.](https://medium.com/@raito.akehanareru/two-databases-with-symfony-4-doctrine-2-not-as-straightforward-as-it-might-look-906e57cee710)
 
 ## Authors
 
