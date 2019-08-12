@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 30](#week-30)
      * [Week 31](#week-31)
      * [Week 32](#week-32)
+     * [Week 33](#week-33)
   * [Authors](#authors)
   * [License](#license)
 
@@ -765,6 +766,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Close call: Passenger jet narrowly escapes disaster during takeoff at Moscow airport (VIDEO)](https://www.rt.com/russia/466077-russia-plane-takeoff-domodedovo-s7/)
  - [Two databases with Symfony 4 & Doctrine 2? Not as straightforward as it might look.](https://medium.com/@raito.akehanareru/two-databases-with-symfony-4-doctrine-2-not-as-straightforward-as-it-might-look-906e57cee710)
  - [Decouple your Symfony application using Domain Events](https://romaricdrigon.github.io/2019/08/09/domain-events)
+
+### Week 33
 
 ## Authors
 
