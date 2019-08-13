@@ -770,6 +770,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 33
 
  - [P++ idea: FAQ](https://wiki.php.net/pplusplus/faq)
+ - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)
 
 ## Authors
 
