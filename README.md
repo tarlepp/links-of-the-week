@@ -772,6 +772,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [P++ idea: FAQ](https://wiki.php.net/pplusplus/faq)
  - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)
  - [Afrikasta löytyi alue, jonka CO2-päästöt vastaavat 200 miljoonan auton päästöjä](https://tekniikanmaailma.fi/afrikasta-loytyi-alue-jonka-co2-paastot-vastaavat-200-miljoonan-auton-paastoja/)
+ - [About Zeev’s proposal of PHP superset](https://medium.com/@william.pinaud/about-zeevs-proposal-of-php-superset-9e291f0de630)
 
 ## Authors
 
