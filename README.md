@@ -775,6 +775,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [About Zeev’s proposal of PHP superset](https://medium.com/@william.pinaud/about-zeevs-proposal-of-php-superset-9e291f0de630)
  - [PHPStan now fully supports PHP 7.4!](https://medium.com/@ondrejmirtes/phpstan-now-fully-supports-php-7-4-f992ed72166a)
  - [Poll: Feasibility of P++](https://wiki.php.net/rfc/p-plus-plus)
+ - [KNOB Attack](https://knobattack.com/)
 
 ## Authors
 
