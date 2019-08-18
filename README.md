@@ -777,6 +777,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Poll: Feasibility of P++](https://wiki.php.net/rfc/p-plus-plus)
  - [KNOB Attack](https://knobattack.com/)
  - [Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript](https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/)
+ - [Kurinpalautus](https://modeemi.fi/drdoom/kurinpalautus/kurinpalautus-2019-17-08.mp3)
 
 ## Authors
 
