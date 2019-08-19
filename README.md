@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 31](#week-31)
      * [Week 32](#week-32)
      * [Week 33](#week-33)
+     * [Week 34](#week-34)
   * [Authors](#authors)
   * [License](#license)
 
@@ -779,6 +780,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript](https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/)
  - [Kurinpalautus](https://modeemi.fi/drdoom/kurinpalautus/kurinpalautus-2019-17-08.mp3)
  - [Found: World-readable database used to secure buildings around the globe](https://arstechnica.com/information-technology/2019/08/found-world-readable-database-used-to-secure-buildings-around-the-globe/)
+
+### Week 34
 
 ## Authors
 
