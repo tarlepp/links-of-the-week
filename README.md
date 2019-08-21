@@ -786,6 +786,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Git 2.23 Adds Switch and Restore Commands](https://www.infoq.com/news/2019/08/git-2-23-switch-restore/)
  - [Sqitch](https://sqitch.org/)
  - [Refined GitHub](https://github.com/sindresorhus/refined-github)
+ - [The Internet map](https://internet-map.net/)
 
 ## Authors
 
