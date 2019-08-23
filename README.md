@@ -788,6 +788,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Refined GitHub](https://github.com/sindresorhus/refined-github)
  - [The Internet map](https://internet-map.net/)
  - [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)
+ - [Psalm 3-and-a-half](https://psalm.dev/articles/psalm-3-and-a-half)
 
 ## Authors
 
