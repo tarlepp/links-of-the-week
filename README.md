@@ -789,6 +789,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Internet map](https://internet-map.net/)
  - [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)
  - [Psalm 3-and-a-half](https://psalm.dev/articles/psalm-3-and-a-half)
+ - [Array options: a solution with Symfony OptionResolver](https://www.orbitale.io/2019/08/18/array-options-a-good-solution-with-symfony-optionsresolver.html)
 
 ## Authors
 
