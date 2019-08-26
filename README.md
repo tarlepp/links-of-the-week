@@ -794,6 +794,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 35
 
+ - [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
