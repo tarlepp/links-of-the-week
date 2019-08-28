@@ -798,6 +798,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [phpCE, the PHP Central Europe Conference 2019](https://2019.phpce.eu/en/)
  - [Awesome Actions](https://github.com/sdras/awesome-actions)
  - [Parliament to be suspended in September](https://www.bbc.com/news/uk-politics-49493632)
+ - [Implementing a login fail2ban like system for Symfony with Redis](https://www.strangebuzz.com/en/blog/implementing-a-login-fail2ban-like-system-for-symfony-with-redis)
 
 ## Authors
 
