@@ -799,6 +799,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Awesome Actions](https://github.com/sdras/awesome-actions)
  - [Parliament to be suspended in September](https://www.bbc.com/news/uk-politics-49493632)
  - [Implementing a login fail2ban like system for Symfony with Redis](https://www.strangebuzz.com/en/blog/implementing-a-login-fail2ban-like-system-for-symfony-with-redis)
+ - [NastyHosts.com](https://nastyhosts.com/)
 
 ## Authors
 
