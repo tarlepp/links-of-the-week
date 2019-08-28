@@ -797,6 +797,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
  - [phpCE, the PHP Central Europe Conference 2019](https://2019.phpce.eu/en/)
  - [Awesome Actions](https://github.com/sdras/awesome-actions)
+ - [Parliament to be suspended in September](https://www.bbc.com/news/uk-politics-49493632)
 
 ## Authors
 
