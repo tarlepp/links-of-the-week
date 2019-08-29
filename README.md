@@ -801,6 +801,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Implementing a login fail2ban like system for Symfony with Redis](https://www.strangebuzz.com/en/blog/implementing-a-login-fail2ban-like-system-for-symfony-with-redis)
  - [NastyHosts.com](https://nastyhosts.com/)
  - [DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils)
+ - [Airlines are banning MacBooks from checked baggage, even non-recalled models](https://mashable.com/article/macbook-pro-virgin-qantas-ban/)
 
 ## Authors
 
