@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 33](#week-33)
      * [Week 34](#week-34)
      * [Week 35](#week-35)
+     * [Week 36](#week-36)
   * [Authors](#authors)
   * [License](#license)
 
@@ -804,6 +805,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Airlines are banning MacBooks from checked baggage, even non-recalled models](https://mashable.com/article/macbook-pro-virgin-qantas-ban/)
  - [Now You Can Help Save the Environment by Watching a Bunch of Porn](https://time.com/79406/now-you-can-help-save-the-environment-by-watching-a-bunch-of-porn/)
  - [On hiding the main Symfony front controller](https://www.strangebuzz.com/en/blog/on-hiding-the-main-symfony-front-controller)
+
+### Week 36
+
+ - [Regex Golf](https://alf.nu/RegexGolf)
 
 ## Authors
 
