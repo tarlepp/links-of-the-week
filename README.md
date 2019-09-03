@@ -809,6 +809,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 36
 
  - [Regex Golf](https://alf.nu/RegexGolf)
+ - [A letter to the PHP team](https://stitcher.io/blog/a-letter-to-the-php-team)
 
 ## Authors
 
