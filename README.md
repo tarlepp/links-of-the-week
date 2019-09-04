@@ -812,6 +812,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A letter to the PHP team](https://stitcher.io/blog/a-letter-to-the-php-team)
  - [Finland has been named the best country to visit for wildlife travel](https://www.lonelyplanet.com/articles/finland-wildlife-travel)
  - [PHP RFC Experiment](https://github.com/php/php-rfcs)
+ - [DNSSEC: How It Works &amp; Key Considerations](https://blogs.akamai.com/2019/06/dnssec-how-it-works-key-considerations.html)
 
 ## Authors
 
