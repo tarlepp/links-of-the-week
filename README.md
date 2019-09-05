@@ -814,6 +814,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC Experiment](https://github.com/php/php-rfcs)
  - [DNSSEC: How It Works &amp; Key Considerations](https://blogs.akamai.com/2019/06/dnssec-how-it-works-key-considerations.html)
  - [Join the connected mailbox revolution with RuuviTag](https://blog.ruuvi.com/join-the-connected-mailbox-revolution-with-ruuvitag-1d821e939232)
+ - [Create useful .gitignore files for your project](https://www.gitignore.io/)
 
 ## Authors
 
