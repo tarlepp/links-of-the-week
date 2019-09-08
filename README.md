@@ -816,6 +816,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Join the connected mailbox revolution with RuuviTag](https://blog.ruuvi.com/join-the-connected-mailbox-revolution-with-ruuvitag-1d821e939232)
  - [Create useful .gitignore files for your project](https://www.gitignore.io/)
  - [Tabler](https://tabler.io/)
+ - [PHP Internals News: Episode 26: Making Symfony ready for PHP 7.4](https://open.spotify.com/episode/2QpPW4O9qG73WEyTEwp7SU?si=VMqa5G7zQl2PC25RP1RW5Q)
 
 ## Authors
 
