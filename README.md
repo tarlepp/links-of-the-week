@@ -821,6 +821,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 37
 
+ - [Preserving Laptop Stickers on MacBooks](https://grh.am/2019/preserving-laptop-stickers-on-macbooks/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
