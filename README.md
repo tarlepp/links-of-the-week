@@ -826,6 +826,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Multiple Vulnerabilities in PHP Could Allow for Arbitrary Code Execution](https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-php-could-allow-for-arbitrary-code-execution_2019-087/)
  - [A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.](https://randomuser.me/)
  - [Symfony Async Kernel](https://github.com/apisearch-io/symfony-async-kernel)
+ - [Human speech may have a universal transmission rate: 39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second)
 
 ## Authors
 
