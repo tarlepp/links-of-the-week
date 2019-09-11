@@ -823,6 +823,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Preserving Laptop Stickers on MacBooks](https://grh.am/2019/preserving-laptop-stickers-on-macbooks/)
  - [Daytripper: Hide-My-Windows Laser Tripwire](https://github.com/dekuNukem/daytripper)
+ - [Multiple Vulnerabilities in PHP Could Allow for Arbitrary Code Execution](https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-php-could-allow-for-arbitrary-code-execution_2019-087/)
 
 ## Authors
 
