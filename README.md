@@ -827,6 +827,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.](https://randomuser.me/)
  - [Symfony Async Kernel](https://github.com/apisearch-io/symfony-async-kernel)
  - [Human speech may have a universal transmission rate: 39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second)
+ - [New SIM Card Flaw Lets Hackers Hijack Any Phone Just By Sending SMS](https://thehackernews.com/2019/09/simjacker-mobile-hacking.html)
 
 ## Authors
 
