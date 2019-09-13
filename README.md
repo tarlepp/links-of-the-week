@@ -829,6 +829,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Human speech may have a universal transmission rate: 39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second)
  - [New SIM Card Flaw Lets Hackers Hijack Any Phone Just By Sending SMS](https://thehackernews.com/2019/09/simjacker-mobile-hacking.html)
  - [SymfonyLive - Notifier](https://speakerdeck.com/fabpot/symfony-notifier)
+ - [SymfonyLive - What to expect when Doctrine 3 comes out](https://speakerdeck.com/dbrumann/what-to-expect-when-doctrine-3-comes-out)
 
 ## Authors
 
