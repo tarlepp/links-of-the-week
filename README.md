@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 35](#week-35)
      * [Week 36](#week-36)
      * [Week 37](#week-37)
+     * [Week 38](#week-38)
   * [Authors](#authors)
   * [License](#license)
 
@@ -831,6 +832,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SymfonyLive - Notifier](https://speakerdeck.com/fabpot/symfony-notifier)
  - [SymfonyLive - What to expect when Doctrine 3 comes out](https://speakerdeck.com/dbrumann/what-to-expect-when-doctrine-3-comes-out)
  - [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+ 
+### Week 38
 
 ## Authors
 
