@@ -835,6 +835,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  
 ### Week 38
 
+ - [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
