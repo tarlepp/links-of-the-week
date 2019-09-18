@@ -839,6 +839,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Musk spent $50,000 digging into critic’s personal life](https://arstechnica.com/tech-policy/2019/09/musk-paid-investigator-50000-to-substantiate-pedo-guy-claim/)
  - [Call me crazy, but Windows 11 could run on Linux](https://www.computerworld.com/article/3438856/call-me-crazy-but-windows-11-could-run-on-linux.html)
  - [IT Firm Manager Arrested in the Biggest Data Breach Case of Ecuador’s History](https://thehackernews.com/2019/09/ecuador-data-breach.html)
+ - [Dependency graph support is now available for PHP repositories with Composer dependencies](https://github.blog/2019-09-18-dependency-graph-supports-php-repos-with-composer-dependencies/)
 
 ## Authors
 
