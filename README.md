@@ -837,6 +837,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
  - [Musk spent $50,000 digging into critic’s personal life](https://arstechnica.com/tech-policy/2019/09/musk-paid-investigator-50000-to-substantiate-pedo-guy-claim/)
+ - [Call me crazy, but Windows 11 could run on Linux](https://www.computerworld.com/article/3438856/call-me-crazy-but-windows-11-could-run-on-linux.html)
 
 ## Authors
 
