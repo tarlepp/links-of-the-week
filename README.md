@@ -836,6 +836,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 38
 
  - [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
+ - [Musk spent $50,000 digging into critic’s personal life](https://arstechnica.com/tech-policy/2019/09/musk-paid-investigator-50000-to-substantiate-pedo-guy-claim/)
 
 ## Authors
 
