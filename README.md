@@ -841,6 +841,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [IT Firm Manager Arrested in the Biggest Data Breach Case of Ecuador’s History](https://thehackernews.com/2019/09/ecuador-data-breach.html)
  - [Dependency graph support is now available for PHP repositories with Composer dependencies](https://github.blog/2019-09-18-dependency-graph-supports-php-repos-with-composer-dependencies/)
  - [CharlockHolmes - Character encoding detecting library for Ruby using ICU](https://github.com/brianmario/charlock_holmes)
+ - [Abstracting API calls with Symfony serializer](https://tech.yappa.be/abstracting-api-calls-with-symfony-serializer)
 
 ## Authors
 
