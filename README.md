@@ -842,6 +842,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dependency graph support is now available for PHP repositories with Composer dependencies](https://github.blog/2019-09-18-dependency-graph-supports-php-repos-with-composer-dependencies/)
  - [CharlockHolmes - Character encoding detecting library for Ruby using ICU](https://github.com/brianmario/charlock_holmes)
  - [Abstracting API calls with Symfony serializer](https://tech.yappa.be/abstracting-api-calls-with-symfony-serializer)
+ - [Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
 
 ## Authors
 
