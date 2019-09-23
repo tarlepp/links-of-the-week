@@ -847,6 +847,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 39
 
+ - [Oni is a new kind of editor, focused on maximizing productivity](https://github.com/onivim/oni)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
