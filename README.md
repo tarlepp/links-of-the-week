@@ -849,6 +849,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Oni is a new kind of editor, focused on maximizing productivity](https://github.com/onivim/oni)
  - [AMD Outselling Intel After Analyzing 5-Year Historical Sales At Mindfactory](https://www.erudipedia.co.uk/2019/09/amd-outsold-intel-by-analyzing-5-year-historical-sales-at-mindfactory.html?m=1)
+ - [Google may have just ushered in an era of ‘quantum supremacy’](https://www.theverge.com/2019/9/23/20879485/google-quantum-supremacy-qubits-nasa)
 
 ## Authors
 
