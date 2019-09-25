@@ -851,6 +851,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [AMD Outselling Intel After Analyzing 5-Year Historical Sales At Mindfactory](https://www.erudipedia.co.uk/2019/09/amd-outsold-intel-by-analyzing-5-year-historical-sales-at-mindfactory.html?m=1)
  - [Google may have just ushered in an era of ‘quantum supremacy’](https://www.theverge.com/2019/9/23/20879485/google-quantum-supremacy-qubits-nasa)
  - [Hacktoberfest Starts in Six Days](https://dev.to/devteam/hacktoberfest-starts-in-six-days-3hi2)
+ - [Xiaomi’s Mi Mix Alpha is almost entirely made of screen](https://www.theverge.com/circuitbreaker/2019/9/24/20881378/xiaomi-mi-mix-alpha-announced-wrap-around-screen)
 
 ## Authors
 
