@@ -852,6 +852,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Google may have just ushered in an era of ‘quantum supremacy’](https://www.theverge.com/2019/9/23/20879485/google-quantum-supremacy-qubits-nasa)
  - [Hacktoberfest Starts in Six Days](https://dev.to/devteam/hacktoberfest-starts-in-six-days-3hi2)
  - [Xiaomi’s Mi Mix Alpha is almost entirely made of screen](https://www.theverge.com/circuitbreaker/2019/9/24/20881378/xiaomi-mi-mix-alpha-announced-wrap-around-screen)
+ - [A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF](https://github.com/thecodingmachine/gotenberg)
 
 ## Authors
 
