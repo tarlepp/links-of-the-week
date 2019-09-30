@@ -859,6 +859,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  
 ### Week 40
 
+ - [API Platform 2.5: revamped Admin, new API testing tool, Next.js and Quasar app generators, PATCH and JSON Schema support, improved OpenAPI and GraphQL support](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
