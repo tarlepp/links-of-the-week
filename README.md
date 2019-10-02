@@ -861,6 +861,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [API Platform 2.5: revamped Admin, new API testing tool, Next.js and Quasar app generators, PATCH and JSON Schema support, improved OpenAPI and GraphQL support](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/)
  - [Analysis of Movement in Oral Sex Performed Upon Men](https://autoblow.com/bjpaper/)
+ - [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/)
 
 ## Authors
 
