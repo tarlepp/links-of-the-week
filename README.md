@@ -863,6 +863,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Analysis of Movement in Oral Sex Performed Upon Men](https://autoblow.com/bjpaper/)
  - [Days Since Last JavaScript Framework](https://dayssincelastjavascriptframework.com/)
  - [Playing For High Stakes](http://bradsruminations.blogspot.com/2010/04/playing-for-high-stakes.html)
+ - [Russian man sues Apple for 'turning him gay'](https://news.yahoo.com/russian-man-sues-apple-turning-him-gay-004121359.html)
 
 ## Authors
 
