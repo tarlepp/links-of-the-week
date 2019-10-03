@@ -865,6 +865,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Playing For High Stakes](http://bradsruminations.blogspot.com/2010/04/playing-for-high-stakes.html)
  - [Russian man sues Apple for 'turning him gay'](https://news.yahoo.com/russian-man-sues-apple-turning-him-gay-004121359.html)
  - [One Program Written in Python, Go, and Rust](http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/)
+ - [Odd things you find when you read the airplane safety information card](https://devblogs.microsoft.com/oldnewthing/20191003-01/?p=102961)
 
 ## Authors
 
