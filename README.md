@@ -867,6 +867,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [One Program Written in Python, Go, and Rust](http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/)
  - [Odd things you find when you read the airplane safety information card](https://devblogs.microsoft.com/oldnewthing/20191003-01/?p=102961)
  - [No ice. No stirrer. No glass.](https://twitter.com/TheGlenlivet/status/1179447297807147009)
+ - [Denormalise Your Database - Schema Design for Modern Database Systems](https://speakerdeck.com/alcaeus/denormalise-your-database-schema-design-for-modern-database-systems)
 
 ## Authors
 
