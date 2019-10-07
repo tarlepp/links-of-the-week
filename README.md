@@ -873,6 +873,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 41
 
  - [How to use external services with the Symfony Validator](https://www.goetas.com/blog/how-to-use-external-services-with-the-symfony-validator/)
+ - [Translation process automation with Symfony](https://locastic.com/blog/symfony-translation-process-automation/)
 
 ## Authors
 
