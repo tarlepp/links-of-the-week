@@ -64,7 +64,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 37](#week-37)
      * [Week 38](#week-38)
      * [Week 39](#week-39)
-     - [Week 40](#week-40)
+     * [Week 40](#week-40)
+     * [Week 41](#week-41)
   * [Authors](#authors)
   * [License](#license)
 
@@ -868,6 +869,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Odd things you find when you read the airplane safety information card](https://devblogs.microsoft.com/oldnewthing/20191003-01/?p=102961)
  - [No ice. No stirrer. No glass.](https://twitter.com/TheGlenlivet/status/1179447297807147009)
  - [Denormalise Your Database - Schema Design for Modern Database Systems](https://speakerdeck.com/alcaeus/denormalise-your-database-schema-design-for-modern-database-systems)
+
+### Week 41
+
+ - [How to use external services with the Symfony Validator](https://www.goetas.com/blog/how-to-use-external-services-with-the-symfony-validator/)
 
 ## Authors
 
