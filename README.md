@@ -874,6 +874,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [How to use external services with the Symfony Validator](https://www.goetas.com/blog/how-to-use-external-services-with-the-symfony-validator/)
  - [Translation process automation with Symfony](https://locastic.com/blog/symfony-translation-process-automation/)
+ - [Salesforce: Why we ditched Python for Google's Go language in Einstein Analytics](https://www.zdnet.com/article/salesforce-why-we-ditched-python-for-googles-go-language-in-einstein-analytics/)
 
 ## Authors
 
