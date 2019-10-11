@@ -877,6 +877,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Salesforce: Why we ditched Python for Google's Go language in Einstein Analytics](https://www.zdnet.com/article/salesforce-why-we-ditched-python-for-googles-go-language-in-einstein-analytics/)
  - [Denormalise Your Database - Schema Design for Modern Database Systems](https://speakerdeck.com/alcaeus/denormalise-your-database-schema-design-for-modern-database-systems)
  - [Survey results regarding form controls and components](http://gwhitworth.com/surveys/select/)
+ - [Vulcain](https://github.com/dunglas/vulcain)
 
 ## Authors
 
