@@ -878,6 +878,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Denormalise Your Database - Schema Design for Modern Database Systems](https://speakerdeck.com/alcaeus/denormalise-your-database-schema-design-for-modern-database-systems)
  - [Survey results regarding form controls and components](http://gwhitworth.com/surveys/select/)
  - [Vulcain](https://github.com/dunglas/vulcain)
+ - [MySQL Raytracer](http://www.pouet.net/prod.php?which=83222)
 
 ## Authors
 
