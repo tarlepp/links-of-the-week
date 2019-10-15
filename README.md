@@ -884,6 +884,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 42
 
  - [Sudo Flaw Lets Linux Users Run Commands As Root Even When They're Restricted](https://thehackernews.com/2019/10/linux-sudo-run-as-root-flaw.html)
+ - [json-statham](https://www.npmjs.com/package/json-statham)
 
 ## Authors
 
