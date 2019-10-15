@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 39](#week-39)
      * [Week 40](#week-40)
      * [Week 41](#week-41)
+     * [Week 42](#week-42)
   * [Authors](#authors)
   * [License](#license)
 
@@ -879,6 +880,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Survey results regarding form controls and components](http://gwhitworth.com/surveys/select/)
  - [Vulcain](https://github.com/dunglas/vulcain)
  - [MySQL Raytracer](http://www.pouet.net/prod.php?which=83222)
+ 
+### Week 42
+
+ - [Sudo Flaw Lets Linux Users Run Commands As Root Even When They're Restricted](https://thehackernews.com/2019/10/linux-sudo-run-as-root-flaw.html)
 
 ## Authors
 
