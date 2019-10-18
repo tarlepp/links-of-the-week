@@ -888,6 +888,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Timeouts](https://medium.com/manomano-tech/timeouts-f0ef6e625e6)
  - [Symfony bundle to isolate your app's doctrine database tests and improve the test performance](https://github.com/dmaicher/doctrine-test-bundle)
  - [PHP Pandas](https://daylerees.com/php-pandas/)
+ - [Rockstar](https://github.com/RockstarLang/rockstar)
 
 ## Authors
 
