@@ -890,6 +890,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP Pandas](https://daylerees.com/php-pandas/)
  - [Rockstar](https://github.com/RockstarLang/rockstar)
  - [Enterprise Waterfall](https://www.youtube.com/watch?v=Mq1MD5qXI08)
+ - [Art-of-Coding, an initiative to bring the demoscene onto the list of UNESCO intangible world cultural heritage as first digital culture](http://demoscene-the-art-of-coding.net/)
 
 ## Authors
 
