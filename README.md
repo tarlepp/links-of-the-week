@@ -896,6 +896,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 43
 
  - [PHPStan’s Baseline Feature Lets You Hold New Code to a Higher Standard](https://medium.com/@ondrejmirtes/phpstans-baseline-feature-lets-you-hold-new-code-to-a-higher-standard-e77d815a5dff)
+ - [How Frontend Developers Can Empower Designer’s Work](https://www.smashingmagazine.com/2019/10/frontend-developers-empower-designers-work/)
 
 ## Authors
 
