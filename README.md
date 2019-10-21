@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 40](#week-40)
      * [Week 41](#week-41)
      * [Week 42](#week-42)
+     * [Week 43](#week-43)
   * [Authors](#authors)
   * [License](#license)
 
@@ -891,6 +892,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rockstar](https://github.com/RockstarLang/rockstar)
  - [Enterprise Waterfall](https://www.youtube.com/watch?v=Mq1MD5qXI08)
  - [Art-of-Coding, an initiative to bring the demoscene onto the list of UNESCO intangible world cultural heritage as first digital culture](http://demoscene-the-art-of-coding.net/)
+
+### Week 43
+
+ - [PHPStan’s Baseline Feature Lets You Hold New Code to a Higher Standard](https://medium.com/@ondrejmirtes/phpstans-baseline-feature-lets-you-hold-new-code-to-a-higher-standard-e77d815a5dff)
 
 ## Authors
 
