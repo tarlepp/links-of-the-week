@@ -899,6 +899,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How Frontend Developers Can Empower Designer’s Work](https://www.smashingmagazine.com/2019/10/frontend-developers-empower-designers-work/)
  - [Nuxed Crypto - High Level Cryptoghraphy interface built in top of libsodium](https://github.com/nuxed/crypto)
  - [composer/xdebug-handler](https://packagist.org/packages/composer/xdebug-handler)
+ - [Let’s make that pull request](https://netgen.io/blog/let-s-make-that-pull-request)
 
 ## Authors
 
