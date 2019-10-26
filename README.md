@@ -903,6 +903,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 5: The Fast Track](https://www.kickstarter.com/projects/fabpot/symfony-5-the-fast-track)
  - [Discord Turned Into an Info-Stealing Backdoor by New Malware](https://www.bleepingcomputer.com/news/security/discord-turned-into-an-info-stealing-backdoor-by-new-malware/)
  - [Important Updates to our Terms of Service and Telemetry Services](https://gitlab.com/gitlab-org/gitaly/issues/2113)
+ - [PHuiP-FPizdaM](https://github.com/neex/phuip-fpizdam)
 
 ## Authors
 
