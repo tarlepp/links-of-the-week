@@ -68,6 +68,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 41](#week-41)
      * [Week 42](#week-42)
      * [Week 43](#week-43)
+     * [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -904,6 +905,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Discord Turned Into an Info-Stealing Backdoor by New Malware](https://www.bleepingcomputer.com/news/security/discord-turned-into-an-info-stealing-backdoor-by-new-malware/)
  - [Important Updates to our Terms of Service and Telemetry Services](https://gitlab.com/gitlab-org/gitaly/issues/2113)
  - [PHuiP-FPizdaM](https://github.com/neex/phuip-fpizdam)
+
+## Week 44
 
 ## Authors
 
