@@ -910,6 +910,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Concerns over ‘fake’ charity fundraiser for deaf people in Aberdeen](https://www.pressandjournal.co.uk/fp/news/aberdeenshire/1797918/concerns-over-fake-charity-fundraiser-for-deaf-people-in-aberdeen/)
  - [Australia wants to use face recognition for porn age verification](https://arstechnica.com/tech-policy/2019/10/australia-wants-to-use-face-recognition-for-porn-age-verification/)
+ - [The Complete Google Easter Eggs List That Will Make You Go Wow](https://cognitiveseo.com/blog/13616/google-easter-eggs/)
 
 ## Authors
 
