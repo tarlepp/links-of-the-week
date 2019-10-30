@@ -913,6 +913,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Complete Google Easter Eggs List That Will Make You Go Wow](https://cognitiveseo.com/blog/13616/google-easter-eggs/)
  - [Hackers are using a bug in PHP7 to remotely hijack web servers](https://thenextweb.com/dd/2019/10/27/hackers-are-using-a-bug-in-php7-to-remotely-hijack-web-servers/)
  - [The open source game console](https://www.lakka.tv/)
+ - [GitHub is blocked in Spain as the government attempts to silence Catalan protestors](https://reclaimthenet.org/github-spain-blocked-catalan-protests/)
 
 ## Authors
 
