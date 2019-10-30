@@ -912,6 +912,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Australia wants to use face recognition for porn age verification](https://arstechnica.com/tech-policy/2019/10/australia-wants-to-use-face-recognition-for-porn-age-verification/)
  - [The Complete Google Easter Eggs List That Will Make You Go Wow](https://cognitiveseo.com/blog/13616/google-easter-eggs/)
  - [Hackers are using a bug in PHP7 to remotely hijack web servers](https://thenextweb.com/dd/2019/10/27/hackers-are-using-a-bug-in-php7-to-remotely-hijack-web-servers/)
+ - [The open source game console](https://www.lakka.tv/)
 
 ## Authors
 
