@@ -914,6 +914,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hackers are using a bug in PHP7 to remotely hijack web servers](https://thenextweb.com/dd/2019/10/27/hackers-are-using-a-bug-in-php7-to-remotely-hijack-web-servers/)
  - [The open source game console](https://www.lakka.tv/)
  - [GitHub is blocked in Spain as the government attempts to silence Catalan protestors](https://reclaimthenet.org/github-spain-blocked-catalan-protests/)
+ - [How to disable the Listeners in Symfony](https://medium.com/@smaine.milianni/how-to-disable-the-listeners-in-symfony-3d30de1d6929)
 
 ## Authors
 
