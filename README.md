@@ -915,6 +915,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The open source game console](https://www.lakka.tv/)
  - [GitHub is blocked in Spain as the government attempts to silence Catalan protestors](https://reclaimthenet.org/github-spain-blocked-catalan-protests/)
  - [How to disable the Listeners in Symfony](https://medium.com/@smaine.milianni/how-to-disable-the-listeners-in-symfony-3d30de1d6929)
+ - [Tweaking Docker for Mac performance for PHP and Symfony](https://medium.com/@somwhatparanoid/tweaking-docker-for-mac-performance-for-php-and-symfony-b63f3395a1da)
 
 ## Authors
 
