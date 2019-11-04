@@ -921,6 +921,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 45
 
  - [PHP RFC: Weak maps](https://wiki.php.net/rfc/weak_maps)
+ - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)
 
 ## Authors
 
