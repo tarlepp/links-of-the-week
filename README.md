@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 42](#week-42)
      * [Week 43](#week-43)
      * [Week 44](#week-44)
+     * [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -916,6 +917,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GitHub is blocked in Spain as the government attempts to silence Catalan protestors](https://reclaimthenet.org/github-spain-blocked-catalan-protests/)
  - [How to disable the Listeners in Symfony](https://medium.com/@smaine.milianni/how-to-disable-the-listeners-in-symfony-3d30de1d6929)
  - [Tweaking Docker for Mac performance for PHP and Symfony](https://medium.com/@somwhatparanoid/tweaking-docker-for-mac-performance-for-php-and-symfony-b63f3395a1da)
+
+## Week 45
+
+ - [PHP RFC: Weak maps](https://wiki.php.net/rfc/weak_maps)
 
 ## Authors
 
