@@ -924,6 +924,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)
  - [Talk to Transformer](https://talktotransformer.com/)
  - [Test Microsoft Edge (EdgeHTML) and versions of IE8 through IE11 using free virtual machines you download and manage locally](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+ - [Browserslist is a Good Idea](https://css-tricks.com/browserlist-good-idea/)
 
 ## Authors
 
