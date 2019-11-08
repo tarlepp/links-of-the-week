@@ -927,6 +927,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Browserslist is a Good Idea](https://css-tricks.com/browserlist-good-idea/)
  - [NPM today stands for Now Pay Me: JavaScript packaging biz debuts conduit for funding open-source coders](https://www.theregister.co.uk/2019/11/06/npm_fund/)
  - [LaTeX, Evolved - The easy to use, online, collaborative LaTeX editor](https://www.overleaf.com/)
+ - [We are Locutus](https://locutus.io/)
 
 ## Authors
 
