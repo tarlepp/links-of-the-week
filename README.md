@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 43](#week-43)
      * [Week 44](#week-44)
      * [Week 45](#week-45)
+     * [Week 46](#week-46)
   * [Authors](#authors)
   * [License](#license)
 
@@ -928,6 +929,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [NPM today stands for Now Pay Me: JavaScript packaging biz debuts conduit for funding open-source coders](https://www.theregister.co.uk/2019/11/06/npm_fund/)
  - [LaTeX, Evolved - The easy to use, online, collaborative LaTeX editor](https://www.overleaf.com/)
  - [We are Locutus](https://locutus.io/)
+
+## Week 46
 
 ## Authors
 
