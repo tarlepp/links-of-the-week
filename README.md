@@ -932,7 +932,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ## Week 46
 
- - [Symfony 4.4.0-BETA1 release](https://symfony.com/blog/symfony-4-4-0-beta1-released?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+symfony%2Fblog+%28Symfony+Blog%29)
+ - [Symfony 5.0.0-BETA1 released](https://symfony.com/blog/symfony-5-0-0-beta1-released)
 
 ## Authors
 
