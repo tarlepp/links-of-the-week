@@ -933,6 +933,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 46
 
  - [Symfony 5.0.0-BETA1 released](https://symfony.com/blog/symfony-5-0-0-beta1-released)
+ - [PHP Performance Trivia](https://www.slideshare.net/nikita_ppv/php-performance-trivia/nikita_ppv/php-performance-trivia)
 
 ## Authors
 
