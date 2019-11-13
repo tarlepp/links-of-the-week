@@ -934,6 +934,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Symfony 5.0.0-BETA1 released](https://symfony.com/blog/symfony-5-0-0-beta1-released)
  - [PHP Performance Trivia](https://www.slideshare.net/nikita_ppv/php-performance-trivia/nikita_ppv/php-performance-trivia)
+ - [Symfony 5 - Speed](https://twitter.com/TobiasNyholm/status/1192199156066062339)
 
 ## Authors
 
