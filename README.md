@@ -939,6 +939,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to visualize Symfony logs in dev with Elasticsearch and Kibana](https://jolicode.com/blog/how-to-visualize-symfony-logs-in-dev-with-elasticsearch-and-kibana)
  - [Modernizing PHP Applications with Golang](https://roadrunner.dev/)
  - [Living In The Age of Outrage](https://markmanson.net/outrage)
+ - [Cycle ORM](https://cycle-orm.dev/)
 
 ## Authors
 
