@@ -937,6 +937,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 5 - Speed](https://twitter.com/TobiasNyholm/status/1192199156066062339)
  - [The Key to Finding Happiness: Stop Trying to Be Happy](https://markmanson.net/stop-trying-to-be-happy)
  - [How to visualize Symfony logs in dev with Elasticsearch and Kibana](https://jolicode.com/blog/how-to-visualize-symfony-logs-in-dev-with-elasticsearch-and-kibana)
+ - [Modernizing PHP Applications with Golang](https://roadrunner.dev/)
 
 ## Authors
 
