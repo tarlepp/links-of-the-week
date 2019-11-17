@@ -940,6 +940,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Modernizing PHP Applications with Golang](https://roadrunner.dev/)
  - [Living In The Age of Outrage](https://markmanson.net/outrage)
  - [Cycle ORM](https://cycle-orm.dev/)
+ - [Symfony on Google Cloud Run](https://dev.to/_mertsimsek/symfony-on-google-cloud-run-pca)
 
 ## Authors
 
