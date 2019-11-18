@@ -71,6 +71,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 44](#week-44)
      * [Week 45](#week-45)
      * [Week 46](#week-46)
+     * [Week 47](#week-47)
   * [Authors](#authors)
   * [License](#license)
 
@@ -941,6 +942,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Living In The Age of Outrage](https://markmanson.net/outrage)
  - [Cycle ORM](https://cycle-orm.dev/)
  - [Symfony on Google Cloud Run](https://dev.to/_mertsimsek/symfony-on-google-cloud-run-pca)
+
+## Week 47
+
+ - [Setting up together PHPStorm, PHPUnit, Xdebug and Docker](https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html)
 
 ## Authors
 
