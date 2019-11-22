@@ -946,6 +946,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 47
 
  - [Setting up together PHPStorm, PHPUnit, Xdebug and Docker](https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html)
+ - [purrli](https://purrli.com/)
 
 ## Authors
 
