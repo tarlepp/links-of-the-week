@@ -952,6 +952,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 48
 
  - [Is open-source sustainable?](https://medium.com/@serheydolgushev/is-open-source-sustainable-97268db279a9)
+ - [HTTP Cats](https://http.cat/)
 
 ## Authors
 
