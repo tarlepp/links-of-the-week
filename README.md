@@ -953,6 +953,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Is open-source sustainable?](https://medium.com/@serheydolgushev/is-open-source-sustainable-97268db279a9)
  - [HTTP Cats](https://http.cat/)
+ - [Psalm supports PHP 7.4](https://psalm.dev/articles/psalm-supports-php-7-4)
 
 ## Authors
 
