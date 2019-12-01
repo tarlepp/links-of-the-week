@@ -956,6 +956,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Psalm supports PHP 7.4](https://psalm.dev/articles/psalm-supports-php-7-4)
  - [PHP 7.4 FFI: What you need to know](https://jolicode.com/blog/php-7-4-ffi-what-you-need-to-know)
  - [zxcvbn: Low-Budget Password Strength Estimation](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler)
+ - [SymfonyCon 2019 in a nutshell: Symfony 5.0, components and performance](https://ezplatform.com/blog/symfonycon-2019-symfony-5.0-components-performance)
 
 ## Authors
 
