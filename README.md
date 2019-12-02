@@ -73,6 +73,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 46](#week-46)
      * [Week 47](#week-47)
      * [Week 48](#week-48)
+     * [Week 49](#week-49)
   * [Authors](#authors)
   * [License](#license)
 
@@ -958,6 +959,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [zxcvbn: Low-Budget Password Strength Estimation](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler)
  - [SymfonyCon 2019 in a nutshell: Symfony 5.0, components and performance](https://ezplatform.com/blog/symfonycon-2019-symfony-5.0-components-performance)
  - [Going to a PHP conference as a Java Developer](https://dev.to/remcobuddelmeijer/going-to-a-php-conference-as-a-java-developer-12f5)
+
+## Week 49
 
 ## Authors
 
