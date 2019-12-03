@@ -962,6 +962,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ## Week 49
 
+ - [Generics in PHP using PHPDocs](https://medium.com/@ondrejmirtes/generics-in-php-using-phpdocs-14e7301953)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
