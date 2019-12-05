@@ -966,6 +966,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Uncovering PHP bugs with @template](https://medium.com/vimeo-engineering-blog/uncovering-php-bugs-with-template-a4ca46eb9aeb)
  - [Generate locators from tagged services with Symfony 4.3](https://olvlvl.com/2019-09-symfony-tagged-service-locator)
  - [PHPStan 0.12 Released!](https://medium.com/@ondrejmirtes/phpstan-0-12-released-f1a88036535d)
+ - [slevomat/coding-standard 6.0.0](https://github.com/slevomat/coding-standard/releases/tag/6.0.0)
 
 ## Authors
 
