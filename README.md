@@ -967,6 +967,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Generate locators from tagged services with Symfony 4.3](https://olvlvl.com/2019-09-symfony-tagged-service-locator)
  - [PHPStan 0.12 Released!](https://medium.com/@ondrejmirtes/phpstan-0-12-released-f1a88036535d)
  - [slevomat/coding-standard 6.0.0](https://github.com/slevomat/coding-standard/releases/tag/6.0.0)
+ - [Benchmarking PHP 7.3 vs 7.4 with Symfony 4.4 (+ trouble with OPCache Preloading)](https://ezplatform.com/blog/benchmarking-php-7.3-vs-7.4-with-symfony-4.4-trouble-with-opcache-preloading)
 
 ## Authors
 
