@@ -74,6 +74,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 47](#week-47)
      * [Week 48](#week-48)
      * [Week 49](#week-49)
+     * [Week 50](#week-50)
   * [Authors](#authors)
   * [License](#license)
 
@@ -970,6 +971,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Benchmarking PHP 7.3 vs 7.4 with Symfony 4.4 (+ trouble with OPCache Preloading)](https://ezplatform.com/blog/benchmarking-php-7.3-vs-7.4-with-symfony-4.4-trouble-with-opcache-preloading)
  - [PHP or Type Safety: Pick any two](https://psalm.dev/articles/php-or-type-safety-pick-any-two)
  - [Introducing Open Repos: a free product to aid open source development](https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development)
+
+## Week 50
+
+ - [Check if a number is equal to 13.](https://github.com/jezen/is-thirteen)
 
 ## Authors
 
