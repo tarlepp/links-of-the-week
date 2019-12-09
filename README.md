@@ -971,6 +971,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Benchmarking PHP 7.3 vs 7.4 with Symfony 4.4 (+ trouble with OPCache Preloading)](https://ezplatform.com/blog/benchmarking-php-7.3-vs-7.4-with-symfony-4.4-trouble-with-opcache-preloading)
  - [PHP or Type Safety: Pick any two](https://psalm.dev/articles/php-or-type-safety-pick-any-two)
  - [Introducing Open Repos: a free product to aid open source development](https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development)
+ - [Design-first approach to building APIs](https://blog.undabot.com/design-first-approach-to-building-apis-cdc24799c2db)
 
 ## Week 50
 
