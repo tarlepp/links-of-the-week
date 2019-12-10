@@ -976,6 +976,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 50
 
  - [Check if a number is equal to 13.](https://github.com/jezen/is-thirteen)
+ - [Why using Yoda conditions you should probably not be](https://dev.to/greg0ire/why-using-yoda-conditions-you-should-probably-not)
 
 ## Authors
 
