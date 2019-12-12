@@ -981,6 +981,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Easiest Way To Document Your Project](https://daux.io/)
  - [Sustainability in Software Engineering](https://24daysindecember.net/2019/12/12/sustainability-in-software-engineering/)
  - [Compare salaries and career levels across companies | Levels.fyi](https://www.levels.fyi/)
+ - [Russian Police Raid NGINX Moscow Office](https://news.slashdot.org/story/19/12/12/175245/russian-police-raid-nginx-moscow-office)
 
 ## Authors
 
