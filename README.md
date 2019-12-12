@@ -979,6 +979,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why using Yoda conditions you should probably not be](https://dev.to/greg0ire/why-using-yoda-conditions-you-should-probably-not)
  - [Is Silex back? Oh no!](https://twitter.com/nicolasgrekas/status/1203678779782119424)
  - [The Easiest Way To Document Your Project](https://daux.io/)
+ - [Sustainability in Software Engineering](https://24daysindecember.net/2019/12/12/sustainability-in-software-engineering/)
 
 ## Authors
 
