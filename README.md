@@ -980,6 +980,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Is Silex back? Oh no!](https://twitter.com/nicolasgrekas/status/1203678779782119424)
  - [The Easiest Way To Document Your Project](https://daux.io/)
  - [Sustainability in Software Engineering](https://24daysindecember.net/2019/12/12/sustainability-in-software-engineering/)
+ - [Compare salaries and career levels across companies | Levels.fyi](https://www.levels.fyi/)
 
 ## Authors
 
