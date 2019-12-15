@@ -983,6 +983,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Compare salaries and career levels across companies | Levels.fyi](https://www.levels.fyi/)
  - [Russian Police Raid NGINX Moscow Office](https://news.slashdot.org/story/19/12/12/175245/russian-police-raid-nginx-moscow-office)
  - [How to Get Rid of Technical Debt or What We Would Have Done Differently 2 Years ago](https://www.tomasvotruba.cz/blog/2019/12/09/how-to-get-rid-of-technical-debt-or-what-we-would-have-done-differently-2-years-ago/)
+ - [Symfony 5 — RabbitMQ and 2 microservices](https://medium.com/@danielrainbowtcza/symfony-5-rabbitmq-and-2-microservices-5658762d0fb8)
 
 ## Authors
 
