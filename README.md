@@ -75,6 +75,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 48](#week-48)
      * [Week 49](#week-49)
      * [Week 50](#week-50)
+     * [Week 51](#week-51)
   * [Authors](#authors)
   * [License](#license)
 
@@ -985,6 +986,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to Get Rid of Technical Debt or What We Would Have Done Differently 2 Years ago](https://www.tomasvotruba.cz/blog/2019/12/09/how-to-get-rid-of-technical-debt-or-what-we-would-have-done-differently-2-years-ago/)
  - [Symfony 5 — RabbitMQ and 2 microservices](https://medium.com/@danielrainbowtcza/symfony-5-rabbitmq-and-2-microservices-5658762d0fb8)
  - [Using Amazon CloudFront on Platform.sh](https://www.contextualcode.com/Blog/using-amazon-cloudfront-on-platform.sh)
+
+## Week 51
+
+ - [Array manipulation library for PHP, called Arrayy!](https://github.com/voku/Arrayy)
 
 ## Authors
 
