@@ -991,6 +991,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Array manipulation library for PHP, called Arrayy!](https://github.com/voku/Arrayy)
  - [Fancy Macaroni](https://thepioneerwoman.com/cooking/fancy-macaroni/)
+ - [Timo Bakx - Talk SymfonyCon](https://github.com/TimoBakx/talk-dependencyinjection/blob/master/talk/talk.md)
 
 ## Authors
 
