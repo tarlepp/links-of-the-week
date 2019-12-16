@@ -990,6 +990,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 51
 
  - [Array manipulation library for PHP, called Arrayy!](https://github.com/voku/Arrayy)
+ - [Fancy Macaroni](https://thepioneerwoman.com/cooking/fancy-macaroni/)
 
 ## Authors
 
