@@ -993,6 +993,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Fancy Macaroni](https://thepioneerwoman.com/cooking/fancy-macaroni/)
  - [Timo Bakx - Talk SymfonyCon](https://github.com/TimoBakx/talk-dependencyinjection/blob/master/talk/talk.md)
  - [World Wide Web Consortium (W3C) brings a new language to the Web as WebAssembly becomes a W3C Recommendation](https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en)
+ - [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
 
 ## Authors
 
