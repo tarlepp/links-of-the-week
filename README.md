@@ -995,6 +995,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [World Wide Web Consortium (W3C) brings a new language to the Web as WebAssembly becomes a W3C Recommendation](https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en)
  - [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
  - [Crafty Code Coverage](https://derickrethans.nl/crafty-code-coverage.html)
+ - [Implementing a honeypot in a Symfony form](https://www.strangebuzz.com/en/blog/implementing-a-honeypot-in-a-symfony-form)
 
 ## Authors
 
