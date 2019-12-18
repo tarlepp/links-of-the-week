@@ -996,6 +996,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
  - [Crafty Code Coverage](https://derickrethans.nl/crafty-code-coverage.html)
  - [Implementing a honeypot in a Symfony form](https://www.strangebuzz.com/en/blog/implementing-a-honeypot-in-a-symfony-form)
+ - [PHP RFC: Weak maps](https://wiki.php.net/rfc/weak_maps)
 
 ## Authors
 
