@@ -998,6 +998,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Implementing a honeypot in a Symfony form](https://www.strangebuzz.com/en/blog/implementing-a-honeypot-in-a-symfony-form)
  - [PHP RFC: Weak maps](https://wiki.php.net/rfc/weak_maps)
  - [How to break an entire ecosystem by publishing a release](https://medium.com/@alcaeus/how-to-break-an-entire-ecosystem-by-publishing-a-release-b6aaab2b8aaa)
+ - [Symfony 4.4 Messenger Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-4-messenger-cheat-sheet-5ca99cbba4a8)
 
 ## Authors
 
