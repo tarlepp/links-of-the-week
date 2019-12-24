@@ -1004,6 +1004,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ## Week 52
 
  - [Moving the documentation to git: Current status](https://news-web.php.net/php.doc/969387428)
+ - [How to test non-deterministic code?](https://www.orbitale.io/2019/12/24/how-to-test-non-deterministic-code.html)
 
 ## Authors
 
