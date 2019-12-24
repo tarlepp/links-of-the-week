@@ -76,6 +76,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 49](#week-49)
      * [Week 50](#week-50)
      * [Week 51](#week-51)
+     * [Week 52](#week-52)
   * [Authors](#authors)
   * [License](#license)
 
@@ -999,6 +1000,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Weak maps](https://wiki.php.net/rfc/weak_maps)
  - [How to break an entire ecosystem by publishing a release](https://medium.com/@alcaeus/how-to-break-an-entire-ecosystem-by-publishing-a-release-b6aaab2b8aaa)
  - [Symfony 4.4 Messenger Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-4-messenger-cheat-sheet-5ca99cbba4a8)
+ 
+## Week 52
+
+ - [Moving the documentation to git: Current status](https://news-web.php.net/php.doc/969387428)
 
 ## Authors
 
