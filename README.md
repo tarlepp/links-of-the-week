@@ -1007,6 +1007,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to test non-deterministic code?](https://www.orbitale.io/2019/12/24/how-to-test-non-deterministic-code.html)
  - [What are your Symfony best practices?](https://www.strangebuzz.com/en/blog/what-are-your-symfony-best-practices)
  - [prooph CQRS and Event Sourcing components for PHP](http://getprooph.org/)
+ - [A pragmatic event sourcing library for PHP with a focus on developer experience](https://eventsauce.io/)
 
 ## Authors
 
