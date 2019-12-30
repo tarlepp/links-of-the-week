@@ -1017,6 +1017,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [A Desktop UI Library - Element, a Vue 2.0 based component library for developers, designers and product managers](https://element.eleme.io/)
  - [Pornhub - The 2019 Year in Review](https://www.pornhub.com/insights/2019-year-in-review)
+ - [Welcome to Blur Busters UFO Motion Tests](https://testufo.com/)
 
 ## Authors
 
