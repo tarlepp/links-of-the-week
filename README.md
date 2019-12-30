@@ -77,6 +77,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 50](#week-50)
      * [Week 51](#week-51)
      * [Week 52](#week-52)
+  * [2019](#2019)
+     * [Week 1](#week-1)
   * [Authors](#authors)
   * [License](#license)
 
@@ -914,7 +916,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Important Updates to our Terms of Service and Telemetry Services](https://gitlab.com/gitlab-org/gitaly/issues/2113)
  - [PHuiP-FPizdaM](https://github.com/neex/phuip-fpizdam)
 
-## Week 44
+### Week 44
 
  - [Concerns over ‘fake’ charity fundraiser for deaf people in Aberdeen](https://www.pressandjournal.co.uk/fp/news/aberdeenshire/1797918/concerns-over-fake-charity-fundraiser-for-deaf-people-in-aberdeen/)
  - [Australia wants to use face recognition for porn age verification](https://arstechnica.com/tech-policy/2019/10/australia-wants-to-use-face-recognition-for-porn-age-verification/)
@@ -925,7 +927,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to disable the Listeners in Symfony](https://medium.com/@smaine.milianni/how-to-disable-the-listeners-in-symfony-3d30de1d6929)
  - [Tweaking Docker for Mac performance for PHP and Symfony](https://medium.com/@somwhatparanoid/tweaking-docker-for-mac-performance-for-php-and-symfony-b63f3395a1da)
 
-## Week 45
+### Week 45
 
  - [PHP RFC: Weak maps](https://wiki.php.net/rfc/weak_maps)
  - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/)
@@ -936,7 +938,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [LaTeX, Evolved - The easy to use, online, collaborative LaTeX editor](https://www.overleaf.com/)
  - [We are Locutus](https://locutus.io/)
 
-## Week 46
+### Week 46
 
  - [Symfony 5.0.0-BETA1 released](https://symfony.com/blog/symfony-5-0-0-beta1-released)
  - [PHP Performance Trivia](https://www.slideshare.net/nikita_ppv/php-performance-trivia/nikita_ppv/php-performance-trivia)
@@ -948,12 +950,12 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Cycle ORM](https://cycle-orm.dev/)
  - [Symfony on Google Cloud Run](https://dev.to/_mertsimsek/symfony-on-google-cloud-run-pca)
 
-## Week 47
+### Week 47
 
  - [Setting up together PHPStorm, PHPUnit, Xdebug and Docker](https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html)
  - [purrli](https://purrli.com/)
  
-## Week 48
+### Week 48
 
  - [Is open-source sustainable?](https://medium.com/@serheydolgushev/is-open-source-sustainable-97268db279a9)
  - [HTTP Cats](https://http.cat/)
@@ -963,7 +965,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SymfonyCon 2019 in a nutshell: Symfony 5.0, components and performance](https://ezplatform.com/blog/symfonycon-2019-symfony-5.0-components-performance)
  - [Going to a PHP conference as a Java Developer](https://dev.to/remcobuddelmeijer/going-to-a-php-conference-as-a-java-developer-12f5)
 
-## Week 49
+### Week 49
 
  - [Generics in PHP using PHPDocs](https://medium.com/@ondrejmirtes/generics-in-php-using-phpdocs-14e7301953)
  - [Uncovering PHP bugs with @template](https://medium.com/vimeo-engineering-blog/uncovering-php-bugs-with-template-a4ca46eb9aeb)
@@ -975,7 +977,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing Open Repos: a free product to aid open source development](https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development)
  - [Design-first approach to building APIs](https://blog.undabot.com/design-first-approach-to-building-apis-cdc24799c2db)
 
-## Week 50
+### Week 50
 
  - [Check if a number is equal to 13.](https://github.com/jezen/is-thirteen)
  - [Why using Yoda conditions you should probably not be](https://dev.to/greg0ire/why-using-yoda-conditions-you-should-probably-not)
@@ -988,7 +990,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 5 — RabbitMQ and 2 microservices](https://medium.com/@danielrainbowtcza/symfony-5-rabbitmq-and-2-microservices-5658762d0fb8)
  - [Using Amazon CloudFront on Platform.sh](https://www.contextualcode.com/Blog/using-amazon-cloudfront-on-platform.sh)
 
-## Week 51
+### Week 51
 
  - [Array manipulation library for PHP, called Arrayy!](https://github.com/voku/Arrayy)
  - [Fancy Macaroni](https://thepioneerwoman.com/cooking/fancy-macaroni/)
@@ -1001,13 +1003,19 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to break an entire ecosystem by publishing a release](https://medium.com/@alcaeus/how-to-break-an-entire-ecosystem-by-publishing-a-release-b6aaab2b8aaa)
  - [Symfony 4.4 Messenger Cheat Sheet](https://medium.com/@andreiabohner/symfony-4-4-messenger-cheat-sheet-5ca99cbba4a8)
  
-## Week 52
+### Week 52
 
  - [Moving the documentation to git: Current status](https://news-web.php.net/php.doc/969387428)
  - [How to test non-deterministic code?](https://www.orbitale.io/2019/12/24/how-to-test-non-deterministic-code.html)
  - [What are your Symfony best practices?](https://www.strangebuzz.com/en/blog/what-are-your-symfony-best-practices)
  - [prooph CQRS and Event Sourcing components for PHP](http://getprooph.org/)
  - [A pragmatic event sourcing library for PHP with a focus on developer experience](https://eventsauce.io/)
+
+## 2020
+
+### Week 1
+
+ - [A Desktop UI Library - Element, a Vue 2.0 based component library for developers, designers and product managers](https://element.eleme.io/)
 
 ## Authors
 
