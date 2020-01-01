@@ -1019,6 +1019,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pornhub - The 2019 Year in Review](https://www.pornhub.com/insights/2019-year-in-review)
  - [Welcome to Blur Busters UFO Motion Tests](https://testufo.com/)
  - [a GitHub App that keeps your forks up-to-date with upstream via automated pull requests](https://github.com/apps/pull)
+ - [Symfony 2010s Decade in Review](https://symfony.com/blog/symfony-2010s-decade-in-review)
 
 ## Authors
 
