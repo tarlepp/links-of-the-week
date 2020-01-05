@@ -1021,6 +1021,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [a GitHub App that keeps your forks up-to-date with upstream via automated pull requests](https://github.com/apps/pull)
  - [Symfony 2010s Decade in Review](https://symfony.com/blog/symfony-2010s-decade-in-review)
  - [How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
+ - [Hashing passwords on the server-side, a dead end?](https://medium.com/@nicolas.grekas/hashing-passwords-on-the-server-side-a-dead-end-82669ee0253a?)
 
 ## Authors
 
