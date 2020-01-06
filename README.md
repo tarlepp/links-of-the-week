@@ -77,8 +77,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 50](#week-50)
      * [Week 51](#week-51)
      * [Week 52](#week-52)
-  * [2019](#2019)
+  * [2020](#2020)
      * [Week 1](#week-1)
+     * [Week 2](#week-2)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1021,7 +1022,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [a GitHub App that keeps your forks up-to-date with upstream via automated pull requests](https://github.com/apps/pull)
  - [Symfony 2010s Decade in Review](https://symfony.com/blog/symfony-2010s-decade-in-review)
  - [How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
- - [Hashing passwords on the server-side, a dead end?](https://medium.com/@nicolas.grekas/hashing-passwords-on-the-server-side-a-dead-end-82669ee0253a?)
+ - [Hashing passwords on the server-side, a dead end?](https://medium.com/@nicolas.grekas/hashing-passwords-on-the-server-side-a-dead-end-82669ee0253a)
+
+### Week 2
 
 ## Authors
 
