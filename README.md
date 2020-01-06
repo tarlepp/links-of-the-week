@@ -1026,6 +1026,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 2
 
+ - [Rules for working with dynamic arrays and custom collection classes](https://matthiasnoback.nl/2020/01/rules-for-working-with-arrays-and-custom-collection-classes-in-php/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
