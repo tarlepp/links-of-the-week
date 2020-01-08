@@ -1030,6 +1030,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How Finland’s fake four-day week became a ‘fact’ in Europe’s media](https://newsnowfinland.fi/politics/how-finlands-fake-four-day-week-became-a-fact-in-europes-media)
  - [SHA-1 is a Shambles](https://sha-mbles.github.io/)
  - [The ultimate guide for Symfony 4 + Docker Compose + Traefik 2](https://medium.com/caendra-tech/the-ultimate-guide-for-symfony-4-docker-compose-traefik-2-69227ad3be0b)
+ - [Introducing Docker Starter 2.0](https://jolicode.com/blog/introducing-docker-starter-2-0)
 
 ## Authors
 
