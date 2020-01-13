@@ -80,6 +80,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2020](#2020)
      * [Week 1](#week-1)
      * [Week 2](#week-2)
+     * [Week 3](#week-3)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1032,6 +1033,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The ultimate guide for Symfony 4 + Docker Compose + Traefik 2](https://medium.com/caendra-tech/the-ultimate-guide-for-symfony-4-docker-compose-traefik-2-69227ad3be0b)
  - [Introducing Docker Starter 2.0](https://jolicode.com/blog/introducing-docker-starter-2-0)
  - [What are the benefits of Phava and why do we use it for bunq?](https://medium.com/bunq-developers-corner/what-are-the-benefits-of-phava-and-why-do-we-use-it-for-bunq-cd392d852b57)
+
+### Week 3
+
+ - [Seven Commands to Bulletproof Your Symfony Application CI Build](https://kamilkokot.com/seven-commands-to-bulletproof-your-symfony-application-ci-build)
 
 ## Authors
 
