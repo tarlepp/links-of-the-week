@@ -1037,6 +1037,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 3
 
  - [Seven Commands to Bulletproof Your Symfony Application CI Build](https://kamilkokot.com/seven-commands-to-bulletproof-your-symfony-application-ci-build)
+ - [The Beer O'Clock Clock](https://www.beeroclock.site/)
 
 ## Authors
 
