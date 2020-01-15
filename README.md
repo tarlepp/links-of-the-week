@@ -1041,6 +1041,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Marco Pivetta «Extremely defensive PHP» | CODEiD (11.08.2018)](https://www.youtube.com/watch?v=Gl9td0zGLhw)
  - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
  - [Doctrine MultiTenancy](https://github.com/rentpost/doctrine-multi-tenancy)
+ - [PHP micro-optimization. Variable boolean cast VS !empty.](https://www.contextualcode.com/Blog/php-micro-optimization.-variable-boolean-cast-vs-!empty)
 
 ## Authors
 
