@@ -1042,6 +1042,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
  - [Doctrine MultiTenancy](https://github.com/rentpost/doctrine-multi-tenancy)
  - [PHP micro-optimization. Variable boolean cast VS !empty.](https://www.contextualcode.com/Blog/php-micro-optimization.-variable-boolean-cast-vs-!empty)
+ - [Grant on Permissions, not Roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
 
 ## Authors
 
