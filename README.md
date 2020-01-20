@@ -81,6 +81,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 1](#week-1)
      * [Week 2](#week-2)
      * [Week 3](#week-3)
+     * [Week 4](#week-4)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1043,6 +1044,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine MultiTenancy](https://github.com/rentpost/doctrine-multi-tenancy)
  - [PHP micro-optimization. Variable boolean cast VS !empty.](https://www.contextualcode.com/Blog/php-micro-optimization.-variable-boolean-cast-vs-!empty)
  - [Grant on Permissions, not Roles](https://wouterj.nl/2020/01/grant-on-permissions-not-roles)
+
+### Week 4
+
+ - [Battle log: a deep dive in Symfony stack in search of optimizations 1/n](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-1-n)
 
 ## Authors
 
