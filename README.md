@@ -1049,6 +1049,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Battle log: a deep dive in Symfony stack in search of optimizations 1/n](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-1-n)
  - [Dixons Carphone gets its sales figures the wrong way round](https://www.bbc.com/news/business-51187979)
+ - [Pornography Can Ruin Your Sex Life | Mark Manson](https://markmanson.net/pornography-can-ruin-your-sex-life)
 
 ## Authors
 
