@@ -1051,6 +1051,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dixons Carphone gets its sales figures the wrong way round](https://www.bbc.com/news/business-51187979)
  - [Pornography Can Ruin Your Sex Life | Mark Manson](https://markmanson.net/pornography-can-ruin-your-sex-life)
  - [The Wall of Technical Debt](http://verraes.net/2020/01/wall-of-technical-debt/)
+ - [Introducing Phippy and Friends](https://www.cncf.io/phippy/)
 
 ## Authors
 
