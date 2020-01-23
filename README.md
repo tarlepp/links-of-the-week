@@ -1052,6 +1052,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pornography Can Ruin Your Sex Life | Mark Manson](https://markmanson.net/pornography-can-ruin-your-sex-life)
  - [The Wall of Technical Debt](http://verraes.net/2020/01/wall-of-technical-debt/)
  - [Introducing Phippy and Friends](https://www.cncf.io/phippy/)
+ - [Battle log: a deep dive in Symfony stack in search of optimizations 2/n](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n)
 
 ## Authors
 
