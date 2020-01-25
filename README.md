@@ -1054,6 +1054,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing Phippy and Friends](https://www.cncf.io/phippy/)
  - [Battle log: a deep dive in Symfony stack in search of optimizations 2/n](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n)
  - [Deno: Will It Replace Node.JS?](https://www.youtube.com/watch?v=lcoU9jtsK24)
+ - [Introducing Yarn 2 ! 🧶🌟](https://dev.to/arcanis/introducing-yarn-2-4eh1)
 
 ## Authors
 
