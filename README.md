@@ -82,6 +82,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 2](#week-2)
      * [Week 3](#week-3)
      * [Week 4](#week-4)
+     * [Week 5](#week-5)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1056,6 +1057,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Deno: Will It Replace Node.JS?](https://www.youtube.com/watch?v=lcoU9jtsK24)
  - [Introducing Yarn 2 ! 🧶🌟](https://dev.to/arcanis/introducing-yarn-2-4eh1)
  - [Pick. Squash. Drop. Rebase! (Comic)](https://dev.to/erikaheidi/pick-squash-drop-rebase-comic-607)
+
+### Week 5
 
 ## Authors
 
