@@ -1060,6 +1060,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 5
 
+ - [Docker for Mac Performance using NFS (Updated for OSX Catalina)](https://vivait.co.uk/labs/docker-for-mac-performance-using-nfs)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
