@@ -1062,6 +1062,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Docker for Mac Performance using NFS (Updated for OSX Catalina)](https://vivait.co.uk/labs/docker-for-mac-performance-using-nfs)
  - [Aitoa menoa](https://vimeo.com/280998272)
+ - [ZeroVer: 0-based Versioning](https://0ver.org/)
 
 ## Authors
 
