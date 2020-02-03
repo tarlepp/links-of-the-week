@@ -83,6 +83,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 3](#week-3)
      * [Week 4](#week-4)
      * [Week 5](#week-5)
+     * [Week 6](#week-6)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1065,6 +1066,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [ZeroVer: 0-based Versioning](https://0ver.org/)
  - [Exploit](https://github.com/mm0r1/exploits/blob/master/php7-backtrace-bypass/exploit.php?fbclid=IwAR1MiPKZxMICgzXLmvYsvsBsHtXmmZ6upNtV2FWL36qGZ8sIlAcDawapYbs)
  - [24 hours left to get your code into the Arctic Code Vault!](https://twitter.com/github/status/1223878978227834880)
+
+### Week 6
 
 ## Authors
 
