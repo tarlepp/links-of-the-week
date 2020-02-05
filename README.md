@@ -1072,6 +1072,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
  - [Space Jam](https://www.spacejam.com/)
  - [iHateRegex - regex cheatsheet for haters](http://ihateregex.io/)
+ - [YAML Hell in DevOps](http://ithrowexceptions.com/2020/02/04/yaml-hell-in-devops.html)
 
 ## Authors
 
