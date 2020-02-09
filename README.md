@@ -1073,6 +1073,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Space Jam](https://www.spacejam.com/)
  - [iHateRegex - regex cheatsheet for haters](http://ihateregex.io/)
  - [YAML Hell in DevOps](http://ithrowexceptions.com/2020/02/04/yaml-hell-in-devops.html)
+ - [Tätä ei ole koskaan ennen tapahtunut: Sähkön hinta kääntyy ensi yönä negatiiviseksi](https://yle.fi/uutiset/3-11200361)
 
 ## Authors
 
