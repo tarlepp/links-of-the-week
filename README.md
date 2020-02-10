@@ -84,6 +84,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 4](#week-4)
      * [Week 5](#week-5)
      * [Week 6](#week-6)
+     * [Week 7](#week-7)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1074,6 +1075,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [iHateRegex - regex cheatsheet for haters](http://ihateregex.io/)
  - [YAML Hell in DevOps](http://ithrowexceptions.com/2020/02/04/yaml-hell-in-devops.html)
  - [Tätä ei ole koskaan ennen tapahtunut: Sähkön hinta kääntyy ensi yönä negatiiviseksi](https://yle.fi/uutiset/3-11200361)
+
+### Week 7
+
+ - [Building Searchable Encrypted Databases with PHP and SQL](https://paragonie.com/blog/2017/05/building-searchable-encrypted-databases-with-php-and-sql)
 
 ## Authors
 
