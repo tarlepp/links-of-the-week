@@ -1079,6 +1079,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 7
 
  - [Building Searchable Encrypted Databases with PHP and SQL](https://paragonie.com/blog/2017/05/building-searchable-encrypted-databases-with-php-and-sql)
+ - [PHP RFC: Server-Side Request and Response Objects](https://wiki.php.net/rfc/request_response)
 
 ## Authors
 
