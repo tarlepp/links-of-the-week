@@ -85,6 +85,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 5](#week-5)
      * [Week 6](#week-6)
      * [Week 7](#week-7)
+     * [Week 8](#week-8)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1082,6 +1083,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Server-Side Request and Response Objects](https://wiki.php.net/rfc/request_response)
  - [The European Commission Publishes its First Symfony Bundles](https://symfony.com/blog/the-european-commission-publishes-its-first-symfony-bundles)
  - [Scaling Symfony Consumers using Kubernetes [A How To Guide]](https://hackernoon.com/scaling-symfony-consumers-using-kubernetes-a-how-to-guide-gl2u362h)
+
+### Week 8
+
+ - [Nooooooooooooooo](http://nooooooooooooooo.com/)
 
 ## Authors
 
