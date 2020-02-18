@@ -1086,6 +1086,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 8
 
+ - [All you need to know about SymfonyCon Disneyland Paris 2020](https://symfony.com/blog/all-you-need-to-know-about-symfonycon-disneyland-paris-2020)
  - [Nooooooooooooooo](http://nooooooooooooooo.com/)
  - [Ydinvoima](https://ydinvoima.toimii.fi/)
 
