@@ -1089,6 +1089,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [All you need to know about SymfonyCon Disneyland Paris 2020](https://symfony.com/blog/all-you-need-to-know-about-symfonycon-disneyland-paris-2020)
  - [Nooooooooooooooo](http://nooooooooooooooo.com/)
  - [Ydinvoima](https://ydinvoima.toimii.fi/)
+ - [language_evolution](https://github.com/nikic/php-rfcs/blob/language-evolution/rfcs/0000-language-evolution.md)
 
 ## Authors
 
