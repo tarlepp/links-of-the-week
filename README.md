@@ -1090,6 +1090,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Nooooooooooooooo](http://nooooooooooooooo.com/)
  - [Ydinvoima](https://ydinvoima.toimii.fi/)
  - [language_evolution](https://github.com/nikic/php-rfcs/blob/language-evolution/rfcs/0000-language-evolution.md)
+ - [PHP RFC: Write-Once Properties](https://wiki.php.net/rfc/write_once_properties)
 
 ## Authors
 
