@@ -1092,6 +1092,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [language_evolution](https://github.com/nikic/php-rfcs/blob/language-evolution/rfcs/0000-language-evolution.md)
  - [PHP RFC: Write-Once Properties](https://wiki.php.net/rfc/write_once_properties)
  - [Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+ - [Amazon's Jeff Bezos pledges $10bn to save Earth's environment](https://www.theguardian.com/technology/2020/feb/17/amazon-jeff-bezos-pledge-10bn-fight-climate-crisis)
 
 ## Authors
 
