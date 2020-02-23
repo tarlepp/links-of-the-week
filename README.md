@@ -1095,6 +1095,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Amazon's Jeff Bezos pledges $10bn to save Earth's environment](https://www.theguardian.com/technology/2020/feb/17/amazon-jeff-bezos-pledge-10bn-fight-climate-crisis)
  - [PHPUnit: A Security Risk?](https://thephp.cc/news/2020/02/phpunit-a-security-risk)
  - [Real Time web applications with the Server Sent Events protocol. Symfony, ApiPlatform, Angular, Akita and Mercure](https://dev.to/vichanse/real-time-web-applications-with-the-server-sent-events-protocol-symfony-apiplatform-angular-akita-and-mercure-cnc)
+  - [Async AWS client](https://github.com/async-aws/aws)
 
 ## Authors
 
