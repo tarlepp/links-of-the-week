@@ -86,6 +86,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 6](#week-6)
      * [Week 7](#week-7)
      * [Week 8](#week-8)
+     * [Week 9](#week-9)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1096,6 +1097,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHPUnit: A Security Risk?](https://thephp.cc/news/2020/02/phpunit-a-security-risk)
  - [Real Time web applications with the Server Sent Events protocol. Symfony, ApiPlatform, Angular, Akita and Mercure](https://dev.to/vichanse/real-time-web-applications-with-the-server-sent-events-protocol-symfony-apiplatform-angular-akita-and-mercure-cnc)
   - [Async AWS client](https://github.com/async-aws/aws)
+
+### Week 8
+
+ - [Thank You for Your Help NoSQL, but We Got It from Here](https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/)
 
 ## Authors
 
