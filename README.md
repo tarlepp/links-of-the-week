@@ -1103,6 +1103,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Thank You for Your Help NoSQL, but We Got It from Here](https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/)
  - [Rotary Cellphone](http://justine-haupt.com/rotarycellphone/)
  - [How to Run Netflix on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-netflix/)
+ - [Fossil-Fuel Subsidies Must End](https://blogs.scientificamerican.com/observations/fossil-fuel-subsidies-must-end/)
 
 ## Authors
 
