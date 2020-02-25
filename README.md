@@ -1101,6 +1101,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 8
 
  - [Thank You for Your Help NoSQL, but We Got It from Here](https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/)
+ - [Rotary Cellphone](http://justine-haupt.com/rotarycellphone/)
 
 ## Authors
 
