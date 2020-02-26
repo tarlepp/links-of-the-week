@@ -1104,6 +1104,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rotary Cellphone](http://justine-haupt.com/rotarycellphone/)
  - [How to Run Netflix on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-netflix/)
  - [Fossil-Fuel Subsidies Must End](https://blogs.scientificamerican.com/observations/fossil-fuel-subsidies-must-end/)
+ - [Professional translation services made easy](https://translated.com/)
 
 ## Authors
 
