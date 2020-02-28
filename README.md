@@ -1106,6 +1106,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Fossil-Fuel Subsidies Must End](https://blogs.scientificamerican.com/observations/fossil-fuel-subsidies-must-end/)
  - [Professional translation services made easy](https://translated.com/)
  - [What libsodium can do for you? An Introduction to Cryptography in PHP](https://jolicode.com/blog/what-libsodium-can-do-for-you-an-introduction-to-cryptography-in-php)
+ - [CLI output in services](https://timobakx.dev/php/symfony/2020/02/28/cli-output-in-services.html)
 
 ## Authors
 
