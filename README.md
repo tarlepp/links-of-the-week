@@ -87,6 +87,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 7](#week-7)
      * [Week 8](#week-8)
      * [Week 9](#week-9)
+     * [Week 10](#week-10)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1098,7 +1099,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Real Time web applications with the Server Sent Events protocol. Symfony, ApiPlatform, Angular, Akita and Mercure](https://dev.to/vichanse/real-time-web-applications-with-the-server-sent-events-protocol-symfony-apiplatform-angular-akita-and-mercure-cnc)
   - [Async AWS client](https://github.com/async-aws/aws)
 
-### Week 8
+### Week 9
 
  - [Thank You for Your Help NoSQL, but We Got It from Here](https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/)
  - [Rotary Cellphone](http://justine-haupt.com/rotarycellphone/)
@@ -1108,6 +1109,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What libsodium can do for you? An Introduction to Cryptography in PHP](https://jolicode.com/blog/what-libsodium-can-do-for-you-an-introduction-to-cryptography-in-php)
  - [CLI output in services](https://timobakx.dev/php/symfony/2020/02/28/cli-output-in-services.html)
  - [rock paper scissors lizard spock](https://rpsls.net/)
+ 
+### Week 10
 
 ## Authors
 
