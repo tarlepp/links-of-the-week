@@ -1113,6 +1113,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 10
 
  - [From Minutes to Seconds: Massive Performance Gains in PHPStan](https://medium.com/@ondrejmirtes/from-minutes-to-seconds-massive-performance-gains-in-phpstan-163be88d1519)
+ - [How to deploy on remote Docker hosts with docker-compose](https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/)
 
 ## Authors
 
