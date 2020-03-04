@@ -1117,6 +1117,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Space - The integrated team environment](https://www.jetbrains.com/space/)
  - [Codeanywhere · Cross Platform Cloud IDE](https://codeanywhere.com/)
  - [Get realtime GraphQL APIs instantly](https://hasura.io/)
+ - [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
 
 ## Authors
 
