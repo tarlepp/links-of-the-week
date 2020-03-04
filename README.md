@@ -1116,6 +1116,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to deploy on remote Docker hosts with docker-compose](https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/)
  - [Space - The integrated team environment](https://www.jetbrains.com/space/)
  - [Codeanywhere · Cross Platform Cloud IDE](https://codeanywhere.com/)
+ - [Get realtime GraphQL APIs instantly](https://hasura.io/)
 
 ## Authors
 
