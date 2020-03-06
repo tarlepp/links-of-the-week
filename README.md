@@ -1119,6 +1119,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Get realtime GraphQL APIs instantly](https://hasura.io/)
  - [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
  - [HiddenVM — Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
+ - [I'm going (free)lance!](https://www.orbitale.io/2020/03/06/I-m-going-free-lance.html)
 
 ## Authors
 
