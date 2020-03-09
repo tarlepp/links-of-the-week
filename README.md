@@ -88,6 +88,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 8](#week-8)
      * [Week 9](#week-9)
      * [Week 10](#week-10)
+     - [Week 11](#week-11)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1124,6 +1125,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [RoadRunner](https://roadrunner.dev/)
  - [Hae lattekahvisi muualta](https://yle.fi/uutiset/3-11226752)
  - [OctoLinker](https://octolinker.now.sh/)
+ 
+### Week 11
 
 ## Authors
 
