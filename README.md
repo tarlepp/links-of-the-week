@@ -1130,6 +1130,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [navi](https://github.com/denisidoro/navi)
  - [New in Symfony 5.1: Single command applications](https://symfony.com/blog/new-in-symfony-5-1-single-command-applications)
+ - [PHP RFC: Attributes v2](https://wiki.php.net/rfc/attributes_v2)
 
 ## Authors
 
