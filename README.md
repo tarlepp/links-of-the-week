@@ -1129,6 +1129,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 11
 
  - [navi](https://github.com/denisidoro/navi)
+ - [New in Symfony 5.1: Single command applications](https://symfony.com/blog/new-in-symfony-5-1-single-command-applications)
 
 ## Authors
 
