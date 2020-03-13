@@ -1136,6 +1136,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Coroutine based Async PHP programming framework](https://www.swoole.co.uk/)
  - [New in Symfony 5.1: Reusable sets of constraints](https://symfony.com/blog/new-in-symfony-5-1-reusable-sets-of-constraints)
  - [Symfony Psalm Plugin](https://github.com/seferov/symfony-psalm-plugin)
+ - [Contra-who? Covari-wha?](https://whateverthing.com/blog/2020/03/13/contra-who-covari-wha/)
 
 ## Authors
 
