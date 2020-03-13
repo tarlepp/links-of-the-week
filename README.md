@@ -1133,6 +1133,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Attributes v2](https://wiki.php.net/rfc/attributes_v2)
  - [WSL2: Code faster on the Windows Subsystem for Linux! | Tabs vs Spaces](https://www.youtube.com/watch?v=MrZolfGm8Zk)
  - [git absorb](https://github.com/tummychow/git-absorb)
+ - [Coroutine based Async PHP programming framework](https://www.swoole.co.uk/)
 
 ## Authors
 
