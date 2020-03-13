@@ -1134,6 +1134,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [WSL2: Code faster on the Windows Subsystem for Linux! | Tabs vs Spaces](https://www.youtube.com/watch?v=MrZolfGm8Zk)
  - [git absorb](https://github.com/tummychow/git-absorb)
  - [Coroutine based Async PHP programming framework](https://www.swoole.co.uk/)
+ - [New in Symfony 5.1: Reusable sets of constraints](https://symfony.com/blog/new-in-symfony-5-1-reusable-sets-of-constraints)
 
 ## Authors
 
