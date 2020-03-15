@@ -1137,6 +1137,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.1: Reusable sets of constraints](https://symfony.com/blog/new-in-symfony-5-1-reusable-sets-of-constraints)
  - [Symfony Psalm Plugin](https://github.com/seferov/symfony-psalm-plugin)
  - [Contra-who? Covari-wha?](https://whateverthing.com/blog/2020/03/13/contra-who-covari-wha/)
+ - [Symfony: Prevent termination of Process](https://medium.com/@kcmueller/symfony-avoid-process-from-being-terminated-607242493af7)
 
 ## Authors
 
