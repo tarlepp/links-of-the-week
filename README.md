@@ -1138,6 +1138,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Psalm Plugin](https://github.com/seferov/symfony-psalm-plugin)
  - [Contra-who? Covari-wha?](https://whateverthing.com/blog/2020/03/13/contra-who-covari-wha/)
  - [Symfony: Prevent termination of Process](https://medium.com/@kcmueller/symfony-avoid-process-from-being-terminated-607242493af7)
+ - [Pornhub Is Giving Italians Free Premium Access During Coronavirus Quarantine](https://uk.pcmag.com/web-sites/125222/pornhub-is-giving-italians-free-premium-access-during-coronavirus-quarantine)
 
 ## Authors
 
