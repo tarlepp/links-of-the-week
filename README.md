@@ -89,6 +89,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 9](#week-9)
      * [Week 10](#week-10)
      - [Week 11](#week-11)
+     - [Week 12](#week-12)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1139,6 +1140,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Contra-who? Covari-wha?](https://whateverthing.com/blog/2020/03/13/contra-who-covari-wha/)
  - [Symfony: Prevent termination of Process](https://medium.com/@kcmueller/symfony-avoid-process-from-being-terminated-607242493af7)
  - [Pornhub Is Giving Italians Free Premium Access During Coronavirus Quarantine](https://uk.pcmag.com/web-sites/125222/pornhub-is-giving-italians-free-premium-access-during-coronavirus-quarantine)
+
+### Week 12
+
+ - [Integrating Netgen Layouts with content source like Contentful, eZ Platform, Sylius or other — part 1](https://netgen.io/blog/integrating-netgen-layouts-with-content-source-like-contentful-ez-platform-sylius-or-other-part-1)
 
 ## Authors
 
