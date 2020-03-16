@@ -1144,6 +1144,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
  - [Integrating Netgen Layouts with content source like Contentful, eZ Platform, Sylius or other — part 1](https://netgen.io/blog/integrating-netgen-layouts-with-content-source-like-contentful-ez-platform-sylius-or-other-part-1)
+ - [npm is joining GitHub](https://github.blog/2020-03-16-npm-is-joining-github/)
 
 ## Authors
 
