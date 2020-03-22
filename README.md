@@ -1147,6 +1147,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [npm is joining GitHub](https://github.blog/2020-03-16-npm-is-joining-github/)
  - [Symfony Routing component – Customize URL Generation](https://locastic.com/blog/symfony-routing-component-customize-url-generation/)
  - [Doctrine ORM 2.7.2](https://github.com/doctrine/orm/releases/tag/v2.7.2)
+ - [Manage the State of a Symfony-React application with MobX](https://www.twilio.com/blog/manage-state-php-symfony-react-application-mobx)
 
 ## Authors
 
