@@ -1149,6 +1149,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine ORM 2.7.2](https://github.com/doctrine/orm/releases/tag/v2.7.2)
  - [Manage the State of a Symfony-React application with MobX](https://www.twilio.com/blog/manage-state-php-symfony-react-application-mobx)
  - [Symfony, the "not magic" parts](https://dev.to/jmau111/symfony-the-not-magic-parts-1h89)
+ - [Statie is Dead, Long live Symfony Static Dumper](https://www.tomasvotruba.com/blog/2020/03/16/statie-is-dead-long-live-symfony-static-dumper/)
 
 ## Authors
 
