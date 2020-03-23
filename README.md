@@ -90,6 +90,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 10](#week-10)
      - [Week 11](#week-11)
      - [Week 12](#week-12)
+     - [Week 13](#week-13)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1150,6 +1151,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Manage the State of a Symfony-React application with MobX](https://www.twilio.com/blog/manage-state-php-symfony-react-application-mobx)
  - [Symfony, the "not magic" parts](https://dev.to/jmau111/symfony-the-not-magic-parts-1h89)
  - [Statie is Dead, Long live Symfony Static Dumper](https://www.tomasvotruba.com/blog/2020/03/16/statie-is-dead-long-live-symfony-static-dumper/)
+
+### Week 13
 
 ## Authors
 
