@@ -1154,6 +1154,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 13
 
+ - [Circuit Breaker](https://sarvendev.com/en/2020/03/circuit-breaker/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
