@@ -1156,6 +1156,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Circuit Breaker](https://sarvendev.com/en/2020/03/circuit-breaker/)
  - [It’s time to explain some things](https://psalm.dev/articles/its-time-to-explain-some-things)
+ - [Testing without mocking frameworks](https://blog.frankdejonge.nl/testing-without-mocking-frameworks/)
 
 ## Authors
 
