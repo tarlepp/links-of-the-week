@@ -1159,6 +1159,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Testing without mocking frameworks](https://blog.frankdejonge.nl/testing-without-mocking-frameworks/)
  - [What is the cost of a bug?](https://azevedorafaela.com/2018/04/27/what-is-the-cost-of-a-bug/)
  - [Symfony Bundle Test](https://github.com/SymfonyTest/symfony-bundle-test)
+ - [SymfonyLive Online #1](https://www.youtube.com/watch?v=qgEML7Zcpxk)
 
 ## Authors
 
