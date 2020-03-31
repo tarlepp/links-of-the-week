@@ -91,6 +91,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 11](#week-11)
      - [Week 12](#week-12)
      - [Week 13](#week-13)
+     - [Week 14](#week-14)
   * [Authors](#authors)
   * [License](#license)
 
@@ -1160,6 +1161,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What is the cost of a bug?](https://azevedorafaela.com/2018/04/27/what-is-the-cost-of-a-bug/)
  - [Symfony Bundle Test](https://github.com/SymfonyTest/symfony-bundle-test)
  - [SymfonyLive Online #1](https://www.youtube.com/watch?v=qgEML7Zcpxk)
+ 
+### Week 14
+
+ - [Setting a CI/CD workflow for a Symfony project thanks to the GitHub actions](https://www.strangebuzz.com/en/blog/setting-a-ci-cd-workflow-for-a-symfony-project-thanks-to-the-github-actions)
 
 ## Authors
 
