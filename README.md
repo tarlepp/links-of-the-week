@@ -1166,6 +1166,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Setting a CI/CD workflow for a Symfony project thanks to the GitHub actions](https://www.strangebuzz.com/en/blog/setting-a-ci-cd-workflow-for-a-symfony-project-thanks-to-the-github-actions)
  - [Jitsi Meet](https://meet.jit.si/)
+ - [SexHack 2020 virtual hackathon - Let's innovate and talk about sex!](https://sexhack.co/)
 
 ## Authors
 
