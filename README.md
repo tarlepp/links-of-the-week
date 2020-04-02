@@ -1168,6 +1168,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Jitsi Meet](https://meet.jit.si/)
  - [SexHack 2020 virtual hackathon - Let's innovate and talk about sex!](https://sexhack.co/)
  - [Pi-hole ad-blocking technology hack exposed](https://portswigger.net/daily-swig/pi-hole-ad-blocking-technology-hack-exposed)
+ - [Is Your Code Readable By Humans? Cognitive Complexity Tells You](https://www.tomasvotruba.com/blog/2018/05/21/is-your-code-readable-by-humans-cognitive-complexity-tells-you/)
 
 ## Authors
 
