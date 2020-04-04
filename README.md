@@ -1170,6 +1170,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pi-hole ad-blocking technology hack exposed](https://portswigger.net/daily-swig/pi-hole-ad-blocking-technology-hack-exposed)
  - [Is Your Code Readable By Humans? Cognitive Complexity Tells You](https://www.tomasvotruba.com/blog/2018/05/21/is-your-code-readable-by-humans-cognitive-complexity-tells-you/)
  - [https://lab.hakim.se/fullstack/](https://lab.hakim.se/fullstack/)
+ - [Released doctrine/migrations 3.0-alpha](https://www.goetas.com/blog/released-doctrinemigrations-30-alpha/)
 
 ## Authors
 
