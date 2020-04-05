@@ -1,6 +1,6 @@
 # All
 
-All the links in one massive file.
+All the links in one massive file. This will be updated once in a year.
 
 ## Table of Contents
 
