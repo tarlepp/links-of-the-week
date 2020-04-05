@@ -1171,6 +1171,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Is Your Code Readable By Humans? Cognitive Complexity Tells You](https://www.tomasvotruba.com/blog/2018/05/21/is-your-code-readable-by-humans-cognitive-complexity-tells-you/)
  - [https://lab.hakim.se/fullstack/](https://lab.hakim.se/fullstack/)
  - [Released doctrine/migrations 3.0-alpha](https://www.goetas.com/blog/released-doctrinemigrations-30-alpha/)
+ - [Forget Zoom: Skype unveils free 'Meet Now' video calls](https://www.tomsguide.com/news/forget-zoom-free-skype-meet-now-works-without-signups-or-installs)
 
 ## Authors
 
