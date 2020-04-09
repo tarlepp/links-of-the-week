@@ -191,6 +191,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony environment setup without Vagrant or Docker (OSx)](https://locastic.com/blog/symfony-environment-setup-without-vagrant-or-docker-osx/)
  - [PHP Generics](https://plugins.jetbrains.com/plugin/12754-php-generics)
  - [DevTube - The best developer videos in one place](https://dev.tube/)
+ - [You have two cows](https://9gag.com/gag/aO0wDAN)
 
 ## Authors
 
