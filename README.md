@@ -189,6 +189,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [reviewdog](https://github.com/reviewdog/reviewdog)
  - [Symfony 5: the fast track | Dx Experts](https://www.dx-experts.nl/blog/2020/symfony-5-fast-track/)
  - [Symfony environment setup without Vagrant or Docker (OSx)](https://locastic.com/blog/symfony-environment-setup-without-vagrant-or-docker-osx/)
+ - [PHP Generics](https://plugins.jetbrains.com/plugin/12754-php-generics)
 
 ## Authors
 
