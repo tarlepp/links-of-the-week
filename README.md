@@ -187,6 +187,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 15
 
  - [reviewdog](https://github.com/reviewdog/reviewdog)
+ - [Symfony 5: the fast track | Dx Experts](https://www.dx-experts.nl/blog/2020/symfony-5-fast-track/)
 
 ## Authors
 
