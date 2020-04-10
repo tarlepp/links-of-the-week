@@ -192,6 +192,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP Generics](https://plugins.jetbrains.com/plugin/12754-php-generics)
  - [DevTube - The best developer videos in one place](https://dev.tube/)
  - [You have two cows](https://9gag.com/gag/aO0wDAN)
+ - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 
 ## Authors
 
