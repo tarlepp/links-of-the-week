@@ -193,6 +193,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [DevTube - The best developer videos in one place](https://dev.tube/)
  - [You have two cows](https://9gag.com/gag/aO0wDAN)
  - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+ - [Multi-namespace migrations with doctrine/migrations 3.0](https://www.goetas.com/blog/multi-namespace-migrations-with-doctrinemigrations-30/)
 
 ## Authors
 
