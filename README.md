@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 13](#week-13)
      - [Week 14](#week-14)
      - [Week 15](#week-15)
+     - [Week 16](#week-16)
   * [Authors](#authors)
   * [License](#license)
 
@@ -196,6 +197,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Multi-namespace migrations with doctrine/migrations 3.0](https://www.goetas.com/blog/multi-namespace-migrations-with-doctrinemigrations-30/)
  - [Symfony on a lambda: conclusion](https://dev.to/hyoa/symfony-on-a-lambda-conclusion-k1a)
  - [A message about security from the CEO of Zoom](https://twitter.com/SlexAxton/status/1248954930976751618)
+
+### Week 16
 
 ## Authors
 
