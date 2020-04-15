@@ -203,6 +203,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Conditional love](https://psalm.dev/articles/conditional-love)
  - [Launching New PHPStan's Website](https://phpstan.org/blog/launching-new-phpstan-website)
  - [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
+ - [The Road to EasyAdmin 3: No More YAML](https://easycorp.github.io/blog/posts/the-road-to-easyadmin-3-no-more-yaml)
 
 ## Authors
 
