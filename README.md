@@ -206,6 +206,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Road to EasyAdmin 3: No More YAML](https://easycorp.github.io/blog/posts/the-road-to-easyadmin-3-no-more-yaml)
  - [What's New in PhpStorm 2020.1](https://www.youtube.com/watch?v=9nEOF2yGk64)
  - [Record and share your terminal sessions, the right way.](https://asciinema.org/)
+ - [Simple animated GIF screen recorder with an easy to use interface](https://github.com/phw/peek)
 
 ## Authors
 
