@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 14](#week-14)
      - [Week 15](#week-15)
      - [Week 16](#week-16)
+     - [Week 17](#week-17)
   * [Authors](#authors)
   * [License](#license)
 
@@ -209,6 +210,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Simple animated GIF screen recorder with an easy to use interface](https://github.com/phw/peek)
  - [Diagrams - Diagram as Code](https://diagrams.mingrammer.com/)
  - [Web Push Notifications](https://www.webpushr.com/)
+
+### Week 17
 
 ## Authors
 
