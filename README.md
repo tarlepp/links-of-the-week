@@ -214,6 +214,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 17
 
  - [[RELEASE] Python 2.7.18, the end of an era](https://mail.python.org/archives/list/python-dev@python.org/thread/OFCIETIXLX34X7FVK5B5WPZH22HXV342/)
+ - [Private PHP Package Repository Manager](https://repman.io/)
 
 ## Authors
 
