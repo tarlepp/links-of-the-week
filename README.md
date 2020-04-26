@@ -219,6 +219,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Useful Coding design patterns](https://locastic.com/blog/useful-coding-design-patterns/)
  - [Tchwork Bootstrapper](https://github.com/tchwork/bootstrapper)
  - [Ethical Analytics, Powerful Insights](https://matomo.org/)
+ - [How to Hydrate Arrays to Objects via Constructor](https://www.tomasvotruba.com/blog/2020/04/20/how-to-hydrate-arrays-to-objects-via-constructor/)
 
 ## Authors
 
