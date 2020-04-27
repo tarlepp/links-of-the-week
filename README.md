@@ -34,6 +34,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 15](#week-15)
      - [Week 16](#week-16)
      - [Week 17](#week-17)
+     - [Week 18](#week-18)
   * [Authors](#authors)
   * [License](#license)
 
@@ -222,6 +223,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to Hydrate Arrays to Objects via Constructor](https://www.tomasvotruba.com/blog/2020/04/20/how-to-hydrate-arrays-to-objects-via-constructor/)
  - [Console Output Anywhere — with Symfony](https://medium.com/@eddies_shop/console-output-anywhere-with-symfony-d1a5af9c6263)
  - [Send SMS Updates for Background Tasks with Symfony Messenger and Twilio SMS](https://www.twilio.com/blog/send-sms-updates-background-tasks-symfony-messenger-twilio)
+
+### Week 18
 
 ## Authors
 
