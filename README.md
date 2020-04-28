@@ -226,6 +226,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 18
 
+ - [Looting Symfony with EOS](https://www.synacktiv.com/posts/pentest/looting-symfony-with-eos.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
