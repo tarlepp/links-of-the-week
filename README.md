@@ -229,6 +229,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Looting Symfony with EOS](https://www.synacktiv.com/posts/pentest/looting-symfony-with-eos.html)
  - [Meet the new Symfony Security: Authenticators](https://wouterj.nl/2020/04/authenticators-new-symfony-security)
  - [xlskubectl — a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
+ - [Hiding PHP Code in Image Files Revisited](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hiding-php-code-in-image-files-revisited/)
 
 ## Authors
 
