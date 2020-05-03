@@ -233,6 +233,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using RabbitMQ in A Symfony Application Through Messenger Component](https://medium.com/@ibrahimgunduz34/using-rabbitmq-in-a-symfony-application-through-messenger-component-e61498b668b)
  - [Doctrine: “cascade =remove” VS “orphanRemoval = true”](https://medium.com/@H4DH3MI/doctrine-cascade-remove-vs-orphanremoval-true-deb428bb384d)
  - [Symfony parameters and environment variables](https://medium.com/@vtla/symfony-parameters-and-environment-variables-ac916524ab49)
+ - [AsyncAWS client](https://async-aws.com/)
 
 ## Authors
 
