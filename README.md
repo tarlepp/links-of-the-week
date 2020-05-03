@@ -230,6 +230,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Meet the new Symfony Security: Authenticators](https://wouterj.nl/2020/04/authenticators-new-symfony-security)
  - [xlskubectl — a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
  - [Hiding PHP Code in Image Files Revisited](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hiding-php-code-in-image-files-revisited/)
+ - [Using RabbitMQ in A Symfony Application Through Messenger Component](https://medium.com/@ibrahimgunduz34/using-rabbitmq-in-a-symfony-application-through-messenger-component-e61498b668b)
 
 ## Authors
 
