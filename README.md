@@ -238,6 +238,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 19
 
+ - [DrawSQL](https://drawsql.app/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
