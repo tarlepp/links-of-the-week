@@ -239,6 +239,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 19
 
  - [DrawSQL](https://drawsql.app/)
+ - [GitHub Discussions](https://github.com/githubevents/satellite2020/discussions)
 
 ## Authors
 
