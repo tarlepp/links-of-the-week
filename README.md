@@ -240,6 +240,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [DrawSQL](https://drawsql.app/)
  - [GitHub Discussions](https://github.com/githubevents/satellite2020/discussions)
+ - [CodeQL for research](https://securitylab.github.com/tools/codeql)
 
 ## Authors
 
