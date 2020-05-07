@@ -243,6 +243,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [CodeQL for research](https://securitylab.github.com/tools/codeql)
  - [Why & How to use Doctrine Migrations Rollup?](https://odolbeau.fr/blog/doctrine-migrations-rollup.html)
  - [Open Source SQL Editor and Database Manager](https://www.beekeeperstudio.io/)
+ - [Prof or Hobo?](https://www.proforhobo.com/)
 
 ## Authors
 
