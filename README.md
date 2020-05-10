@@ -246,6 +246,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Prof or Hobo?](https://www.proforhobo.com/)
  - [GraphQL between Angular and Symfony](https://medium.com/@arnaout.slimen/graphql-between-angular-and-symfony-f2ec927b819)
  - [Symfony Request & Response flow](https://medium.com/@vtla/symfony-request-response-flow-fe5136f9795f)
+ - [Is Deno Going To Replace Node.js?](https://www.youtube.com/watch?v=zFf_fcn0cI0)
 
 ## Authors
 
