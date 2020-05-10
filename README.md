@@ -244,6 +244,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why & How to use Doctrine Migrations Rollup?](https://odolbeau.fr/blog/doctrine-migrations-rollup.html)
  - [Open Source SQL Editor and Database Manager](https://www.beekeeperstudio.io/)
  - [Prof or Hobo?](https://www.proforhobo.com/)
+ - [GraphQL between Angular and Symfony](https://medium.com/@arnaout.slimen/graphql-between-angular-and-symfony-f2ec927b819)
 
 ## Authors
 
