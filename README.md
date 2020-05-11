@@ -35,6 +35,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 16](#week-16)
      - [Week 17](#week-17)
      - [Week 18](#week-18)
+     - [Week 19](#week-19)
+     - [Week 20](#week-20)
   * [Authors](#authors)
   * [License](#license)
 
@@ -247,6 +249,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GraphQL between Angular and Symfony](https://medium.com/@arnaout.slimen/graphql-between-angular-and-symfony-f2ec927b819)
  - [Symfony Request & Response flow](https://medium.com/@vtla/symfony-request-response-flow-fe5136f9795f)
  - [Is Deno Going To Replace Node.js?](https://www.youtube.com/watch?v=zFf_fcn0cI0)
+
+### Week 20
 
 ## Authors
 
