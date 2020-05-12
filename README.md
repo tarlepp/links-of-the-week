@@ -252,6 +252,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 20
 
+ - [Online programming contest and hackathon "CodinGame Spring Challenge 2020"](https://www.codingame.com/contests/spring-challenge-2020)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
