@@ -257,6 +257,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Take GitHub to the command line](https://cli.github.com/)
  - [Offensive Web Testing Framework](https://github.com/owtf/owtf)
  - [Attributes in PHP 8](https://stitcher.io/blog/attributes-in-php-8)
+ - [Update: Is Deno Going To Replace Node.js?](https://www.youtube.com/watch?v=IvkFEQFDOz0)
 
 ## Authors
 
