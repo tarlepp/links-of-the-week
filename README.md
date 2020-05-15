@@ -260,6 +260,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Update: Is Deno Going To Replace Node.js?](https://www.youtube.com/watch?v=IvkFEQFDOz0)
  - [Pika - Search npm for fast, modern packages.](https://www.pika.dev/)
  - [Microsoft Kills Off Windows 10 32-Bit](https://news.softpedia.com/news/microsoft-kills-off-windows-10-32-bit-529978.shtml)
+ - [Fuck Drupal](https://fuckdrupal.tumblr.com/)
 
 ## Authors
 
