@@ -263,6 +263,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Fuck Drupal](https://fuckdrupal.tumblr.com/)
  - [CW: a cache watcher for Symfony](https://www.strangebuzz.com/en/blog/introducing-cw-a-cache-watcher-for-symfony)
  - [How to Upgrade from Symfony 3.x to 5.0 ( or 4.x )](https://medium.com/@diego.g.favero/how-to-upgrade-from-symfony-3-x-to-5-0-or-4-x-2553639e036f)
+ - [Deploying a Symfony app in a Docker container with Render](https://medium.com/@stackselect/deploying-a-symfony-app-in-a-docker-container-with-render-3175819ac1f9)
 
 ## Authors
 
