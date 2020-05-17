@@ -261,6 +261,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pika - Search npm for fast, modern packages.](https://www.pika.dev/)
  - [Microsoft Kills Off Windows 10 32-Bit](https://news.softpedia.com/news/microsoft-kills-off-windows-10-32-bit-529978.shtml)
  - [Fuck Drupal](https://fuckdrupal.tumblr.com/)
+ - [CW: a cache watcher for Symfony](https://www.strangebuzz.com/en/blog/introducing-cw-a-cache-watcher-for-symfony)
 
 ## Authors
 
