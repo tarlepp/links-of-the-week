@@ -269,6 +269,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 21
 
  - [Postgrator CLI](https://github.com/MattiLehtinen/postgrator-cli)
+ - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Authors
 
