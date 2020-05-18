@@ -271,6 +271,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Postgrator CLI](https://github.com/MattiLehtinen/postgrator-cli)
  - [Eloquent JavaScript](https://eloquentjavascript.net/)
  - [JavaScript End to End Testing Framework | cypress.io](https://www.cypress.io/)
+ - [Efficient data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 
 ## Authors
 
