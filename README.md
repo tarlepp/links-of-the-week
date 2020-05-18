@@ -270,6 +270,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Postgrator CLI](https://github.com/MattiLehtinen/postgrator-cli)
  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+ - [JavaScript End to End Testing Framework | cypress.io](https://www.cypress.io/)
 
 ## Authors
 
