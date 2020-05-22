@@ -276,6 +276,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why developers hate PHP](https://www.jesuisundev.com/en/why-developers-hate-php/)
  - [PHP Versions Stats - 2020.1 Edition](https://blog.packagist.com/php-versions-stats-2020-1-edition/)
  - [New in PHP 8](https://stitcher.io/blog/new-in-php-8)
+ - [Build assets with Webpack Encore on Github Actions](https://jmsche.fr/en/blog/build-assets-with-webpack-encore-on-github-actions)
 
 ## Authors
 
