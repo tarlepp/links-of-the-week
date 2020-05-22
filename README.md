@@ -275,6 +275,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Windows Terminal 1.0](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
  - [Why developers hate PHP](https://www.jesuisundev.com/en/why-developers-hate-php/)
  - [PHP Versions Stats - 2020.1 Edition](https://blog.packagist.com/php-versions-stats-2020-1-edition/)
+ - [New in PHP 8](https://stitcher.io/blog/new-in-php-8)
 
 ## Authors
 
