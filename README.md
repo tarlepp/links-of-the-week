@@ -274,6 +274,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Efficient data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
  - [Windows Terminal 1.0](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
  - [Why developers hate PHP](https://www.jesuisundev.com/en/why-developers-hate-php/)
+ - [PHP Versions Stats - 2020.1 Edition](https://blog.packagist.com/php-versions-stats-2020-1-edition/)
 
 ## Authors
 
