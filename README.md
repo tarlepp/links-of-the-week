@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 19](#week-19)
      - [Week 20](#week-20)
      - [Week 21](#week-21)
+     - [Week 22](#week-22)
   * [Authors](#authors)
   * [License](#license)
 
@@ -278,6 +279,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in PHP 8](https://stitcher.io/blog/new-in-php-8)
  - [Build assets with Webpack Encore on Github Actions](https://jmsche.fr/en/blog/build-assets-with-webpack-encore-on-github-actions)
  - [JavaScript Growing Pains: From 0 to 13,000 Dependencies](https://blog.appsignal.com/2020/05/14/javascript-growing-pains-from-0-to-13000-dependencies.html)
+
+### Week 22
 
 ## Authors
 
