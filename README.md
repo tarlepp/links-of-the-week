@@ -282,6 +282,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 22
 
+ - [DMCA, php-ml and copyright boundaries](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
