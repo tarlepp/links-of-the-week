@@ -287,6 +287,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New Android Flaw Affecting Over 1 Billion Phones Let Attackers Hijack Apps](https://thehackernews.com/2020/05/stranhogg-android-vulnerability.html)
  - [NASA - Twitch](https://www.twitch.tv/nasa)
  - [Difference between `createStub` and `createMock`](https://twitter.com/s_bergmann/status/1215163783229988864)
+ - [The Death Star Version Constraint](https://thephp.cc/news/2017/02/death-star-version-constraint)
 
 ## Authors
 
