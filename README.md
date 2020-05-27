@@ -285,6 +285,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [DMCA, php-ml and copyright boundaries](https://arkadiuszkondas.com/dmca-php-ml-and-copyright-boundaries/)
  - [Capitalism in the open-source world](https://www.orbitale.io/2019/04/19/capitalism-in-the-open-source-world.html)
  - [New Android Flaw Affecting Over 1 Billion Phones Let Attackers Hijack Apps](https://thehackernews.com/2020/05/stranhogg-android-vulnerability.html)
+ - [NASA - Twitch](https://www.twitch.tv/nasa)
 
 ## Authors
 
