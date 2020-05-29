@@ -290,6 +290,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Death Star Version Constraint](https://thephp.cc/news/2017/02/death-star-version-constraint)
  - [Shrugs.app - Integrate macOS into your Slack experience](https://shrugs.app/)
  - [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
+ - [Git Gardener](https://www.gitgardener.com/)
 
 ## Authors
 
