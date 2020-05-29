@@ -289,6 +289,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Difference between `createStub` and `createMock`](https://twitter.com/s_bergmann/status/1215163783229988864)
  - [The Death Star Version Constraint](https://thephp.cc/news/2017/02/death-star-version-constraint)
  - [Shrugs.app - Integrate macOS into your Slack experience](https://shrugs.app/)
+ - [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
 
 ## Authors
 
