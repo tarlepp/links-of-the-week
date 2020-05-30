@@ -291,6 +291,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Shrugs.app - Integrate macOS into your Slack experience](https://shrugs.app/)
  - [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
  - [Git Gardener](https://www.gitgardener.com/)
+ - [Reports of breakage due to https://www.agwa.name/blog/post/fixing_the_addtrust_root_expiration](https://mobile.twitter.com/__agwa/timelines/1266777818811322368)
 
 ## Authors
 
