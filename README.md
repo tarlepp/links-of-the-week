@@ -292,6 +292,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
  - [Git Gardener](https://www.gitgardener.com/)
  - [Fixing the Breakage from the AddTrust External CA Root Expiration](https://www.agwa.name/blog/post/fixing_the_addtrust_root_expiration)
+ - [Symfony 5.1 curated new features](https://symfony.com/blog/symfony-5-1-curated-new-features)
 
 ## Authors
 
