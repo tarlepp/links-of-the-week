@@ -298,6 +298,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 23
 
  - [PHP RFC: Nullsafe operator](https://github.com/iluuu1994/nullsafe-operator-rfc/pull/1/files)
+ - [Mindf*ck Monday #33: It was the best of times and the worst of times...](https://markmanson.net/newsletters/mindfck-monday-33)
 
 ## Authors
 
