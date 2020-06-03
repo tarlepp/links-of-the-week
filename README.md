@@ -299,6 +299,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [PHP RFC: Nullsafe operator](https://github.com/iluuu1994/nullsafe-operator-rfc/pull/1/files)
  - [Mindf*ck Monday #33: It was the best of times and the worst of times...](https://markmanson.net/newsletters/mindfck-monday-33)
+ - [PHP Russia 2020 Online (Eng)](https://www.youtube.com/playlist?list=PLsdzlHt60Mu1mZa6u6bkH1PX8N3eG_Ifr)
 
 ## Authors
 
