@@ -303,6 +303,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP 8.0 JIT Is Offering Very Compelling Performance Ahead Of Its Alpha](https://www.phoronix.com/scan.php?page=article&item=php8-jit-june&num=2)
  - [Composer 2.0.0-alpha1](https://github.com/composer/composer/releases/tag/2.0.0-alpha1)
  - [Handy PHPUnit test case for testing JSON APIs in your Symfony applications](https://github.com/lchrusciel/ApiTestCase)
+ - [I was wrong about utility-first CSS and here is why!](https://locastic.com/blog/i-was-wrong-about-utility-first-css-and-here-is-why/)
 
 ## Authors
 
