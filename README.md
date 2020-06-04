@@ -304,6 +304,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Composer 2.0.0-alpha1](https://github.com/composer/composer/releases/tag/2.0.0-alpha1)
  - [Handy PHPUnit test case for testing JSON APIs in your Symfony applications](https://github.com/lchrusciel/ApiTestCase)
  - [I was wrong about utility-first CSS and here is why!](https://locastic.com/blog/i-was-wrong-about-utility-first-css-and-here-is-why/)
+ - [PHP RFC: Shorter Attribute Syntax](https://wiki.php.net/rfc/shorter_attribute_syntax)
 
 ## Authors
 
