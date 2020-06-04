@@ -306,6 +306,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [I was wrong about utility-first CSS and here is why!](https://locastic.com/blog/i-was-wrong-about-utility-first-css-and-here-is-why/)
  - [PHP RFC: Shorter Attribute Syntax](https://wiki.php.net/rfc/shorter_attribute_syntax)
  - [Developing a Robust Font Loading Strategy for CSS-Tricks—zachleat.com](https://www.zachleat.com/web/css-tricks-web-fonts/)
+ - [Build assets with Webpack Encore and Gitlab CI](https://jmsche.fr/en/blog/build-assets-with-webpack-encore-and-gitlab-ci)
 
 ## Authors
 
