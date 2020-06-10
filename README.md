@@ -312,6 +312,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
  - [25 Years of PHP History | JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/php-25/)
+ - [Media Queries Breakpoints For Responsive Design In 2020](http://devfacts.com/media-queries-breakpoints-2020/)
 
 ## Authors
 
