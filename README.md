@@ -316,6 +316,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [You spelled it wrong](http://guthib.com/)
  - [PHP 8.0 release dates](https://externals.io/message/110470)
  - [musicForProgramming("59: Miunau");](http://musicforprogramming.net/)
+ - [Unaltered PSR HTTP Message Bridge Bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle)
 
 ## Authors
 
