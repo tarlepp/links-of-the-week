@@ -318,6 +318,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [musicForProgramming("59: Miunau");](http://musicforprogramming.net/)
  - [Unaltered PSR HTTP Message Bridge Bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle)
  - [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
+ - [Z-Engine library](https://github.com/lisachenko/z-engine)
 
 ## Authors
 
