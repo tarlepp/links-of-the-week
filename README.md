@@ -319,6 +319,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Unaltered PSR HTTP Message Bridge Bundle](https://github.com/loophp/unaltered-psr-http-message-bridge-bundle)
  - [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
  - [Z-Engine library](https://github.com/lisachenko/z-engine)
+ - [The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/)
 
 ## Authors
 
