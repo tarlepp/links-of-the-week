@@ -322,6 +322,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/)
  - [How Much of a Performance Boost Can You Expect for a Symfony 5 App with PHP OPcache Preloading?](https://www.ibexa.co/blog/how-much-of-a-performance-boost-can-you-expect-for-a-symfony-5-app-with-php-opcache-preloading)
  - [Symfony Messenger with SQS and SNS AWS-Services](https://medium.com/@stefan.poeltl/symfony-messenger-with-sqs-and-sns-aws-services-6c4187cb15b4)
+ - [Facebook Log Id button with Symfony Guard](https://medium.com/@bog.konstantin/facebook-log-id-button-with-symfony-guard-97afb1dd3142)
 
 ## Authors
 
