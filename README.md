@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 22](#week-22)
      - [Week 23](#week-23)
      - [Week 24](#week-24)
+     - [Week 25](#week-25)
   * [Authors](#authors)
   * [License](#license)
 
@@ -323,6 +324,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How Much of a Performance Boost Can You Expect for a Symfony 5 App with PHP OPcache Preloading?](https://www.ibexa.co/blog/how-much-of-a-performance-boost-can-you-expect-for-a-symfony-5-app-with-php-opcache-preloading)
  - [Symfony Messenger with SQS and SNS AWS-Services](https://medium.com/@stefan.poeltl/symfony-messenger-with-sqs-and-sns-aws-services-6c4187cb15b4)
  - [Facebook Log Id button with Symfony Guard](https://medium.com/@bog.konstantin/facebook-log-id-button-with-symfony-guard-97afb1dd3142)
+
+### Week 25
+
+ - [Improve your voters with the Open/Closed principle](https://medium.com/darkmirafr/improve-your-voters-with-the-open-closed-principle-1eae3f77f505)
 
 ## Authors
 
