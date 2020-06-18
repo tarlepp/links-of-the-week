@@ -331,6 +331,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [DevOps for beginners: Where to start learning and focusing](https://enterprisersproject.com/article/2020/6/devops-beginners-where-start)
  - [PHP RFC: Change terminology to ExcludeList](https://wiki.php.net/rfc/change-terminology-to-excludelist)
  - [Liip Monitor Bundle](https://packagist.org/packages/liip/monitor-bundle)
+ - [Upgrade Doctrine Migrations from 2.x to 3.0](https://jmsche.fr/en/blog/upgrade-doctrine-migrations-from-2-x-to-3-0)
 
 ## Authors
 
