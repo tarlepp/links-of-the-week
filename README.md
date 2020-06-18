@@ -330,6 +330,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Improve your voters with the Open/Closed principle](https://medium.com/darkmirafr/improve-your-voters-with-the-open-closed-principle-1eae3f77f505)
  - [DevOps for beginners: Where to start learning and focusing](https://enterprisersproject.com/article/2020/6/devops-beginners-where-start)
  - [PHP RFC: Change terminology to ExcludeList](https://wiki.php.net/rfc/change-terminology-to-excludelist)
+ - [Liip Monitor Bundle](https://packagist.org/packages/liip/monitor-bundle)
 
 ## Authors
 
