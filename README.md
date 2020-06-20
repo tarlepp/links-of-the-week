@@ -334,6 +334,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Upgrade Doctrine Migrations from 2.x to 3.0](https://jmsche.fr/en/blog/upgrade-doctrine-migrations-from-2-x-to-3-0)
  - [Brick\Math](https://github.com/brick/math)
  - [PHP RFC: Shorter Attribute Syntax](https://wiki.php.net/rfc/shorter_attribute_syntax)
+ - [PSR-6 and PSR-16 in Netgen Stack](https://netgen.io/blog/psr-6-and-psr-16-in-netgen-stack)
 
 ## Authors
 
