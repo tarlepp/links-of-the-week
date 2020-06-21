@@ -336,6 +336,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Shorter Attribute Syntax](https://wiki.php.net/rfc/shorter_attribute_syntax)
  - [PSR-6 and PSR-16 in Netgen Stack](https://netgen.io/blog/psr-6-and-psr-16-in-netgen-stack)
  - [Generating Xml files by using the strategy pattern](https://robbert.rocks/generating-xml-files-by-using-the-strategy-pattern)
+ - [Composer and default git branches](https://blog.packagist.com/composer-and-default-git-branches/)
 
 ## Authors
 
