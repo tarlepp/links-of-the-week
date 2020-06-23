@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 23](#week-23)
      - [Week 24](#week-24)
      - [Week 25](#week-25)
+     - [Week 26](#week-26)
   * [Authors](#authors)
   * [License](#license)
 
@@ -337,6 +338,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PSR-6 and PSR-16 in Netgen Stack](https://netgen.io/blog/psr-6-and-psr-16-in-netgen-stack)
  - [Generating Xml files by using the strategy pattern](https://robbert.rocks/generating-xml-files-by-using-the-strategy-pattern)
  - [Composer and default git branches](https://blog.packagist.com/composer-and-default-git-branches/)
+
+### Week 26
+
+ - [Software engineers mapped to D&D classes](https://blog.dthomason.com/software-engineers-mapped-to-dd-classes/)
 
 ## Authors
 
