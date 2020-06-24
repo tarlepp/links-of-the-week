@@ -343,6 +343,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Software engineers mapped to D&D classes](https://blog.dthomason.com/software-engineers-mapped-to-dd-classes/)
  - [Detect PHP security vulnerabilities with Psalm](https://psalm.dev/articles/detect-security-vulnerabilities-with-psalm)
+ - [Learning Xdebug live with creator Derick Rethan](https://www.twitch.tv/videos/659080521)
 
 ## Authors
 
