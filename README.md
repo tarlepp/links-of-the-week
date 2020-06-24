@@ -345,6 +345,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Detect PHP security vulnerabilities with Psalm](https://psalm.dev/articles/detect-security-vulnerabilities-with-psalm)
  - [Learning Xdebug live with creator Derick Rethan](https://www.twitch.tv/videos/659080521)
  - [PHP RFC: PHP Namespace Policy](https://wiki.php.net/rfc/php_namespace_policy)
+ - [Prism is a set of packages for API mocking with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3](https://github.com/stoplightio/prism)
 
 ## Authors
 
