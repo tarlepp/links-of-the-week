@@ -347,6 +347,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: PHP Namespace Policy](https://wiki.php.net/rfc/php_namespace_policy)
  - [Prism is a set of packages for API mocking with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3](https://github.com/stoplightio/prism)
  - [Trainstation](https://github.com/mareg/trainstation)
+ - [I Just Hit $100k/yr On GitHub Sponsors! 🎉❤️ (How I Did It)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 
 ## Authors
 
