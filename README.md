@@ -350,6 +350,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [I Just Hit $100k/yr On GitHub Sponsors! 🎉❤️ (How I Did It)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
  - [purecss-gaze](https://diana-adrianne.com/purecss-gaze/)
  - [Step by step debugging with Xdebug, Symfony and PHPStorm](https://www.strangebuzz.com/en/blog/step-by-step-debugging-with-xdebug-symfony-and-phpstorm)
+ - [Web development environment with WSL 2 and Docker](https://medium.com/@fred.gauthier.dev/web-development-environment-with-wsl-2-and-docker-for-symfony-5860704e127a)
 
 ## Authors
 
