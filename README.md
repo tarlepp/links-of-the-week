@@ -356,6 +356,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 27
 
  - [Standards](https://xkcd.com/927/)
+ - [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 
 ## Authors
 
