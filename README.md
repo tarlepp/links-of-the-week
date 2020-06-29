@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 24](#week-24)
      - [Week 25](#week-25)
      - [Week 26](#week-26)
+     - [Week 27](#week-27)
   * [Authors](#authors)
   * [License](#license)
 
@@ -351,6 +352,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [purecss-gaze](https://diana-adrianne.com/purecss-gaze/)
  - [Step by step debugging with Xdebug, Symfony and PHPStorm](https://www.strangebuzz.com/en/blog/step-by-step-debugging-with-xdebug-symfony-and-phpstorm)
  - [Web development environment with WSL 2 and Docker](https://medium.com/@fred.gauthier.dev/web-development-environment-with-wsl-2-and-docker-for-symfony-5860704e127a)
+
+### Week 27
+
+ - [Standards](https://xkcd.com/927/)
 
 ## Authors
 
