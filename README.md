@@ -358,6 +358,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Standards](https://xkcd.com/927/)
  - [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
  - [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
+ - [The end of the Redis adventure - <antirez>](http://antirez.com/news/133)
 
 ## Authors
 
