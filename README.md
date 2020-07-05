@@ -365,6 +365,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A Journey to find a memory leak](https://jolicode.com/blog/a-journey-to-find-a-memory-leak)
  - [Creating unique numbering sequences for a supplier](https://robbert.rocks/creating-unique-numbering-sequences-for-a-supplier)
  - [xDebug-Toggler](https://github.com/deligoez/xDebug-Toggler)
+ - [Exception-Driven Request Validation with Symfony](https://medium.com/@UP634182/exception-driven-request-validation-with-symfony-b1628b168009)
 
 ## Authors
 
