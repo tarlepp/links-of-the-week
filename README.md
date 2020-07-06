@@ -371,6 +371,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 28
 
  - [Rich](https://github.com/willmcgugan/rich)
+ - [Fast load times](https://web.dev/fast/)
 
 ## Authors
 
