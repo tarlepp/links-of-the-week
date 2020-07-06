@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 25](#week-25)
      - [Week 26](#week-26)
      - [Week 27](#week-27)
+     - [Week 28](#week-28)
   * [Authors](#authors)
   * [License](#license)
 
@@ -366,6 +367,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Creating unique numbering sequences for a supplier](https://robbert.rocks/creating-unique-numbering-sequences-for-a-supplier)
  - [xDebug-Toggler](https://github.com/deligoez/xDebug-Toggler)
  - [Exception-Driven Request Validation with Symfony](https://medium.com/@UP634182/exception-driven-request-validation-with-symfony-b1628b168009)
+
+### Week 28
+
+ - [Rich](https://github.com/willmcgugan/rich)
 
 ## Authors
 
