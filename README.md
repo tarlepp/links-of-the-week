@@ -375,6 +375,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP 8.0: CurlHandle class objects replace curl handlers](https://php.watch/versions/8.0/resource-CurlHandle)
  - [How Will Programming look like in 2025?](https://tomasvotruba.com/blog/2020/06/29/how-will-programming-look-like-in-2025/)
  - [HTTP Prompt](http://http-prompt.com/)
+ - [Opiskelijoiden suosimaa Gambinaa hamstrataan nyt Alkosta – kulttijuoman resepti muuttuu, valmistaja kertoo syyn: "Oli kaksi vaihtoehtoa, kumpaakaan ei haluttu tehdä"](https://www.mtvuutiset.fi/makuja/artikkeli/opiskelijoiden-suosimaa-gambinaa-hamstrataan-nyt-alkosta-kulttijuoman-resepti-muuttuu-valmistaja-kertoo-syyn-oli-kaksi-vaihtoehtoa-kumpaakaan-ei-haluttu-tehda/7865136#gs.9mkr06)
 
 ## Authors
 
