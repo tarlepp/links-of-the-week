@@ -377,6 +377,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [HTTP Prompt](http://http-prompt.com/)
  - [Opiskelijoiden suosimaa Gambinaa hamstrataan nyt Alkosta – kulttijuoman resepti muuttuu, valmistaja kertoo syyn: "Oli kaksi vaihtoehtoa, kumpaakaan ei haluttu tehdä"](https://www.mtvuutiset.fi/makuja/artikkeli/opiskelijoiden-suosimaa-gambinaa-hamstrataan-nyt-alkosta-kulttijuoman-resepti-muuttuu-valmistaja-kertoo-syyn-oli-kaksi-vaihtoehtoa-kumpaakaan-ei-haluttu-tehda/7865136#gs.9mkr06)
  - [PHPStan and Psalm Support Coming to PhpStorm Soon](https://blog.jetbrains.com/phpstorm/2020/07/phpstan-and-psalm-support-coming-to-phpstorm/)
+ - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ## Authors
 
