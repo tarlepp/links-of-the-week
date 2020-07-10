@@ -379,6 +379,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHPStan and Psalm Support Coming to PhpStorm Soon](https://blog.jetbrains.com/phpstorm/2020/07/phpstan-and-psalm-support-coming-to-phpstorm/)
  - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
  - [Microsoft Support of PHP on Windows](https://externals.io/message/110907)
+ - [PHP RFC: Named Arguments](https://wiki.php.net/rfc/named_params)
 
 ## Authors
 
