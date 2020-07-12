@@ -382,6 +382,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Named Arguments](https://wiki.php.net/rfc/named_params)
  - [[RFC] add API to check license compatibility](https://github.com/composer/spdx-licenses/issues/35)
  - [Beating some performance into Docker for Mac](https://medium.com/homullus/beating-some-performance-into-docker-for-mac-f5d1e732032c)
+ - [Using Correlation IDs in API Calls](https://medium.com/leaseweb/using-correlation-ids-in-api-calls-42b1cd84813b)
 
 ## Authors
 
