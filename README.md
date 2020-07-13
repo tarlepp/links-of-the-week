@@ -45,6 +45,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 26](#week-26)
      - [Week 27](#week-27)
      - [Week 28](#week-28)
+     - [Week 29](#week-29)
   * [Authors](#authors)
   * [License](#license)
 
@@ -383,6 +384,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [[RFC] add API to check license compatibility](https://github.com/composer/spdx-licenses/issues/35)
  - [Beating some performance into Docker for Mac](https://medium.com/homullus/beating-some-performance-into-docker-for-mac-f5d1e732032c)
  - [Using Correlation IDs in API Calls](https://medium.com/leaseweb/using-correlation-ids-in-api-calls-42b1cd84813b)
+
+### Week 29
+
+ - [Say hello to bangs.](https://duckduckgo.com/bang)
 
 ## Authors
 
