@@ -388,6 +388,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 29
 
  - [Say hello to bangs.](https://duckduckgo.com/bang)
+ - [Parsica - The easiest way to build robust parsers in PHP](https://parsica.verraes.net/)
 
 ## Authors
 
