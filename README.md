@@ -390,6 +390,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Say hello to bangs.](https://duckduckgo.com/bang)
  - [Parsica - The easiest way to build robust parsers in PHP](https://parsica.verraes.net/)
  - [Matomo is the leading Free/Libre open analytics platform](https://github.com/matomo-org/matomo)
+ - [Triggers not executed following foreign key updates/deletes](https://bugs.mysql.com/bug.php?id=11472)
 
 ## Authors
 
