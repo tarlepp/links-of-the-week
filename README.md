@@ -397,6 +397,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 30
 
  - [PHP 8: before and after](https://stitcher.io/blog/php-8-before-and-after)
+ - [Renaming the default branch from master](https://github.com/github/renaming)
 
 ## Authors
 
