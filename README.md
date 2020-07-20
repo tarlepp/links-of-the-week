@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 27](#week-27)
      - [Week 28](#week-28)
      - [Week 29](#week-29)
+     - [Week 30](#week-30)
   * [Authors](#authors)
   * [License](#license)
 
@@ -392,6 +393,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Matomo is the leading Free/Libre open analytics platform](https://github.com/matomo-org/matomo)
  - [Triggers not executed following foreign key updates/deletes](https://bugs.mysql.com/bug.php?id=11472)
  - [Branchless Programming: Why "If" is Sloowww... and what we can do about it!](https://www.youtube.com/watch?v=bVJ-mWWL7cE)
+
+### Week 30
+
+ - [PHP 8: before and after](https://stitcher.io/blog/php-8-before-and-after)
 
 ## Authors
 
