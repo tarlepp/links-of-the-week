@@ -399,6 +399,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP 8: before and after](https://stitcher.io/blog/php-8-before-and-after)
  - [Renaming the default branch from master](https://github.com/github/renaming)
  - [The @@ is terrible, are we sure we're OK with it?](https://externals.io/message/111101)
+ - [Is It Friday Yet?](http://isitfridayyet.net/)
 
 ## Authors
 
