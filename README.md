@@ -401,6 +401,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The @@ is terrible, are we sure we're OK with it?](https://externals.io/message/111101)
  - [Is It Friday Yet?](http://isitfridayyet.net/)
  - [In Event of Moon Disaster](https://moondisaster.org/)
+ - [Adding a custom data collector in the Symfony debug bar](https://www.strangebuzz.com/en/blog/adding-a-custom-data-collector-in-the-symfony-debug-bar)
 
 ## Authors
 
