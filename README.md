@@ -407,6 +407,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 31
 
  - [Source code from dozens of companies leaked online](https://www.bleepingcomputer.com/news/security/source-code-from-dozens-of-companies-leaked-online/)
+ - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
 
 ## Authors
 
