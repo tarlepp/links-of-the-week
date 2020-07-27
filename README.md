@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 28](#week-28)
      - [Week 29](#week-29)
      - [Week 30](#week-30)
+     - [Week 31](#week-31)
   * [Authors](#authors)
   * [License](#license)
 
@@ -402,6 +403,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Is It Friday Yet?](http://isitfridayyet.net/)
  - [In Event of Moon Disaster](https://moondisaster.org/)
  - [Adding a custom data collector in the Symfony debug bar](https://www.strangebuzz.com/en/blog/adding-a-custom-data-collector-in-the-symfony-debug-bar)
+
+### Week 31
+
+ - [Source code from dozens of companies leaked online](https://www.bleepingcomputer.com/news/security/source-code-from-dozens-of-companies-leaked-online/)
 
 ## Authors
 
