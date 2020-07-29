@@ -408,7 +408,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Source code from dozens of companies leaked online](https://www.bleepingcomputer.com/news/security/source-code-from-dozens-of-companies-leaked-online/)
  - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
- - [a](https://www.monkeyuser.com/2020/art-overflow/)
+ - [](https://www.monkeyuser.com/2020/art-overflow/)
  - [](https://symfony.com/blog/let-s-meet-online-at-symfonyworld-2020)
  - [](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
 
