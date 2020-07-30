@@ -411,6 +411,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [](https://www.monkeyuser.com/2020/art-overflow/)
  - [](https://symfony.com/blog/let-s-meet-online-at-symfonyworld-2020)
  - [](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
+ - [](https://timobakx.dev/php/symfony/2020/07/30/secondary-flows.html)
 
 ## Authors
 
