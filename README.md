@@ -413,6 +413,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
  - [](https://timobakx.dev/php/symfony/2020/07/30/secondary-flows.html)
  - [](https://symfony.com/blog/the-php-security-checker-as-a-docker-image?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+symfony%2Fblog+%28Symfony+Blog%29)
+ - [](https://serverless-visually-explained.com/)
 
 
 ## Authors
