@@ -415,6 +415,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [](https://symfony.com/blog/the-php-security-checker-as-a-docker-image?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+symfony%2Fblog+%28Symfony+Blog%29)
  - [](https://serverless-visually-explained.com/)
  - [](https://stitcher.io/blog/php-8-named-arguments)
+ - [](https://wiki.php.net/rfc/string_to_number_comparison)
 
 
 ## Authors
