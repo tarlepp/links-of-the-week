@@ -416,6 +416,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The serverless visual course where you learn, see, and do.](https://serverless-visually-explained.com/)
  - [PHP 8: named arguments](https://stitcher.io/blog/php-8-named-arguments)
  - [PHP RFC: Saner string to number comparisons](https://wiki.php.net/rfc/string_to_number_comparison)
+ - [How to Switch from YAML/XML Configs to PHP Today with Migrify](https://tomasvotruba.com/blog/2020/07/27/how-to-switch-from-yaml-xml-configs-to-php-today-with-migrify/)
 
 
 ## Authors
