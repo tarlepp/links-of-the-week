@@ -408,14 +408,14 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Source code from dozens of companies leaked online](https://www.bleepingcomputer.com/news/security/source-code-from-dozens-of-companies-leaked-online/)
  - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
- - [](https://www.monkeyuser.com/2020/art-overflow/)
- - [](https://symfony.com/blog/let-s-meet-online-at-symfonyworld-2020)
- - [](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
- - [](https://timobakx.dev/php/symfony/2020/07/30/secondary-flows.html)
- - [](https://symfony.com/blog/the-php-security-checker-as-a-docker-image?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+symfony%2Fblog+%28Symfony+Blog%29)
- - [](https://serverless-visually-explained.com/)
- - [](https://stitcher.io/blog/php-8-named-arguments)
- - [](https://wiki.php.net/rfc/string_to_number_comparison)
+ - [Art Overflow](https://www.monkeyuser.com/2020/art-overflow/)
+ - [Let’s meet online at SymfonyWorld 2020](https://symfony.com/blog/let-s-meet-online-at-symfonyworld-2020)
+ - [New ‘Meow’ attack has deleted almost 4,000 unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/)
+ - [Using Symfony's service iterators for secondary flows](https://timobakx.dev/php/symfony/2020/07/30/secondary-flows.html)
+ - [The PHP Security Checker as a Docker image](https://symfony.com/blog/the-php-security-checker-as-a-docker-image)
+ - [The serverless visual course where you learn, see, and do.](https://serverless-visually-explained.com/)
+ - [PHP 8: named arguments](https://stitcher.io/blog/php-8-named-arguments)
+ - [PHP RFC: Saner string to number comparisons](https://wiki.php.net/rfc/string_to_number_comparison)
 
 
 ## Authors
