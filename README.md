@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 29](#week-29)
      - [Week 30](#week-30)
      - [Week 31](#week-31)
+     - [Week 32](#week-32)
   * [Authors](#authors)
   * [License](#license)
 
@@ -418,6 +419,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Saner string to number comparisons](https://wiki.php.net/rfc/string_to_number_comparison)
  - [How to Switch from YAML/XML Configs to PHP Today with Migrify](https://tomasvotruba.com/blog/2020/07/27/how-to-switch-from-yaml-xml-configs-to-php-today-with-migrify/)
 
+
+### Week 32
+
+ - [PSR-7 Storage-less HTTP Sessions](https://github.com/psr7-sessions/storageless)
 
 ## Authors
 
