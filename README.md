@@ -423,6 +423,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 32
 
  - [PSR-7 Storage-less HTTP Sessions](https://github.com/psr7-sessions/storageless)
+ - [JBZoo / Composer-Diff](https://github.com/JBZoo/Composer-Diff)
 
 ## Authors
 
