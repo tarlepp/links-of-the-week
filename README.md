@@ -425,6 +425,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PSR-7 Storage-less HTTP Sessions](https://github.com/psr7-sessions/storageless)
  - [JBZoo / Composer-Diff](https://github.com/JBZoo/Composer-Diff)
  - [The Ren & Stimpy Show is coming back with all-new episodes](https://boingboing.net/2020/08/06/the-ren-stimpy-show-is-comin.html)
+ - [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/newsycombinator/status/1291479766126690309)
 
 ## Authors
 
