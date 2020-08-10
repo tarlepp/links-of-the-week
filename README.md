@@ -433,6 +433,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 33
 
  - [All CAPS](http://geek-and-poke.com/geekandpoke/2018/8/13/all-caps)
+ - [Top Ten Tips on how to Thicken your Skin](https://www.itspronouncedmetrosexual.com/2012/09/tips-on-thickening-skin-in-social-justice-work/)
 
 ## Authors
 
