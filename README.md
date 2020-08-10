@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 30](#week-30)
      - [Week 31](#week-31)
      - [Week 32](#week-32)
+     - [Week 33](#week-33)
   * [Authors](#authors)
   * [License](#license)
 
@@ -428,6 +429,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions](https://twitter.com/newsycombinator/status/1291479766126690309)
  - [A survey of programming language enum support](https://github.com/Crell/enum-comparison)
  - [Deploy a Symfony ❤️ application in AWS Lambda 💭](https://medium.com/@smaine.milianni/aws-lambda-and-symfony-6d3e9831c3cd)
+
+### Week 33
+
+ - [All CAPS](http://geek-and-poke.com/geekandpoke/2018/8/13/all-caps)
 
 ## Authors
 
