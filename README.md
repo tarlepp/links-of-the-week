@@ -435,6 +435,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [All CAPS](http://geek-and-poke.com/geekandpoke/2018/8/13/all-caps)
  - [Top Ten Tips on how to Thicken your Skin](https://www.itspronouncedmetrosexual.com/2012/09/tips-on-thickening-skin-in-social-justice-work/)
  - [Knight Rider is being made into a new film](https://www.topgear.com/car-news/movies/knight-rider-being-made-new-film)
+ - [Comic: Pirates Love Continuous Deployment](https://elijahmanor.com/pun-shipping)
 
 ## Authors
 
