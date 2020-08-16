@@ -438,6 +438,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Comic: Pirates Love Continuous Deployment](https://elijahmanor.com/pun-shipping)
  - [JavaScript Weekly](https://javascriptweekly.com/issues/501)
  - [CloudPanel](https://www.cloudpanel.io/)
+ - [Epic and Unity rev their engines for the next era of entertainment](https://arstechnica.com/gaming/2020/08/epic-and-unity-rev-their-engines-for-the-next-era-of-entertainment/)
 
 ## Authors
 
