@@ -439,6 +439,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [JavaScript Weekly](https://javascriptweekly.com/issues/501)
  - [CloudPanel](https://www.cloudpanel.io/)
  - [Epic and Unity rev their engines for the next era of entertainment](https://arstechnica.com/gaming/2020/08/epic-and-unity-rev-their-engines-for-the-next-era-of-entertainment/)
+ - [Symfony search engine with elasticsearch](https://medium.com/@biberogluyusuf/symfony-search-engine-with-elasticsearch-9900cee18ec7)
 
 ## Authors
 
