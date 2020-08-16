@@ -437,6 +437,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Knight Rider is being made into a new film](https://www.topgear.com/car-news/movies/knight-rider-being-made-new-film)
  - [Comic: Pirates Love Continuous Deployment](https://elijahmanor.com/pun-shipping)
  - [JavaScript Weekly](https://javascriptweekly.com/issues/501)
+ - [CloudPanel](https://www.cloudpanel.io/)
 
 ## Authors
 
