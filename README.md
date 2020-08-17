@@ -447,6 +447,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [PHP RFC: Shorter Attribute Syntax Change](https://wiki.php.net/rfc/shorter_attribute_syntax_change)
  - [The Linux-based PinePhone is the most interesting smartphone I've tried in years](https://www.androidpolice.com/2020/08/13/the-linux-based-pinephone-is-the-most-interesting-smartphone-ive-tried-in-years/)
+ - [Librem 5](https://puri.sm/products/librem-5/)
 
 ## Authors
 
