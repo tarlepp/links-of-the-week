@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 31](#week-31)
      - [Week 32](#week-32)
      - [Week 33](#week-33)
+     - [Week 34](#week-34)
   * [Authors](#authors)
   * [License](#license)
 
@@ -441,6 +442,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Epic and Unity rev their engines for the next era of entertainment](https://arstechnica.com/gaming/2020/08/epic-and-unity-rev-their-engines-for-the-next-era-of-entertainment/)
  - [Symfony search engine with elasticsearch](https://medium.com/@biberogluyusuf/symfony-search-engine-with-elasticsearch-9900cee18ec7)
  - [State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux)
+
+### Week 34
+
+ - [PHP RFC: Shorter Attribute Syntax Change](https://wiki.php.net/rfc/shorter_attribute_syntax_change)
 
 ## Authors
 
