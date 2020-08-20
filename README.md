@@ -450,6 +450,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Librem 5](https://puri.sm/products/librem-5/)
  - [Hacktoberfest presented by DigitalOcean | home](https://hacktoberfest.digitalocean.com/)
  - [dot-to-ascii](https://dot-to-ascii.ggerganov.com/)
+ - [Basic CQRS and Event Sourcing with Prooph, by M. Pivetta | Web Summer Camp 2017](https://www.youtube.com/watch?v=RfnySciLUhc)
 
 ## Authors
 
