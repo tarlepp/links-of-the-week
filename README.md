@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 32](#week-32)
      - [Week 33](#week-33)
      - [Week 34](#week-34)
+     - [Week 35](#week-35)
   * [Authors](#authors)
   * [License](#license)
 
@@ -451,6 +452,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hacktoberfest presented by DigitalOcean | home](https://hacktoberfest.digitalocean.com/)
  - [dot-to-ascii](https://dot-to-ascii.ggerganov.com/)
  - [Basic CQRS and Event Sourcing with Prooph, by M. Pivetta | Web Summer Camp 2017](https://www.youtube.com/watch?v=RfnySciLUhc)
+
+### Week 35
 
 ## Authors
 
