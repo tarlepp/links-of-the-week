@@ -456,6 +456,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 35
 
  - [psalm-plugin-skeleton](https://github.com/weirdan/psalm-plugin-skeleton)
+ - [Suomalaisen hävittäjän toteutus Hx-hanketta varten](https://www.kansalaisaloite.fi/fi/aloite/6983)
 
 ## Authors
 
