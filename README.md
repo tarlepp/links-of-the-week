@@ -458,6 +458,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [psalm-plugin-skeleton](https://github.com/weirdan/psalm-plugin-skeleton)
  - [Suomalaisen hävittäjän toteutus Hx-hanketta varten](https://www.kansalaisaloite.fi/fi/aloite/6983)
  - [Movesensei Judo](https://movesensei.mobi/)
+ - [Decouple your Symfony application using Domain Events](https://romaricdrigon.github.io/2019/08/09/domain-events)
 
 ## Authors
 
