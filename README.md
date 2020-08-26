@@ -459,6 +459,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Suomalaisen hävittäjän toteutus Hx-hanketta varten](https://www.kansalaisaloite.fi/fi/aloite/6983)
  - [Movesensei Judo](https://movesensei.mobi/)
  - [Decouple your Symfony application using Domain Events](https://romaricdrigon.github.io/2019/08/09/domain-events)
+ - [I'm looking for great #Symfony bundles](https://twitter.com/fabpot/status/1298650253063868416)
 
 ## Authors
 
