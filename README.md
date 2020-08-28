@@ -462,6 +462,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [I'm looking for great #Symfony bundles](https://twitter.com/fabpot/status/1298650253063868416)
  - [AsyncAWS client](https://async-aws.com/)
  - [Stimulus](https://github.com/stimulusjs/stimulus)
+ - [August 2020 meetup](https://www.youtube.com/playlist?list=PLvS7jLr-sWR8KUlnCfQbFsCVqXlkhM4MB)
 
 ## Authors
 
