@@ -463,6 +463,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [AsyncAWS client](https://async-aws.com/)
  - [Stimulus](https://github.com/stimulusjs/stimulus)
  - [August 2020 meetup](https://www.youtube.com/playlist?list=PLvS7jLr-sWR8KUlnCfQbFsCVqXlkhM4MB)
+ - [Very short functions are a code smell – an overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
 
 ## Authors
 
