@@ -52,6 +52,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 33](#week-33)
      - [Week 34](#week-34)
      - [Week 35](#week-35)
+     - [Week 36](#week-36)
   * [Authors](#authors)
   * [License](#license)
 
@@ -464,6 +465,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Stimulus](https://github.com/stimulusjs/stimulus)
  - [August 2020 meetup](https://www.youtube.com/playlist?list=PLvS7jLr-sWR8KUlnCfQbFsCVqXlkhM4MB)
  - [Very short functions are a code smell – an overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/)
+
+### Week 36
 
 ## Authors
 
