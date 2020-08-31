@@ -468,6 +468,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 36
 
+ - [Xdebug 3](https://www.twitch.tv/videos/727092297)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
