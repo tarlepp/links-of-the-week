@@ -472,6 +472,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
  - [The handshake - How HTTPS works](https://howhttps.works/the-handshake/)
  - [Flying-V](https://www.tudelft.nl/en/ae/flying-v/)
+ - [PHP RFC: foreach iteration of keys without values](https://wiki.php.net/rfc/foreach_void)
 
 ## Authors
 
