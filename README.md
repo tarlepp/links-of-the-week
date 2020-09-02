@@ -471,6 +471,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Xdebug 3](https://www.twitch.tv/videos/727092297)
  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
  - [The handshake - How HTTPS works](https://howhttps.works/the-handshake/)
+ - [Flying-V](https://www.tudelft.nl/en/ae/flying-v/)
 
 ## Authors
 
