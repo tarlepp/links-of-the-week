@@ -475,6 +475,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: foreach iteration of keys without values](https://wiki.php.net/rfc/foreach_void)
  - [Shared assertions and validations](https://blog.cats-and-code.com/shared-assertions-and-validations/)
  - [maglnet/composer-require-checker](https://packagist.org/packages/maglnet/composer-require-checker)
+ - [PHP preloading and Symfony](https://symfony.com/blog/php-preloading-and-symfony)
 
 ## Authors
 
