@@ -53,6 +53,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 34](#week-34)
      - [Week 35](#week-35)
      - [Week 36](#week-36)
+     - [Week 37](#week-37)
   * [Authors](#authors)
   * [License](#license)
 
@@ -476,6 +477,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Shared assertions and validations](https://blog.cats-and-code.com/shared-assertions-and-validations/)
  - [maglnet/composer-require-checker](https://packagist.org/packages/maglnet/composer-require-checker)
  - [PHP preloading and Symfony](https://symfony.com/blog/php-preloading-and-symfony)
+
+### Week 37
+
+ - [Do Not Run Dockerized Applications as Root](https://americanexpress.io/do-not-run-dockerized-applications-as-root/)
 
 ## Authors
 
