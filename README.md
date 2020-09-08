@@ -481,6 +481,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 37
 
  - [Do Not Run Dockerized Applications as Root](https://americanexpress.io/do-not-run-dockerized-applications-as-root/)
+ - [Doctrine’s Second Level Cache in a Symfony Application](https://www.pgs-soft.com/blog/doctrines-second-level-cache-in-a-symfony-application/)
 
 ## Authors
 
