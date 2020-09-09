@@ -483,6 +483,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Do Not Run Dockerized Applications as Root](https://americanexpress.io/do-not-run-dockerized-applications-as-root/)
  - [Doctrine’s Second Level Cache in a Symfony Application](https://www.pgs-soft.com/blog/doctrines-second-level-cache-in-a-symfony-application/)
  - [Nikita Popov and Nikolas Grekas: Symfony PHP 8 Compatibility](https://www.youtube.com/watch?v=c3bpTBjhK2Y)
+ - [Developer Roadmaps](https://roadmap.sh/roadmaps)
 
 ## Authors
 
