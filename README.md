@@ -485,6 +485,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Nikita Popov and Nikolas Grekas: Symfony PHP 8 Compatibility](https://www.youtube.com/watch?v=c3bpTBjhK2Y)
  - [Developer Roadmaps](https://roadmap.sh/roadmaps)
  - [Multiple DBAL connections in Symfony 4](https://medium.com/@peter.lafferty/multiple-dbal-connections-in-symfony-4-b9038da9b3e4)
+ - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
 ## Authors
 
