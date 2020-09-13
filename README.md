@@ -486,6 +486,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Developer Roadmaps](https://roadmap.sh/roadmaps)
  - [Multiple DBAL connections in Symfony 4](https://medium.com/@peter.lafferty/multiple-dbal-connections-in-symfony-4-b9038da9b3e4)
  - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+ - [Symfony Messenger component for CQRS applications](https://dev.to/patrykwozinski/symfony-messenger-component-for-cqrs-applications-884)
 
 ## Authors
 
