@@ -493,6 +493,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Rapid development with autowiring and autoconfiguration](https://netgen.io/blog/rapid-development-with-autowiring-and-autoconfiguration)
  - [Using Redis for session handling in Symfony 4.1+](http://blog.michaelperrin.fr/2018/08/14/redis-session-handling-in-symfony/)
+ - [Docker, Kubernetes, and PHP: Laravel Edition (RTFM with Rawkode)](https://www.youtube.com/watch?v=CneJf4Amv0U)
 
 ## Authors
 
