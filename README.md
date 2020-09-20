@@ -495,6 +495,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using Redis for session handling in Symfony 4.1+](http://blog.michaelperrin.fr/2018/08/14/redis-session-handling-in-symfony/)
  - [Docker, Kubernetes, and PHP: Laravel Edition (RTFM with Rawkode)](https://www.youtube.com/watch?v=CneJf4Amv0U)
  - [Winamp Skin Museum](https://skins.webamp.org/)
+ - [Testing Benford’s Law in Symfony 5, Php Framework](https://medium.com/@biberogluyusuf/testing-benfords-law-in-symfony-5-php-framework-9a59ce24292c)
 
 ## Authors
 
