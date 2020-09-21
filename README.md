@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 36](#week-36)
      - [Week 37](#week-37)
      - [Week 38](#week-38)
+     - [Week 39](#week-39)
   * [Authors](#authors)
   * [License](#license)
 
@@ -497,6 +498,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Winamp Skin Museum](https://skins.webamp.org/)
  - [Testing Benford’s Law in Symfony 5, Php Framework](https://medium.com/@biberogluyusuf/testing-benfords-law-in-symfony-5-php-framework-9a59ce24292c)
  - [Smoke from USA fires](https://twitter.com/mikarantane/status/1307620881301229568)
+
+### Week 39
+
+ - [Why Microsoft Is the Perfect Fit](https://bethesda.net/en/article/1iLtcvwY6Nb1GeKADyDUEX/why-microsoft-is-the-perfect-fit)
 
 ## Authors
 
