@@ -502,6 +502,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 39
 
  - [Why Microsoft Is the Perfect Fit](https://bethesda.net/en/article/1iLtcvwY6Nb1GeKADyDUEX/why-microsoft-is-the-perfect-fit)
+ - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 
 ## Authors
 
