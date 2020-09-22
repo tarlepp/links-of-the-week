@@ -505,6 +505,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
  - [How to copy an Elasticsearch index from the production to a local Docker container](https://jolicode.com/blog/how-to-copy-an-elasticsearch-index-from-the-production-to-a-local-docker-container)
  - [PHP RFC: <<Deprecated>> Attribute](https://wiki.php.net/rfc/deprecated_attribute)
+ - [GitHub CLI 1.0 is now available](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/)
 
 ## Authors
 
