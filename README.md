@@ -504,6 +504,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why Microsoft Is the Perfect Fit](https://bethesda.net/en/article/1iLtcvwY6Nb1GeKADyDUEX/why-microsoft-is-the-perfect-fit)
  - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
  - [How to copy an Elasticsearch index from the production to a local Docker container](https://jolicode.com/blog/how-to-copy-an-elasticsearch-index-from-the-production-to-a-local-docker-container)
+ - [PHP RFC: <<Deprecated>> Attribute](https://wiki.php.net/rfc/deprecated_attribute)
 
 ## Authors
 
