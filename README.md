@@ -507,6 +507,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: <<Deprecated>> Attribute](https://wiki.php.net/rfc/deprecated_attribute)
  - [GitHub CLI 1.0 is now available](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/)
  - [Redash](https://redash.io/)
+ - [Metabase](https://www.metabase.com/)
 
 ## Authors
 
