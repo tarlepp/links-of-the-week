@@ -508,6 +508,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GitHub CLI 1.0 is now available](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/)
  - [Redash](https://redash.io/)
  - [Metabase](https://www.metabase.com/)
+ - [Apache Superset](https://superset.incubator.apache.org/)
 
 ## Authors
 
