@@ -509,6 +509,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Redash](https://redash.io/)
  - [Metabase](https://www.metabase.com/)
  - [Apache Superset](https://superset.incubator.apache.org/)
+ - [A PHP implementation built on GraalVM](https://github.com/abertschi/graalphp)
 
 ## Authors
 
