@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 37](#week-37)
      - [Week 38](#week-38)
      - [Week 39](#week-39)
+     - [Week 40](#week-40)
   * [Authors](#authors)
   * [License](#license)
 
@@ -512,6 +513,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A PHP implementation built on GraalVM](https://github.com/abertschi/graalphp)
  - [ShadyURL](http://www.shadyurl.com/)
  - [Dynamically changing the log level in Symfony apps](https://matthiasnoback.nl/2020/09/symfony-changing-the-log-level/)
+
+### Week 40
 
 ## Authors
 
