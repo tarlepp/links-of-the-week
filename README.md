@@ -517,6 +517,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 40
 
  - [Tabloid](https://tabloid.vercel.app/)
+ - [ajv-cli](https://github.com/ajv-validator/ajv-cli)
 
 ## Authors
 
