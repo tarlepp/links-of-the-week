@@ -520,6 +520,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [ajv-cli](https://github.com/ajv-validator/ajv-cli)
  - [Defensive BASH Programming](https://kfirlavi.herokuapp.com/blog/2012/11/14/defensive-bash-programming/)
  - [Meet Code With Me (EAP) – a tool for collaborative development by JetBrains](https://blog.jetbrains.com/2020/09/28/code-with-me-eap/)
+ - [Introducing PHPStan Pro – Save Your Keystrokes and Get More Productive!](https://phpstan.org/blog/introducing-phpstan-pro)
 
 ## Authors
 
