@@ -522,6 +522,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Meet Code With Me (EAP) – a tool for collaborative development by JetBrains](https://blog.jetbrains.com/2020/09/28/code-with-me-eap/)
  - [Introducing PHPStan Pro – Save Your Keystrokes and Get More Productive!](https://phpstan.org/blog/introducing-phpstan-pro)
  - [PHP extensions status with upcoming PHP 8.0](https://blog.remirepo.net/post/2020/09/21/PHP-extensions-status-with-upcoming-PHP-8.0)
+ - [SOPS: Secrets OPerationS](https://github.com/mozilla/sops)
 
 ## Authors
 
