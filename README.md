@@ -523,6 +523,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing PHPStan Pro – Save Your Keystrokes and Get More Productive!](https://phpstan.org/blog/introducing-phpstan-pro)
  - [PHP extensions status with upcoming PHP 8.0](https://blog.remirepo.net/post/2020/09/21/PHP-extensions-status-with-upcoming-PHP-8.0)
  - [SOPS: Secrets OPerationS](https://github.com/mozilla/sops)
+ - [Hennes & Mauritz : Germany fines H&M 35 million euros for data protection breaches](https://www.marketscreener.com/quote/stock/HENNES-MAURITZ-AB-6491104/news/Hennes-Mauritz-Germany-fines-H-M-35-million-euros-for-data-protection-breaches-31455747/)
 
 ## Authors
 
