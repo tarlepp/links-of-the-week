@@ -530,6 +530,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 41
 
  - [State of the Laravel Discourse](https://medium.com/@tobiashn/state-of-the-laravel-discourse-8d743ca010d9)
+ - [TabNine](https://www.tabnine.com/)
 
 ## Authors
 
