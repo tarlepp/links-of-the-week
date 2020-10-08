@@ -535,6 +535,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PhpStorm 2020.2 EAP #2: PHPStan and Psalm Support Out-of-the-Box](https://blog.jetbrains.com/phpstorm/2020/10/phpstorm-2020-2-eap-2-phpstan-and-psalm-support-out-of-the-box/)
  - [Nokia kiinnostaa: suomalaistutkijoiden analyysista huipputiedelehden luetuin artikkeli](https://www.jyu.fi/fi/ajankohtaista/arkisto/2020/10/nokia-kiinnostaa-suomalaistutkijoiden-analyysista-huipputiedelehden-luetuin-artikkeli)
  - [PgAsync](https://github.com/voryx/PgAsync)
+ - [How Flash games shaped the video game industry](http://www.flashgamehistory.com/)
 
 ## Authors
 
