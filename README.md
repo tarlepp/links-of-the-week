@@ -532,6 +532,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [State of the Laravel Discourse](https://medium.com/@tobiashn/state-of-the-laravel-discourse-8d743ca010d9)
  - [TabNine](https://www.tabnine.com/)
  - [New: A security flaw in a popular internet-connected chastity sex toy put tens of thousands of users at risk of permanent lock-in](https://twitter.com/zackwhittaker/status/1313434020240396289)
+ - [PhpStorm 2020.2 EAP #2: PHPStan and Psalm Support Out-of-the-Box](https://blog.jetbrains.com/phpstorm/2020/10/phpstorm-2020-2-eap-2-phpstan-and-psalm-support-out-of-the-box/)
 
 ## Authors
 
