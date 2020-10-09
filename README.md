@@ -536,6 +536,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Nokia kiinnostaa: suomalaistutkijoiden analyysista huipputiedelehden luetuin artikkeli](https://www.jyu.fi/fi/ajankohtaista/arkisto/2020/10/nokia-kiinnostaa-suomalaistutkijoiden-analyysista-huipputiedelehden-luetuin-artikkeli)
  - [PgAsync](https://github.com/voryx/PgAsync)
  - [How Flash games shaped the video game industry](http://www.flashgamehistory.com/)
+ - [Better Pull Request for GitHub](https://chrome.google.com/webstore/detail/better-pull-request-for-g/nfhdjopbhlggibjlimhdbogflgmbiahc)
 
 ## Authors
 
