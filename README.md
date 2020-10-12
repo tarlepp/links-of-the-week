@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 39](#week-39)
      - [Week 40](#week-40)
      - [Week 41](#week-41)
+     - [Week 42](#week-42)
   * [Authors](#authors)
   * [License](#license)
 
@@ -538,6 +539,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How Flash games shaped the video game industry](http://www.flashgamehistory.com/)
  - [Better Pull Request for GitHub](https://chrome.google.com/webstore/detail/better-pull-request-for-g/nfhdjopbhlggibjlimhdbogflgmbiahc)
  - [Symfony Messenger with custom serializer](https://blog.liplex.de/symfony-messenger-with-custom-serializer/)
+
+### Week 42
+
+ - [Phalyfusion](https://github.com/taptima/phalyfusion)
 
 ## Authors
 
