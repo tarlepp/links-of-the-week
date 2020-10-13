@@ -543,6 +543,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 42
 
  - [Phalyfusion](https://github.com/taptima/phalyfusion)
+ - [Is it down? Check at Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
 ## Authors
 
