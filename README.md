@@ -544,6 +544,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Phalyfusion](https://github.com/taptima/phalyfusion)
  - [Is it down? Check at Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
+ - [ramsey/composer-install - A GitHub Action to streamline installation of Composer dependencies](https://github.com/ramsey/composer-install)
 
 ## Authors
 
