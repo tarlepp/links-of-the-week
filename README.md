@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 40](#week-40)
      - [Week 41](#week-41)
      - [Week 42](#week-42)
+     - [Week 43](#week-43)
   * [Authors](#authors)
   * [License](#license)
 
@@ -548,6 +549,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Twitter - Surprise Motherfucker. He’s back. #Dexter](https://twitter.com/SHO_Dexter/status/1316468804378079234)
  - [GitHub - SARIF support for code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/sarif-support-for-code-scanning)
  - [Converting UTF-8 strings to ASCII using the ICU Transliterator](https://bartvanraaij.dev/2020-10-17-converting-utf8-strings-to-ascii-using-icu-transliterator/)
+
+### Week 43
 
 ## Authors
 
