@@ -552,6 +552,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 43
 
+ - [PHP RFC: Short Functions](https://wiki.php.net/rfc/short-functions)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
