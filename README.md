@@ -553,6 +553,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 43
 
  - [PHP RFC: Short Functions](https://wiki.php.net/rfc/short-functions)
+ - [From Docker Straight to AWS](https://www.docker.com/blog/from-docker-straight-to-aws/)
 
 ## Authors
 
