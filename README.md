@@ -557,6 +557,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Announcing Psalm 4](https://psalm.dev/articles/psalm-4)
  - [SymfonyInsight Webinar - October 15th](https://vimeo.com/468507524/f04776c681)
  - [Do not commit the phpunit.xml file](https://gist.github.com/Potherca/15c078ed0c0bf8e5249a166e057ad51a)
+ - [OCTOBER 22 IS INTERNATIONAL CAPS LOCK DAY!!!](https://capslockday.toimii.fi/)
 
 ## Authors
 
