@@ -559,6 +559,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Do not commit the phpunit.xml file](https://gist.github.com/Potherca/15c078ed0c0bf8e5249a166e057ad51a)
  - [OCTOBER 22 IS INTERNATIONAL CAPS LOCK DAY!!!](https://capslockday.toimii.fi/)
  - [Symfony Translation status](https://symfony-translations.nyholm.tech/)
+ - [Burnout Symptoms and Treatment](https://www.verywellmind.com/stress-and-burnout-symptoms-and-causes-3144516)
 
 ## Authors
 
