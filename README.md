@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 41](#week-41)
      - [Week 42](#week-42)
      - [Week 43](#week-43)
+     - [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -559,7 +560,13 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Do not commit the phpunit.xml file](https://gist.github.com/Potherca/15c078ed0c0bf8e5249a166e057ad51a)
  - [OCTOBER 22 IS INTERNATIONAL CAPS LOCK DAY!!!](https://capslockday.toimii.fi/)
  - [Symfony Translation status](https://symfony-translations.nyholm.tech/)
- - [Burnout Symptoms and Treatment](https://www.verywellmind.com/stress-and-burnout-symptoms-and-causes-3144516)https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/
+ - [Burnout Symptoms and Treatment](https://www.verywellmind.com/stress-and-burnout-symptoms-and-causes-3144516)
+
+### Week 44
+
+ - [How 30 Lines of Code Blew Up a 27-Ton Generator](https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/)
+ - [Ghost](https://github.com/ghost)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
