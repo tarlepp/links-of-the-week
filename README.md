@@ -567,6 +567,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How 30 Lines of Code Blew Up a 27-Ton Generator](https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/)
  - [Ghost](https://github.com/ghost)
  - [Using an expression for disabling the security of a Symfony administration in the dev environment](https://www.strangebuzz.com/en/blog/using-an-expression-for-disabling-the-security-of-a-symfony-administration-in-the-dev-environment)
+ - [Automatic command execution on file changes with entr](https://danielrotter.at/2020/10/07/automatic-command-execution-on-file-changes-with-entr.html)
 
 ## Authors
 
