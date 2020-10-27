@@ -568,6 +568,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Ghost](https://github.com/ghost)
  - [Using an expression for disabling the security of a Symfony administration in the dev environment](https://www.strangebuzz.com/en/blog/using-an-expression-for-disabling-the-security-of-a-symfony-administration-in-the-dev-environment)
  - [Automatic command execution on file changes with entr](https://danielrotter.at/2020/10/07/automatic-command-execution-on-file-changes-with-entr.html)
+ - [Personality in Open Source](https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source)
 
 ## Authors
 
