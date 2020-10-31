@@ -570,6 +570,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Automatic command execution on file changes with entr](https://danielrotter.at/2020/10/07/automatic-command-execution-on-file-changes-with-entr.html)
  - [Personality in Open Source](https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source)
  - [How A Search Engine with 400 Million Records Literally Started From A Controller Class Test Method](https://www.youtube.com/watch?v=R19yQf1RVZM)
+ - [Populating ElasticSearch using serialization groups in ApiPlatform](https://locastic.com/blog/populating-elasticsearch-with-serialization-groups/)
 
 ## Authors
 
