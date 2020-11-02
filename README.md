@@ -576,6 +576,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 45
 
  - [Floating Point Math](https://0.30000000000000004.com/)
+ - [Dutch tram lands on whale statue's tail](https://7news.com.au/news/disaster-and-emergency/dutch-tram-lands-on-whale-statues-tail-c-1507169)
 
 ## Authors
 
