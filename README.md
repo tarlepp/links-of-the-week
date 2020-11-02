@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 42](#week-42)
      - [Week 43](#week-43)
      - [Week 44](#week-44)
+     - [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -571,6 +572,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Personality in Open Source](https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source)
  - [How A Search Engine with 400 Million Records Literally Started From A Controller Class Test Method](https://www.youtube.com/watch?v=R19yQf1RVZM)
  - [Populating ElasticSearch using serialization groups in ApiPlatform](https://locastic.com/blog/populating-elasticsearch-with-serialization-groups/)
+
+### Week 45
+
+ - [Floating Point Math](https://0.30000000000000004.com/)
 
 ## Authors
 
