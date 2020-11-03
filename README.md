@@ -578,6 +578,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Floating Point Math](https://0.30000000000000004.com/)
  - [Dutch tram lands on whale statue's tail](https://7news.com.au/news/disaster-and-emergency/dutch-tram-lands-on-whale-statues-tail-c-1507169)
  - [The Open Organisation Of Lockpickers](https://toool.nl/Toool)
+ - [Raspberry Pi 400: New All-in-One Pi!](https://www.youtube.com/watch?v=P1E5xszQqV8)
 
 ## Authors
 
