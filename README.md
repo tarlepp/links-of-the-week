@@ -580,6 +580,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Open Organisation Of Lockpickers](https://toool.nl/Toool)
  - [Raspberry Pi 400: New All-in-One Pi!](https://www.youtube.com/watch?v=P1E5xszQqV8)
  - [URL in C](https://susam.in/blog/url-in-c/)
+ - [Creating Good API Errors in REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/creating-good-api-errors-in-rest-graphql-and-grpc)
 
 ## Authors
 
