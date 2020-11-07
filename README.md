@@ -583,6 +583,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Creating Good API Errors in REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/creating-good-api-errors-in-rest-graphql-and-grpc)
  - [Naming Conventions in Database Modeling](https://www.vertabelo.com/blog/naming-conventions-in-database-modeling/)
  - [Building web apps with Rust using the Rocket framework](https://blog.logrocket.com/rust-web-apps-using-rocket-framework/)
+ - [belzebubs](https://belzebubsofficial.tumblr.com/)
 
 ## Authors
 
