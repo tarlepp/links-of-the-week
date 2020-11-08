@@ -584,6 +584,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Naming Conventions in Database Modeling](https://www.vertabelo.com/blog/naming-conventions-in-database-modeling/)
  - [Building web apps with Rust using the Rocket framework](https://blog.logrocket.com/rust-web-apps-using-rocket-framework/)
  - [belzebubs](https://belzebubsofficial.tumblr.com/)
+ - [Automated secrets detection & remediation](https://www.gitguardian.com/)
 
 ## Authors
 
