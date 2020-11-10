@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 43](#week-43)
      - [Week 44](#week-44)
      - [Week 45](#week-45)
+     - [Week 46](#week-46)
   * [Authors](#authors)
   * [License](#license)
 
@@ -585,6 +586,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Building web apps with Rust using the Rocket framework](https://blog.logrocket.com/rust-web-apps-using-rocket-framework/)
  - [belzebubs](https://belzebubsofficial.tumblr.com/)
  - [Automated secrets detection & remediation](https://www.gitguardian.com/)
+
+### Week 46
+
+ - [Symfony 5.2 curated new features](https://symfony.com/blog/symfony-5-2-curated-new-features)
 
 ## Authors
 
