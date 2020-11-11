@@ -591,6 +591,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Symfony 5.2 curated new features](https://symfony.com/blog/symfony-5-2-curated-new-features)
  - [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/)
+ - [reMarkable 2](https://remarkable.com/store/remarkable-2)
 
 ## Authors
 
