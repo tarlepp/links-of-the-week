@@ -600,6 +600,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Timeouts](https://medium.com/manomano-tech/timeouts-f0ef6e625e6)
  - [WebAuthn.io](https://webauthn.io/)
  - [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/)
+ - [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
 
 ## Authors
 
