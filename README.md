@@ -599,6 +599,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Intel Rocket Lake-S Based i9 Fails to Beat the Ryzen 9 5900X in ST or MT Performance](https://www.hardwaretimes.com/intel-rocket-lake-s-based-i9-fails-to-beat-the-ryzen-9-5950x-in-st-performance/)
  - [Timeouts](https://medium.com/manomano-tech/timeouts-f0ef6e625e6)
  - [WebAuthn.io](https://webauthn.io/)
+ - [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/)
 
 ## Authors
 
