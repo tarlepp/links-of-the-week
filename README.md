@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 44](#week-44)
      - [Week 45](#week-45)
      - [Week 46](#week-46)
+     - [Week 47](#week-47)
   * [Authors](#authors)
   * [License](#license)
 
@@ -601,6 +602,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [WebAuthn.io](https://webauthn.io/)
  - [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/)
  - [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
+
+### Week 47
 
 ## Authors
 
