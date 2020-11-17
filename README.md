@@ -606,6 +606,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 47
 
  - [Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+ - [Creating Symfony services using the factory pattern](https://www.ewaldvanderveken.dev/creating-symfony-services-using-the-factory-pattern/)
 
 ## Authors
 
