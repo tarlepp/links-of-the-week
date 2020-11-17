@@ -608,6 +608,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
  - [Creating Symfony services using the factory pattern](https://www.ewaldvanderveken.dev/creating-symfony-services-using-the-factory-pattern/)
  - [Add service layer to Doctrine ORM](https://rezarabbbani.medium.com/add-service-layer-to-doctrine-orm-4041a7c4b7d1)
+https://developers.ibexa.co/blog/benchmarks-of-composer-2.0-vs-1.10
 
 ## Authors
 
