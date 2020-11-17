@@ -605,6 +605,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 47
 
+ - [](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
