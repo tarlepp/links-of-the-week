@@ -613,6 +613,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/)
  - [BrowserGrab](https://browsergrab.io/)
  - [A faster Chrome, for everything you need to get done](https://blog.google/products/chrome/faster-chrome/)
+ - [Doctrine DBAL 3.0.0](https://www.doctrine-project.org/2020/11/17/dbal-3.0.0.html)
 
 ## Authors
 
