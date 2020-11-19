@@ -611,6 +611,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Benchmarks of Composer 2.0 vs 1.10](https://developers.ibexa.co/blog/benchmarks-of-composer-2.0-vs-1.10)
  - [My Taskfile configuration for Symfony](https://jmsche.fr/en/blog/my-taskfile-configuration-for-symfony)
  - [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/)
+ - [BrowserGrab](https://browsergrab.io/)
 
 ## Authors
 
