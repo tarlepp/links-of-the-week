@@ -616,6 +616,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine DBAL 3.0.0](https://www.doctrine-project.org/2020/11/17/dbal-3.0.0.html)
  - [Add-on for Linku/Feedback for using SymfonyStyle](https://github.com/LinkuNijmegen/SymfonyStyleFeedback)
  - [Transphporm Style Sheets](https://github.com/Level-2/Transphporm)
+ - [Slack is Fumbling Developers](https://www.swyx.io/slack-fumble/)
 
 ## Authors
 
