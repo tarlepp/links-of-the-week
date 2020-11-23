@@ -622,6 +622,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 48
 
  - [Benefits of using custom exceptions in PHP](https://www.amitmerchant.com/using-custom-exception-php/)
+ - [auditor-bundle - Doctrine audits logs made easy](https://github.com/DamienHarper/auditor-bundle)
 
 ## Authors
 
