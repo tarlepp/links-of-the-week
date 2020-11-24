@@ -623,6 +623,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Benefits of using custom exceptions in PHP](https://www.amitmerchant.com/using-custom-exception-php/)
  - [auditor-bundle - Doctrine audits logs made easy](https://github.com/DamienHarper/auditor-bundle)
+ - [PHPStan is ready for PHP 8!](https://phpstan.org/blog/phpstan-is-ready-for-php8)
 
 ## Authors
 
