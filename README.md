@@ -625,8 +625,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [auditor-bundle - Doctrine audits logs made easy](https://github.com/DamienHarper/auditor-bundle)
  - [PHPStan is ready for PHP 8!](https://phpstan.org/blog/phpstan-is-ready-for-php8)
  - [Tomorrow is an important day](https://externals.io/message/112287)
-https://developers.ibexa.co/blog/benchmarks-php-7.4-vs-8.0-symfony-5.2
-https://github.com/php/php-src/pull/5168
+ - [PHP 8.0 and 7.4 benchmarks on Symfony: JIT boost up to +9% on top of OPCache Preload](https://developers.ibexa.co/blog/benchmarks-php-7.4-vs-8.0-symfony-5.2)
+ - [Add support for "decorator" pattern](https://github.com/php/php-src/pull/5168)
+ - [PHP8 Released!](https://www.php.net/releases/8.0/en.php)
 
 ## Authors
 
