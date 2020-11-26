@@ -625,7 +625,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [auditor-bundle - Doctrine audits logs made easy](https://github.com/DamienHarper/auditor-bundle)
  - [PHPStan is ready for PHP 8!](https://phpstan.org/blog/phpstan-is-ready-for-php8)
  - [Tomorrow is an important day](https://externals.io/message/112287)
-
+https://developers.ibexa.co/blog/benchmarks-php-7.4-vs-8.0-symfony-5.2
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
