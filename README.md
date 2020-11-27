@@ -628,6 +628,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP 8.0 and 7.4 benchmarks on Symfony: JIT boost up to +9% on top of OPCache Preload](https://developers.ibexa.co/blog/benchmarks-php-7.4-vs-8.0-symfony-5.2)
  - [Add support for "decorator" pattern](https://github.com/php/php-src/pull/5168)
  - [PHP8 Released!](https://www.php.net/releases/8.0/en.php)
+ - [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html)
 
 ## Authors
 
