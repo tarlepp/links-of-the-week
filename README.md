@@ -630,6 +630,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP8 Released!](https://www.php.net/releases/8.0/en.php)
  - [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html)
  - [Virtualization.framework tool (vftool)](https://github.com/evansm7/vftool)
+ - [Cloud-based development using your local tools](https://mutagen.io/)
 
 ## Authors
 
