@@ -635,6 +635,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 49
 
+https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html?m=1
+
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
