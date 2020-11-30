@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 46](#week-46)
      - [Week 47](#week-47)
      - [Week 48](#week-48)
+     - [Week 49](#week-49)
   * [Authors](#authors)
   * [License](#license)
 
@@ -631,6 +632,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [UGT](http://www.total-knowledge.com/~ilya/mips/ugt.html)
  - [Virtualization.framework tool (vftool)](https://github.com/evansm7/vftool)
  - [Cloud-based development using your local tools](https://mutagen.io/)
+
+### Week 49
 
 ## Authors
 
