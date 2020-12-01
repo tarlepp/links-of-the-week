@@ -635,7 +635,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 49
 
-https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html?m=1
+ - [Accelerating TensorFlow Performance on Mac](https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html?m=1)
+ - [How to cope with legacy code and technical debt](https://netgen.io/blog/how-to-cope-with-legacy-code-and-technical-debt)
 
 
 ## Authors
