@@ -639,6 +639,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to cope with legacy code and technical debt](https://netgen.io/blog/how-to-cope-with-legacy-code-and-technical-debt)
  - [Salesforce Signs Definitive Agreement to Acquire Slack](https://investor.salesforce.com/press-releases/press-release-details/2020/Salesforce-Signs-Definitive-Agreement-to-Acquire-Slack/default.aspx)
  - [An iOS zero-click radio proximity exploit odyssey](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
+ - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
 
 ## Authors
