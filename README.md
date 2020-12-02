@@ -640,6 +640,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Salesforce Signs Definitive Agreement to Acquire Slack](https://investor.salesforce.com/press-releases/press-release-details/2020/Salesforce-Signs-Definitive-Agreement-to-Acquire-Slack/default.aspx)
  - [An iOS zero-click radio proximity exploit odyssey](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
  - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
+ https://www.baekdal.com/thoughts/inside-story-what-i-did-to-get-gdpr-compliant/
 
 
 ## Authors
