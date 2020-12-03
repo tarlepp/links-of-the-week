@@ -642,6 +642,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
  - [Inside Story: What I did to get GDPR Compliant](https://www.baekdal.com/thoughts/inside-story-what-i-did-to-get-gdpr-compliant/)
  - [Volumio](https://volumio.org/)
+ - [VerifyEmailBundle: Love Confirming Emails](https://github.com/SymfonyCasts/verify-email-bundle)
 
 ## Authors
 
