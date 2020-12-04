@@ -644,6 +644,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Volumio](https://volumio.org/)
  - [VerifyEmailBundle: Love Confirming Emails](https://github.com/SymfonyCasts/verify-email-bundle)
  - [PhpShooter](https://github.com/darkin1/PhpShooter)
+ - [hashtuner](https://github.com/elchris/hashtuner)
 
 ## Authors
 
