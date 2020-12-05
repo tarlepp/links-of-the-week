@@ -647,6 +647,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [hashtuner](https://github.com/elchris/hashtuner)
  - [hashcat](https://github.com/hashcat/hashcat)
 https://www2.slideshare.net/mobile/nikita_ppv/whats-new-in-php-80-239762987
+https://clig.dev/
 
 
 ## Authors
