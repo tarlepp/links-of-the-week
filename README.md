@@ -648,6 +648,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [hashcat](https://github.com/hashcat/hashcat)
  - [What's new in PHP 8.0?](https://www2.slideshare.net/mobile/nikita_ppv/whats-new-in-php-80-239762987]
  - [Command Line Interface Guidelines](https://clig.dev/)
+ - [On Trusting Macintosh Hardware](https://sneak.berlin/20201204/on-trusting-macintosh-hardware/)
 
 
 ## Authors
