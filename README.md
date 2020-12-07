@@ -653,6 +653,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 50
 
+ - [Holiday Sweater](https://www.microsoftmerchandise.com/Shop/#/product/What's+New/MIC970344.000002-Holiday-Sweater)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
