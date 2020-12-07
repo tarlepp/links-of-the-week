@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 47](#week-47)
      - [Week 48](#week-48)
      - [Week 49](#week-49)
+     - [Week 50](#week-50)
   * [Authors](#authors)
   * [License](#license)
 
@@ -650,6 +651,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Command Line Interface Guidelines](https://clig.dev/)
  - [On Trusting Macintosh Hardware](https://sneak.berlin/20201204/on-trusting-macintosh-hardware/)
 
+### Week 50
 
 ## Authors
 
