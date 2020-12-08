@@ -654,6 +654,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 50
 
  - [Holiday Sweater](https://www.microsoftmerchandise.com/Shop/#/product/What's+New/MIC970344.000002-Holiday-Sweater)
+ - [New from Universe 2020: Dark mode, GitHub Sponsors for companies, and more](https://github.blog/2020-12-08-new-from-universe-2020-dark-mode-github-sponsors-for-companies-and-more/)
 
 ## Authors
 
