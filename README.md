@@ -655,10 +655,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Holiday Sweater](https://www.microsoftmerchandise.com/Shop/#/product/What's+New/MIC970344.000002-Holiday-Sweater)
  - [New from Universe 2020: Dark mode, GitHub Sponsors for companies, and more](https://github.blog/2020-12-08-new-from-universe-2020-dark-mode-github-sponsors-for-companies-and-more/)
-https://medium.com/nttlabs/docker-20-10-59cc4bd59d37
-https://daringfireball.net/linked/2020/12/08/gurman-m-chips-2021
-https://mightyapp.com/
-https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works
+ - [New features in Docker 20.10 (Yes, it’s alive)](https://medium.com/nttlabs/docker-20-10-59cc4bd59d37)
+ - [Daring Fireball: Gurman on Apple's 2021 M-Series Chip Plans](https://daringfireball.net/linked/2020/12/08/gurman-m-chips-2021)
+ - [Make Chrome Faster](https://mightyapp.com/)
+ - [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
 
 
 ## Authors
