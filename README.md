@@ -658,6 +658,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 https://medium.com/nttlabs/docker-20-10-59cc4bd59d37
 https://daringfireball.net/linked/2020/12/08/gurman-m-chips-2021
 https://mightyapp.com/
+https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works
 
 
 ## Authors
