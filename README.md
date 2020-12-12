@@ -659,7 +659,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Daring Fireball: Gurman on Apple's 2021 M-Series Chip Plans](https://daringfireball.net/linked/2020/12/08/gurman-m-chips-2021)
  - [Make Chrome Faster](https://mightyapp.com/)
  - [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
-https://www.forbes.com/sites/nicholasreimann/2020/12/10/disney-announces-10-yes-10-star-wars-tv-shows-in-the-works-heres-whats-coming/?sh=5c11c1d562b5
+ - [Disney Announces 10 (Yes, 10) Star Wars TV Shows In The Works—Here’s What’s Coming](https://www.forbes.com/sites/nicholasreimann/2020/12/10/disney-announces-10-yes-10-star-wars-tv-shows-in-the-works-heres-whats-coming)
 
 
 ## Authors
