@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 48](#week-48)
      - [Week 49](#week-49)
      - [Week 50](#week-50)
+     - [Week 51](#week-51)
   * [Authors](#authors)
   * [License](#license)
 
@@ -661,6 +662,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Travis CI's new pricing plan threw a wrench in my open source works](https://www.jeffgeerling.com/blog/2020/travis-cis-new-pricing-plan-threw-wrench-my-open-source-works)
  - [Disney Announces 10 (Yes, 10) Star Wars TV Shows In The Works—Here’s What’s Coming](https://www.forbes.com/sites/nicholasreimann/2020/12/10/disney-announces-10-yes-10-star-wars-tv-shows-in-the-works-heres-whats-coming)
 
+### Week 51
 
 ## Authors
 
