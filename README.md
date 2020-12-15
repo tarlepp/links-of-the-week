@@ -665,6 +665,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 51
 
  - [Humanoid hunt](https://hunt.reaktor.com/)
+ - [Early Access Program for Qodana, a New Static Analysis and Quality Management Tool by JetBrains, Is Open](https://blog.jetbrains.com/phpstorm/2020/12/early-access-program-for-qodana-a-new-static-analysis-and-quality-management-tool-by-jetbrains-is-open/)
 
 ## Authors
 
