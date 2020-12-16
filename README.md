@@ -668,6 +668,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Early Access Program for Qodana, a New Static Analysis and Quality Management Tool by JetBrains, Is Open](https://blog.jetbrains.com/phpstorm/2020/12/early-access-program-for-qodana-a-new-static-analysis-and-quality-management-tool-by-jetbrains-is-open/)
  - [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)
  - [SURPRISE!!!](https://twitter.com/AmongUsGame/status/1338907105722589187)
+ - [Customizing the new Sylius & ApiPlatform integration](https://locastic.com/blog/customizing-the-new-sylius-apiplatform-integration/)
 
 ## Authors
 
