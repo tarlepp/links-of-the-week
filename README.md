@@ -671,6 +671,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Customizing the new Sylius & ApiPlatform integration](https://locastic.com/blog/customizing-the-new-sylius-apiplatform-integration/)
  - [It’s not legacy code — it’s PHP](https://medium.com/vimeo-engineering-blog/its-not-legacy-code-it-s-php-1f0ee0462580)
  - [PHP RFC: Fibers](https://wiki.php.net/rfc/fibers)
+ - [Introducing Cloudflare Pages: the best way to build JAMstack websites](https://blog.cloudflare.com/cloudflare-pages/)
 
 ## Authors
 
