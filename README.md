@@ -68,6 +68,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 49](#week-49)
      - [Week 50](#week-50)
      - [Week 51](#week-51)
+     - [Week 52](#week-52)
   * [Authors](#authors)
   * [License](#license)
 
@@ -673,7 +674,11 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Fibers](https://wiki.php.net/rfc/fibers)
  - [Introducing Cloudflare Pages: the best way to build JAMstack websites](https://blog.cloudflare.com/cloudflare-pages/)
  - [Apple M1 Tech Preview](https://docs.docker.com/docker-for-mac/apple-m1/)
-https://thephp.cc/news/2020/12/asynchronous-php
+ - [Asynchronous PHP](https://thephp.cc/news/2020/12/asynchronous-php)
+
+### Week 52
+
+ - [Ocramius](https://github.com/Ocramius/.github)
 
 ## Authors
 
