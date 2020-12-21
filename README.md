@@ -679,6 +679,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 52
 
  - [Ocramius](https://github.com/Ocramius/.github)
+ - [This is an even better motherfucking website](https://evenbettermotherfucking.website/)
 
 ## Authors
 
