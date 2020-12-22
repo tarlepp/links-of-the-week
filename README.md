@@ -682,6 +682,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [This is an even better motherfucking website](https://evenbettermotherfucking.website/)
  - [Running ChkDsk on Windows 10 20H2 may damage the file system and cause Blue Screens](https://www.ghacks.net/2020/12/19/running-chkdsk-on-windows-10-20h2-may-damage-the-file-system-and-cause-blue-screens/)
  - [Hotwire](https://hotwire.dev/)
+ - [First year of Fortran-lang](https://medium.com/modern-fortran/first-year-of-fortran-lang-d8796bfa0067)
 
 ## Authors
 
