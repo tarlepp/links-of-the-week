@@ -685,7 +685,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [First year of Fortran-lang](https://medium.com/modern-fortran/first-year-of-fortran-lang-d8796bfa0067)
  - [KFC launches 4K, 240FPS gaming console with a built-in chicken warmer](https://www.gamesradar.com/kfc-launches-4k-240fps-gaming-console-with-a-built-in-chicken-warmer/)
  - [DotArt](https://albright.pro/dotart/)
- https://www.kostolansky.sk/posts/how-to-migrate-to-uuid/
+ - [How to migrate primary keys from bigint to UUID](https://www.kostolansky.sk/posts/how-to-migrate-to-uuid/)
+ - [Aranet4 – Wireless Indoor Air Quality Monitor For Your Home](https://aranet4.com/)
 
 
 ## Authors
