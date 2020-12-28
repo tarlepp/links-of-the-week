@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      - [Week 50](#week-50)
      - [Week 51](#week-51)
      - [Week 52](#week-52)
+     - [Week 53](#week-53)
   * [Authors](#authors)
   * [License](#license)
 
@@ -688,6 +689,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to migrate primary keys from bigint to UUID](https://www.kostolansky.sk/posts/how-to-migrate-to-uuid/)
  - [Aranet4 – Wireless Indoor Air Quality Monitor For Your Home](https://aranet4.com/)
 
+### Week 53
 
 ## Authors
 
