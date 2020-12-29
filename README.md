@@ -693,6 +693,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Apple Silicon Games](https://applesilicongames.com/)
  - [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine)
+ - [Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
 
 ## Authors
 
