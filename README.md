@@ -697,6 +697,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GENKI: ShadowCast for the Nintendo Switch and PlayStation 5](https://www.kickstarter.com/projects/humanthings/genki-shadowcast)
  - [Do You Love Me?](https://www.youtube.com/watch?v=fn3KWM1kuAw)
  - [I need manual approvers for GitHub Actions!!!! And I got them now :)](https://devblogs.microsoft.com/devops/i-need-manual-approvers-for-github-actions-and-i-got-them-now/)
+ - [Netscape Communicator is mentioned in Brexit document](https://twitter.com/billatnapier/status/1342877839008411648)
 
 ## Authors
 
