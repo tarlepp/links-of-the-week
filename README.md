@@ -700,6 +700,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Netscape Communicator is mentioned in Brexit document](https://twitter.com/billatnapier/status/1342877839008411648)
  - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
  - [Saako ottaa?](https://saako.ottaa.biss.ee/)
+ - [Object properties and immutability](https://peakd.com/hive-168588/@crell/object-properties-and-immutability)
 
 ## Authors
 
