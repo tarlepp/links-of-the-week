@@ -701,6 +701,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
  - [Saako ottaa?](https://saako.ottaa.biss.ee/)
  - [Object properties and immutability](https://peakd.com/hive-168588/@crell/object-properties-and-immutability)
+ - [Zero-downtime deployment of your Symfony app using Capistrano and GitHub Actions](https://www.ewaldvanderveken.dev/zero-downtime-deployment-of-your-symfony-project-using-capistrano-and-gitlab-ci/)
 
 ## Authors
 
