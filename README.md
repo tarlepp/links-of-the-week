@@ -25,6 +25,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 1
 
  - [Request an update to the IE compatibility list](https://docs.microsoft.com/en-us/microsoft-edge/web-platform/ie-to-microsoft-edge-redirection#request-an-update-to-the-ie-compatibility-list)
+ - [Julian Assange: Wikileaks founder extradition to US blocked by UK judge](https://www.bbc.com/news/uk-55528241)
 
 ## Authors
 
