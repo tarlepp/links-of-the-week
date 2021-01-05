@@ -28,6 +28,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Julian Assange: Wikileaks founder extradition to US blocked by UK judge](https://www.bbc.com/news/uk-55528241)
  - [Open-source contributors say they'll pull out of Qt as LTS release goes commercial-only](https://www.theregister.com/2021/01/05/qt_lts_goes_commercial_only/)
  - [Asahi Linux](https://asahilinux.org/)
+ - [Third Brexit notice to registrants and registrars](https://eurid.eu/en/news/third-brexit-notice-to-registrants-and-registrars/)
 
 ## Authors
 
