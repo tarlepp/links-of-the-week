@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Open-source contributors say they'll pull out of Qt as LTS release goes commercial-only](https://www.theregister.com/2021/01/05/qt_lts_goes_commercial_only/)
  - [Asahi Linux](https://asahilinux.org/)
  - [Third Brexit notice to registrants and registrars](https://eurid.eu/en/news/third-brexit-notice-to-registrants-and-registrars/)
+ - [Protesters breach Capitol as Congress certifies Biden's win](https://edition.cnn.com/politics/live-news/congress-electoral-college-vote-count-2021/h_827fbc8cf8d03aba895c3a2f858d12ec)
 
 ## Authors
 
