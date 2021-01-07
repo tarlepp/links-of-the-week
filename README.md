@@ -30,8 +30,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Asahi Linux](https://asahilinux.org/)
  - [Third Brexit notice to registrants and registrars](https://eurid.eu/en/news/third-brexit-notice-to-registrants-and-registrars/)
  - [Protesters breach Capitol as Congress certifies Biden's win](https://edition.cnn.com/politics/live-news/congress-electoral-college-vote-count-2021/h_827fbc8cf8d03aba895c3a2f858d12ec)
-https://play.tailwindcss.com/jaeBbVOLzz?size=1050x866
-https://minwiz.com/
+ - [tailwind play](https://play.tailwindcss.com/jaeBbVOLzz?size=1050x866)
+ - [MinWiz - Starter kit for lightweight sites](https://minwiz.com/)
+ - [FBI probe of major hack includes project-management software from JetBrains: sources](https://www.reuters.com/article/us-global-cyber-jetbrains/fbi-probe-of-major-hack-includes-project-management-software-from-jetbrains-sources-idUSKBN29B2RR)
 
 
 ## Authors
