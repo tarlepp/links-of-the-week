@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [tailwind play](https://play.tailwindcss.com/jaeBbVOLzz?size=1050x866)
  - [MinWiz - Starter kit for lightweight sites](https://minwiz.com/)
  - [FBI probe of major hack includes project-management software from JetBrains: sources](https://www.reuters.com/article/us-global-cyber-jetbrains/fbi-probe-of-major-hack-includes-project-management-software-from-jetbrains-sources-idUSKBN29B2RR)
+ - [One year of AsyncAws](https://developer.happyr.com/one-year-async-aws)
 
 
 ## Authors
