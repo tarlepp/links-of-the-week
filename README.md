@@ -39,8 +39,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 2
 
  - [We Burnt $72K testing Firebase + Cloud Run and almost went Bankrupt [Part 1]](https://blog.tomilkieway.com/72k-1/)
- https://www.vim.so/
-https://www.si.edu/openaccess
+ - [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/)
+ - [Smithsonian Open Access](https://www.si.edu/openaccess)
 
 ## Authors
 
