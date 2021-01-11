@@ -36,6 +36,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [One year of AsyncAws](https://developer.happyr.com/one-year-async-aws)
 
 
+https://blog.tomilkieway.com/72k-1/
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
