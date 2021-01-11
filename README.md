@@ -19,6 +19,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2020](2020.md)
   * [2021](#2021)
      * [Week 1](#week-1)
+     * [Week 2](#week-2)
 
 ## 2021
 
@@ -35,8 +36,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [FBI probe of major hack includes project-management software from JetBrains: sources](https://www.reuters.com/article/us-global-cyber-jetbrains/fbi-probe-of-major-hack-includes-project-management-software-from-jetbrains-sources-idUSKBN29B2RR)
  - [One year of AsyncAws](https://developer.happyr.com/one-year-async-aws)
 
+### Week 2
 
-https://blog.tomilkieway.com/72k-1/
+ - [We Burnt $72K testing Firebase + Cloud Run and almost went Bankrupt [Part 1]](https://blog.tomilkieway.com/72k-1/)
 
 ## Authors
 
