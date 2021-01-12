@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/)
  - [Smithsonian Open Access](https://www.si.edu/openaccess)
  - [display: flex](https://flexbox.help/)
+ - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Authors
 
