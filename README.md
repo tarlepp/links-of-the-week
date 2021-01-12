@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Smithsonian Open Access](https://www.si.edu/openaccess)
  - [display: flex](https://flexbox.help/)
  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ - [Symfony: Verbosity level in command testing](https://matok.me.uk/8/symfony-verbosity-level-in-command-testing)
 
 ## Authors
 
