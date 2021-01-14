@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony: Verbosity level in command testing](https://matok.me.uk/8/symfony-verbosity-level-in-command-testing)
  - [Foundry](https://github.com/zenstruck/foundry)
  - [Case study: Alina Cosmetics luxurious online shop](https://netgen.io/blog/case-study-alina-cosmetics-luxurious-online-shop)
+ - [PHP RFC: #[NamedParameterAlias] Attribute](https://wiki.php.net/rfc/named_parameter_alias_attribute)
 
 ## Authors
 
