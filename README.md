@@ -48,6 +48,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Case study: Alina Cosmetics luxurious online shop](https://netgen.io/blog/case-study-alina-cosmetics-luxurious-online-shop)
  - [PHP RFC: #[NamedParameterAlias] Attribute](https://wiki.php.net/rfc/named_parameter_alias_attribute)
  - [Pizza as a Service 2.0 – Paul Kerrison](http://www.paulkerrison.co.uk/random/pizza-as-a-service-2-0)
+ - [2020 Game](https://2020game.io/)
+ 
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
