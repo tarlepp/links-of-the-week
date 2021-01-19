@@ -55,7 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Tinkerwell: Tinker with your local/remote PHP & Magento 2 Code](https://blog.magepsycho.com/tinkerwell-tinker-with-your-local-remote-php-magento-2-code/)
  - [Dredd — HTTP API Testing Framework](https://dredd.id)
-https://github.com/svanderburg/composer2nix
+ - [composer2nix is a tool that can be used to generate Nix expressions for PHP composer packages](https://github.com/svanderburg/composer2nix)
 
 ## Authors
 
