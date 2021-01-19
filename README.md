@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dredd — HTTP API Testing Framework](https://dredd.id)
  - [composer2nix is a tool that can be used to generate Nix expressions for PHP composer packages](https://github.com/svanderburg/composer2nix)
  - [Amazon: NOT OK - why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-AWS)
+ - [Aarne Tenkanen - Töölön Sonni (Rammstein - Sonne)](https://www.youtube.com/watch?v=bmadWAuaRhs)
 
 ## Authors
 
