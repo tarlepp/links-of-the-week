@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Amazon: NOT OK - why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-AWS)
  - [Aarne Tenkanen - Töölön Sonni (Rammstein - Sonne)](https://www.youtube.com/watch?v=bmadWAuaRhs)
  - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
+ - [CentOS Linux 8 will end in 2021 and shifts focus to CentOS Stream](https://www.cyberciti.biz/linux-news/centos-linux-8-will-end-in-2021-and-shifts-focus-to-centos-stream/)
 
 ## Authors
 
