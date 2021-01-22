@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [CentOS Linux 8 will end in 2021 and shifts focus to CentOS Stream](https://www.cyberciti.biz/linux-news/centos-linux-8-will-end-in-2021-and-shifts-focus-to-centos-stream/)
  - [PHP RFC: Add array_is_list(array $array): bool](https://wiki.php.net/rfc/is_list)
  - [Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
+ - [gambina.club](https://gambina.club/)
 
 ## Authors
 
