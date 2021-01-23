@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Add array_is_list(array $array): bool](https://wiki.php.net/rfc/is_list)
  - [Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
  - [gambina.club](https://gambina.club/)
+https://corellium.com/blog/linux-m1
 
 ## Authors
 
