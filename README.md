@@ -66,6 +66,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How We Ported Linux to the M1](https://corellium.com/blog/linux-m1)
  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+
+https://tysonandre.github.io/php-rfc-demo/enums/
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
