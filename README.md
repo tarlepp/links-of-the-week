@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 4
 
  - [PHP 8.1 Enums RFC Demo](https://tysonandre.github.io/php-rfc-demo/enums/)
+ - [Elasticsearch the right way in Symfony](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
 
 ## Authors
 
