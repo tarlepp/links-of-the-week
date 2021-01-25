@@ -21,6 +21,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 1](#week-1)
      * [Week 2](#week-2)
      * [Week 3](#week-3)
+     * [Week 4](#week-4)
 
 ## 2021
 
@@ -66,8 +67,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How We Ported Linux to the M1](https://corellium.com/blog/linux-m1)
  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+### Week 4
 
-https://tysonandre.github.io/php-rfc-demo/enums/
+ - [PHP 8.1 Enums RFC Demo](https://tysonandre.github.io/php-rfc-demo/enums/)
 
 ## Authors
 
