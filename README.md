@@ -73,6 +73,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Elasticsearch the right way in Symfony](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony)
  - [Intention to issue € 10 million fine to Grindr LLC](https://www.datatilsynet.no/en/news/2021/intention-to-issue--10-million-fine-to-grindr-llc2/)
  - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+ - [Being in control of time in PHP](https://blog.frankdejonge.nl/being-in-control-of-time-in-php/)
 
 ## Authors
 
