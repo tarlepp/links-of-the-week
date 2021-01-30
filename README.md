@@ -76,6 +76,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Being in control of time in PHP](https://blog.frankdejonge.nl/being-in-control-of-time-in-php/)
  - [Create a PHP application without a framework](https://github.com/PatrickLouys/no-framework-tutorial)
  - [Codenames - Play with your Friends Online](https://codenames.game/)
+ - [PHP RFC: Property Accessors](https://wiki.php.net/rfc/property_accessors)
 
 ## Authors
 
