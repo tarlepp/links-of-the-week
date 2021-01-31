@@ -77,6 +77,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Create a PHP application without a framework](https://github.com/PatrickLouys/no-framework-tutorial)
  - [Codenames - Play with your Friends Online](https://codenames.game/)
  - [PHP RFC: Property Accessors](https://wiki.php.net/rfc/property_accessors)
+ - [Creating a COVID-19 Data Visualization with Symfony UX](https://dev.to/qferrer/creating-a-covid-19-data-visualization-with-symfony-ux-chart-js-2khj)
 
 ## Authors
 
