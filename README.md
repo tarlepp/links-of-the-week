@@ -22,6 +22,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 2](#week-2)
      * [Week 3](#week-3)
      * [Week 4](#week-4)
+     * [Week 5](#week-5)
 
 ## 2021
 
@@ -78,6 +79,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Codenames - Play with your Friends Online](https://codenames.game/)
  - [PHP RFC: Property Accessors](https://wiki.php.net/rfc/property_accessors)
  - [Creating a COVID-19 Data Visualization with Symfony UX](https://dev.to/qferrer/creating-a-covid-19-data-visualization-with-symfony-ux-chart-js-2khj)
+
+### Week 5
 
 ## Authors
 
