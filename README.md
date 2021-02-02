@@ -85,6 +85,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The great pretender: faster application tests with MySQL simulation](https://medium.com/vimeo-engineering-blog/the-great-pretender-faster-application-tests-with-mysql-simulation-26250f13d251)
  - [ULID (26 characters in Crockford's base32) conversion for MySQL function](https://gist.github.com/kenji4569/47ce8bbd6bef7b85ba1f97e018f34cf3)
  - [Solving PHPStan error "No value type specified in iterable type"](https://phpstan.org/blog/solving-phpstan-no-value-type-specified-in-iterable-type)
+ - [roave/no-floaters](https://github.com/Roave/no-floaters)
 
 ## Authors
 
