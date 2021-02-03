@@ -87,6 +87,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Solving PHPStan error "No value type specified in iterable type"](https://phpstan.org/blog/solving-phpstan-no-value-type-specified-in-iterable-type)
  - [roave/no-floaters](https://github.com/Roave/no-floaters)
  - [Jeff Bezos is stepping down as Amazon CEO](https://www.businessinsider.com/jeff-bezos-to-step-down-as-amazon-ceo-2021-2)
+https://symfony.com/blog/webpack-encore-1-0-and-stimulus-bridge-2-0-released
 
 ## Authors
 
