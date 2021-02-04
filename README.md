@@ -88,6 +88,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [roave/no-floaters](https://github.com/Roave/no-floaters)
  - [Jeff Bezos is stepping down as Amazon CEO](https://www.businessinsider.com/jeff-bezos-to-step-down-as-amazon-ceo-2021-2)
  - [Webpack Encore 1.0 & Stimulus Bridge 2.0 Released!](https://symfony.com/blog/webpack-encore-1-0-and-stimulus-bridge-2-0-released)
+ - [A theory about PHP](https://www.commitstrip.com/en/2021/02/03/a-theory-about-php/)
 
 ## Authors
 
