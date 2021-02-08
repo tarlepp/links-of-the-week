@@ -94,6 +94,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 6
 
+ - [Rishi Sunak 'considering Amazon tax' to claw back pandemic borrowing from online retailers who profited](https://news.sky.com/story/rishi-sunak-considering-amazon-tax-to-claw-back-pandemic-borrowing-from-online-retailers-who-profited-12211857)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
