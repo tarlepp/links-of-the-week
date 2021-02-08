@@ -23,6 +23,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 3](#week-3)
      * [Week 4](#week-4)
      * [Week 5](#week-5)
+     * [Week 6](#week-6)
 
 ## 2021
 
@@ -90,6 +91,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Webpack Encore 1.0 & Stimulus Bridge 2.0 Released!](https://symfony.com/blog/webpack-encore-1-0-and-stimulus-bridge-2-0-released)
  - [A theory about PHP](https://www.commitstrip.com/en/2021/02/03/a-theory-about-php/)
  - [5 CSS tricks every Web Developer should know in 2021](https://www.youtube.com/watch?v=wfaDzSL6ll0)
+
+### Week 6
 
 ## Authors
 
