@@ -97,6 +97,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rishi Sunak 'considering Amazon tax' to claw back pandemic borrowing from online retailers who profited](https://news.sky.com/story/rishi-sunak-considering-amazon-tax-to-claw-back-pandemic-borrowing-from-online-retailers-who-profited-12211857)
  - [CD PROJEKT RED has been hacked, Cyberpunk 2077 and unreleased version of Witcher 3 source codes might leak](https://videocardz.com/newz/cd-projekt-red-has-been-hacked-cyberpunk-2077-and-unreleased-version-of-witcher-3-source-codes-might-leak)
  - [UK politician's effort to outlaw PC component reselling gains steam](https://www.pcgamer.com/uk-politicians-effort-to-outlaw-pc-component-reselling-gains-steam/)
+https://www.doctrine-project.org/projects/skeleton-mapper.html
 
 ## Authors
 
