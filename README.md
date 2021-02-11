@@ -97,9 +97,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rishi Sunak 'considering Amazon tax' to claw back pandemic borrowing from online retailers who profited](https://news.sky.com/story/rishi-sunak-considering-amazon-tax-to-claw-back-pandemic-borrowing-from-online-retailers-who-profited-12211857)
  - [CD PROJEKT RED has been hacked, Cyberpunk 2077 and unreleased version of Witcher 3 source codes might leak](https://videocardz.com/newz/cd-projekt-red-has-been-hacked-cyberpunk-2077-and-unreleased-version-of-witcher-3-source-codes-might-leak)
  - [UK politician's effort to outlaw PC component reselling gains steam](https://www.pcgamer.com/uk-politicians-effort-to-outlaw-pc-component-reselling-gains-steam/)
-https://www.doctrine-project.org/projects/skeleton-mapper.html
-https://symfony.com/blog/announcing-symfony-panther-1-0
-https://github.com/php-pm/php-pm
+ - [Doctrine SkeletonMapper](https://github.com/doctrine/skeleton-mapper/)
+ - [Announcing Symfony Panther 1.0](https://symfony.com/blog/announcing-symfony-panther-1-0)
+ - [PPM - PHP Process Manager](https://github.com/php-pm/php-pm)
+ - [magic configs are bad, mmmkay?](https://gist.github.com/adrian-enspired/2e03b01fcfff54151864)
 
 ## Authors
 
