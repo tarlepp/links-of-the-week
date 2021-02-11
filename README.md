@@ -99,6 +99,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [UK politician's effort to outlaw PC component reselling gains steam](https://www.pcgamer.com/uk-politicians-effort-to-outlaw-pc-component-reselling-gains-steam/)
 https://www.doctrine-project.org/projects/skeleton-mapper.html
 https://symfony.com/blog/announcing-symfony-panther-1-0
+https://github.com/php-pm/php-pm
 
 ## Authors
 
