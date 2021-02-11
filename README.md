@@ -101,6 +101,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Announcing Symfony Panther 1.0](https://symfony.com/blog/announcing-symfony-panther-1-0)
  - [PPM - PHP Process Manager](https://github.com/php-pm/php-pm)
  - [magic configs are bad, mmmkay?](https://gist.github.com/adrian-enspired/2e03b01fcfff54151864)
+ - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 
 ## Authors
 
