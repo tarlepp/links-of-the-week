@@ -102,7 +102,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PPM - PHP Process Manager](https://github.com/php-pm/php-pm)
  - [magic configs are bad, mmmkay?](https://gist.github.com/adrian-enspired/2e03b01fcfff54151864)
  - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
-https://blog.frankdejonge.nl/testing-without-mocking-frameworks/
+ - [Testing without mocking frameworks.](https://blog.frankdejonge.nl/testing-without-mocking-frameworks/)
+ - [Symfony Components](https://sf-components.vercel.app/)
 
 ## Authors
 
