@@ -24,6 +24,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 4](#week-4)
      * [Week 5](#week-5)
      * [Week 6](#week-6)
+     * [Week 7](#week-7)
 
 ## 2021
 
@@ -104,6 +105,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
  - [Testing without mocking frameworks.](https://blog.frankdejonge.nl/testing-without-mocking-frameworks/)
  - [Symfony Components](https://sf-components.vercel.app/)
+
+### Week 7
 
 ## Authors
 
