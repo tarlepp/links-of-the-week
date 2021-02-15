@@ -108,6 +108,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 7
 
+ - [”Myrkky avasi alkukantaisimmat saastan portit” – 1990-luvun likaisin nuortenlehti sisälsi aitoa virtsaa ja rasvaisia seksikohtauksia](https://yle.fi/aihe/artikkeli/2021/02/13/myrkky-avasi-alkukantaisimmat-saastan-portit-1990-luvun-likaisin-nuortenlehti)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
