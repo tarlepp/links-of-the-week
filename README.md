@@ -111,6 +111,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [”Myrkky avasi alkukantaisimmat saastan portit” – 1990-luvun likaisin nuortenlehti sisälsi aitoa virtsaa ja rasvaisia seksikohtauksia](https://yle.fi/aihe/artikkeli/2021/02/13/myrkky-avasi-alkukantaisimmat-saastan-portit-1990-luvun-likaisin-nuortenlehti)
  - [Symfony Lock and Messenger component](https://developer.happyr.com/symfony-lock-and-messenger-component)
  - [Billionaires See VR as a Way to Avoid Radical Social Change](https://www.wired.com/story/billionaires-use-vr-avoid-social-change/)
+ - [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 
 ## Authors
 
