@@ -113,6 +113,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Billionaires See VR as a Way to Avoid Radical Social Change](https://www.wired.com/story/billionaires-use-vr-avoid-social-change/)
  - [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
  - [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171)
+ - [New Docker Desktop Preview for Apple M1 Released](https://www.docker.com/blog/new-docker-desktop-preview-for-apple-m1-released/)
 
 ## Authors
 
