@@ -115,6 +115,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171)
  - [New Docker Desktop Preview for Apple M1 Released](https://www.docker.com/blog/new-docker-desktop-preview-for-apple-m1-released/)
  - [Mitigating Memory Safety Issues in Open Source Software](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
+ - [HTML Over The Wire | Hotwire](https://hotwire.dev/)
 
 ## Authors
 
