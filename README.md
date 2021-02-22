@@ -121,6 +121,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 8
 
  - [roave/you-are-using-it-wrong](https://github.com/Roave/you-are-using-it-wrong)
+ - [Breaking: Mars becomes the second planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673)
 
 ## Authors
 
