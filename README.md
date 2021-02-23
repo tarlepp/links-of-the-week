@@ -124,6 +124,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Breaking: Mars becomes the second planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673)
  - ["Hey, World!"](https://world.hey.com/jason/hey-world-b02a6f2e)
  - [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
+ - [Learn shortcuts and commands | ShortcutFoo](https://www.shortcutfoo.com/)
 
 ## Authors
 
