@@ -126,6 +126,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
  - [Learn shortcuts and commands | ShortcutFoo](https://www.shortcutfoo.com/)
  - [Using PHPStan to analyse Symfony Console Application](https://jolicode.com/blog/using-phpstan-to-analyse-symfony-console-application)
+ - [Haavoittuvuuksia VMwaren tuotteissa - päivitä heti](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuuksia-vmwaren-tuotteissa-paivita-heti)
 
 ## Authors
 
