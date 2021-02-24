@@ -125,6 +125,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - ["Hey, World!"](https://world.hey.com/jason/hey-world-b02a6f2e)
  - [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
  - [Learn shortcuts and commands | ShortcutFoo](https://www.shortcutfoo.com/)
+ - [Using PHPStan to analyse Symfony Console Application](https://jolicode.com/blog/using-phpstan-to-analyse-symfony-console-application)
 
 ## Authors
 
