@@ -127,8 +127,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Learn shortcuts and commands | ShortcutFoo](https://www.shortcutfoo.com/)
  - [Using PHPStan to analyse Symfony Console Application](https://jolicode.com/blog/using-phpstan-to-analyse-symfony-console-application)
  - [Haavoittuvuuksia VMwaren tuotteissa - päivitä heti](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuuksia-vmwaren-tuotteissa-paivita-heti)
-https://locastic.com/blog/deploying-symfony-apps-with-cron-and-supervisor/
-https://github.com/ecphp/reverse-proxy-helper-bundle
+ - [Deploying Symfony apps with cron and Supervisor](https://locastic.com/blog/deploying-symfony-apps-with-cron-and-supervisor/)
+ - [Reverse Proxy Helper Bundle](https://github.com/ecphp/reverse-proxy-helper-bundle)
 
 ## Authors
 
