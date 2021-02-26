@@ -129,6 +129,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Haavoittuvuuksia VMwaren tuotteissa - päivitä heti](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuuksia-vmwaren-tuotteissa-paivita-heti)
  - [Deploying Symfony apps with cron and Supervisor](https://locastic.com/blog/deploying-symfony-apps-with-cron-and-supervisor/)
  - [Reverse Proxy Helper Bundle](https://github.com/ecphp/reverse-proxy-helper-bundle)
+ - [Deploy or Die](https://www.deployordie.com/)
 
 ## Authors
 
