@@ -26,6 +26,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 6](#week-6)
      * [Week 7](#week-7)
      * [Week 8](#week-8)
+     * [Week 9](#week-9)
 
 ## 2021
 
@@ -132,6 +133,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Deploy or Die](https://www.deployordie.com/)
  - [Cap'n Proto: Introduction](https://capnproto.org/)
  - [Rymfony](https://github.com/Orbitale/Rymfony)
+
+### Week 9
 
 ## Authors
 
