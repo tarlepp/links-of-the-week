@@ -137,6 +137,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 9
 
  - [Testing your controllers when you have a decoupled core](https://matthiasnoback.nl/2021/03/testing-controllers-when-you-have-a-decoupled-core/)
+ - [Use Touch ID for sudo on Mac](https://davidwalsh.name/touch-sudo)
 
 ## Authors
 
