@@ -138,6 +138,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Testing your controllers when you have a decoupled core](https://matthiasnoback.nl/2021/03/testing-controllers-when-you-have-a-decoupled-core/)
  - [Use Touch ID for sudo on Mac](https://davidwalsh.name/touch-sudo)
+ - [UrlSignerBundle, create and validate signed URLs with Symfony](https://les-tilleuls.coop/fr/blog/article/url-signer-bundle-create-validate-signed-url-symfony-en)
 
 ## Authors
 
