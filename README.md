@@ -141,6 +141,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [UrlSignerBundle, create and validate signed URLs with Symfony](https://les-tilleuls.coop/fr/blog/article/url-signer-bundle-create-validate-signed-url-symfony-en)
  - [PHP RFC: New in initializers](https://wiki.php.net/rfc/new_in_initializers)
  - [I should quit my job and become a goat farmer](http://www.goatops.com/)
+ - [#externals - Opening PHP's #internals to the outside](https://externals.io/)
 
 ## Authors
 
