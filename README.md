@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 7](#week-7)
      * [Week 8](#week-8)
      * [Week 9](#week-9)
+     * [Week 10](#week-10)
 
 ## 2021
 
@@ -143,6 +144,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [I should quit my job and become a goat farmer](http://www.goatops.com/)
  - [#externals - Opening PHP's #internals to the outside](https://externals.io/)
  - [You should be using PHPStans bleeding edge](https://backendtea.com/post/use-phpstan-bleeding-edge/)
+
+### Week 10
 
 ## Authors
 
