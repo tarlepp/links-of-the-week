@@ -148,6 +148,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 10
 
  - [Meet the MetaHumans](https://www.unrealengine.com/en-US/digital-humans)
+ - [EXCITING NEWS FOR THE ASTARTES PROJECT](https://twitter.com/Astartes40k/status/1369666193989111808)
 
 ## Authors
 
