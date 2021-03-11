@@ -150,6 +150,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Meet the MetaHumans](https://www.unrealengine.com/en-US/digital-humans)
  - [EXCITING NEWS FOR THE ASTARTES PROJECT](https://twitter.com/Astartes40k/status/1369666193989111808)
  - [PHP RFC: noreturn type](https://wiki.php.net/rfc/noreturn_type)
+https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store
 
 ## Authors
 
