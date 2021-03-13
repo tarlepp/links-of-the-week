@@ -153,6 +153,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [I guess I have to watch ads everywhere on my $1,500 LG TV now](https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store)
  - [duplicity backup tool](https://github.com/wernight/docker-duplicity)
  - [English as She Is Spoke](https://en.m.wikipedia.org/wiki/English_as_She_Is_Spoke)
+ - [DiceKeys - Security keys you create by rolling dice](https://dicekeys.com/)
 
 ## Authors
 
