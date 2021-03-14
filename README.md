@@ -157,6 +157,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [RegEx Crossword](https://jimbly.github.io/regex-crossword/)
  - [Bitcoin is a mouth hungry for fossil fuels](https://ketanjoshi.co/2021/03/11/bitcoin-is-a-mouth-hungry-for-fossil-fuels/)
  - [Improve performance of your Symfony app using Redis](https://germainowono.medium.com/improve-performance-of-your-symfony-app-using-redis-bf956c0af0c8)
+ - [Never Forget Symfony Config Options Again](https://tomasvotruba.com/blog/never-forget-symfony-config-options-again/)
 
 ## Authors
 
