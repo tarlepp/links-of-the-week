@@ -154,6 +154,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [duplicity backup tool](https://github.com/wernight/docker-duplicity)
  - [English as She Is Spoke](https://en.m.wikipedia.org/wiki/English_as_She_Is_Spoke)
  - [DiceKeys - Security keys you create by rolling dice](https://dicekeys.com/)
+ - [RegEx Crossword](https://jimbly.github.io/regex-crossword/)
 
 ## Authors
 
