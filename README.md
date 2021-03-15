@@ -28,6 +28,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 8](#week-8)
      * [Week 9](#week-9)
      * [Week 10](#week-10)
+     * [Week 11](#week-11)
 
 ## 2021
 
@@ -158,6 +159,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Bitcoin is a mouth hungry for fossil fuels](https://ketanjoshi.co/2021/03/11/bitcoin-is-a-mouth-hungry-for-fossil-fuels/)
  - [Improve performance of your Symfony app using Redis](https://germainowono.medium.com/improve-performance-of-your-symfony-app-using-redis-bf956c0af0c8)
  - [Never Forget Symfony Config Options Again](https://tomasvotruba.com/blog/never-forget-symfony-config-options-again/)
+
+### Week 11
 
 ## Authors
 
