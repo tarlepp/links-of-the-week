@@ -162,6 +162,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 11
 
+ - [Introducing PeachPie 1.0.0](https://www.peachpie.io/2021/03/v1.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
