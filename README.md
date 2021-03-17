@@ -165,6 +165,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing PeachPie 1.0.0](https://www.peachpie.io/2021/03/v1.html)
  - [cli-google](https://github.com/henux/cli-google)
  - [a new paper and a tool for statically detecting concurrency bugs in Go programs](https://www.reddit.com/r/golang/comments/m3di2e/a_new_paper_and_a_tool_for_statically_detecting/)
+ - [sidebar.io](https://sidebar.io/)
 
 ## Authors
 
