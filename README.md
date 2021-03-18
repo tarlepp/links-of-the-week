@@ -167,6 +167,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [a new paper and a tool for statically detecting concurrency bugs in Go programs](https://www.reddit.com/r/golang/comments/m3di2e/a_new_paper_and_a_tool_for_statically_detecting/)
  - [sidebar.io](https://sidebar.io/)
  - [Goofys allows you to mount an S3 bucket as a filey system](https://github.com/kahing/goofys)
+ - [Apple Silicon Tech Preview](https://docs.docker.com/docker-for-mac/apple-m1/)
 
 ## Authors
 
