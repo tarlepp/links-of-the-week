@@ -170,6 +170,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Apple Silicon Tech Preview](https://docs.docker.com/docker-for-mac/apple-m1/)
  - [Online Background Noises • Relaxing Sounds • Noise Masking](https://noises.online/)
  - [Copy one side of split diff](https://github.blog/changelog/2021-03-19-copy-one-side-of-split-diff/)
+ - [Fibers in PHP: A new opportunity for async PHP?](https://clue.engineering/2021/fibers-in-php)
 
 ## Authors
 
