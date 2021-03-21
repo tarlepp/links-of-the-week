@@ -175,6 +175,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [code relay - Fontemon](https://www.coderelay.io/fontemon.html)
  - [Easy logging in Symfony](https://www.ewaldvanderveken.dev/easy-logging-in-symfony/)
  - [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
+ - [CUPID – the back story | Dan North & Associates](https://dannorth.net/2021/03/16/cupid-the-back-story/)
 
 ## Authors
 
