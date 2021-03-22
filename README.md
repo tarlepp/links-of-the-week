@@ -181,7 +181,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
  - [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
-https://blog.blackfire.io/blackfire-monitoring-launches.html?utm_source=blackfire&utm_medium=blog&utm_campaign=monitoring_early_bird
+ - [Blackfire Monitoring Launches](https://blog.blackfire.io/blackfire-monitoring-launches.html?utm_source=blackfire&utm_medium=blog&utm_campaign=monitoring_early_bird)
+ - [Stimulus components](https://stimulus-components.netlify.app/)
 
 ## Authors
 
