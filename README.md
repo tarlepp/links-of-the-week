@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 9](#week-9)
      * [Week 10](#week-10)
      * [Week 11](#week-11)
+     * [Week 12](#week-12)
 
 ## 2021
 
@@ -176,6 +177,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Easy logging in Symfony](https://www.ewaldvanderveken.dev/easy-logging-in-symfony/)
  - [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
  - [CUPID – the back story | Dan North & Associates](https://dannorth.net/2021/03/16/cupid-the-back-story/)
+
+### Week 12
+
+ - [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
 
 ## Authors
 
