@@ -185,7 +185,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Stimulus components](https://stimulus-components.netlify.app/)
  - [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase](https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/)
  - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
-https://backendtea.com/post/help-my-doctrine-migrations-are-broken/
+ - [Help my Doctrine migrations are broken!](https://backendtea.com/post/help-my-doctrine-migrations-are-broken/)
+ - [The Raku Programming Language](https://raku.org/)
 
 ## Authors
 
