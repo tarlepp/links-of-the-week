@@ -187,6 +187,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
  - [Help my Doctrine migrations are broken!](https://backendtea.com/post/help-my-doctrine-migrations-are-broken/)
  - [The Raku Programming Language](https://raku.org/)
+ - [Coding on a 15 year old computer - Programmer Boris](https://www.youtube.com/watch?v=aI4CAJA6wgk)
 
 ## Authors
 
