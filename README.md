@@ -188,6 +188,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Help my Doctrine migrations are broken!](https://backendtea.com/post/help-my-doctrine-migrations-are-broken/)
  - [The Raku Programming Language](https://raku.org/)
  - [Coding on a 15 year old computer - Programmer Boris](https://www.youtube.com/watch?v=aI4CAJA6wgk)
+ - [Add the Symfony Stopwatch to Services without changing them](https://medium.marco.zone/add-the-symfony-stopwatch-to-services-without-changing-them-e52266df0df1)
 
 ## Authors
 
