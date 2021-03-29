@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
      * [Week 10](#week-10)
      * [Week 11](#week-11)
      * [Week 12](#week-12)
+     * [Week 13](#week-13)
 
 ## 2021
 
@@ -189,6 +190,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Raku Programming Language](https://raku.org/)
  - [Coding on a 15 year old computer - Programmer Boris](https://www.youtube.com/watch?v=aI4CAJA6wgk)
  - [Add the Symfony Stopwatch to Services without changing them](https://medium.marco.zone/add-the-symfony-stopwatch-to-services-without-changing-them-e52266df0df1)
+
+### Week 13
+
+ - [Changes to Git commit workflow](https://news-web.php.net/php.internals/113838)
 
 ## Authors
 
