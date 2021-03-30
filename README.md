@@ -194,6 +194,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
  - [Changes to Git commit workflow](https://news-web.php.net/php.internals/113838)
+ - [How setting the TZ environment variable avoids thousands of system calls](https://blog.packagecloud.io/eng/2017/02/21/set-environment-variable-save-thousands-of-system-calls/)
 
 ## Authors
 
