@@ -198,6 +198,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony UX Turbo](https://github.com/symfony/ux-turbo)
  - [A quick way to browse Symfony Logs with PHPStorm](https://locastic.com/blog/a-quick-way-to-browse-symfony-logs-with-phpstorm/)
  - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
+ - [Backward Compatibility Promise](https://phpstan.org/user-guide/backward-compatibility-promise)
+ - [What is Bleeding Edge?](https://phpstan.org/blog/what-is-bleeding-edge)
+ - [Precise try-catch-finally analysis](https://phpstan.org/blog/precise-try-catch-finally-analysis)
+ - [Remembering and forgetting returned values](https://phpstan.org/blog/remembering-and-forgetting-returned-values)
 
 ## Authors
 
