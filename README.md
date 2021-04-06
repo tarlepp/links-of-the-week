@@ -18,19 +18,20 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2019](2019.md)
   * [2020](2020.md)
   * [2021](#2021)
-     * [Week 1](#week-1)
-     * [Week 2](#week-2)
-     * [Week 3](#week-3)
-     * [Week 4](#week-4)
-     * [Week 5](#week-5)
-     * [Week 6](#week-6)
-     * [Week 7](#week-7)
-     * [Week 8](#week-8)
-     * [Week 9](#week-9)
-     * [Week 10](#week-10)
-     * [Week 11](#week-11)
-     * [Week 12](#week-12)
-     * [Week 13](#week-13)
+    * [Week 1](#week-1)
+    * [Week 2](#week-2)
+    * [Week 3](#week-3)
+    * [Week 4](#week-4)
+    * [Week 5](#week-5)
+    * [Week 6](#week-6)
+    * [Week 7](#week-7)
+    * [Week 8](#week-8)
+    * [Week 9](#week-9)
+    * [Week 10](#week-10)
+    * [Week 11](#week-11)
+    * [Week 12](#week-12)
+    * [Week 13](#week-13)
+    * [Week 14](#week-14)
 
 ## 2021
 
@@ -202,6 +203,11 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What is Bleeding Edge?](https://phpstan.org/blog/what-is-bleeding-edge)
  - [Precise try-catch-finally analysis](https://phpstan.org/blog/precise-try-catch-finally-analysis)
  - [Remembering and forgetting returned values](https://phpstan.org/blog/remembering-and-forgetting-returned-values)
+
+### Week 14
+
+ - [Search across a half million git repos](https://grep.app/)
+ - [Supreme Court sides with Google on API “fair use”, ending epic copyright clash with Oracle](https://thestack.technology/supreme-court-google-vs-oracle-ruling-fair-use/)
 
 ## Authors
 
