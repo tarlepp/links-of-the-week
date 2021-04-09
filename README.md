@@ -209,7 +209,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Search across a half million git repos](https://grep.app/)
  - [Supreme Court sides with Google on API “fair use”, ending epic copyright clash with Oracle](https://thestack.technology/supreme-court-google-vs-oracle-ruling-fair-use/)
  - [How to autowire a standalone Symfony console application](https://carlalexander.ca/symfony-console-application-autowire/)
-https://github.com/jmartin82/mmock
+ - [MMock (aka Monster Mock)](https://github.com/jmartin82/mmock)
+ - [End-to-end testing with Symfony and Panther](https://www.strangebuzz.com/en/blog/end-to-end-testing-with-symfony-and-panther)
 
 ## Authors
 
