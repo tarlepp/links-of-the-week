@@ -211,6 +211,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to autowire a standalone Symfony console application](https://carlalexander.ca/symfony-console-application-autowire/)
  - [MMock (aka Monster Mock)](https://github.com/jmartin82/mmock)
  - [End-to-end testing with Symfony and Panther](https://www.strangebuzz.com/en/blog/end-to-end-testing-with-symfony-and-panther)
+ - [PHP Architecture Tester](https://github.com/carlosas/phpat)
 
 ## Authors
 
