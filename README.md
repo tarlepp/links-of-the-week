@@ -217,6 +217,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 15
 
  - [FBI Accesses Computers Around Country to Delete Microsoft Exchange Hacks](https://www.vice.com/en/article/y3dmjg/fbi-removes-web-shells-microsoft-exchange)
+ - [Researcher Publishes Code to Exploit Microsoft Exchange Vulnerabilities on Github](https://www.vice.com/en/article/n7vpaz/researcher-publishes-code-to-exploit-microsoft-exchange-vulnerabilities-on-github)
 
 ## Authors
 
