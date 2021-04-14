@@ -216,6 +216,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 15
 
+ - [FBI Accesses Computers Around Country to Delete Microsoft Exchange Hacks](https://www.vice.com/en/article/y3dmjg/fbi-removes-web-shells-microsoft-exchange)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
