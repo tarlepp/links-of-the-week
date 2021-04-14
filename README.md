@@ -219,6 +219,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [FBI Accesses Computers Around Country to Delete Microsoft Exchange Hacks](https://www.vice.com/en/article/y3dmjg/fbi-removes-web-shells-microsoft-exchange)
  - [Researcher Publishes Code to Exploit Microsoft Exchange Vulnerabilities on Github](https://www.vice.com/en/article/n7vpaz/researcher-publishes-code-to-exploit-microsoft-exchange-vulnerabilities-on-github)
  - [Unleash is the open source feature toggle service](https://github.com/Unleash/unleash)
+ - [EU Commission to end AstraZeneca and J&J vaccine contracts at expiry - paper](https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU)
 
 ## Authors
 
