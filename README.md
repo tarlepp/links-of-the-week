@@ -223,6 +223,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
  - [Apple’s App Store hosted kiddie games with secret gambling dens inside](https://www.theverge.com/2021/4/15/22386533/ios-app-scam-jungle-runner-magical-forest-apple-kosta)
  - [Pomm - PHP / Postgresql object model manager](http://www.pomm-project.org/)
+ - [Released: Docker Desktop for Mac [Apple Silicon]](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
 
 ## Authors
 
