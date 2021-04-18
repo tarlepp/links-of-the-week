@@ -225,6 +225,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pomm - PHP / Postgresql object model manager](http://www.pomm-project.org/)
  - [Released: Docker Desktop for Mac [Apple Silicon]](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
  - [The new features of the Symfony Security component from 5.2](https://smaine-milianni.medium.com/the-new-features-of-the-symfony-security-component-from-5-2-8eff0d2487ce)
+ - [Login Link (password less) with Symfony](https://dev.to/mis0u/login-link-password-less-with-symfony-1nh2)
 
 ## Authors
 
