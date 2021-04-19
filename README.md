@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 13](#week-13)
     * [Week 14](#week-14)
     * [Week 15](#week-15)
+    * [Week 16](#week-16)
 
 ## 2021
 
@@ -227,6 +228,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The new features of the Symfony Security component from 5.2](https://smaine-milianni.medium.com/the-new-features-of-the-symfony-security-component-from-5-2-8eff0d2487ce)
  - [Login Link (password less) with Symfony](https://dev.to/mis0u/login-link-password-less-with-symfony-1nh2)
  - [How to fight back against Google FLoC](https://plausible.io/blog/google-floc)
+
+### Week 16
 
 ## Authors
 
