@@ -234,6 +234,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Rocky Linux](https://rockylinux.org/)
  - [How often do people actually copy and paste from Stack Overflow? Now we know.](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/)
  - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+ - [Symfony UX Turbo: Do You Still Need JavaScript?!](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/)
 
 ## Authors
 
