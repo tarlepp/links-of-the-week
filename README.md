@@ -236,7 +236,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
  - [Symfony UX Turbo: Do You Still Need JavaScript?!](https://dunglas.fr/2021/04/symfony-ux-turbo-do-you-still-need-javascript/)
  - [Using the Symfony Serializer with Doctrine relations — Part 1](https://medium.com/cloudstek/using-the-symfony-serializer-with-doctrine-relations-69ecb17e6ebd)
- - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca) 
+ - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
+ - [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
  
 ## Authors
 
