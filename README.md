@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 15](#week-15)
     * [Week 16](#week-16)
     * [Week 17](#week-17)
+    * [Week 18](#week-18)
 
 ## 2021
 
@@ -244,6 +245,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Introducing PHP on Cloud Functions](https://twitter.com/GoogleCloudTech/status/1385639738762272772)
  - [SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta)
+ - [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
  
 ## Authors
 
