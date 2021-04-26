@@ -239,10 +239,11 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using the Symfony Serializer with Doctrine relations — Part 1](https://medium.com/cloudstek/using-the-symfony-serializer-with-doctrine-relations-69ecb17e6ebd)
  - [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
  - [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
- 
+
 ### Week 17
 
  - [Introducing PHP on Cloud Functions](https://twitter.com/GoogleCloudTech/status/1385639738762272772)
+ - [SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta)
  
 ## Authors
 
