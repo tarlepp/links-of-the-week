@@ -249,6 +249,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tesla sold nearly $300M of bitcoin in Q1](https://seekingalpha.com/news/3685801-tesla-sold-nearly-300m-of-bitcoin-in-q1)
  - [New in Symfony 5.3: Negatable Command Options](https://symfony.com/blog/new-in-symfony-5-3-negatable-command-options)
  - [Apple's 'M2' processor enters mass production for MacBook Pro](https://appleinsider.com/articles/21/04/27/apples-m2-processor-enters-mass-production-for-macbook-pro)
+ - [OAuth 2 Test Server](https://github.com/paulinevos/oauth-test-server)
  
 ## Authors
 
