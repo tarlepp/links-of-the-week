@@ -247,6 +247,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta)
  - [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
  - [Tesla sold nearly $300M of bitcoin in Q1](https://seekingalpha.com/news/3685801-tesla-sold-nearly-300m-of-bitcoin-in-q1)
+ - [New in Symfony 5.3: Negatable Command Options](https://symfony.com/blog/new-in-symfony-5-3-negatable-command-options)
  
 ## Authors
 
