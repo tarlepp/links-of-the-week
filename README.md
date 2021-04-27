@@ -246,6 +246,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing PHP on Cloud Functions](https://twitter.com/GoogleCloudTech/status/1385639738762272772)
  - [SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta)
  - [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
+ - [Tesla sold nearly $300M of bitcoin in Q1](https://seekingalpha.com/news/3685801-tesla-sold-nearly-300m-of-bitcoin-in-q1)
  
 ## Authors
 
