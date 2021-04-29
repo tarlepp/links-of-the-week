@@ -253,6 +253,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [RollerworksSearch](https://github.com/rollerworks/search)
  - [Heinz claims credit for ketchup cameos](https://www.contagious.com/news-and-views/campaign-ofthe-week-heinz-ketchup-hollywood-credit-film-camoes)
  - [Why ORM is a harmful pattern and should be avoided](https://kurapov.ee/eng/tech/ORM-is-harfmul-pattern/)
+ - [New in Symfony 5.3: PasswordHasher Component](https://symfony.com/blog/new-in-symfony-5-3-passwordhasher-component)
 
 ## Authors
 
