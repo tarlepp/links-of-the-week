@@ -255,6 +255,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why ORM is a harmful pattern and should be avoided](https://kurapov.ee/eng/tech/ORM-is-harfmul-pattern/)
  - [New in Symfony 5.3: PasswordHasher Component](https://symfony.com/blog/new-in-symfony-5-3-passwordhasher-component)
  - [New in Symfony 5.3: Form Handler Helper](https://symfony.com/blog/new-in-symfony-5-3-form-handler-helper)
+ - [What really happened at Basecamp](https://www.platformer.news/p/-what-really-happened-at-basecamp)
 
 ## Authors
 
