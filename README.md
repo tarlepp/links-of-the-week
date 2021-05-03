@@ -258,6 +258,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What really happened at Basecamp](https://www.platformer.news/p/-what-really-happened-at-basecamp)
  - [AMD Warns Motherboard Makers From Offering Ryzen 5000 Desktop CPU BIOS Support on AM4 X370 Boards](https://wccftech.com/amd-warns-motherboard-makers-offering-ryzen-5000-desktop-cpu-bios-support-on-am4-x370/)
 
+### Week 18
+
+ - [New in Symfony 5.3: Improvements for Security Users](https://symfony.com/blog/new-in-symfony-5-3-improvements-for-security-users)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
