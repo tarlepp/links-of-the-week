@@ -263,6 +263,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.3: Improvements for Security Users](https://symfony.com/blog/new-in-symfony-5-3-improvements-for-security-users)
  - [PHP RFC: Namespaces in bundled PHP extensions](https://wiki.php.net/rfc/namespaces_in_bundled_extensions)
  - [New in Symfony 5.3: UID Improvements](https://symfony.com/blog/new-in-symfony-5-3-uid-improvements)
+ - [New in Symfony 5.3: Session Service Deprecation](https://symfony.com/blog/new-in-symfony-5-3-session-service-deprecation)
 
 ## Authors
 
