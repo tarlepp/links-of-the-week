@@ -264,6 +264,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Namespaces in bundled PHP extensions](https://wiki.php.net/rfc/namespaces_in_bundled_extensions)
  - [New in Symfony 5.3: UID Improvements](https://symfony.com/blog/new-in-symfony-5-3-uid-improvements)
  - [New in Symfony 5.3: Session Service Deprecation](https://symfony.com/blog/new-in-symfony-5-3-session-service-deprecation)
+ - [New in Symfony 5.3: Improved Debug Commands](https://symfony.com/blog/new-in-symfony-5-3-improved-debug-commands)
 
 ## Authors
 
