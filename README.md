@@ -265,6 +265,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.3: UID Improvements](https://symfony.com/blog/new-in-symfony-5-3-uid-improvements)
  - [New in Symfony 5.3: Session Service Deprecation](https://symfony.com/blog/new-in-symfony-5-3-session-service-deprecation)
  - [New in Symfony 5.3: Improved Debug Commands](https://symfony.com/blog/new-in-symfony-5-3-improved-debug-commands)
+ - [PHP package manager flaw left millions of web apps open to abuse](https://portswigger.net/daily-swig/php-package-manager-flaw-left-millions-of-web-apps-open-to-abuse)
 
 ## Authors
 
