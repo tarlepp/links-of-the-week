@@ -266,6 +266,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.3: Session Service Deprecation](https://symfony.com/blog/new-in-symfony-5-3-session-service-deprecation)
  - [New in Symfony 5.3: Improved Debug Commands](https://symfony.com/blog/new-in-symfony-5-3-improved-debug-commands)
  - [PHP package manager flaw left millions of web apps open to abuse](https://portswigger.net/daily-swig/php-package-manager-flaw-left-millions-of-web-apps-open-to-abuse)
+ - [New in Symfony 5.3: Configure Multiple Environments in a Single File](https://symfony.com/blog/new-in-symfony-5-3-configure-multiple-environments-in-a-single-file)
 
 ## Authors
 
