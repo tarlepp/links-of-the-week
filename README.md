@@ -268,6 +268,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP package manager flaw left millions of web apps open to abuse](https://portswigger.net/daily-swig/php-package-manager-flaw-left-millions-of-web-apps-open-to-abuse)
  - [New in Symfony 5.3: Configure Multiple Environments in a Single File](https://symfony.com/blog/new-in-symfony-5-3-configure-multiple-environments-in-a-single-file)
  - [Is your fork behind?](https://twitter.com/github/status/1390382527588798477)
+ - [Super-Duper-Secure Cookie-based authorization (Symfony + API Platform)](https://medium.com/super-duper-cookie-based-authorization-symfony-api)
 
 ## Authors
 
