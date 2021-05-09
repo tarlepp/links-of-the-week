@@ -269,6 +269,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.3: Configure Multiple Environments in a Single File](https://symfony.com/blog/new-in-symfony-5-3-configure-multiple-environments-in-a-single-file)
  - [Is your fork behind?](https://twitter.com/github/status/1390382527588798477)
  - [Super-Duper-Secure Cookie-based authorization (Symfony + API Platform)](https://medium.com/super-duper-cookie-based-authorization-symfony-api)
+ - [Finding the fault lines](https://gist.github.com/mikermcneil/4dd3a608de0bdbc61f8065f33bbaf03e)
 
 ## Authors
 
