@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 16](#week-16)
     * [Week 17](#week-17)
     * [Week 18](#week-18)
+    * [Week 19](#week-19)
 
 ## 2021
 
@@ -270,6 +271,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Is your fork behind?](https://twitter.com/github/status/1390382527588798477)
  - [Super-Duper-Secure Cookie-based authorization (Symfony + API Platform)](https://medium.com/super-duper-cookie-based-authorization-symfony-api)
  - [Finding the fault lines](https://gist.github.com/mikermcneil/4dd3a608de0bdbc61f8065f33bbaf03e)
+
+### Week 19
+
+ - [New in Symfony 5.3: Inlined Serialization Context](https://symfony.com/blog/new-in-symfony-5-3-inlined-serialization-context)
 
 ## Authors
 
