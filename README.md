@@ -276,6 +276,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [New in Symfony 5.3: Inlined Serialization Context](https://symfony.com/blog/new-in-symfony-5-3-inlined-serialization-context)
  - [PHP Versions Stats - 2021.1 Edition](https://blog.packagist.com/php-versions-stats-2021-1-edition/)
+ - [New in Symfony 5.3: Logging Improvements](https://symfony.com/blog/new-in-symfony-5-3-logging-improvements)
 
 ## Authors
 
