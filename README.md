@@ -280,6 +280,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How Coinbase is rethinking its approach to compensation](https://blog.coinbase.com/how-coinbase-is-rethinking-its-approach-to-compensation-9aaf7d5d638e)
  - [Batching Symfony Messenger messages](https://jolicode.com/blog/batching-symfony-messenger-messages)
  - [New in Symfony 5.3: Service Autoconfiguration and Attributes](https://symfony.com/blog/new-in-symfony-5-3-service-autoconfiguration-and-attributes)
+ - [Why is WSL2 so slow?](https://dev.to/kleeut/why-is-wsl2-so-slow-4n3i)
 
 ## Authors
 
