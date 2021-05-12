@@ -279,6 +279,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.3: Logging Improvements](https://symfony.com/blog/new-in-symfony-5-3-logging-improvements)
  - [How Coinbase is rethinking its approach to compensation](https://blog.coinbase.com/how-coinbase-is-rethinking-its-approach-to-compensation-9aaf7d5d638e)
  - [Batching Symfony Messenger messages](https://jolicode.com/blog/batching-symfony-messenger-messages)
+ - [New in Symfony 5.3: Service Autoconfiguration and Attributes](https://symfony.com/blog/new-in-symfony-5-3-service-autoconfiguration-and-attributes)
 
 ## Authors
 
