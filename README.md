@@ -282,6 +282,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 5.3: Service Autoconfiguration and Attributes](https://symfony.com/blog/new-in-symfony-5-3-service-autoconfiguration-and-attributes)
  - [Why is WSL2 so slow?](https://dev.to/kleeut/why-is-wsl2-so-slow-4n3i)
  - [Bring your exceptions under control with @throws](https://phpstan.org/blog/bring-your-exceptions-under-control)
+ - [I use Arch btw](https://github.com/OverMighty/i-use-arch-btw)
 
 ## Authors
 
