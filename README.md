@@ -284,6 +284,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Bring your exceptions under control with @throws](https://phpstan.org/blog/bring-your-exceptions-under-control)
  - [I use Arch btw](https://github.com/OverMighty/i-use-arch-btw)
  - [EPIC THUNDERSTRUCK COVER with RARE ARCTIC INSTRUMENT by Lauri Schreck](https://www.youtube.com/watch?v=XnRutPGeVO0)
+ - [Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")](https://github.com/AkihiroSuda/lima)
  
 ## Authors
 
