@@ -288,6 +288,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Announcing NgRx Version 12: New operator for Effects, ComponentStore Enhancements, Integrated support for ESLint, and more!](https://medium.com/ngrx/announcing-ngrx-version-12-new-operator-for-effects-componentstore-enhancements-integrated-9dcb2519d495)
  - [Custom Doctrine profiling system](https://grandrr.medium.com/custom-doctrine-profiling-system-fb60ac8fac4f)
  
+https://phpstan.org/blog/why-you-should-always-analyse-whole-project
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
