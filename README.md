@@ -294,6 +294,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why you should always analyse the whole project](https://phpstan.org/blog/why-you-should-always-analyse-whole-project)
  - [Plotting the source code "TODO" history of the most popular open source projects](https://schleiss.io/plotting-source-code-todos-for-open-source-projects)
  - [Redesigned MacBook Pro Models With 10-Core Apple Silicon Chip Said to Launch as Early as This Summer](https://www.macrumors.com/2021/05/18/macbook-pro-64gb-ram-summer-2021/)
+ - [PHP Runtime](https://github.com/php-runtime)
 
 ## Authors
 
