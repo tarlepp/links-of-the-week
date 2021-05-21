@@ -297,7 +297,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP Runtime](https://github.com/php-runtime)
  - [Airbyte | Open-Source Data Integration Pipelines To Your Warehouses](https://airbyte.io/)
  - [New in Symfony 5.3: Translation Providers](https://symfony.com/blog/new-in-symfony-5-3-translation-providers)
-https://world.hey.com/dhh/after-the-storm-9370f871
+ - [After the storm](https://world.hey.com/dhh/after-the-storm-9370f871)
+ - [New in Symfony 5.3: Notifier Integrations](https://symfony.com/blog/new-in-symfony-5-3-notifier-integrations)
 
 ## Authors
 
