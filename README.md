@@ -300,6 +300,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [After the storm](https://world.hey.com/dhh/after-the-storm-9370f871)
  - [New in Symfony 5.3: Notifier Integrations](https://symfony.com/blog/new-in-symfony-5-3-notifier-integrations)
  - [M1 Mac SSD wear probably a far bigger problem than it appears](https://bartechtv.com/m1-mac-ssd-wear-probably-a-far-bigger-problem-than-it-appears/)
+https://soyuka.me/keep-system-clean-linux/
 
 ## Authors
 
