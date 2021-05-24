@@ -305,6 +305,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 21
 
+ - [Sylius Behat scenarios in Chrome Headless inside Docker](https://pplotka.dev/post/sylius-behat-scenarios-in-chrome-headless-inside-docker/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
