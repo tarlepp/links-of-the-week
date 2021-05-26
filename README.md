@@ -306,7 +306,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 21
 
  - [Sylius Behat scenarios in Chrome Headless inside Docker](https://pplotka.dev/post/sylius-behat-scenarios-in-chrome-headless-inside-docker/)
-https://platform.sh/company/press/2021/platform-sh-and-blackfire-io-join-forces-to-accelerate-observability-for-web-app-fleets/
+ - [Platform.sh and Blackfire.io join forces to accelerate observability for web app fleets](https://platform.sh/company/press/2021/platform-sh-and-blackfire-io-join-forces-to-accelerate-observability-for-web-app-fleets/)
+ - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 
 ## Authors
 
