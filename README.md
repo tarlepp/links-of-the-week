@@ -309,6 +309,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Platform.sh and Blackfire.io join forces to accelerate observability for web app fleets](https://platform.sh/company/press/2021/platform-sh-and-blackfire-io-join-forces-to-accelerate-observability-for-web-app-fleets/)
  - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
  - [Pointing you in the right direction](https://www.easyredir.com/)
+ - [The world’s first bandwidth-hard blockchain](https://pkt.cash/)
 
 ## Authors
 
