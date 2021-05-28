@@ -310,6 +310,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
  - [Pointing you in the right direction](https://www.easyredir.com/)
  - [The world’s first bandwidth-hard blockchain](https://pkt.cash/)
+ - [Are we web yet?](https://www.arewewebyet.org/)
 
 ## Authors
 
