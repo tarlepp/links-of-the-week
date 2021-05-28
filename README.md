@@ -313,6 +313,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Are we web yet?](https://www.arewewebyet.org/)
  - [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
  - [Writing better Regular Expressions in PHP](https://php.watch/articles/php-regex-readability)
+ - [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
 
 ## Authors
 
