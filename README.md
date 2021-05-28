@@ -311,6 +311,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pointing you in the right direction](https://www.easyredir.com/)
  - [The world’s first bandwidth-hard blockchain](https://pkt.cash/)
  - [Are we web yet?](https://www.arewewebyet.org/)
+https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 
 ## Authors
 
