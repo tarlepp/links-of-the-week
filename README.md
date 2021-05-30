@@ -314,6 +314,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
  - [Writing better Regular Expressions in PHP](https://php.watch/articles/php-regex-readability)
  - [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
+ - [Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/)
 
 ## Authors
 
