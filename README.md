@@ -320,6 +320,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 22
 
  - [Symfony 5.3.0 released](https://symfony.com/blog/symfony-5-3-0-released)
+https://mlocati.github.io/php-cs-fixer-configurator/#version:3.0
 
 ## Authors
 
