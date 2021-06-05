@@ -325,6 +325,7 @@ https://github.com/zanbaldwin/runtime-playground
  - [New in Symfony 5.3: Lazy Command Description](https://symfony.com/blog/new-in-symfony-5-3-lazy-command-description)
 https://github.com/sigwinhq/docker-ssh-tunnel
 https://world.hey.com/dhh/building-basecamp-4-405a347f
+ - [Ondrej Mirtes. Use Generics in PHP. Today](https://www.youtube.com/watch?v=gzvHWulLvik)
 
 ## Authors
 
