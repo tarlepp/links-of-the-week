@@ -320,12 +320,14 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 22
 
  - [Symfony 5.3.0 released](https://symfony.com/blog/symfony-5-3-0-released)
-https://mlocati.github.io/php-cs-fixer-configurator/#version:3.0
-https://github.com/zanbaldwin/runtime-playground
+ - [PHP-CS-Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/#version:3.0)
+ - [This is a working example of Symfony's Runtime component. Do not use this project, look through the code and pull out the parts you find interesting. Copy+paste is your friend.](https://github.com/zanbaldwin/runtime-playground)
  - [New in Symfony 5.3: Lazy Command Description](https://symfony.com/blog/new-in-symfony-5-3-lazy-command-description)
-https://github.com/sigwinhq/docker-ssh-tunnel
-https://world.hey.com/dhh/building-basecamp-4-405a347f
+ - [SSH tunnel in Docker](https://github.com/sigwinhq/docker-ssh-tunnel)
+ - [Building Basecamp 4](https://world.hey.com/dhh/building-basecamp-4-405a347f)
  - [Ondrej Mirtes. Use Generics in PHP. Today](https://www.youtube.com/watch?v=gzvHWulLvik)
+ - [Real World Benchmark PHP Routing](http://kaloyan.info/writing/2021/05/31/benchmark-php-routing.html)
+ - [How to Refactor Custom Doctrine Annotations to Attributes](https://tomasvotruba.com/blog/how-to-refactor-custom-doctrine-annotations-to-attributes/)
 
 ## Authors
 
