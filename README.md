@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 20](#week-20)
     * [Week 21](#week-21)
     * [Week 22](#week-22)
+    * [Week 23](#week-23)
 
 ## 2021
 
@@ -331,8 +332,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 23
 
-https://developers.google.com/web/fundamentals/security/credential-management
-https://webauthn.io/
+ - [The Credential Management API](https://developers.google.com/web/fundamentals/security/credential-management)
+ - [WebAuthn.io](https://webauthn.io/)
 
 ## Authors
 
