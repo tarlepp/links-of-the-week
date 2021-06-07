@@ -329,6 +329,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Real World Benchmark PHP Routing](http://kaloyan.info/writing/2021/05/31/benchmark-php-routing.html)
  - [How to Refactor Custom Doctrine Annotations to Attributes](https://tomasvotruba.com/blog/how-to-refactor-custom-doctrine-annotations-to-attributes/)
 
+### Week 23
+
+https://developers.google.com/web/fundamentals/security/credential-management
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
