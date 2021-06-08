@@ -334,6 +334,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [The Credential Management API](https://developers.google.com/web/fundamentals/security/credential-management)
  - [WebAuthn.io](https://webauthn.io/)
+https://timobakx.dev/php/api-platform/2021/06/06/altering-api-documentation-generated-by-apip.html
 
 ## Authors
 
