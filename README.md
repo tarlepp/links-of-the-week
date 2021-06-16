@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 21](#week-21)
     * [Week 22](#week-22)
     * [Week 23](#week-23)
+    * [Week 24](#week-24)
 
 ## 2021
 
@@ -338,6 +339,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Secret IRS Files: Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax](https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax)
  - [What's new in PHP 8.1](https://stitcher.io/blog/new-in-php-81)
  - [Using PHPStan to analyse Symfony Console Application](https://jolicode.com/blog/using-phpstan-to-analyse-symfony-console-application)
+
+### Week 24
+
+ - [Bringing Hotwire to Basecamp](https://world.hey.com/dhh/bringing-hotwire-to-basecamp-91a442d6)
 
 ## Authors
 
