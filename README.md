@@ -344,6 +344,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Bringing Hotwire to Basecamp](https://world.hey.com/dhh/bringing-hotwire-to-basecamp-91a442d6)
  - [Windows 11: A Few More Screenshots](https://www.thurrott.com/windows/windows-11/251954/windows-11-a-few-more-screenshots)
+ - [Jane AutoMapper Component](https://github.com/janephp/automapper)
 
 ## Authors
 
