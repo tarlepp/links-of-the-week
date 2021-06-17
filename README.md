@@ -347,6 +347,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Jane AutoMapper Component](https://github.com/janephp/automapper)
  - [Stabilizing Symfony: Testing out the pre-release](https://wouterj.nl/2021/06/stabilizing-symfony-test-out-pre-releases)
  - [Symfony Forms: Advanced Use Cases](https://github.com/alexandresalome/app)
+ - [Gently Down the Steam](https://www.gentlydownthe.stream/)
 
 ## Authors
 
