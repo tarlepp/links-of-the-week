@@ -348,6 +348,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Stabilizing Symfony: Testing out the pre-release](https://wouterj.nl/2021/06/stabilizing-symfony-test-out-pre-releases)
  - [Symfony Forms: Advanced Use Cases](https://github.com/alexandresalome/app)
  - [Gently Down the Steam](https://www.gentlydownthe.stream/)
+ - [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
 
 ## Authors
 
