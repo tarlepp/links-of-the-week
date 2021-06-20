@@ -349,6 +349,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Forms: Advanced Use Cases](https://github.com/alexandresalome/app)
  - [Gently Down the Steam](https://www.gentlydownthe.stream/)
  - [State of the Windows: How many layers of UI inconsistencies are in Windows 10?](https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/)
+ - [Doctrine Annotations and Attributes Living Together in Peace](https://tomasvotruba.com/blog/doctrine-annotations-and-attributes-living-together-in-peace/)
+ - [Differential serving with webpack encore](https://backendtea.com/post/webpack-encore-differential-serving/)
+ - [Build a Command Line Tool With Symfony](https://www.twilio.com/blog/build-command-line-tool-symfony)
 
 ## Authors
 
