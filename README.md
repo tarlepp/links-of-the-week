@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 22](#week-22)
     * [Week 23](#week-23)
     * [Week 24](#week-24)
+    * [Week 25](#week-25)
 
 ## 2021
 
@@ -352,6 +353,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Doctrine Annotations and Attributes Living Together in Peace](https://tomasvotruba.com/blog/doctrine-annotations-and-attributes-living-together-in-peace/)
  - [Differential serving with webpack encore](https://backendtea.com/post/webpack-encore-differential-serving/)
  - [Build a Command Line Tool With Symfony](https://www.twilio.com/blog/build-command-line-tool-symfony)
+
+### Week 25
 
 ## Authors
 
