@@ -356,6 +356,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 25
 
+ - [How the Next Layer of the Internet is Going to be Standardised](https://www.mnot.net/blog/2021/06/21/standards-competition-governance)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
