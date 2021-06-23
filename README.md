@@ -358,6 +358,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [How the Next Layer of the Internet is Going to be Standardised](https://www.mnot.net/blog/2021/06/21/standards-competition-governance)
  - [It haunts us](https://www.commitstrip.com/en/2021/06/22/it-haunts-us/)
+ - [JWT Access Tokens](https://bshaffer.github.io/oauth2-server-php-docs/overview/jwt-access-tokens/)
 
 ## Authors
 
