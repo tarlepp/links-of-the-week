@@ -361,6 +361,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [JWT Access Tokens](https://bshaffer.github.io/oauth2-server-php-docs/overview/jwt-access-tokens/)
  - [Issues forms beta for public repositories](https://github.blog/changelog/2021-06-23-issues-forms-beta-for-public-repositories/)
  - [Scaling the Symfony Demo app to the extreme with Varnish](https://jolicode.com/blog/scaling-the-symfony-demo-app-to-the-extreme-with-varnish)
+ - [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
 
 ## Authors
 
