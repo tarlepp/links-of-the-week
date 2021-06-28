@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 23](#week-23)
     * [Week 24](#week-24)
     * [Week 25](#week-25)
+    * [Week 26](#week-26)
 
 ## 2021
 
@@ -364,6 +365,12 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
  - [Wealth, shown to scale](https://mkorostoff.github.io/1-pixel-wealth/)
  - [None of these docker repos work on ARM](https://armshaming.space/)
+ - [Making Symfony.com 3 times faster thanks to Blackfire Monitoring](https://blog.blackfire.io/making-symfony-com-3-times-faster-thanks-to-blackfire-monitoring.html)
+ - [Symfony secrets vault explained in less than 5 minutes](https://medium.com/geekculture/symfony-secrets-vault-explained-in-less-than-5-minutes-131649ce2cab)
+
+### Week 26
+
+ - [Building a SaaS product with Symfony (part 1/2)](https://titouangalopin.com/share/post/5HDk80lDwEYSsQyyK5Rvky/building-a-saas-product-with-symfony-part-1-2)
 
 ## Authors
 
