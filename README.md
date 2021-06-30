@@ -372,6 +372,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Building a SaaS product with Symfony (part 1/2)](https://titouangalopin.com/share/post/5HDk80lDwEYSsQyyK5Rvky/building-a-saas-product-with-symfony-part-1-2)
  - [Your AI pair programmer](https://copilot.github.com/)
+https://www.elastic.co/pricing/faq/licensing
 
 ## Authors
 
