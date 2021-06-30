@@ -374,6 +374,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Your AI pair programmer](https://copilot.github.com/)
 https://www.elastic.co/pricing/faq/licensing
 https://easycorp.github.io/blog/posts/a-month-without-contributions
+https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
 
 ## Authors
 
