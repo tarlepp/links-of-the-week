@@ -372,12 +372,12 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Building a SaaS product with Symfony (part 1/2)](https://titouangalopin.com/share/post/5HDk80lDwEYSsQyyK5Rvky/building-a-saas-product-with-symfony-part-1-2)
  - [Your AI pair programmer](https://copilot.github.com/)
-https://www.elastic.co/pricing/faq/licensing
-https://easycorp.github.io/blog/posts/a-month-without-contributions
-https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
-https://muglug.medium.com/my-incredible-journey-with-php-df45d72ba2a5
-https://gist.github.com/hansemschnokeloch/aa5376d86863a84eda13c3fb70a0c2fd
-https://www.macrumors.com/2021/07/01/apple-macbook-pro-in-september/
+ - [Elastic - FAQ on 2021 License Change](https://www.elastic.co/pricing/faq/licensing)
+ - [EasyAdmin - A month without contributions](https://easycorp.github.io/blog/posts/a-month-without-contributions)
+ - [Apple Reportedly Storing Over 8 Million Terabytes of iCloud Data on Google Servers](https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/)
+ - [My incredible journey with PHP](https://muglug.medium.com/my-incredible-journey-with-php-df45d72ba2a5)
+ - [Doctrine table prefix example](https://gist.github.com/hansemschnokeloch/aa5376d86863a84eda13c3fb70a0c2fd)
+ - [DigiTimes: Apple to Announce Redesigned 14-inch and 16-inch MacBook Pro in September](https://www.macrumors.com/2021/07/01/apple-macbook-pro-in-september/)
 
 ## Authors
 
