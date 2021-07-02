@@ -377,6 +377,7 @@ https://easycorp.github.io/blog/posts/a-month-without-contributions
 https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
 https://muglug.medium.com/my-incredible-journey-with-php-df45d72ba2a5
 https://gist.github.com/hansemschnokeloch/aa5376d86863a84eda13c3fb70a0c2fd
+https://www.macrumors.com/2021/07/01/apple-macbook-pro-in-september/
 
 ## Authors
 
