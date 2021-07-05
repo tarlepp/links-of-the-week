@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 24](#week-24)
     * [Week 25](#week-25)
     * [Week 26](#week-26)
+    * [Week 27](#week-27)
 
 ## 2021
 
@@ -378,6 +379,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [My incredible journey with PHP](https://muglug.medium.com/my-incredible-journey-with-php-df45d72ba2a5)
  - [Doctrine table prefix example](https://gist.github.com/hansemschnokeloch/aa5376d86863a84eda13c3fb70a0c2fd)
  - [DigiTimes: Apple to Announce Redesigned 14-inch and 16-inch MacBook Pro in September](https://www.macrumors.com/2021/07/01/apple-macbook-pro-in-september/)
+
+### Week 27
+
+ - [PHP isn’t that like really bad?](https://getparthenon.com/blog/php-isnt-that-like-really-bad/)
 
 ## Authors
 
