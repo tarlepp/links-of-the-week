@@ -383,6 +383,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 27
 
  - [PHP isn’t that like really bad?](https://getparthenon.com/blog/php-isnt-that-like-really-bad/)
+ - [The Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 
 ## Authors
 
