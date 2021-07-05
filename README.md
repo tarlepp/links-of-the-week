@@ -384,6 +384,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [PHP isn’t that like really bad?](https://getparthenon.com/blog/php-isnt-that-like-really-bad/)
  - [The Bash Hackers Wiki](https://wiki.bash-hackers.org/)
+ - [Symfony Forms - Advanced Use Cases](https://speakerdeck.com/alexandresalome/symfony-forms-advanced-use-cases)
 
 ## Authors
 
