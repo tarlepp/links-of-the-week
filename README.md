@@ -387,7 +387,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Forms - Advanced Use Cases](https://speakerdeck.com/alexandresalome/symfony-forms-advanced-use-cases)
  - [Nintendo Switch sales on pace to hit 100 million faster than Wii and PS4](https://www.nintendoenthusiast.com/nintendo-switch-sales-on-pace-to-hit-100-million-faster-than-wii-and-ps4/)
  - [The Witcher 3 Next-Gen Update May Use Some PC Mods Made by Fans](https://wccftech.com/the-witcher-3-next-gen-update-may-use-some-pc-mods-made-by-fans/)
-https://www.theguardian.com/business/2021/jul/08/uk-employers-struggle-with-worst-labour-shortage-since-1997
+ - [UK employers struggle with worst labour shortage since 1997](https://www.theguardian.com/business/2021/jul/08/uk-employers-struggle-with-worst-labour-shortage-since-1997)
 
 ## Authors
 
