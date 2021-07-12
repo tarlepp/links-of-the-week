@@ -45,6 +45,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 25](#week-25)
     * [Week 26](#week-26)
     * [Week 27](#week-27)
+    * [Week 28](#week-28)
 
 ## 2021
 
@@ -389,6 +390,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Witcher 3 Next-Gen Update May Use Some PC Mods Made by Fans](https://wccftech.com/the-witcher-3-next-gen-update-may-use-some-pc-mods-made-by-fans/)
  - [UK employers struggle with worst labour shortage since 1997](https://www.theguardian.com/business/2021/jul/08/uk-employers-struggle-with-worst-labour-shortage-since-1997)
  - [i18n Ally](https://plugins.jetbrains.com/plugin/17212-i18n-ally)
+
+### Week 28
 
 ## Authors
 
