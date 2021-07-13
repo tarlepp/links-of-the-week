@@ -394,6 +394,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 28
 
  - [ddev](https://github.com/drud/ddev/)
+ - [Front-end dev reacts to amazing CSS-only Codepens](https://www.youtube.com/watch?v=CG__N4SS1Fc)
 
 ## Authors
 
