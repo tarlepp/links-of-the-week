@@ -395,6 +395,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [ddev](https://github.com/drud/ddev/)
  - [Front-end dev reacts to amazing CSS-only Codepens](https://www.youtube.com/watch?v=CG__N4SS1Fc)
+ - [Mixxx – the free DJ software – gets a major update with 2.3.0 release](https://djtechtools.com/2021/07/12/mixxx-the-free-dj-software-gets-a-major-update-with-2-3-0-release/)
 
 ## Authors
 
