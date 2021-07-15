@@ -399,6 +399,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Mitä jälkeen jää - Taito tehdä kuolinsiivous](https://www.tammi.fi/kirja/margareta-magnusson/mita-jalkeen-jaa-taito-tehda-kuolinsiivous/9789513196196)
  - [scheb/2fa](https://github.com/scheb/2fa)
  - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
+ - [Readonly properties have been accepted for PHP 8.1 🎉](https://www.reddit.com/r/PHP/comments/okrn7h/readonly_properties_have_been_accepted_for_php_81/)
 
 ## Authors
 
