@@ -401,6 +401,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
  - [Readonly properties have been accepted for PHP 8.1 🎉](https://www.reddit.com/r/PHP/comments/okrn7h/readonly_properties_have_been_accepted_for_php_81/)
  - [An Emoji For Your Thoughts](https://medium.com/microsoft-design/emotionality-at-work-398182387adc)
+ - [Asynchronous e-mails with Symfony Mailer](https://medium.com/fusonic/asynchronous-e-mails-with-symfony-mailer-c0f6998d9322)
 
 ## Authors
 
