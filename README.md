@@ -407,6 +407,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 29
 
+ - [We believe there are many cases when you may want to use Projector](https://jetbrains.github.io/projector-client/mkdocs/latest/about/usecases/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
