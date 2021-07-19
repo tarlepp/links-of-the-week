@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 26](#week-26)
     * [Week 27](#week-27)
     * [Week 28](#week-28)
+    * [Week 29](#week-29)
 
 ## 2021
 
@@ -403,6 +404,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [An Emoji For Your Thoughts](https://medium.com/microsoft-design/emotionality-at-work-398182387adc)
  - [Asynchronous e-mails with Symfony Mailer](https://medium.com/fusonic/asynchronous-e-mails-with-symfony-mailer-c0f6998d9322)
  - [Code Execution Monitoring for Symfony applications using Inspector](https://dev.to/inspector/code-execution-monitoring-for-symfony-applications-using-inspector-417g)
+
+### Week 29
 
 ## Authors
 
