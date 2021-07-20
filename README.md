@@ -408,6 +408,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 29
 
  - [We believe there are many cases when you may want to use Projector](https://jetbrains.github.io/projector-client/mkdocs/latest/about/usecases/)
+ - [U.S. and key allies accuse China of Microsoft Exchange cyberattacks](https://www.axios.com/china-cyberattacks-nato-181e71d2-7414-45f3-9463-c8b1d46392c1.html)
 
 ## Authors
 
