@@ -412,6 +412,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Programming Doesn’t Require Talent or Even Passion](https://medium.com/@WordcorpGlobal/programming-doesnt-require-talent-or-even-passion-11422270e1e4)
  - [A new EasyAdmin Demo application](https://easycorp.github.io/blog/posts/a-new-easyadmin-demo-application)
  - [This is a super simple service for generating different HTTP codes](https://httpstat.us/)
+ - [Nurses ´and nurse managers´ perceptions of sustainable development in perioperative work: A qualitative study](https://onlinelibrary.wiley.com/doi/10.1111/jocn.15970)
 
 ## Authors
 
