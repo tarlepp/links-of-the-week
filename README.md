@@ -411,6 +411,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [U.S. and key allies accuse China of Microsoft Exchange cyberattacks](https://www.axios.com/china-cyberattacks-nato-181e71d2-7414-45f3-9463-c8b1d46392c1.html)
  - [Programming Doesn’t Require Talent or Even Passion](https://medium.com/@WordcorpGlobal/programming-doesnt-require-talent-or-even-passion-11422270e1e4)
  - [A new EasyAdmin Demo application](https://easycorp.github.io/blog/posts/a-new-easyadmin-demo-application)
+ - [This is a super simple service for generating different HTTP codes](https://httpstat.us/)
 
 ## Authors
 
