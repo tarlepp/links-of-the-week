@@ -414,6 +414,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [This is a super simple service for generating different HTTP codes](https://httpstat.us/)
  - [Nurses ´and nurse managers´ perceptions of sustainable development in perioperative work: A qualitative study](https://onlinelibrary.wiley.com/doi/10.1111/jocn.15970)
  - [PHP 8.1.0 Beta 1 available for testing](https://www.php.net/archive/2021.php#2021-07-22-1)
+ - [Yksi kaivinkoneen kauhaisu lamaannutti valtionhallinnon tietoliikenteen päiväksi – asiantuntija: "Tällaista ei pitäisi tapahtua"](https://yle.fi/uutiset/3-12031335)
 
 ## Authors
 
