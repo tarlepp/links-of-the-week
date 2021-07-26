@@ -423,6 +423,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 30
 
+ - [Symfony Lock: dealing with shared resources, concurrency and parallelism](https://medium.com/geekculture/symfony-lock-dealing-with-shared-resources-concurrency-and-parallelism-f4df66a744de)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
