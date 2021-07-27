@@ -427,6 +427,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Helping doctrine to manage MySQL case sensitivity](https://scullwm.medium.com/helping-doctrine-to-manage-mysql-case-sensitivity-d207fee9dedd)
  - [The State of Developer Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/)
  - [Regex reverse](https://github.com/niklongstone/regex-reverse)
+ - [Full Rear-Wheel Steering on Mercedes EQS Will Be $575 Annual Subscription in Germany: Report](https://www.thedrive.com/tech/41678/full-rear-wheel-steering-on-mercedes-eqs-will-be-575-annual-subscription-in-germany-report)
 
 ## Authors
 
