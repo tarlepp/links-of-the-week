@@ -428,6 +428,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The State of Developer Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/)
  - [Regex reverse](https://github.com/niklongstone/regex-reverse)
  - [Full Rear-Wheel Steering on Mercedes EQS Will Be $575 Annual Subscription in Germany: Report](https://www.thedrive.com/tech/41678/full-rear-wheel-steering-on-mercedes-eqs-will-be-575-annual-subscription-in-germany-report)
+ - [grex](https://github.com/pemistahl/grex)
 
 ## Authors
 
