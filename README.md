@@ -430,6 +430,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Full Rear-Wheel Steering on Mercedes EQS Will Be $575 Annual Subscription in Germany: Report](https://www.thedrive.com/tech/41678/full-rear-wheel-steering-on-mercedes-eqs-will-be-575-annual-subscription-in-germany-report)
  - [grex](https://github.com/pemistahl/grex)
  - [Five reasons why the shut-op operator (@) should be avoided](https://derickrethans.nl/five-reasons-why-the-shutop-operator-should-be-avoided.html)
+ - [PhpStorm 2021.2: Generics, Enums, Array Shapes, Inspections, Refactorings, and More](https://blog.jetbrains.com/phpstorm/2021/07/phpstorm-2021-2-release/)
 
 ## Authors
 
