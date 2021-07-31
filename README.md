@@ -431,6 +431,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [grex](https://github.com/pemistahl/grex)
  - [Five reasons why the shut-op operator (@) should be avoided](https://derickrethans.nl/five-reasons-why-the-shutop-operator-should-be-avoided.html)
  - [PhpStorm 2021.2: Generics, Enums, Array Shapes, Inspections, Refactorings, and More](https://blog.jetbrains.com/phpstorm/2021/07/phpstorm-2021-2-release/)
+ - [Introduction to heredocs in Dockerfiles](https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/)
 
 ## Authors
 
