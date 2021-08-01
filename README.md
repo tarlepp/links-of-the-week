@@ -433,6 +433,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PhpStorm 2021.2: Generics, Enums, Array Shapes, Inspections, Refactorings, and More](https://blog.jetbrains.com/phpstorm/2021/07/phpstorm-2021-2-release/)
  - [Introduction to heredocs in Dockerfiles](https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/)
  - [How to ensure PHP code quality? Static analysis using PHPStan with Symfony](https://medium.com/accesto/how-to-ensure-php-code-quality-static-analysis-using-phpstan-with-symfony-accesto-blog-39fb57545e44)
+ - [Redesigning EasyAdmin](https://easycorp.github.io/blog//posts/redesigning-easyadmin)
 
 ## Authors
 
