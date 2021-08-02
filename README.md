@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 28](#week-28)
     * [Week 29](#week-29)
     * [Week 30](#week-30)
+    * [Week 31](#week-31)
 
 ## 2021
 
@@ -434,6 +435,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introduction to heredocs in Dockerfiles](https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/)
  - [How to ensure PHP code quality? Static analysis using PHPStan with Symfony](https://medium.com/accesto/how-to-ensure-php-code-quality-static-analysis-using-phpstan-with-symfony-accesto-blog-39fb57545e44)
  - [Redesigning EasyAdmin](https://easycorp.github.io/blog//posts/redesigning-easyadmin)
+
+### Week 31
 
 ## Authors
 
