@@ -439,6 +439,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 31
 https://en.m.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo
 https://numberninecms.com/
+https://github.com/symfony/symfony/discussions/42363
 
 ## Authors
 
