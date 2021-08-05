@@ -442,6 +442,7 @@ https://numberninecms.com/
 https://github.com/symfony/symfony/discussions/42363
 https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext
 https://operatorhub.io/
+https://insights.stackoverflow.com/survey/2021#overview
 
 ## Authors
 
