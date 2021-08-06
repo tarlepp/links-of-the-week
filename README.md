@@ -446,6 +446,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [https://insights.stackoverflow.com/survey/2021](Stack Overflow Developer Survey 2021)
  - [Sataako?](https://www.sataako.fi/)
  - [Using GitHub Discussions for Symfony Support](https://symfony.com/blog/using-github-discussions-for-symfony-support)
+ - [South Park Creators Trey Parker and Matt Stone Ink $900 Million ViacomCBS Deal](https://www.vulture.com/2021/08/south-park-creators-900m-deal-14-movies.html)
 
 ## Authors
 
