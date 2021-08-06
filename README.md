@@ -437,13 +437,15 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Redesigning EasyAdmin](https://easycorp.github.io/blog//posts/redesigning-easyadmin)
 
 ### Week 31
-https://en.m.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo
-https://numberninecms.com/
-https://github.com/symfony/symfony/discussions/42363
-https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext
-https://operatorhub.io/
-https://insights.stackoverflow.com/survey/2021#overview
+
+ - [https://en.m.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo](Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo)
+ - [https://numberninecms.com/](NumberNine)
+ - [https://github.com/symfony/symfony/discussions/42363](Welcome to Symfony Discussions!)
+ - [https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext](Cognitive deficits in people who have recovered from COVID-19)
+ - [https://operatorhub.io/](OperatorHub.io is a new home for the Kubernetes community to share Operators)
+ - [https://insights.stackoverflow.com/survey/2021](Stack Overflow Developer Survey 2021)
  - [Sataako?](https://www.sataako.fi/)
+ - [Using GitHub Discussions for Symfony Support](https://symfony.com/blog/using-github-discussions-for-symfony-support)
 
 ## Authors
 
