@@ -444,7 +444,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Cognitive deficits in people who have recovered from COVID-19](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext)
  - [OperatorHub.io is a new home for the Kubernetes community to share Operators](https://operatorhub.io/)
  - [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021)
- - [https://www.sataako.fi/](Sataako?)
+ - [Sataako?](https://www.sataako.fi/)
  - [Using GitHub Discussions for Symfony Support](https://symfony.com/blog/using-github-discussions-for-symfony-support)
  - [South Park Creators Trey Parker and Matt Stone Ink $900 Million ViacomCBS Deal](https://www.vulture.com/2021/08/south-park-creators-900m-deal-14-movies.html)
 
