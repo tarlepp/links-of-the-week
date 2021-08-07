@@ -438,13 +438,13 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 31
 
- - [https://en.m.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo](Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo)
- - [https://numberninecms.com/](NumberNine)
- - [https://github.com/symfony/symfony/discussions/42363](Welcome to Symfony Discussions!)
- - [https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext](Cognitive deficits in people who have recovered from COVID-19)
- - [https://operatorhub.io/](OperatorHub.io is a new home for the Kubernetes community to share Operators)
- - [https://insights.stackoverflow.com/survey/2021](Stack Overflow Developer Survey 2021)
- - [Sataako?](https://www.sataako.fi/)
+ - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.m.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
+ - [NumberNine](https://numberninecms.com/)
+ - [Welcome to Symfony Discussions!](https://github.com/symfony/symfony/discussions/42363)
+ - [Cognitive deficits in people who have recovered from COVID-19](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext)
+ - [OperatorHub.io is a new home for the Kubernetes community to share Operators](https://operatorhub.io/)
+ - [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021)
+ - [https://www.sataako.fi/](Sataako?)
  - [Using GitHub Discussions for Symfony Support](https://symfony.com/blog/using-github-discussions-for-symfony-support)
  - [South Park Creators Trey Parker and Matt Stone Ink $900 Million ViacomCBS Deal](https://www.vulture.com/2021/08/south-park-creators-900m-deal-14-movies.html)
 
