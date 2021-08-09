@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 29](#week-29)
     * [Week 30](#week-30)
     * [Week 31](#week-31)
+    * [Week 32](#week-32)
 
 ## 2021
 
@@ -447,6 +448,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Sataako?](https://www.sataako.fi/)
  - [Using GitHub Discussions for Symfony Support](https://symfony.com/blog/using-github-discussions-for-symfony-support)
  - [South Park Creators Trey Parker and Matt Stone Ink $900 Million ViacomCBS Deal](https://www.vulture.com/2021/08/south-park-creators-900m-deal-14-movies.html)
+
+### Week 32
+
+ - [Most active GitHub users in Finland](https://commits.top/finland.html)
 
 ## Authors
 
