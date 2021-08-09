@@ -452,6 +452,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 32
 
  - [Most active GitHub users in Finland](https://commits.top/finland.html)
+ - [Major climate changes inevitable and irreversible – IPCC’s starkest warning yet](https://www.theguardian.com/science/2021/aug/09/humans-have-caused-unprecedented-and-irreversible-change-to-climate-scientists-warn)
 
 ## Authors
 
