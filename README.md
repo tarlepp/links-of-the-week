@@ -453,6 +453,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Most active GitHub users in Finland](https://commits.top/finland.html)
  - [Major climate changes inevitable and irreversible – IPCC’s starkest warning yet](https://www.theguardian.com/science/2021/aug/09/humans-have-caused-unprecedented-and-irreversible-change-to-climate-scientists-warn)
+ - [Uusi Amiga alkuvuodesta 2022: THEA500 Mini tukee myös Amiga 1200:aa](https://www.v2.fi/uutiset/pelit/34601/Uusi-Amiga-alkuvuodesta-2022-THEA500-Mini-tukee-myos-Amiga-1200aa/)
 
 ## Authors
 
