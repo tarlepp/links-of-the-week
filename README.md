@@ -455,6 +455,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Major climate changes inevitable and irreversible – IPCC’s starkest warning yet](https://www.theguardian.com/science/2021/aug/09/humans-have-caused-unprecedented-and-irreversible-change-to-climate-scientists-warn)
  - [Uusi Amiga alkuvuodesta 2022: THEA500 Mini tukee myös Amiga 1200:aa](https://www.v2.fi/uutiset/pelit/34601/Uusi-Amiga-alkuvuodesta-2022-THEA500-Mini-tukee-myos-Amiga-1200aa/)
  - [The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist)
+ - [elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
 
 ## Authors
 
