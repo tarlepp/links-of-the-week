@@ -456,6 +456,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Uusi Amiga alkuvuodesta 2022: THEA500 Mini tukee myös Amiga 1200:aa](https://www.v2.fi/uutiset/pelit/34601/Uusi-Amiga-alkuvuodesta-2022-THEA500-Mini-tukee-myos-Amiga-1200aa/)
  - [The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist)
  - [elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
+ - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 
 ## Authors
 
