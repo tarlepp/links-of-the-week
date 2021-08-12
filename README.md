@@ -457,7 +457,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist)
  - [elementary OS 6 Odin Available Now](https://blog.elementary.io/elementary-os-6-odin-released/)
  - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
-https://www.opera.com/gx
+ - [The browser for gamers](https://www.opera.com/gx)
+ - [Mozilla cuts 250 jobs, says Firefox development will be affected](https://arstechnica.com/information-technology/2020/08/firefox-maker-mozilla-lays-off-250-workers-says-covid-19-lowered-revenue/)
 
 ## Authors
 
