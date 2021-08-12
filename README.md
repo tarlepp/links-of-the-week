@@ -459,6 +459,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
  - [The browser for gamers](https://www.opera.com/gx)
  - [Mozilla cuts 250 jobs, says Firefox development will be affected](https://arstechnica.com/information-technology/2020/08/firefox-maker-mozilla-lays-off-250-workers-says-covid-19-lowered-revenue/)
+ - [Can you use Sylius to build booking systems?](https://locastic.com/blog/can-you-use-sylius-to-build-booking-systems/)
 
 ## Authors
 
