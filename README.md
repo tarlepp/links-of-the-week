@@ -469,6 +469,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 33
 
  - [Mozilla Firefox to No Longer Allow Insecure Downloads](https://news.softpedia.com/news/mozilla-firefox-to-no-longer-allow-insecure-downloads-533767.shtml)
+ - [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844)
 
 ## Authors
 
