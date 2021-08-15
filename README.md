@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 30](#week-30)
     * [Week 31](#week-31)
     * [Week 32](#week-32)
+    * [Week 33](#week-33)
 
 ## 2021
 
@@ -464,6 +465,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Console commands separation in Symfony](https://medium.com/@zawadzki.jerzy/console-commands-separation-in-symfony-82b568d6b16a)
  - [Feature flags in your Symfony project](https://dev.to/mguinea/feature-flags-in-your-symfony-project-2f65)
  - [Performance optimizations with Doctrine](https://antonio-turdo.medium.com/performance-optimizations-with-doctrine-baea58335277)
+
+### Week 33
+
+ - [Mozilla Firefox to No Longer Allow Insecure Downloads](https://news.softpedia.com/news/mozilla-firefox-to-no-longer-allow-insecure-downloads-533767.shtml)
 
 ## Authors
 
