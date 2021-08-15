@@ -463,6 +463,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pay cut: Google employees who work from home could lose money](https://www.reuters.com/world/the-great-reboot/pay-cut-google-employees-who-work-home-could-lose-money-2021-08-10/)
  - [Console commands separation in Symfony](https://medium.com/@zawadzki.jerzy/console-commands-separation-in-symfony-82b568d6b16a)
  - [Feature flags in your Symfony project](https://dev.to/mguinea/feature-flags-in-your-symfony-project-2f65)
+ - [Performance optimizations with Doctrine](https://antonio-turdo.medium.com/performance-optimizations-with-doctrine-baea58335277)
 
 ## Authors
 
