@@ -472,6 +472,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844)
  - [Pulumi's Infrastructure as Code SDK is the easiest way to create and deploy cloud software that use containers, serverless functions, hosted services, and infrastructure, on any cloud](https://github.com/pulumi/pulumi)
  - [The end of Swiftmailer](https://symfony.com/blog/the-end-of-swiftmailer)
+ - [GitHub Action that runs Hadolint Dockerfile linting tool](https://github.com/marketplace/actions/hadolint-action)
 
 ## Authors
 
