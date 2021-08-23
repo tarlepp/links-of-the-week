@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 31](#week-31)
     * [Week 32](#week-32)
     * [Week 33](#week-33)
+    * [Week 34](#week-34)
 
 ## 2021
 
@@ -475,6 +476,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [GitHub Action that runs Hadolint Dockerfile linting tool](https://github.com/marketplace/actions/hadolint-action)
  - [Google Takeout](https://takeout.google.com/)
  - [PHP Library Starter Kit](https://github.com/ramsey/php-library-starter-kit)
+
+### Week 34
 
 ## Authors
 
