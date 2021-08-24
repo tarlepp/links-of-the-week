@@ -479,6 +479,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 34
 
+ - [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
