@@ -481,6 +481,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
  - [Hands-on with BuildKit & buildx | Rawkode Live](https://www.youtube.com/watch?v=0iN4dJB3OLk)
+ - [EU will make Bitcoin traceable and ban anonymous crypto wallets in anti-money laundering drive](https://www.euronews.com/next/2021/07/21/eu-will-make-bitcoin-traceable-and-ban-anonymous-crypto-wallets-in-anti-money-laundering-d)
 
 ## Authors
 
