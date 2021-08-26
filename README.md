@@ -483,6 +483,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hands-on with BuildKit & buildx | Rawkode Live](https://www.youtube.com/watch?v=0iN4dJB3OLk)
  - [EU will make Bitcoin traceable and ban anonymous crypto wallets in anti-money laundering drive](https://www.euronews.com/next/2021/07/21/eu-will-make-bitcoin-traceable-and-ban-anonymous-crypto-wallets-in-anti-money-laundering-d)
  - [Happy birthday, Linux: From a bedroom project to billions of devices in 30 years](https://www.theregister.com/2021/08/25/linux_kernel_30_years_old)
+ - [How much do you care?](https://could.care/)
 
 ## Authors
 
