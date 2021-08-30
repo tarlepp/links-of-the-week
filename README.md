@@ -491,6 +491,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 35
 
  - [How to dynamically validate some data with Symfony Validator](https://jolicode.com/blog/how-to-dynamically-validate-some-data-with-symfony-validator)
+ - [SpaceX installs first ‘Mechazilla’ arm on Starship launch tower](https://www.teslarati.com/spacex-starship-launch-tower-mechazilla-arm-installed/)
 
 ## Authors
 
