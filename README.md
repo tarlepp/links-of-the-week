@@ -52,6 +52,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 32](#week-32)
     * [Week 33](#week-33)
     * [Week 34](#week-34)
+    * [Week 35](#week-35)
 
 ## 2021
 
@@ -486,6 +487,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How much do you care?](https://could.care/)
  - [Google’s new ad goes full Jony Ive on the Pixel 5A headphone jack](https://www.theverge.com/2021/8/27/22644368/google-pixel-5a-headphone-jack-ad)
  - [Doctrine — DQL functions cheat-sheet](https://medium.com/geekculture/doctrine-dql-functions-cheat-sheet-bfcb3f3ff45e)
+
+### Week 35
 
 ## Authors
 
