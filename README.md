@@ -492,6 +492,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [How to dynamically validate some data with Symfony Validator](https://jolicode.com/blog/how-to-dynamically-validate-some-data-with-symfony-validator)
  - [SpaceX installs first ‘Mechazilla’ arm on Starship launch tower](https://www.teslarati.com/spacex-starship-launch-tower-mechazilla-arm-installed/)
+ - [10 Fun Things You Can Do With GitHub.dev](https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7)
 
 ## Authors
 
