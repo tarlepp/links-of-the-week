@@ -51,8 +51,6 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 31](#week-31)
     * [Week 32](#week-32)
     * [Week 33](#week-33)
-    * [Week 34](#week-34)
-    * [Week 35](#week-35)
 
 ## 2021
 
@@ -476,24 +474,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The end of Swiftmailer](https://symfony.com/blog/the-end-of-swiftmailer)
  - [GitHub Action that runs Hadolint Dockerfile linting tool](https://github.com/marketplace/actions/hadolint-action)
  - [Google Takeout](https://takeout.google.com/)
- - [PHP Library Starter Kit](https://github.com/ramsey/php-library-starter-kit)
-
-### Week 34
-
- - [Samsung kills the cameras on the Galaxy Z Fold 3 if you unlock the bootloader](https://www.xda-developers.com/samsung-galaxy-z-fold-3-unlock-bootloader-broken-camera/)
- - [Hands-on with BuildKit & buildx | Rawkode Live](https://www.youtube.com/watch?v=0iN4dJB3OLk)
- - [EU will make Bitcoin traceable and ban anonymous crypto wallets in anti-money laundering drive](https://www.euronews.com/next/2021/07/21/eu-will-make-bitcoin-traceable-and-ban-anonymous-crypto-wallets-in-anti-money-laundering-d)
- - [Happy birthday, Linux: From a bedroom project to billions of devices in 30 years](https://www.theregister.com/2021/08/25/linux_kernel_30_years_old)
- - [How much do you care?](https://could.care/)
- - [Google’s new ad goes full Jony Ive on the Pixel 5A headphone jack](https://www.theverge.com/2021/8/27/22644368/google-pixel-5a-headphone-jack-ad)
- - [Doctrine — DQL functions cheat-sheet](https://medium.com/geekculture/doctrine-dql-functions-cheat-sheet-bfcb3f3ff45e)
-
-### Week 35
-
- - [How to dynamically validate some data with Symfony Validator](https://jolicode.com/blog/how-to-dynamically-validate-some-data-with-symfony-validator)
- - [SpaceX installs first ‘Mechazilla’ arm on Starship launch tower](https://www.teslarati.com/spacex-starship-launch-tower-mechazilla-arm-installed/)
- - [10 Fun Things You Can Do With GitHub.dev](https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7)
- - [Croncape](https://github.com/symfonycorp/croncape)
+ - [Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm)
 
 ## Authors
 
