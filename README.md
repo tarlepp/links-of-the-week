@@ -498,8 +498,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [This is it](https://www.instagram.com/p/CTSUHnoDG4L/)
  - [eDEX-UI](https://github.com/GitSquared/edex-ui)
  - [Mayor suggests Helsinki declare itself an English-language city](https://www.theguardian.com/world/2021/sep/02/mayor-suggests-helsinki-declare-english-language-city-finnish)
-https://wiki.php.net/rfc/deprecate_partially_supported_callables
-https://alex-daubois.medium.com/ultimate-guide-to-symfony-components-2021-7ac9908f8aa2
+ - [PHP RFC: Deprecate partially supported callables](https://wiki.php.net/rfc/deprecate_partially_supported_callables)
+ - [Ultimate Guide to Symfony Components (2021)](https://alex-daubois.medium.com/ultimate-guide-to-symfony-components-2021-7ac9908f8aa2)
 
 ## Authors
 
