@@ -501,6 +501,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Deprecate partially supported callables](https://wiki.php.net/rfc/deprecate_partially_supported_callables)
  - [Ultimate Guide to Symfony Components (2021)](https://alex-daubois.medium.com/ultimate-guide-to-symfony-components-2021-7ac9908f8aa2)
  - [Send messages from Node app to Symfony using RabbitMQ](https://medium.com/@iyadh.faleh/send-messages-from-node-app-to-symfony-using-rabbitmq-a14611ab1b0e)
+ - [Mocking your APIs in a Symfony Project](https://dev.to/eliseduverdier/mocking-your-apis-in-a-symfony-project-oe5)
 
 ## Authors
 
