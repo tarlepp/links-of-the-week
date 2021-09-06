@@ -507,6 +507,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 36
 
  - [Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
+ - [West cries foul as Belarus protest leader Kolesnikova sentenced to 11 years](https://www.reuters.com/world/europe/belarus-protest-leader-kolesnikova-sentenced-11-years-jail-2021-09-06/)
 
 ## Authors
 
