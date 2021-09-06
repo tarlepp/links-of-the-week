@@ -53,6 +53,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 33](#week-33)
     * [Week 34](#week-34)
     * [Week 35](#week-35)
+    * [Week 36](#week-36)
 
 ## 2021
 
@@ -502,6 +503,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Ultimate Guide to Symfony Components (2021)](https://alex-daubois.medium.com/ultimate-guide-to-symfony-components-2021-7ac9908f8aa2)
  - [Send messages from Node app to Symfony using RabbitMQ](https://medium.com/@iyadh.faleh/send-messages-from-node-app-to-symfony-using-rabbitmq-a14611ab1b0e)
  - [Mocking your APIs in a Symfony Project](https://dev.to/eliseduverdier/mocking-your-apis-in-a-symfony-project-oe5)
+
+### Week 36
+
+ - [Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
 
 ## Authors
 
