@@ -509,7 +509,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
  - [West cries foul as Belarus protest leader Kolesnikova sentenced to 11 years](https://www.reuters.com/world/europe/belarus-protest-leader-kolesnikova-sentenced-11-years-jail-2021-09-06/)
  - [Google Has Made A New Photo AI That Makes ‘Zoom And Enhance’ A Real Thing](https://wonderfulengineering.com/googles-has-made-a-new-photo-ai-that-makes-zoom-and-enhance-a-real-thing/)
-https://whyjirasucks.com/submit
+ - [Top 25+ Reasons Why Jira Sucks (in 2021)](https://whyjirasucks.com/)
+ - [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
 
 ## Authors
 
