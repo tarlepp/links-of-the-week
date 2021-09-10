@@ -513,6 +513,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
  - [The Logfile Navigator](https://lnav.org/)
  - [hautelook/alice-bundle is gone?](https://github.com/nelmio/alice/issues/1089)
+ - [[Docker Compose] V1 End of Life Policy](https://github.com/docker/roadmap/issues/257)
 
 ## Authors
 
