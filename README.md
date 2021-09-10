@@ -511,6 +511,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Google Has Made A New Photo AI That Makes ‘Zoom And Enhance’ A Real Thing](https://wonderfulengineering.com/googles-has-made-a-new-photo-ai-that-makes-zoom-and-enhance-a-real-thing/)
  - [Top 25+ Reasons Why Jira Sucks (in 2021)](https://whyjirasucks.com/)
  - [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
+ - [The Logfile Navigator](https://lnav.org/)
 
 ## Authors
 
