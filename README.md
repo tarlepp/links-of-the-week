@@ -512,6 +512,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Top 25+ Reasons Why Jira Sucks (in 2021)](https://whyjirasucks.com/)
  - [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
  - [The Logfile Navigator](https://lnav.org/)
+ - [hautelook/alice-bundle is gone?](https://github.com/nelmio/alice/issues/1089)
 
 ## Authors
 
