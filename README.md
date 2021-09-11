@@ -514,6 +514,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Logfile Navigator](https://lnav.org/)
  - [hautelook/alice-bundle is gone?](https://github.com/nelmio/alice/issues/1089)
  - [[Docker Compose] V1 End of Life Policy](https://github.com/docker/roadmap/issues/257)
+ - [Intel CEO says ‘big, honkin’ fab’ planned for Europe will be world’s most advanced](https://fortune.com/2021/09/10/intel-ceo-big-honking-fab-planned-eu-europe-most-advanced/)
 
 ## Authors
 
