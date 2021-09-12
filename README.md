@@ -515,6 +515,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [hautelook/alice-bundle is gone?](https://github.com/nelmio/alice/issues/1089)
  - [[Docker Compose] V1 End of Life Policy](https://github.com/docker/roadmap/issues/257)
  - [Intel CEO says ‘big, honkin’ fab’ planned for Europe will be world’s most advanced](https://fortune.com/2021/09/10/intel-ceo-big-honking-fab-planned-eu-europe-most-advanced/)
+ - [How to use symfony/mailer without the Symfony framework](https://dev.to/doekenorg/how-to-use-symfony-mailer-without-the-symfony-framework-123g)
 
 ## Authors
 
