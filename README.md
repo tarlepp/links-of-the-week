@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 34](#week-34)
     * [Week 35](#week-35)
     * [Week 36](#week-36)
+    * [Week 37](#week-37)
 
 ## 2021
 
@@ -518,6 +519,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to use symfony/mailer without the Symfony framework](https://dev.to/doekenorg/how-to-use-symfony-mailer-without-the-symfony-framework-123g)
  - [It’s No Wonder Men Objectify Us When Our Bodies Are Asking for It](https://medium.com/the-virago/its-no-wonder-men-objectify-us-when-our-bodies-are-asking-for-it-bf3a3c047476)
  - [Dozzle is a real-time log viewer for docker containers](https://dozzle.dev/)
+
+### Week 37
 
 ## Authors
 
