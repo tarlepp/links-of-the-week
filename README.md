@@ -522,8 +522,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 37
 
-https://wouterj.nl/2021/09/symfony-6-native-typing
-https://www.mage-os.community/blog/the-future-of-magento
+ - [Symfony 6: PHP 8 Native Types & Why we Need YOU](https://wouterj.nl/2021/09/symfony-6-native-typing)
+ - [The Future of Magento](https://www.mage-os.community/blog/the-future-of-magento)
 
 ## Authors
 
