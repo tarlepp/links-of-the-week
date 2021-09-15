@@ -528,6 +528,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Chrome plugin - Localhost detector](https://chrome.google.com/webstore/detail/localhost-detector/nkjfadmbkfhmkkkbgghelmjbdaenbngh)
  - [Chrome plugin - Site Labeler](https://chrome.google.com/webstore/detail/site-labeler/mdkoanlgchgnkbfjcecafkadgneapali)
  - [Symfony HttpClient and sequential requests assertions](https://jolicode.com/blog/symfony-httpclient-and-sequential-requests-assertions)
+ - [browserless: The headless browser service](https://www.browserless.io/)
 
 ## Authors
 
