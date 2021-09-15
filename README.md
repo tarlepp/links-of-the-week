@@ -524,6 +524,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Symfony 6: PHP 8 Native Types & Why we Need YOU](https://wouterj.nl/2021/09/symfony-6-native-typing)
  - [The Future of Magento](https://www.mage-os.community/blog/the-future-of-magento)
+https://github.blog/changelog/2021-09-14-readmes-for-organization-profiles/
 
 ## Authors
 
