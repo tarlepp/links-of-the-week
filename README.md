@@ -531,8 +531,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [browserless: The headless browser service](https://www.browserless.io/)
  - [I Work, I Swear](https://www.wired.com/2014/12/i-work-i-swear/)
  - [Dynamically change access_control rules in Symfony](https://locastic.com/blog/symfony-access-control/)
-https://blog.martinhujer.cz/have-you-tried-composer-scripts/
-https://itnext.io/you-may-need-laziness-in-your-javascript-f03e8a2d4629
+ - [Have you tried Composer Scripts? You may not need Phing](https://blog.martinhujer.cz/have-you-tried-composer-scripts/)
+ - [You may need Laziness in your Javascript (Lazy Evaluation)](https://itnext.io/you-may-need-laziness-in-your-javascript-f03e8a2d4629)
+ - [dive](https://github.com/wagoodman/dive)
 
 ## Authors
 
