@@ -535,6 +535,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [You may need Laziness in your Javascript (Lazy Evaluation)](https://itnext.io/you-may-need-laziness-in-your-javascript-f03e8a2d4629)
  - [dive](https://github.com/wagoodman/dive)
  - [AMD Chipset Vulnerability Leaks Passwords, Patch Available](https://www.tomshardware.com/news/amd-chipset-vulnerability-leaks-passwords)
+ - [grype](https://github.com/anchore/grype)
 
 ## Authors
 
