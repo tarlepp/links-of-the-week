@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 35](#week-35)
     * [Week 36](#week-36)
     * [Week 37](#week-37)
+    * [Week 38](#week-38)
 
 ## 2021
 
@@ -536,6 +537,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [dive](https://github.com/wagoodman/dive)
  - [AMD Chipset Vulnerability Leaks Passwords, Patch Available](https://www.tomshardware.com/news/amd-chipset-vulnerability-leaks-passwords)
  - [grype](https://github.com/anchore/grype)
+
+### Week 38
 
 ## Authors
 
