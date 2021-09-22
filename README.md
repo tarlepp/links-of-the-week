@@ -541,6 +541,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 38
 
  - [China Evergrande's rising default risks shift focus to possible Beijing rescue](https://www.reuters.com/world/china/china-evergrande-fears-consume-investors-awaiting-trading-2021-09-21/)
+ - [lolcat](https://github.com/busyloop/lolcat)
 
 ## Authors
 
