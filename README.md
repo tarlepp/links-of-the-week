@@ -544,6 +544,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [lolcat](https://github.com/busyloop/lolcat)
  - [RuuviTag Pro](https://ruuvi.com/fi/ruuvitag-pro/)
  - [Symfony Flex is Going Serverless](https://symfony.com/blog/symfony-flex-is-going-serverless)
+ - [Suomalaisyhtiö kehitti salassa ilmastoystävällisemmän korvaajan betonille](https://yle.fi/uutiset/3-12112495)
 
 ## Authors
 
