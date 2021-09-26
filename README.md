@@ -546,6 +546,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Flex is Going Serverless](https://symfony.com/blog/symfony-flex-is-going-serverless)
  - [Suomalaisyhtiö kehitti salassa ilmastoystävällisemmän korvaajan betonille](https://yle.fi/uutiset/3-12112495)
  - [Vue.js & Symfony — roles authentication](https://medium.com/nerd-for-tech/vue-js-symfony-roles-authentication-f9c5ea00d750)
+ - [Kiina kielsi kaiken kryptolouhintaan ja -valuutoihin liittyvän toiminnan](https://www.io-tech.fi/uutinen/kiina-kielsi-kaiken-kryptolouhintaan-ja-valuutoihin-liittyvan-toiminnan/)
 
 ## Authors
 
