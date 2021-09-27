@@ -552,6 +552,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 39
 
  - [Easily creating and routing email addresses with Cloudflare Email Routing](https://blog.cloudflare.com/introducing-email-routing/)
+ - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say/)
 
 ## Authors
 
