@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 36](#week-36)
     * [Week 37](#week-37)
     * [Week 38](#week-38)
+    * [Week 39](#week-39)
 
 ## 2021
 
@@ -547,6 +548,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Suomalaisyhtiö kehitti salassa ilmastoystävällisemmän korvaajan betonille](https://yle.fi/uutiset/3-12112495)
  - [Vue.js & Symfony — roles authentication](https://medium.com/nerd-for-tech/vue-js-symfony-roles-authentication-f9c5ea00d750)
  - [Kiina kielsi kaiken kryptolouhintaan ja -valuutoihin liittyvän toiminnan](https://www.io-tech.fi/uutinen/kiina-kielsi-kaiken-kryptolouhintaan-ja-valuutoihin-liittyvan-toiminnan/)
+
+### Week 39
 
 ## Authors
 
