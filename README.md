@@ -555,6 +555,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say/)
  - [Babylon 5](https://twitter.com/straczynski/status/1442621159221043202)
  - [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+ - [Compose v2](https://github.com/docker/compose/releases/tag/v2.0.0)
 
 ## Authors
 
