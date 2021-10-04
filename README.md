@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 37](#week-37)
     * [Week 38](#week-38)
     * [Week 39](#week-39)
+    * [Week 40](#week-40)
 
 ## 2021
 
@@ -557,6 +558,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
  - [Compose v2](https://github.com/docker/compose/releases/tag/v2.0.0)
  - [Why I stopped using API Platform](https://dev.to/alekitto/why-i-stopped-using-api-platform-2eki)
+
+### Week 40
 
 ## Authors
 
