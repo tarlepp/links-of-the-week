@@ -562,6 +562,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 40
 
  - [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint)
+https://blog.cloudflare.com/october-2021-facebook-outage/
 
 ## Authors
 
