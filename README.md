@@ -565,6 +565,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
  - [Secure your data using encryption in PHP](https://www.mon-code.net/post/131/Secure-your-data-using-encryption-in-PHP)
  - [Apache Servers Actively Exploited in the Wild, and the Importance of Prompt Patching](https://blog.sonatype.com/apache-servers-actively-exploited-in-wild-importance-of-prompt-patching)
+https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/
 
 ## Authors
 
