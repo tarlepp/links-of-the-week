@@ -567,6 +567,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Apache Servers Actively Exploited in the Wild, and the Importance of Prompt Patching](https://blog.sonatype.com/apache-servers-actively-exploited-in-wild-importance-of-prompt-patching)
  - [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)
  - [Run your GitHub Actions locally!](https://github.com/nektos/act)
+https://afilina.com/repositories-and-aggregates
 
 ## Authors
 
