@@ -567,7 +567,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Apache Servers Actively Exploited in the Wild, and the Importance of Prompt Patching](https://blog.sonatype.com/apache-servers-actively-exploited-in-wild-importance-of-prompt-patching)
  - [GitHub Actions: DRY your GitHub Actions configuration by reusing workflows](https://github.blog/changelog/2021-10-05-github-actions-dry-your-github-actions-configuration-by-reusing-workflows/)
  - [Run your GitHub Actions locally!](https://github.com/nektos/act)
-https://afilina.com/repositories-and-aggregates
+ - [Should Repositories Only Return Aggregates?](https://afilina.com/repositories-and-aggregates)
+ - [Realtime Nginx logs on Platform.sh](https://www.contextualcode.com/Blog/realtime-nginx-logs-on-platform.sh)
+ - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 ## Authors
 
