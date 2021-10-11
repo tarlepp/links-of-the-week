@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 38](#week-38)
     * [Week 39](#week-39)
     * [Week 40](#week-40)
+    * [Week 41](#week-41)
 
 ## 2021
 
@@ -570,6 +571,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Should Repositories Only Return Aggregates?](https://afilina.com/repositories-and-aggregates)
  - [Realtime Nginx logs on Platform.sh](https://www.contextualcode.com/Blog/realtime-nginx-logs-on-platform.sh)
  - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+
+### Week 41
 
 ## Authors
 
