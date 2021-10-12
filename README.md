@@ -573,7 +573,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 ### Week 41
-https://www.dutchnews.nl/news/2021/10/no-dinosaurs-bikinis-or-harry-potter-the-silent-censorship-of-dutch-school-books/
+
+ - [No dinosaurs, bikinis or Harry Potter: the silent censorship of Dutch school books](https://www.dutchnews.nl/news/2021/10/no-dinosaurs-bikinis-or-harry-potter-the-silent-censorship-of-dutch-school-books/)
+ - [Dayton Audio Sound Exciter DAEX32EP-4](https://www.hifikulma.fi/Dayton-Audio-Sound-Exciter-DAEX32EP-4)
 
 ## Authors
 
