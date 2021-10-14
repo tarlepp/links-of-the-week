@@ -577,6 +577,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [No dinosaurs, bikinis or Harry Potter: the silent censorship of Dutch school books](https://www.dutchnews.nl/news/2021/10/no-dinosaurs-bikinis-or-harry-potter-the-silent-censorship-of-dutch-school-books/)
  - [Dayton Audio Sound Exciter DAEX32EP-4](https://www.hifikulma.fi/Dayton-Audio-Sound-Exciter-DAEX32EP-4)
  - ['Unleashed' Apple Event Focusing on New Macs to Take Place on October 18](https://www.macrumors.com/2021/10/12/apple-event-unleashed-october-18/)
+https://www.npopov.com/2021/10/13/How-opcache-works.html
 
 ## Authors
 
