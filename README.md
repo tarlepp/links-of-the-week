@@ -579,6 +579,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - ['Unleashed' Apple Event Focusing on New Macs to Take Place on October 18](https://www.macrumors.com/2021/10/12/apple-event-unleashed-october-18/)
  - [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
  - [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+ - [How Rust developers are making the web safer](https://github.com/readme/featured/rust-programming)
 
 ## Authors
 
