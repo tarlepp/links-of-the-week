@@ -580,6 +580,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
  - [Uptime Kuma](https://github.com/louislam/uptime-kuma)
  - [How Rust developers are making the web safer](https://github.com/readme/featured/rust-programming)
+ - [You don’t need JWT anymore](https://medium.com/@bytesbay/you-dont-need-jwt-anymore-974aa6196976)
 
 ## Authors
 
