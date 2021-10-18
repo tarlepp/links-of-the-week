@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 39](#week-39)
     * [Week 40](#week-40)
     * [Week 41](#week-41)
+    * [Week 42](#week-42)
 
 ## 2021
 
@@ -581,6 +582,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Uptime Kuma](https://github.com/louislam/uptime-kuma)
  - [How Rust developers are making the web safer](https://github.com/readme/featured/rust-programming)
  - [You don’t need JWT anymore](https://medium.com/@bytesbay/you-dont-need-jwt-anymore-974aa6196976)
+
+### Week 42
 
 ## Authors
 
