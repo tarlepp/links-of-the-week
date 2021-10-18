@@ -586,6 +586,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 42
 
  - [Getscreen.me - Remote Desktop from Any Device](https://getscreen.me/)
+ - [rot8000.com](http://rot8000.com/)
 
 ## Authors
 
