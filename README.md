@@ -587,7 +587,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Getscreen.me - Remote Desktop from Any Device](https://getscreen.me/)
  - [rot8000.com](http://rot8000.com/)
-https://returntrue.win/
+ - [return true to win](https://returntrue.win/)
+ - [Second Round of Selected Speakers at SymfonyWorld 2021 Online 2021 Winter Conference](https://symfony.com/blog/second-round-of-selected-speakers-at-symfonyworld-2021-online-2021-winter-conference)
 
 ## Authors
 
