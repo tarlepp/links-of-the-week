@@ -589,6 +589,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [rot8000.com](http://rot8000.com/)
  - [return true to win](https://returntrue.win/)
  - [Second Round of Selected Speakers at SymfonyWorld 2021 Online 2021 Winter Conference](https://symfony.com/blog/second-round-of-selected-speakers-at-symfonyworld-2021-online-2021-winter-conference)
+ - [God of War](https://store.steampowered.com/app/1593500/God_of_War/)
 
 ## Authors
 
