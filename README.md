@@ -592,6 +592,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [God of War](https://store.steampowered.com/app/1593500/God_of_War/)
  - [The Fuck](https://github.com/nvbn/thefuck)
  - [INTRNATIONAL CAPS LOCK DAY - OCTOBER 22](http://capslockday.toimii.fi/)
+ - [Getting Started with GitHub Copilot in JetBrains](https://github.com/github/copilot-docs/blob/main/docs/gettingstartedjetbrains.md)
 
 ## Authors
 
