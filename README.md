@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 40](#week-40)
     * [Week 41](#week-41)
     * [Week 42](#week-42)
+    * [Week 43](#week-43)
 
 ## 2021
 
@@ -594,6 +595,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [INTRNATIONAL CAPS LOCK DAY - OCTOBER 22](http://capslockday.toimii.fi/)
  - [Getting Started with GitHub Copilot in JetBrains](https://github.com/github/copilot-docs/blob/main/docs/gettingstartedjetbrains.md)
  - [A Prototype Original iPod](https://panic.com/blog/a-prototype-original-ipod/)
+
+### Week 43
 
 ## Authors
 
