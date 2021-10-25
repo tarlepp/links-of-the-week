@@ -598,6 +598,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 43
 
+ - [MacBook Pro with M1 Pro and M1 Max impressions: giving the people what they want - The Verge](https://www.theverge.com/22744023/macbook-pro-2021-m1-pro-m1-max-impressions)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
