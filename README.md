@@ -599,6 +599,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 43
 
  - [MacBook Pro with M1 Pro and M1 Max impressions: giving the people what they want - The Verge](https://www.theverge.com/22744023/macbook-pro-2021-m1-pro-m1-max-impressions)
+ - [Intel Alder Lake Mobility CPU Benchmarks Leaked: Faster Than The Apple M1 Max, Smokes AMD 5980HX, 11980HK](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
 
 ## Authors
 
