@@ -602,6 +602,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Intel Alder Lake Mobility CPU Benchmarks Leaked: Faster Than The Apple M1 Max, Smokes AMD 5980HX, 11980HK](https://wccftech.com/intel-alder-lake-mobility-cpu-benchmarks-leaked-faster-than-the-apple-m1-max-smokes-amd-5980hx-11980hk/)
  - [Git: submitting a new Pull Request based on another active Pull Request](https://www.contextualcode.com/Blog/Git-submitting-a-new-Pull-Request-based-on-another-active-Pull-Request)
  - [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
+ - [Mocking Third-Party Services in Integration Testing](https://medium.com/geekculture/mocking-third-party-services-in-integration-testing-7ded9ac1fe83)
 
 ## Authors
 
