@@ -604,6 +604,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
  - [Mocking Third-Party Services in Integration Testing](https://medium.com/geekculture/mocking-third-party-services-in-integration-testing-7ded9ac1fe83)
  - [Creating custom PHPStan rules for your Symfony project](https://www.strangebuzz.com/en/blog/creating-custom-phpstan-rules-for-your-symfony-project)
+ - [Validating requests in the Symfony app](https://dev.to/beganovich/validating-requests-in-the-symfony-app-2g0a)
 
 ## Authors
 
