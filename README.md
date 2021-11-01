@@ -610,6 +610,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 44
 
  - [PHPStan 1.0 Released!](https://phpstan.org/blog/phpstan-1-0-released)
+https://www.trojansource.codes/
 
 ## Authors
 
