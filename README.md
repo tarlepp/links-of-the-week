@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 41](#week-41)
     * [Week 42](#week-42)
     * [Week 43](#week-43)
+    * [Week 44](#week-44)
 
 ## 2021
 
@@ -605,6 +606,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Mocking Third-Party Services in Integration Testing](https://medium.com/geekculture/mocking-third-party-services-in-integration-testing-7ded9ac1fe83)
  - [Creating custom PHPStan rules for your Symfony project](https://www.strangebuzz.com/en/blog/creating-custom-phpstan-rules-for-your-symfony-project)
  - [Validating requests in the Symfony app](https://dev.to/beganovich/validating-requests-in-the-symfony-app-2g0a)
+
+### Week 44
+
+ - [PHPStan 1.0 Released!](https://phpstan.org/blog/phpstan-1-0-released)
 
 ## Authors
 
