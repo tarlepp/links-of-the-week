@@ -611,6 +611,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [PHPStan 1.0 Released!](https://phpstan.org/blog/phpstan-1-0-released)
  - [Trojan Source Attacks](https://www.trojansource.codes/)
+https://0ver.org/
 
 ## Authors
 
