@@ -613,6 +613,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Trojan Source Attacks](https://www.trojansource.codes/)
  - [ZeroVer: 0-based Versioning — zer0ver](https://0ver.org/)
  - [Dapr - Distributed Application Runtime](https://dapr.io/)
+ - [Securely run operating systems on your Mac](https://mac.getutm.app/)
 
 ## Authors
 
