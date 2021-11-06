@@ -614,6 +614,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [ZeroVer: 0-based Versioning — zer0ver](https://0ver.org/)
  - [Dapr - Distributed Application Runtime](https://dapr.io/)
  - [Securely run operating systems on your Mac](https://mac.getutm.app/)
+ - [Robbers go Fast & Furious on a truckload of EVGA-branded Nvidia RTX 3000 GPUs](https://www.pcgamesn.com/nvidia/EVGA-RTX-3000-truck-robbery)
 
 ## Authors
 
