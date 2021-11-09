@@ -620,7 +620,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 45
 
  - [PHP 8.1 in 8 code blocks](https://stitcher.io/blog/php-81-in-8-code-blocks)
-https://github.com/nextcloud/server
+ - [Nextcloud Server ☁](https://github.com/nextcloud/server)
+ - [Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
+ - [Welcome to C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
+ - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/)
 
 ## Authors
 
