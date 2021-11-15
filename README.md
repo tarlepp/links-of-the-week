@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 43](#week-43)
     * [Week 44](#week-44)
     * [Week 45](#week-45)
+    * [Week 46](#week-46)
 
 ## 2021
 
@@ -626,6 +627,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Visual Studio 2022 now available](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/)
  - [Type variance in PHP](https://www.npopov.com/2021/11/08/Type-variance-in-PHP.html)
  - [Mosh (mobile shell)](https://mosh.org/)
+
+### Week 46
 
 ## Authors
 
