@@ -633,6 +633,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [TopNotch](https://topnotch.app/)
  - [MonitorControl - for Apple Silicon and Intel](https://github.com/MonitorControl/MonitorControl)
  - [GitHub’s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/)
+https://alex-daubois.medium.com/using-php-8-1-enumerations-in-symfony-af5ba761135d
 
 ## Authors
 
