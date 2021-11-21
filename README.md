@@ -637,6 +637,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Deprecations are not like E_ERROR, E_WARNING, and E_NOTICE](https://wouterj.nl/2021/11/deprecations-are-not-errors)
  - [DockerSlim](https://github.com/docker-slim/docker-slim)
  - [PHP RFC: Migrating to GitHub Issues](https://wiki.php.net/rfc/github_issues)
+ - [What if we define validations rules in the routing configuration](https://smaine-milianni.medium.com/what-if-we-define-validations-rules-in-the-routing-configuration-a15b182e847d)
 
 ## Authors
 
