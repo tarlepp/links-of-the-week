@@ -642,6 +642,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 47
 
+ - [Improve Symfony Tests Performance](https://maks-rafalko.github.io/blog/2021-11-21/symfony-tests-performance/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
