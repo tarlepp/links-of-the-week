@@ -64,6 +64,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 44](#week-44)
     * [Week 45](#week-45)
     * [Week 46](#week-46)
+    * [Week 47](#week-47)
 
 ## 2021
 
@@ -638,6 +639,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [DockerSlim](https://github.com/docker-slim/docker-slim)
  - [PHP RFC: Migrating to GitHub Issues](https://wiki.php.net/rfc/github_issues)
  - [What if we define validations rules in the routing configuration](https://smaine-milianni.medium.com/what-if-we-define-validations-rules-in-the-routing-configuration-a15b182e847d)
+
+### Week 47
 
 ## Authors
 
