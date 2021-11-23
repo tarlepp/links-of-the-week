@@ -645,6 +645,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Improve Symfony Tests Performance](https://maks-rafalko.github.io/blog/2021-11-21/symfony-tests-performance/)
  - [Rate limit your Symfony APIs!](https://jolicode.com/blog/rate-limit-your-symfony-apis)
  - [The New Life of PHP – The PHP Foundation](https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/)
+https://framework-x.org/
 
 ## Authors
 
