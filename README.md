@@ -648,6 +648,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Framework X - async made easy](https://framework-x.org/)
  - [AWS embraces Fedora Linux for its cloud-based Amazon Linux](https://www.zdnet.com/article/aws-embraces-fedora-linux-for-its-cloud-based-amazon-linux/)
  - [PHP 8.1.0 Released!](https://www.php.net/archive/2021.php#2021-11-25-1)
+ - [PHP: PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
 
 ## Authors
 
