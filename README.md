@@ -651,6 +651,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP: PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
  - [Don't ask to ask, just ask](https://dontasktoask.com/)
  - [New Release: Doctrine DBAL 3.2.0](https://www.doctrine-project.org/2021/11/26/dbal-3.2.0.html)
+ - [Symfony 6 brings its CLI to the next level](https://alex-daubois.medium.com/symfony-6-brings-its-cli-to-the-next-level-9a2531db08cb)
 
 ## Authors
 
