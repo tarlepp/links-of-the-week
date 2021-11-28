@@ -652,6 +652,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Don't ask to ask, just ask](https://dontasktoask.com/)
  - [New Release: Doctrine DBAL 3.2.0](https://www.doctrine-project.org/2021/11/26/dbal-3.2.0.html)
  - [Symfony 6 brings its CLI to the next level](https://alex-daubois.medium.com/symfony-6-brings-its-cli-to-the-next-level-9a2531db08cb)
+ - [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
 
 ## Authors
 
