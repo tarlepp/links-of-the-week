@@ -650,6 +650,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP 8.1.0 Released!](https://www.php.net/archive/2021.php#2021-11-25-1)
  - [PHP: PHP 8.1.0 Release Announcement](https://www.php.net/releases/8.1/en.php)
  - [Don't ask to ask, just ask](https://dontasktoask.com/)
+ - [New Release: Doctrine DBAL 3.2.0](https://www.doctrine-project.org/2021/11/26/dbal-3.2.0.html)
 
 ## Authors
 
