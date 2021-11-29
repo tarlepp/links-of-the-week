@@ -657,6 +657,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 48
 
+ - [Welcome to Fleet!](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
