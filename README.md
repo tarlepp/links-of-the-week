@@ -659,6 +659,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Welcome to Fleet!](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
  - [News from AWS re:Invent – Docker Official Images on Amazon ECR Public](https://www.docker.com/blog/news-from-aws-reinvent-docker-official-images-on-amazon-ecr-public/)
+https://bootcamp.uxdesign.cc/ui-design-trends-of-today-and-how-to-apply-them-in-your-apps-aa6cd66f9ccf
 
 ## Authors
 
