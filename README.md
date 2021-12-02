@@ -661,7 +661,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [News from AWS re:Invent – Docker Official Images on Amazon ECR Public](https://www.docker.com/blog/news-from-aws-reinvent-docker-official-images-on-amazon-ecr-public/)
  - [UI design trends of today and how to apply them in your apps](https://bootcamp.uxdesign.cc/ui-design-trends-of-today-and-how-to-apply-them-in-your-apps-aa6cd66f9ccf)
  - [Sail Laravel 8.0 Logging with ElasticSearch & Kibana (without Filebeat)](https://medium.com/codex/sail-laravel-8-0-logging-with-elasticsearch-kibana-without-filebeat-90f8dea8a79b)
- - [PHP's Git server hacked to add backdoors to PHP source code](https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/)
+ - [These Are the World’s Most Expensive Cities to Live in Right Now](https://www.bloomberg.com/news/articles/2021-12-01/cost-of-living-tel-aviv-paris-singapore-are-world-s-most-expensive-cities)
 
 ## Authors
 
