@@ -665,6 +665,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
  - [Document return type of Iterator::accept() so that Symfony's DebugClassLoader does not trigger a deprecation warning](https://github.com/sebastianbergmann/php-file-iterator/pull/74)
  - [Remix](https://remix.run/)
+ - [Build and Deploy a Symfony Application on AWS using CDK, ECS and RDS](https://medium.com/wiiisdom-labs/build-and-deploy-a-symfony-application-on-aws-using-cdk-ecs-and-rds-ec8c85465af6)
 
 ## Authors
 
