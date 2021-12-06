@@ -671,6 +671,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 49
 
  - [Yasumi (Japanese for 'Holiday'「休み」) is the easy PHP library that helps you retrieve the dates and names of holidays and other special celebrations from various countries/states](https://github.com/azuyalabs/yasumi)
+ - [DARPA Funded Researchers Accidentally Create The World's First Warp Bubble - The Debrief](https://thedebrief.org/darpa-funded-researchers-accidentally-create-the-worlds-first-warp-bubble/)
 
 ## Authors
 
