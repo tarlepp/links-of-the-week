@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 46](#week-46)
     * [Week 47](#week-47)
     * [Week 48](#week-48)
+    * [Week 49](#week-49)
 
 ## 2021
 
@@ -666,6 +667,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Document return type of Iterator::accept() so that Symfony's DebugClassLoader does not trigger a deprecation warning](https://github.com/sebastianbergmann/php-file-iterator/pull/74)
  - [Remix](https://remix.run/)
  - [Build and Deploy a Symfony Application on AWS using CDK, ECS and RDS](https://medium.com/wiiisdom-labs/build-and-deploy-a-symfony-application-on-aws-using-cdk-ecs-and-rds-ec8c85465af6)
+
+### Week 49
+
+ - [Yasumi (Japanese for 'Holiday'「休み」) is the easy PHP library that helps you retrieve the dates and names of holidays and other special celebrations from various countries/states](https://github.com/azuyalabs/yasumi)
 
 ## Authors
 
