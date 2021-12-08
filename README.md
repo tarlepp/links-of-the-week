@@ -674,6 +674,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [DARPA Funded Researchers Accidentally Create The World's First Warp Bubble - The Debrief](https://thedebrief.org/darpa-funded-researchers-accidentally-create-the-worlds-first-warp-bubble/)
  - [Suicide machine that can be controlled by blinking faces ‘no legal issues’ in Switzerland | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/suicide-machine-sarco-euthenasia-assisted-dying-b1970685.html)
  - [Firefox  95.0, See All New Features, Updates and Fixes](https://www.mozilla.org/en-US/firefox/95.0/releasenotes/)
+ - [Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
 
 ## Authors
 
