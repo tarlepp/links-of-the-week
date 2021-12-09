@@ -678,6 +678,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Nikkei: Apple has halted iPhone production for the first time in over a decade](https://www.gsmarena.com/nikkei_apple_has_halted_iphone_production_for_the_first_time_in_over_a_decade-news-52190.php)
  - [Symfony CLI](https://github.com/symfony-cli)
  - [Symfony tools](https://github.com/symfony-tools)
+ - [PHP Is Killing Python. Why PHP Is More Popular and More Hated…](https://beau-beauchamp.medium.com/php-is-killing-python-2be459364284)
 
 ## Authors
 
