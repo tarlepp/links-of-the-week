@@ -676,6 +676,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Firefox  95.0, See All New Features, Updates and Fixes](https://www.mozilla.org/en-US/firefox/95.0/releasenotes/)
  - [Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
  - [Nikkei: Apple has halted iPhone production for the first time in over a decade](https://www.gsmarena.com/nikkei_apple_has_halted_iphone_production_for_the_first_time_in_over_a_decade-news-52190.php)
+ - [Symfony CLI](https://github.com/symfony-cli)
+ - [Symfony tools](https://github.com/symfony-tools)
 
 ## Authors
 
