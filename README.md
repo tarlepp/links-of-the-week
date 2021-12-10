@@ -679,6 +679,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony CLI](https://github.com/symfony-cli)
  - [Symfony tools](https://github.com/symfony-tools)
  - [PHP Is Killing Python. Why PHP Is More Popular and More Hated…](https://beau-beauchamp.medium.com/php-is-killing-python-2be459364284)
+ - [Zeroday in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/)
 
 ## Authors
 
