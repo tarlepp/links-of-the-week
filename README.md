@@ -680,6 +680,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony tools](https://github.com/symfony-tools)
  - [PHP Is Killing Python. Why PHP Is More Popular and More Hated…](https://beau-beauchamp.medium.com/php-is-killing-python-2be459364284)
  - [Zeroday in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/)
+ - [Log4Shell: RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 
 ## Authors
 
