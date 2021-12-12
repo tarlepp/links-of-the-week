@@ -683,6 +683,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Log4Shell: RCE 0-day exploit found in log4j, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
  - [Introducing Docker support](https://symfony.com/blog/introducing-docker-support)
  - [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
+ - [Using the SecurityBundle in Symfony 6](https://wouterj.nl/2021/12/security-winterworld21)
 
 ## Authors
 
