@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 47](#week-47)
     * [Week 48](#week-48)
     * [Week 49](#week-49)
+    * [Week 50](#week-50)
 
 ## 2021
 
@@ -684,6 +685,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing Docker support](https://symfony.com/blog/introducing-docker-support)
  - [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
  - [Using the SecurityBundle in Symfony 6](https://wouterj.nl/2021/12/security-winterworld21)
+
+### Week 50
 
 ## Authors
 
