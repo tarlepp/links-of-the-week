@@ -688,7 +688,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 50
 
-https://build.prestashop.com/news/prestashop-beyond-1-7/
+ - [PrestaShop Beyond 1.7](https://build.prestashop.com/news/prestashop-beyond-1-7/)
 
 ## Authors
 
