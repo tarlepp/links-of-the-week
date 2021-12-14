@@ -685,6 +685,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Introducing Docker support](https://symfony.com/blog/introducing-docker-support)
  - [Professional maintainers: a wake-up call](https://blog.filippo.io/professional-maintainers/)
  - [Using the SecurityBundle in Symfony 6](https://wouterj.nl/2021/12/security-winterworld21)
+ - [E-Gasoline Test Shows Carbon Is the Least of Combustion Engines' Problems](https://www.autoevolution.com/news/e-gasoline-test-shows-carbon-is-the-least-of-combustion-engines-problems-175856.html)
 
 ### Week 50
 
