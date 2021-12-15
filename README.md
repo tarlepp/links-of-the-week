@@ -692,6 +692,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PrestaShop Beyond 1.7](https://build.prestashop.com/news/prestashop-beyond-1-7/)
  - [E-Gasoline Test Shows Carbon Is the Least of Combustion Engines' Problems](https://www.autoevolution.com/news/e-gasoline-test-shows-carbon-is-the-least-of-combustion-engines-problems-175856.html)
  - [Login throttling with Symfony and multiple server instances](https://blog.digital-craftsman.de/login-throttling-with-symfony-and-multiple-server-instances/)
+ - [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
 
 ## Authors
 
