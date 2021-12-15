@@ -694,7 +694,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Login throttling with Symfony and multiple server instances](https://blog.digital-craftsman.de/login-throttling-with-symfony-and-multiple-server-instances/)
  - [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
  - [Multistream Tools - Let's make multi-streaming a pleasure](https://multistream-tools.live/)
-https://thephp.cc/dates/2021/09/php-fwdays/optimizing-your-test-suite?s=09
+ - [Optimizing Your Test Suite](https://thephp.cc/dates/2021/09/php-fwdays/optimizing-your-test-suite)
+ - [PHP 8.1: xxHash hash algorithms support](https://php.watch/versions/8.1/xxHash)
 
 ## Authors
 
