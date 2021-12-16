@@ -696,9 +696,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Multistream Tools - Let's make multi-streaming a pleasure](https://multistream-tools.live/)
  - [Optimizing Your Test Suite](https://thephp.cc/dates/2021/09/php-fwdays/optimizing-your-test-suite)
  - [PHP 8.1: xxHash hash algorithms support](https://php.watch/versions/8.1/xxHash)
-https://www.kode-krunch.com/2021/12/trying-out-php-after-7-years.html?spref=tw&m=1
-https://futurism.com/viktor-toth-doom-rat
-https://bellard.org/textsynth/
+ - [Trying out PHP after 7 years](https://www.kode-krunch.com/2021/12/trying-out-php-after-7-years.html)
+ - [Scientist Who Trained Rats to Play “Doom II” Says He May Start Twitch Channel](https://futurism.com/viktor-toth-doom-rat)
+ - [Text Synth](https://bellard.org/textsynth/)
+ - [SymfonyWorld Online 2022 Summer Edition conference is announced!](https://symfony.com/blog/symfonyworld-online-2022-summer-edition-conference-is-announced)
 
 ## Authors
 
