@@ -696,6 +696,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Multistream Tools - Let's make multi-streaming a pleasure](https://multistream-tools.live/)
  - [Optimizing Your Test Suite](https://thephp.cc/dates/2021/09/php-fwdays/optimizing-your-test-suite)
  - [PHP 8.1: xxHash hash algorithms support](https://php.watch/versions/8.1/xxHash)
+https://www.kode-krunch.com/2021/12/trying-out-php-after-7-years.html?spref=tw&m=1
 
 ## Authors
 
