@@ -701,6 +701,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Text Synth](https://bellard.org/textsynth/)
  - [SymfonyWorld Online 2022 Summer Edition conference is announced!](https://symfony.com/blog/symfonyworld-online-2022-summer-edition-conference-is-announced)
  - [The UI fund](https://web.dev/ui-fund/)
+ - [The Great MFA Distribution Project](https://github.com/ossf/great-mfa-project)
 
 ## Authors
 
