@@ -68,6 +68,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 48](#week-48)
     * [Week 49](#week-49)
     * [Week 50](#week-50)
+    * [Week 51](#week-51)
 
 ## 2021
 
@@ -702,6 +703,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SymfonyWorld Online 2022 Summer Edition conference is announced!](https://symfony.com/blog/symfonyworld-online-2022-summer-edition-conference-is-announced)
  - [The UI fund](https://web.dev/ui-fund/)
  - [The Great MFA Distribution Project](https://github.com/ossf/great-mfa-project)
+
+### Week 51
 
 ## Authors
 
