@@ -708,6 +708,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 https://www.bloomberg.com/news/articles/2021-12-21/home-price-surges-bidding-wars-are-roiling-world-s-riskiest-housing-market?srnd=premium-europe
 https://picocss.com/
+ - [Organizing your Symfony project tests](https://www.strangebuzz.com/en/blog/organizing-your-symfony-project-tests)
 
 ## Authors
 
