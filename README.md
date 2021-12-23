@@ -710,6 +710,7 @@ https://www.bloomberg.com/news/articles/2021-12-21/home-price-surges-bidding-war
 https://picocss.com/
  - [Organizing your Symfony project tests](https://www.strangebuzz.com/en/blog/organizing-your-symfony-project-tests)
 https://blog.packagist.com/composer-2-2/
+ - [FDA authorizes first pill to treat Covid-19](https://edition.cnn.com/2021/12/22/health/pfizer-antiviral-pill-authorized/index.html)
 
 ## Authors
 
