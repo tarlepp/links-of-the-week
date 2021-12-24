@@ -709,7 +709,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 https://www.bloomberg.com/news/articles/2021-12-21/home-price-surges-bidding-wars-are-roiling-world-s-riskiest-housing-market?srnd=premium-europe
 https://picocss.com/
  - [Organizing your Symfony project tests](https://www.strangebuzz.com/en/blog/organizing-your-symfony-project-tests)
-https://blog.packagist.com/composer-2-2/
+ - [Composer 2.2 Release](https://blog.packagist.com/composer-2-2/)
  - [FDA authorizes first pill to treat Covid-19](https://edition.cnn.com/2021/12/22/health/pfizer-antiviral-pill-authorized/index.html)
  - [EU states can use Pfizer's anti-COVID pill-regulator](https://www.reuters.com/world/europe/eu-regulator-says-pfizers-anti-covid-pill-can-be-used-by-member-states-2021-12-16/)
 
