@@ -706,8 +706,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 51
 
-https://www.bloomberg.com/news/articles/2021-12-21/home-price-surges-bidding-wars-are-roiling-world-s-riskiest-housing-market?srnd=premium-europe
-https://picocss.com/
+ - [Home Price Surges, Bidding Wars Are Roiling World's Riskiest Housing Market - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-21/home-price-surges-bidding-wars-are-roiling-world-s-riskiest-housing-market?srnd=premium-europe)
+ - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
  - [Organizing your Symfony project tests](https://www.strangebuzz.com/en/blog/organizing-your-symfony-project-tests)
  - [Composer 2.2 Release](https://blog.packagist.com/composer-2-2/)
  - [FDA authorizes first pill to treat Covid-19](https://edition.cnn.com/2021/12/22/health/pfizer-antiviral-pill-authorized/index.html)
