@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 49](#week-49)
     * [Week 50](#week-50)
     * [Week 51](#week-51)
+    * [Week 52](#week-52)
 
 ## 2021
 
@@ -712,6 +713,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Composer 2.2 Release](https://blog.packagist.com/composer-2-2/)
  - [FDA authorizes first pill to treat Covid-19](https://edition.cnn.com/2021/12/22/health/pfizer-antiviral-pill-authorized/index.html)
  - [EU states can use Pfizer's anti-COVID pill-regulator](https://www.reuters.com/world/europe/eu-regulator-says-pfizers-anti-covid-pill-can-be-used-by-member-states-2021-12-16/)
+
+### Week 52
 
 ## Authors
 
