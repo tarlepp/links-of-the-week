@@ -718,6 +718,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [[HtmlSanitizer] Introduce HtmlSanitizer component](https://github.com/symfony/symfony/pull/44681)
  - [Auto HD/4k/8k for YouTube™ - YouTube™ Auto HD](https://chrome.google.com/webstore/detail/auto-hd4k8k-for-youtube-y/fjdmkanbdloodhegphphhklnjfngoffa)
+ - [CVE-2021-44832 - Apache Log4j 2.17.0 Arbitrary Code Execution via JDBCAppender DataSource Element | Checkmarx.com](https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/)
 
 ## Authors
 
