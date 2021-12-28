@@ -716,6 +716,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 52
 
+ - [[HtmlSanitizer] Introduce HtmlSanitizer component](https://github.com/symfony/symfony/pull/44681)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
