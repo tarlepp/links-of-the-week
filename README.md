@@ -717,6 +717,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 52
 
  - [[HtmlSanitizer] Introduce HtmlSanitizer component](https://github.com/symfony/symfony/pull/44681)
+ - [Auto HD/4k/8k for YouTube™ - YouTube™ Auto HD](https://chrome.google.com/webstore/detail/auto-hd4k8k-for-youtube-y/fjdmkanbdloodhegphphhklnjfngoffa)
 
 ## Authors
 
