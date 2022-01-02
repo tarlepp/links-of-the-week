@@ -724,6 +724,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Advent of Functional PHP: Review](https://peakd.com/hive-168588/@crell/aoc2021-review)
  - [Announcing the open-sourcing of the Symfony CLI](https://symfony.com/blog/announcing-the-open-sourcing-of-the-symfony-cli)
  - [University loses 77TB of research data due to backup error](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/)
+ - [Opis Closure - Serialize closures (anonymous functions)](https://opis.io/closure)
 
 ## Authors
 
