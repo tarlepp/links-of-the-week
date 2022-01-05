@@ -25,7 +25,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 1
 
-https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation/?s=09
+ - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation)
+ - [Unlock - Cloud-based billing, licensing & distribution](https://unlock.sh/)
 
 ## Authors
 
