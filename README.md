@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Preventing CORS Preflight Requests Using Content Negotiation](https://dunglas.fr/2022/01/preventing-cors-preflight-requests-using-content-negotiation)
  - [Unlock - Cloud-based billing, licensing & distribution](https://unlock.sh/)
+ - [Life is to short to use dated cli tools that suck](https://twitter.com/amilajack/status/1479328649820000256)
 
 ## Authors
 
