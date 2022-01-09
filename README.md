@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Life is to short to use dated cli tools that suck](https://twitter.com/amilajack/status/1479328649820000256)
  - [Introduction to RabbitMQ and Symfony](https://fabiohiroki.medium.com/introduction-to-rabbitmq-and-symfony-a1e782a820d5)
  - [Registering your PHPUnit test as an event subscriber for testing events](https://mglaman.dev/blog/registering-your-phpunit-test-event-subscriber-testing-events)
+ - [China's tokamak facility](https://twitter.com/rainmaker1973/status/1480090548379824128)
 
 ## Authors
 
