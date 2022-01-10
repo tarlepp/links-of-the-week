@@ -20,6 +20,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2021](2021.md)
   * [2022](#2022)
     * [Week 1](#week-1)
+    * [Week 2](#week-2)
 
 ## 2021
 
@@ -32,8 +33,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Registering your PHPUnit test as an event subscriber for testing events](https://mglaman.dev/blog/registering-your-phpunit-test-event-subscriber-testing-events)
  - [China's tokamak facility](https://twitter.com/rainmaker1973/status/1480090548379824128)
 
+### Week 2
 
-https://wiki.php.net/rfc/deque_straw_poll?s=09
+ - [Straw poll: Naming pattern to use for Deque](https://wiki.php.net/rfc/deque_straw_poll)
 
 ## Authors
 
