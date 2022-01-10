@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 2
 
  - [Straw poll: Naming pattern to use for Deque](https://wiki.php.net/rfc/deque_straw_poll)
+ - [Using custom PHP attributes for registering and configuring Symfony Messenger handlers](https://angelovdejan.me/2022/01/09/custom-php-attributes-for-symfony-messenger-handlers.html)
 
 ## Authors
 
