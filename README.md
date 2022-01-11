@@ -37,6 +37,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Straw poll: Naming pattern to use for Deque](https://wiki.php.net/rfc/deque_straw_poll)
  - [Using custom PHP attributes for registering and configuring Symfony Messenger handlers](https://angelovdejan.me/2022/01/09/custom-php-attributes-for-symfony-messenger-handlers.html)
+ - [LG's Square Monitor is Like Having Two Stacked Displays](https://www.core77.com/posts/111405/LGs-Square-Monitor-is-Like-Having-Two-Stacked-Displays)
 
 ## Authors
 
