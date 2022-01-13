@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using custom PHP attributes for registering and configuring Symfony Messenger handlers](https://angelovdejan.me/2022/01/09/custom-php-attributes-for-symfony-messenger-handlers.html)
  - [LG's Square Monitor is Like Having Two Stacked Displays](https://www.core77.com/posts/111405/LGs-Square-Monitor-is-Like-Having-Two-Stacked-Displays)
  - [New Release: Doctrine ORM 2.11 with Enums, Virtual Columns, Read-Only Properties, Nested Attributes and more](https://www.doctrine-project.org/2022/01/11/orm-2.11.html)
+ - [Canalys: Worldwide PC shipments soared in 2021 to 341 million units](https://techcrunch.com/2022/01/12/canalys-worldwide-pc-shipments-soared-in-2021-to-341-million-units/)
 
 ## Authors
 
