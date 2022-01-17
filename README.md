@@ -21,6 +21,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2022](#2022)
     * [Week 1](#week-1)
     * [Week 2](#week-2)
+    * [Week 3](#week-3)
 
 ## 2021
 
@@ -42,6 +43,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Canalys: Worldwide PC shipments soared in 2021 to 341 million units](https://techcrunch.com/2022/01/12/canalys-worldwide-pc-shipments-soared-in-2021-to-341-million-units/)
  - [Google and Facebook's top execs allegedly approved dividing ad market among themselves](https://www.theregister.com/2022/01/15/googles_facebook_advertising/)
  - [The Talk on Talks](https://zachholman.com/talk/the-talk-on-talks/)
+
+### Week 3
 
 ## Authors
 
