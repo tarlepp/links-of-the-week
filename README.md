@@ -46,6 +46,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 3
 
+ - [Run Symfony commands inside a docker container](https://smoqadam.medium.com/run-symfony-commands-inside-a-docker-container-b9bb9768efa1)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
