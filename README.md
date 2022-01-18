@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 3
 
  - [Run Symfony commands inside a docker container](https://smoqadam.medium.com/run-symfony-commands-inside-a-docker-container-b9bb9768efa1)
+ - [Media Websites: 70% of the Carbon Footprint Caused by Ads and Stats](https://marmelab.com/blog/2022/01/17/media-websites-carbon-emissions.html)
 
 ## Authors
 
