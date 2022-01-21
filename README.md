@@ -50,7 +50,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Media Websites: 70% of the Carbon Footprint Caused by Ads and Stats](https://marmelab.com/blog/2022/01/17/media-websites-carbon-emissions.html)
  - [Implementing Strategy Pattern with Symfony](https://q.agency/blog/implementing-strategy-pattern-with-symfony-showcase)
  - [database handling class reflection extension for PHPStan](https://github.com/staabm/phpstan-dba)
-https://netgen.io/blog/consuming-external-apis-basic-tips-tricks
+ - [Consuming External APIs: basic tips & tricks](https://netgen.io/blog/consuming-external-apis-basic-tips-tricks)
+ - [4 ways to inject dependencies in Symfony that you probably don’t know about?](https://medium.com/@OCharnyshevich/4-ways-to-inject-dependencies-in-symfony-that-you-probably-dont-know-about-65e8efe02af5)
 
 ## Authors
 
