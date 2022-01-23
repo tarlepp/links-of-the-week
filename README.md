@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Php 8.1 New Features — Readonly Properties](https://kvnc-inc.medium.com/php-8-1-new-features-readonly-properties-9994fdffd594)
  - [Calculate PHP cache time with ease](https://medium.com/@ajimotiajbkibk/calculate-php-cache-time-with-ease-d3805fa1c46e)
  - [Configure Symfony Secrets with Hashicorp Vault](https://dev.to/gromnan/store-secrets-in-vault-with-symfony-51ai)
+ - [How I was able to find multiple vulnerabilities of a Symfony Web Framework web application](https://rootintrud3r.medium.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144)
 
 ## Authors
 
