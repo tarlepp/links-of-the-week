@@ -22,6 +22,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 1](#week-1)
     * [Week 2](#week-2)
     * [Week 3](#week-3)
+    * [Week 4](#week-4)
 
 ## 2021
 
@@ -57,6 +58,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Calculate PHP cache time with ease](https://medium.com/@ajimotiajbkibk/calculate-php-cache-time-with-ease-d3805fa1c46e)
  - [Configure Symfony Secrets with Hashicorp Vault](https://dev.to/gromnan/store-secrets-in-vault-with-symfony-51ai)
  - [How I was able to find multiple vulnerabilities of a Symfony Web Framework web application](https://rootintrud3r.medium.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144)
+
+### Week 4
 
 ## Authors
 
