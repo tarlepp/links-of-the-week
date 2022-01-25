@@ -61,6 +61,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 4
 
+ - [Sunsetting Doctrine DBAL 2](https://www.doctrine-project.org/2022/01/22/sunsetting-dbal-2.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
