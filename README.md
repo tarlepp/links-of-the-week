@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 4
 
  - [Sunsetting Doctrine DBAL 2](https://www.doctrine-project.org/2022/01/22/sunsetting-dbal-2.html)
+ - [Benchmarks Confirm Intel's Latest Core i9 Chip Outperforms Apple's M1 Max With Several Caveats](https://www.macrumors.com/2022/01/26/intel-core-i9-12th-gen-vs-m1-max-benchmarks/)
 
 ## Authors
 
