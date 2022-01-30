@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Benchmarks Confirm Intel's Latest Core i9 Chip Outperforms Apple's M1 Max With Several Caveats](https://www.macrumors.com/2022/01/26/intel-core-i9-12th-gen-vs-m1-max-benchmarks/)
  - [The long journey of making PHP’s Composer memory-efficient and fast](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
  - [Killed by Google](https://killedbygoogle.com/)
+ - [Voila! Symfony and PHP 8.1](https://medium.com/beyn-technology/voila-symfony-and-php-8-1-6c1533f9bbea)
 
 ## Authors
 
