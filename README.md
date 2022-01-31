@@ -23,6 +23,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 2](#week-2)
     * [Week 3](#week-3)
     * [Week 4](#week-4)
+    * [Week 5](#week-5)
 
 ## 2021
 
@@ -66,6 +67,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The long journey of making PHP’s Composer memory-efficient and fast](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
  - [Killed by Google](https://killedbygoogle.com/)
  - [Voila! Symfony and PHP 8.1](https://medium.com/beyn-technology/voila-symfony-and-php-8-1-6c1533f9bbea)
+
+### Week 5
 
 ## Authors
 
