@@ -70,6 +70,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 5
 
+ - [German Court Rules Websites Embedding Google Fonts Violates GDPR](https://thehackernews.com/2022/01/german-court-rules-websites-embedding.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
