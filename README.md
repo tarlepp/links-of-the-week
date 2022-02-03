@@ -74,7 +74,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Braintrust: Fighting Capitalism with Capitalism](https://www.notboring.co/p/braintrust-fighting-capitalism-with)
  - [Excited to announce SymfonyCon Disneyland Paris 2022](https://symfony.com/blog/excited-to-announce-symfonycon-disneyland-paris-2022)
  - [Facebook lost daily users for the 1st time in its history last quarter, and investors were not pleased](https://theweek.com/facebook/1009726/facebook-lost-daily-users-for-the-1st-time-in-its-history-last-quarter-and)
-https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/
+ - [New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)
 
 ## Authors
 
