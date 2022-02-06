@@ -76,7 +76,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Facebook lost daily users for the 1st time in its history last quarter, and investors were not pleased](https://theweek.com/facebook/1009726/facebook-lost-daily-users-for-the-1st-time-in-its-history-last-quarter-and)
  - [New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)
  - [Run Node.js from Google Sheets](https://fusebit.io/blog/run-nodejs-from-google-sheets/)
-https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html
+ - [Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
+ - [(Re)discover XPath selectors](https://jolicode.com/blog/re-discover-xpath-selectors)
 
 ## Authors
 
