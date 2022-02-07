@@ -24,6 +24,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 3](#week-3)
     * [Week 4](#week-4)
     * [Week 5](#week-5)
+    * [Week 6](#week-6)
 
 ## 2021
 
@@ -78,6 +79,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Run Node.js from Google Sheets](https://fusebit.io/blog/run-nodejs-from-google-sheets/)
  - [Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
  - [(Re)discover XPath selectors](https://jolicode.com/blog/re-discover-xpath-selectors)
+
+### Week 6
+
+ - [BlockPaper is the next-generation of blockchain value storage](https://buyblockpaper.com/)
 
 ## Authors
 
