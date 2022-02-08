@@ -83,7 +83,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 6
 
  - [BlockPaper is the next-generation of blockchain value storage](https://buyblockpaper.com/)
-https://github.com/sj-i/php-profiler
+ - [php-profiler](https://github.com/sj-i/php-profiler)
+ - [MacBook Pro With Next-Gen M2 Chip Coming Next Month, Supply Chain Report Claims](https://www.macrumors.com/2022/02/08/macbook-pro-m2-coming-early-march/)
 
 ## Authors
 
