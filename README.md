@@ -85,7 +85,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [BlockPaper is the next-generation of blockchain value storage](https://buyblockpaper.com/)
  - [php-profiler](https://github.com/sj-i/php-profiler)
  - [MacBook Pro With Next-Gen M2 Chip Coming Next Month, Supply Chain Report Claims](https://www.macrumors.com/2022/02/08/macbook-pro-m2-coming-early-march/)
-https://www.bbc.com/news/science-environment-60312633
+ - [Major breakthrough on nuclear fusion energy](https://www.bbc.com/news/science-environment-60312633)
+ - [Laracon Online Winter '22](https://www.youtube.com/watch?v=0Rq-yHAwYjQ)
 
 ## Authors
 
