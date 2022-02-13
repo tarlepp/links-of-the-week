@@ -88,6 +88,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Major breakthrough on nuclear fusion energy](https://www.bbc.com/news/science-environment-60312633)
  - [Laracon Online Winter '22](https://www.youtube.com/watch?v=0Rq-yHAwYjQ)
  - [Symfony 5+ error logging handlers explained](https://akashicseer.com/web-development/symfony-5-error-logging-handlers-explained/)
+ - [How to Build and Distribute Beautiful Command-Line Applications with PHP and Composer](https://levelup.gitconnected.com/how-to-build-and-distribute-beautiful-command-line-applications-with-php-and-composer-50b6420245f2)
 
 ## Authors
 
