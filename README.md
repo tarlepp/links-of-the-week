@@ -25,6 +25,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 4](#week-4)
     * [Week 5](#week-5)
     * [Week 6](#week-6)
+    * [Week 7](#week-7)
 
 ## 2021
 
@@ -90,8 +91,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 5+ error logging handlers explained](https://akashicseer.com/web-development/symfony-5-error-logging-handlers-explained/)
  - [How to Build and Distribute Beautiful Command-Line Applications with PHP and Composer](https://levelup.gitconnected.com/how-to-build-and-distribute-beautiful-command-line-applications-with-php-and-composer-50b6420245f2)
 
+### Week 7
 
-https://image.intervention.io/v2
+ - [Intervention Image](https://image.intervention.io/v2)
 
 ## Authors
 
