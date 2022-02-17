@@ -95,6 +95,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Intervention Image](https://image.intervention.io/v2)
  - [Radar Interference Tracker: A New Open Source Tool to Locate Active Military Radar Systems](https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems/)
+https://www.theguardian.com/us-news/2022/feb/15/aoc-alexandria-ocasio-cortez-democracy
 
 ## Authors
 
