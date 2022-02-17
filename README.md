@@ -97,6 +97,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Radar Interference Tracker: A New Open Source Tool to Locate Active Military Radar Systems](https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems/)
  - [Ocasio-Cortez: ‘Very real risk’ US democracy won’t exist in 10 years](https://www.theguardian.com/us-news/2022/feb/15/aoc-alexandria-ocasio-cortez-democracy)
  - [Jane](https://github.com/janephp/janephp)
+ - [Well, this is unfortunate. It turns out Apple's custom NVMe drives are amazingly fast - if you don't care about data integrity.](https://twitter.com/marcan42/status/1494213855387734019)
 
 ## Authors
 
