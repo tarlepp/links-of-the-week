@@ -100,6 +100,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Well, this is unfortunate. It turns out Apple's custom NVMe drives are amazingly fast - if you don't care about data integrity.](https://twitter.com/marcan42/status/1494213855387734019)
 https://wiki.php.net/rfc/undefined_variable_error_promotion
  - [Docker Cheat Sheet for Common Database Engine](https://jolicode.com/blog/docker-cheat-sheet-for-common-database-engine)
+ - [PhpStorm 2022.1 EAP #3: Enhanced Array Shapes](https://blog.jetbrains.com/phpstorm/2022/02/phpstorm-2022-1-eap-3/)
 
 ## Authors
 
