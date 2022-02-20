@@ -98,9 +98,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Ocasio-Cortez: ‘Very real risk’ US democracy won’t exist in 10 years](https://www.theguardian.com/us-news/2022/feb/15/aoc-alexandria-ocasio-cortez-democracy)
  - [Jane](https://github.com/janephp/janephp)
  - [Well, this is unfortunate. It turns out Apple's custom NVMe drives are amazingly fast - if you don't care about data integrity.](https://twitter.com/marcan42/status/1494213855387734019)
-https://wiki.php.net/rfc/undefined_variable_error_promotion
+ - [PHP RFC: Undefined Variable Error Promotion](https://wiki.php.net/rfc/undefined_variable_error_promotion)
  - [Docker Cheat Sheet for Common Database Engine](https://jolicode.com/blog/docker-cheat-sheet-for-common-database-engine)
  - [PhpStorm 2022.1 EAP #3: Enhanced Array Shapes](https://blog.jetbrains.com/phpstorm/2022/02/phpstorm-2022-1-eap-3/)
+ - [Let’s play with the Symfony new security system: OpenId Connect with Keycloak](https://medium.com/the-sensiolabs-tech-blog/lets-play-with-the-symfony-new-security-system-openid-connect-with-keycloak-de7a1508ea4)
 
 ## Authors
 
