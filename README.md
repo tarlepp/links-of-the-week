@@ -102,6 +102,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Docker Cheat Sheet for Common Database Engine](https://jolicode.com/blog/docker-cheat-sheet-for-common-database-engine)
  - [PhpStorm 2022.1 EAP #3: Enhanced Array Shapes](https://blog.jetbrains.com/phpstorm/2022/02/phpstorm-2022-1-eap-3/)
  - [Let’s play with the Symfony new security system: OpenId Connect with Keycloak](https://medium.com/the-sensiolabs-tech-blog/lets-play-with-the-symfony-new-security-system-openid-connect-with-keycloak-de7a1508ea4)
+ - [What is the Suisse secrets leak and why are we publishing it?](https://www.theguardian.com/news/2022/feb/20/suisse-secrets-leak-financial-crime-public-interest)
 
 ## Authors
 
