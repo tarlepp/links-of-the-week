@@ -26,6 +26,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 5](#week-5)
     * [Week 6](#week-6)
     * [Week 7](#week-7)
+    * [Week 8](#week-8)
 
 ## 2021
 
@@ -106,7 +107,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 8
 
-https://wiki.php.net/rfc/null-false-standalone-types
+ - [PHP RFC: Allow null and false as stand-alone types](https://wiki.php.net/rfc/null-false-standalone-types)
+ - [All About Hotwire and Turbo](https://dev.to/bhumi/all-about-hotwire-and-turbo-17hn)
 
 ## Authors
 
