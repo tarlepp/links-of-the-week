@@ -109,6 +109,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [PHP RFC: Allow null and false as stand-alone types](https://wiki.php.net/rfc/null-false-standalone-types)
  - [All About Hotwire and Turbo](https://dev.to/bhumi/all-about-hotwire-and-turbo-17hn)
+ - [Simple API mocking with the Symfony HTTP client](https://www.strangebuzz.com/en/blog/simple-api-mocking-with-the-symfony-http-client)
 
 ## Authors
 
