@@ -104,6 +104,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Let’s play with the Symfony new security system: OpenId Connect with Keycloak](https://medium.com/the-sensiolabs-tech-blog/lets-play-with-the-symfony-new-security-system-openid-connect-with-keycloak-de7a1508ea4)
  - [What is the Suisse secrets leak and why are we publishing it?](https://www.theguardian.com/news/2022/feb/20/suisse-secrets-leak-financial-crime-public-interest)
 
+### Week 8
+
+https://wiki.php.net/rfc/null-false-standalone-types
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
