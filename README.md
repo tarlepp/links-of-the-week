@@ -113,6 +113,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Lavish Roman mosaic is biggest found in London for 50 years](https://www.theguardian.com/uk-news/2022/feb/22/lavish-roman-mosaic-is-biggest-found-in-london-for-50-years)
  - [Symfony 6.1 will require PHP 8.1](https://symfony.com/blog/symfony-6-1-will-require-php-8-1)
  - [Argo CD - Declarative GitOps CD for Kubernetes](https://argo-cd.readthedocs.io/en/stable/)
+ - [DDD, Hexagonal Architecture & CQRS with Symfony and Doctrine](https://stefanoalletti.wordpress.com/2022/02/26/ddd-hexagonal-architecture-cqrs-with-symfony-doctrine/)
 
 ## Authors
 
