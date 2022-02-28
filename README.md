@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 6](#week-6)
     * [Week 7](#week-7)
     * [Week 8](#week-8)
+    * [Week 9](#week-9)
 
 ## 2021
 
@@ -115,6 +116,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Argo CD - Declarative GitOps CD for Kubernetes](https://argo-cd.readthedocs.io/en/stable/)
  - [DDD, Hexagonal Architecture & CQRS with Symfony and Doctrine](https://stefanoalletti.wordpress.com/2022/02/26/ddd-hexagonal-architecture-cqrs-with-symfony-doctrine/)
  - [Solid PHP - SOLID principles in PHP](https://dev.to/accesto/solid-php-solid-principles-in-php-1n7b)
+
+### Week 9
 
 ## Authors
 
