@@ -123,6 +123,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle)
  - [OWASP ZAP](https://owasp.org/www-project-zap/)
  - [PHP RFC: Sealed Classes](https://wiki.php.net/rfc/sealed_classes)
+ - [devops + security - Server Hardening Automation](https://dev-sec.io/)
 
 ## Authors
 
