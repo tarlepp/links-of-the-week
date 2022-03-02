@@ -122,6 +122,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Security Headers](https://securityheaders.com/)
  - [NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle)
  - [OWASP ZAP](https://owasp.org/www-project-zap/)
+ - [PHP RFC: Sealed Classes](https://wiki.php.net/rfc/sealed_classes)
 
 ## Authors
 
