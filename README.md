@@ -125,6 +125,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Sealed Classes](https://wiki.php.net/rfc/sealed_classes)
  - [devops + security - Server Hardening Automation](https://dev-sec.io/)
  - [DOWNLOAD: One Humanity – DOOM 2 Level](https://romero.com/shop/p/onehumanity)
+ - [A pro tip when using arrays in PHP](https://medium.com/@HoussemZitoun1/a-pro-tip-when-using-arrays-in-php-43c0945977b7)
 
 ## Authors
 
