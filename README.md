@@ -126,6 +126,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [devops + security - Server Hardening Automation](https://dev-sec.io/)
  - [DOWNLOAD: One Humanity – DOOM 2 Level](https://romero.com/shop/p/onehumanity)
  - [A pro tip when using arrays in PHP](https://medium.com/@HoussemZitoun1/a-pro-tip-when-using-arrays-in-php-43c0945977b7)
+ - [How to Implement Code Execution Monitoring for your Symfony apps via Inspector](https://symfonystation.com/how-implement-code-execution-monitoring-symfony-inspector)
 
 ## Authors
 
