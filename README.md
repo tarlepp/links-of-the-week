@@ -133,6 +133,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 10
 
  - [Steps we've taken around Cloudflare's services in Ukraine, Belarus, and Russia](https://blog.cloudflare.com/steps-taken-around-cloudflares-services-in-ukraine-belarus-and-russia/)
+https://lunduke.substack.com/p/elementary-os-is-imploding?s=r
 
 ## Authors
 
