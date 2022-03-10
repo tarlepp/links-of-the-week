@@ -133,7 +133,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 10
 
  - [Steps we've taken around Cloudflare's services in Ukraine, Belarus, and Russia](https://blog.cloudflare.com/steps-taken-around-cloudflares-services-in-ukraine-belarus-and-russia/)
-https://lunduke.substack.com/p/elementary-os-is-imploding?s=r
+ - [elementary OS is imploding](https://lunduke.substack.com/p/elementary-os-is-imploding)
+ - [Use timeouts to prevent long-running SELECT queries from taking down your MySQL](https://tideways.com/profiler/blog/use-timeouts-to-prevent-long-running-select-queries-from-taking-down-your-mysql)
 
 ## Authors
 
