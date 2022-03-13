@@ -136,6 +136,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [elementary OS is imploding](https://lunduke.substack.com/p/elementary-os-is-imploding)
  - [Use timeouts to prevent long-running SELECT queries from taking down your MySQL](https://tideways.com/profiler/blog/use-timeouts-to-prevent-long-running-select-queries-from-taking-down-your-mysql)
  - [JetBrains’ Statement on Ukraine](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)
+ - [Symfony Internals #2: Data Validation](https://medium.com/the-sensiolabs-tech-blog/symfony-internals-2-data-validation-793afbd490a5)
 
 ## Authors
 
