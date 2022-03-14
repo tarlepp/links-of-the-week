@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 8](#week-8)
     * [Week 9](#week-9)
     * [Week 10](#week-10)
+    * [Week 11](#week-11)
 
 ## 2021
 
@@ -137,6 +138,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Use timeouts to prevent long-running SELECT queries from taking down your MySQL](https://tideways.com/profiler/blog/use-timeouts-to-prevent-long-running-select-queries-from-taking-down-your-mysql)
  - [JetBrains’ Statement on Ukraine](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)
  - [Symfony Internals #2: Data Validation](https://medium.com/the-sensiolabs-tech-blog/symfony-internals-2-data-validation-793afbd490a5)
+
+### Week 11
 
 ## Authors
 
