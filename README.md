@@ -141,6 +141,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 11
 
+ - [Generics By Examples](https://phpstan.org/blog/generics-by-examples)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
