@@ -142,6 +142,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 11
 
  - [Generics By Examples](https://phpstan.org/blog/generics-by-examples)
+https://www.reuters.com/technology/germany-issues-hacking-warning-users-russian-anti-virus-software-kaspersky-2022-03-15/
 
 ## Authors
 
