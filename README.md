@@ -144,6 +144,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Generics By Examples](https://phpstan.org/blog/generics-by-examples)
  - [Germany issues hacking warning for users of Russian anti-virus software Kaspersky](https://www.reuters.com/technology/germany-issues-hacking-warning-users-russian-anti-virus-software-kaspersky-2022-03-15/)
  - [Speed boost achievement unlocked on Docker Desktop 4.6 for Mac](https://www.docker.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac/)
+https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms
 
 ## Authors
 
