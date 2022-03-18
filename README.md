@@ -146,6 +146,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Speed boost achievement unlocked on Docker Desktop 4.6 for Mac](https://www.docker.com/blog/speed-boost-achievement-unlocked-on-docker-desktop-4-6-for-mac/)
 https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms
 https://stackoverflow.blog/2022/03/17/new-data-what-makes-developers-happy-at-work/
+https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/
 
 ## Authors
 
