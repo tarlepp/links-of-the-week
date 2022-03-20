@@ -148,6 +148,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New data: What makes developers happy at work](https://stackoverflow.blog/2022/03/17/new-data-what-makes-developers-happy-at-work/)
  - [Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
  - [The Logfile Navigator](https://lnav.org/)
+ - [Using PHPStan with Symfony - static analysis for better PHP code quality](https://dev.to/accesto/using-phpstan-with-symfony-static-analysis-for-better-php-code-quality-26eh)
 
 ## Authors
 
