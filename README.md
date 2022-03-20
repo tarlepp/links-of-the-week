@@ -149,6 +149,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
  - [The Logfile Navigator](https://lnav.org/)
  - [Using PHPStan with Symfony - static analysis for better PHP code quality](https://dev.to/accesto/using-phpstan-with-symfony-static-analysis-for-better-php-code-quality-26eh)
+ - [Asahi Linux Is The First Linux Distro To Support Apple Silicon](https://www.tomshardware.com/news/asahi-linux-is-the-first-linux-distro-to-support-apple-silicon)
 
 ## Authors
 
