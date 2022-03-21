@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 9](#week-9)
     * [Week 10](#week-10)
     * [Week 11](#week-11)
+    * [Week 12](#week-12)
 
 ## 2021
 
@@ -150,6 +151,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Logfile Navigator](https://lnav.org/)
  - [Using PHPStan with Symfony - static analysis for better PHP code quality](https://dev.to/accesto/using-phpstan-with-symfony-static-analysis-for-better-php-code-quality-26eh)
  - [Asahi Linux Is The First Linux Distro To Support Apple Silicon](https://www.tomshardware.com/news/asahi-linux-is-the-first-linux-distro-to-support-apple-silicon)
+
+### Week 12
+
+ - [Those Who Cannot Learn From History Are Doomed To Repeat It](https://www.sewerynszwarocki.pl/those-who-cannot-learn-from-history-are-doomed-to-repeat)
 
 ## Authors
 
