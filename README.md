@@ -156,6 +156,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Those Who Cannot Learn From History Are Doomed To Repeat It](https://www.sewerynszwarocki.pl/those-who-cannot-learn-from-history-are-doomed-to-repeat)
  - [ArangoDB-PHP - A PHP client for ArangoDB](https://github.com/arangodb/arangodb-php)
+ - [Oracle's compliance cops now include Java in license audits](https://www.theregister.com/2022/03/22/oracle_starts_to_include_java/)
 
 ## Authors
 
