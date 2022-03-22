@@ -155,6 +155,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
  - [Those Who Cannot Learn From History Are Doomed To Repeat It](https://www.sewerynszwarocki.pl/those-who-cannot-learn-from-history-are-doomed-to-repeat)
+ - [ArangoDB-PHP - A PHP client for ArangoDB](https://github.com/arangodb/arangodb-php)
 
 ## Authors
 
