@@ -160,7 +160,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Professional Blog](https://alister.github.io/)
  - [Lens | The Kubernetes IDE](https://k8slens.dev/)
  - [arpchat](https://github.com/kognise/arpchat)
-https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/
+ - [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+ - [JSON Machine](https://github.com/halaxa/json-machine)
 
 ## Authors
 
