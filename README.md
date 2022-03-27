@@ -163,6 +163,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
  - [JSON Machine](https://github.com/halaxa/json-machine)
  - [Examine the Reassuringly Robust Flexibility and Extensibility of Symfony Security](https://medium.com/@mobileatom/examine-the-reassuringly-robust-flexibility-and-extensibility-of-symfony-security-a8bf953cbada)
+ - [What happens if your development team is hit by a bus](https://blog.bielawski.tech/what-happens-if-your-development-team-is-hit-by-a-bus)
 
 ## Authors
 
