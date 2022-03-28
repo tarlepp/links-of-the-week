@@ -31,6 +31,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 10](#week-10)
     * [Week 11](#week-11)
     * [Week 12](#week-12)
+    * [Week 13](#week-13)
 
 ## 2021
 
@@ -164,6 +165,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [JSON Machine](https://github.com/halaxa/json-machine)
  - [Examine the Reassuringly Robust Flexibility and Extensibility of Symfony Security](https://medium.com/@mobileatom/examine-the-reassuringly-robust-flexibility-and-extensibility-of-symfony-security-a8bf953cbada)
  - [What happens if your development team is hit by a bus](https://blog.bielawski.tech/what-happens-if-your-development-team-is-hit-by-a-bus)
+
+### Week 13
 
 ## Authors
 
