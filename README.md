@@ -169,7 +169,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
  - [Awesome tunneling](https://github.com/anderspitman/awesome-tunneling)
-https://wiki.php.net/rfc/undefined_variable_error_promotion
+ - [PHP RFC: Undefined Variable Error Promotion](https://wiki.php.net/rfc/undefined_variable_error_promotion)
 
 ## Authors
 
