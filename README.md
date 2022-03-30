@@ -170,7 +170,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Awesome tunneling](https://github.com/anderspitman/awesome-tunneling)
  - [PHP RFC: Undefined Variable Error Promotion](https://wiki.php.net/rfc/undefined_variable_error_promotion)
-https://wiki.php.net/rfc/typed_class_constants
+ - [PHP RFC: Typed Class Constants](https://wiki.php.net/rfc/typed_class_constants)
+ - [electricityMap | Live CO₂ emissions of electricity consumption](https://app.electricitymap.org/map)
 
 ## Authors
 
