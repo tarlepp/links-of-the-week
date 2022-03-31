@@ -173,6 +173,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Typed Class Constants](https://wiki.php.net/rfc/typed_class_constants)
  - [electricityMap | Live CO₂ emissions of electricity consumption](https://app.electricitymap.org/map)
 https://bernardng.hashnode.dev/ddd-with-symfony-how-to-configure-doctrine-xml-mapping
+https://dnlytras.com/blog/modern-php/
 
 ## Authors
 
