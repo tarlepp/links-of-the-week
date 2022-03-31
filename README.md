@@ -172,8 +172,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Undefined Variable Error Promotion](https://wiki.php.net/rfc/undefined_variable_error_promotion)
  - [PHP RFC: Typed Class Constants](https://wiki.php.net/rfc/typed_class_constants)
  - [electricityMap | Live CO₂ emissions of electricity consumption](https://app.electricitymap.org/map)
-https://bernardng.hashnode.dev/ddd-with-symfony-how-to-configure-doctrine-xml-mapping
-https://dnlytras.com/blog/modern-php/
+ - [DDD With Symfony : How to configure Doctrine XML Mapping](https://bernardng.hashnode.dev/ddd-with-symfony-how-to-configure-doctrine-xml-mapping)
+ - [Modern PHP - While I wasn't paying attention, PHP got quite good](https://dnlytras.com/blog/modern-php/)
+ - [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 ## Authors
 
