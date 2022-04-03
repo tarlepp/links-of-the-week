@@ -33,7 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 12](#week-12)
     * [Week 13](#week-13)
 
-## 2021
+## 2022
 
 ### Week 1
 
