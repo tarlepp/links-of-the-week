@@ -175,6 +175,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [DDD With Symfony : How to configure Doctrine XML Mapping](https://bernardng.hashnode.dev/ddd-with-symfony-how-to-configure-doctrine-xml-mapping)
  - [Modern PHP - While I wasn't paying attention, PHP got quite good](https://dnlytras.com/blog/modern-php/)
  - [SQL Murder Mystery](https://mystery.knightlab.com/)
+ - [Using id value objects for better readability and type safety](https://blog.digital-craftsman.de/using-id-value-objects-for-better-readability-and-type-safety/)
 
 ## Authors
 
