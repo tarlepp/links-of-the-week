@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 11](#week-11)
     * [Week 12](#week-12)
     * [Week 13](#week-13)
+    * [Week 14](#week-14)
 
 ## 2022
 
@@ -176,6 +177,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Modern PHP - While I wasn't paying attention, PHP got quite good](https://dnlytras.com/blog/modern-php/)
  - [SQL Murder Mystery](https://mystery.knightlab.com/)
  - [Using id value objects for better readability and type safety](https://blog.digital-craftsman.de/using-id-value-objects-for-better-readability-and-type-safety/)
+
+### Week 14
+
+ - [The PHP Foundation Update, March 2022](https://opencollective.com/phpfoundation/updates/the-php-foundation-update-march-2022)
 
 ## Authors
 
