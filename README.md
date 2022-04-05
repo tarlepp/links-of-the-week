@@ -183,6 +183,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The PHP Foundation Update, March 2022](https://opencollective.com/phpfoundation/updates/the-php-foundation-update-march-2022)
  - [Return to Monkey Island | Coming 2022](https://returntomonkeyisland.com/)
  - [The terminal for the 21st century](https://www.warp.dev/)
+ - [Find commands at the speed of thought](https://www.commands.dev/)
 
 ## Authors
 
