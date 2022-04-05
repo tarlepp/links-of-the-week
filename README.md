@@ -184,6 +184,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Return to Monkey Island | Coming 2022](https://returntomonkeyisland.com/)
  - [The terminal for the 21st century](https://www.warp.dev/)
  - [Find commands at the speed of thought](https://www.commands.dev/)
+ - [PHP RFC: Deprecate and Remove utf8_encode and utf8_decode](https://wiki.php.net/rfc/remove_utf8_decode_and_utf8_encode)
 
 ## Authors
 
