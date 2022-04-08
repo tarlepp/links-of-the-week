@@ -189,6 +189,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.1: HtmlSanitizer Component](https://symfony.com/blog/new-in-symfony-6-1-htmlsanitizer-component)
  - [Not Invented Here: history repeating](https://blog.bielawski.tech/not-invented-here-history-repeating)
  - [zenstruck/browser](https://github.com/zenstruck/browser)
+ - [Nix shell](https://github.com/loophp/nix-shell)
 
 ## Authors
 
