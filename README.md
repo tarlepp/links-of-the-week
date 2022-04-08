@@ -190,6 +190,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Not Invented Here: history repeating](https://blog.bielawski.tech/not-invented-here-history-repeating)
  - [zenstruck/browser](https://github.com/zenstruck/browser)
  - [Nix shell](https://github.com/loophp/nix-shell)
+ - [Nix Flakes, Part 1: An introduction and tutorial - Tweag](https://www.tweag.io/blog/2020-05-25-flakes/)
+ - [Getting Started With Nix: Introduction](https://nasirhm.github.io/2020/getting-started-with-nix-introduction/)
+ - [What Is Nix and Why You Should Use It](https://serokell.io/blog/what-is-nix)
 
 ## Authors
 
