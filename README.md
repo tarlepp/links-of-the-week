@@ -187,6 +187,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Deprecate and Remove utf8_encode and utf8_decode](https://wiki.php.net/rfc/remove_utf8_decode_and_utf8_encode)
  - [PHP RFC: Undefined Property Error Promotion](https://wiki.php.net/rfc/undefined_property_error_promotion)
  - [New in Symfony 6.1: HtmlSanitizer Component](https://symfony.com/blog/new-in-symfony-6-1-htmlsanitizer-component)
+ - [Not Invented Here: history repeating](https://blog.bielawski.tech/not-invented-here-history-repeating)
 
 ## Authors
 
