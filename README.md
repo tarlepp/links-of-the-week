@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 12](#week-12)
     * [Week 13](#week-13)
     * [Week 14](#week-14)
+    * [Week 15](#week-15)
 
 ## 2022
 
@@ -195,6 +196,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What Is Nix and Why You Should Use It](https://serokell.io/blog/what-is-nix)
  - [PHP RFC: Allow null and false as stand-alone types](https://wiki.php.net/rfc/null-false-standalone-types)
  - [matrix - An open network for secure, decentralized communication](https://matrix.org/)
+
+### Week 15
 
 ## Authors
 
