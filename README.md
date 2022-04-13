@@ -200,6 +200,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 15
 
  - [Valinor • PHP object mapper with strong type support](https://github.com/CuyZ/Valinor)
+ - [bootstrap-email](https://github.com/antibodies-online/bootstrap-email)
 
 ## Authors
 
