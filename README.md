@@ -202,6 +202,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Valinor • PHP object mapper with strong type support](https://github.com/CuyZ/Valinor)
  - [bootstrap-email](https://github.com/antibodies-online/bootstrap-email)
 https://blog.packagist.com/cve-2022-24828-composer-command-injection-vulnerability/
+https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter
 
 ## Authors
 
