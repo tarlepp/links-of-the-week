@@ -201,8 +201,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Valinor • PHP object mapper with strong type support](https://github.com/CuyZ/Valinor)
  - [bootstrap-email](https://github.com/antibodies-online/bootstrap-email)
-https://blog.packagist.com/cve-2022-24828-composer-command-injection-vulnerability/
-https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter
+ - [CVE-2022-24828: Composer Command Injection Vulnerability](https://blog.packagist.com/cve-2022-24828-composer-command-injection-vulnerability/)
+ - [Elon Musk Makes $43 Billion Unsolicited Bid to Take Twitter Private](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
+ - [What’s New in PhpStorm 2022.1](https://www.jetbrains.com/phpstorm/whatsnew/2022-1/)
 
 ## Authors
 
