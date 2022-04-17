@@ -205,6 +205,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Elon Musk Makes $43 Billion Unsolicited Bid to Take Twitter Private](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
  - [What’s New in PhpStorm 2022.1](https://www.jetbrains.com/phpstorm/whatsnew/2022-1/)
  - [US uncovers “Swiss Army knife” for hacking industrial control systems](https://arstechnica.com/information-technology/2022/04/us-uncovers-swiss-army-knife-for-hacking-industrial-control-systems/)
+ - [Symfony Maintenance Mode](https://camillehdl.dev/symfony-maintenance-mode/)
 
 ## Authors
 
