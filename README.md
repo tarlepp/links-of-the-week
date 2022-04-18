@@ -34,6 +34,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 13](#week-13)
     * [Week 14](#week-14)
     * [Week 15](#week-15)
+    * [Week 16](#week-16)
 
 ## 2022
 
@@ -206,6 +207,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What’s New in PhpStorm 2022.1](https://www.jetbrains.com/phpstorm/whatsnew/2022-1/)
  - [US uncovers “Swiss Army knife” for hacking industrial control systems](https://arstechnica.com/information-technology/2022/04/us-uncovers-swiss-army-knife-for-hacking-industrial-control-systems/)
  - [Symfony Maintenance Mode](https://camillehdl.dev/symfony-maintenance-mode/)
+
+### Week 16
+
  - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
  - [Privacy-respecting software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
 
