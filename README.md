@@ -213,6 +213,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
  - [Privacy-respecting software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
  - [Hotel Wifi JavaScript Injection](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)
+https://wiki.php.net/rfc/remove_utf8_decode_and_utf8_encode
 
 ## Authors
 
