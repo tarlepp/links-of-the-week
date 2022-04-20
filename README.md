@@ -213,8 +213,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
  - [Privacy-respecting software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md)
  - [Hotel Wifi JavaScript Injection](https://justinsomnia.org/2012/04/hotel-wifi-javascript-injection/)
-https://wiki.php.net/rfc/remove_utf8_decode_and_utf8_encode
-https://httpie.io/blog/stardust
+ - [PHP RFC: Deprecate and Remove utf8_encode and utf8_decode](https://wiki.php.net/rfc/remove_utf8_decode_and_utf8_encode)
+ - [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
+ - [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
 
 ## Authors
 
