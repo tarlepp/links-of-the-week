@@ -216,6 +216,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Deprecate and Remove utf8_encode and utf8_decode](https://wiki.php.net/rfc/remove_utf8_decode_and_utf8_encode)
  - [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
  - [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
+ - [Tulane study explores academic success among Jewish girls](https://news.tulane.edu/pr/tulane-study-explores-academic-success-among-jewish-girls)
 
 ## Authors
 
