@@ -217,6 +217,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
  - [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
  - [Tulane study explores academic success among Jewish girls](https://news.tulane.edu/pr/tulane-study-explores-academic-success-among-jewish-girls)
+ - [Elon Musk scores hat trick of Tesla compensation goals worth $23 billion](https://finance.yahoo.com/news/elon-musk-scores-hat-trick-231450995.html)
 
 ## Authors
 
