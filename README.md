@@ -218,7 +218,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Go Developer Survey 2021 Results](https://go.dev/blog/survey2021-results)
  - [Tulane study explores academic success among Jewish girls](https://news.tulane.edu/pr/tulane-study-explores-academic-success-among-jewish-girls)
  - [Elon Musk scores hat trick of Tesla compensation goals worth $23 billion](https://finance.yahoo.com/news/elon-musk-scores-hat-trick-231450995.html)
-https://wiki.php.net/rfc/undefined_property_error_promotion
+ - [PHP RFC: Undefined Property Error Promotion](https://wiki.php.net/rfc/undefined_property_error_promotion)
+ - [Symfony’s MIME in 5 minutes](https://medium.com/the-sensiolabs-tech-blog/symfonys-mime-in-5-minutes-80a0aac906fd)
 
 ## Authors
 
