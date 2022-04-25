@@ -224,6 +224,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 17
 
+ - [Inject a tagged iterator in a more natural way](https://knot.gheb.dev/blog/sf-inject-tagged-iterator/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
