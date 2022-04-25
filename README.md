@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 14](#week-14)
     * [Week 15](#week-15)
     * [Week 16](#week-16)
+    * [Week 17](#week-17)
 
 ## 2022
 
@@ -220,6 +221,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Elon Musk scores hat trick of Tesla compensation goals worth $23 billion](https://finance.yahoo.com/news/elon-musk-scores-hat-trick-231450995.html)
  - [PHP RFC: Undefined Property Error Promotion](https://wiki.php.net/rfc/undefined_property_error_promotion)
  - [Symfony’s MIME in 5 minutes](https://medium.com/the-sensiolabs-tech-blog/symfonys-mime-in-5-minutes-80a0aac906fd)
+
+### Week 17
 
 ## Authors
 
