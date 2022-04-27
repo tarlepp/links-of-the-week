@@ -227,6 +227,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Inject a tagged iterator in a more natural way](https://knot.gheb.dev/blog/sf-inject-tagged-iterator/)
  - [PHPStan 1.6.0 With Conditional Return Types and More!](https://phpstan.org/blog/phpstan-1-6-0-with-conditional-return-types)
  - [Donald Trump says he won’t return to Twitter if Elon Musk reverses ban](https://www.cnbc.com/2022/04/25/donald-trump-says-he-wont-return-to-twitter-if-elon-musk-reverses-ban.html)
+https://symfony.com/blog/new-in-symfony-6-1-serializer-context-builders
 
 ## Authors
 
