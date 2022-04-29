@@ -232,6 +232,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Lego Image converter](https://legoimage.com/)
  - [https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)
  - [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php)
+ - [Cloudflare blocks 15M rps HTTPS DDoS attack](https://blog.cloudflare.com/15m-rps-ddos-attack/)
 
 ## Authors
 
