@@ -230,7 +230,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.1: Serializer Context Builders](https://symfony.com/blog/new-in-symfony-6-1-serializer-context-builders)
  - [Excel is your most overlooked design tool](https://bootcamp.uxdesign.cc/excel-is-your-most-overlooked-design-tool-d5bbae988c92)
  - [Lego Image converter](https://legoimage.com/)
-https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f
+ - [https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)
+ - [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php)
 
 ## Authors
 
