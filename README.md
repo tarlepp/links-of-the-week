@@ -238,6 +238,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [PyScript | Run Python in your HTML](https://pyscript.net/)
  - [New in Symfony 6.1: Service Decoration Attributes](https://symfony.com/blog/new-in-symfony-6-1-service-decoration-attributes)
+ - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 
 ## Authors
 
