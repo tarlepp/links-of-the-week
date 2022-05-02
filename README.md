@@ -234,6 +234,11 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php)
  - [Cloudflare blocks 15M rps HTTPS DDoS attack](https://blog.cloudflare.com/15m-rps-ddos-attack/)
 
+### Week 18
+
+ - [PyScript | Run Python in your HTML](https://pyscript.net/)
+ - [New in Symfony 6.1: Service Decoration Attributes](https://symfony.com/blog/new-in-symfony-6-1-service-decoration-attributes)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
