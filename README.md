@@ -240,7 +240,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.1: Service Decoration Attributes](https://symfony.com/blog/new-in-symfony-6-1-service-decoration-attributes)
  - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
  - [New in Symfony 6.1: Service Autowiring Attributes](https://symfony.com/blog/new-in-symfony-6-1-service-autowiring-attributes)
-https://symfony.com/blog/new-in-symfony-6-1-serializer-profiling
+ - [New in Symfony 6.1: Serializer Profiling](https://symfony.com/blog/new-in-symfony-6-1-serializer-profiling)
+ - [New in Symfony 6.1: Configurable Semaphores](https://symfony.com/blog/new-in-symfony-6-1-configurable-semaphores)
 
 ## Authors
 
