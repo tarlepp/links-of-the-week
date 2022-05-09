@@ -36,6 +36,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 15](#week-15)
     * [Week 16](#week-16)
     * [Week 17](#week-17)
+    * [Week 18](#week-18)
+    * [Week 19](#week-19)
 
 ## 2022
 
@@ -242,6 +244,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.1: Service Autowiring Attributes](https://symfony.com/blog/new-in-symfony-6-1-service-autowiring-attributes)
  - [New in Symfony 6.1: Serializer Profiling](https://symfony.com/blog/new-in-symfony-6-1-serializer-profiling)
  - [New in Symfony 6.1: Configurable Semaphores](https://symfony.com/blog/new-in-symfony-6-1-configurable-semaphores)
+
+### Week 19
+
+ - [Flow PHP - Data processing and manipulation library](https://github.com/flow-php/etl)
 
 ## Authors
 
