@@ -248,6 +248,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 19
 
  - [Flow PHP - Data processing and manipulation library](https://github.com/flow-php/etl)
+ - [VerifyEmailBundle: Love Confirming Emails](https://github.com/SymfonyCasts/verify-email-bundle)
 
 ## Authors
 
