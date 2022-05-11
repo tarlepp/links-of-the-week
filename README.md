@@ -251,6 +251,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [VerifyEmailBundle: Love Confirming Emails](https://github.com/SymfonyCasts/verify-email-bundle)
  - [PHP RFC: Readonly classes](https://wiki.php.net/rfc/readonly_classes)
  - [Experimental: Unpacking message properties as handler arguments in Symfony Messenger](https://angelovdejan.me/2022/05/10/experimental-unpacking-message-properties-as-method-arguments.html)
+https://wiki.php.net/rfc/mysqli_support_for_libmysql
 
 ## Authors
 
