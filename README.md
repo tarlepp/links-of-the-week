@@ -253,6 +253,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Experimental: Unpacking message properties as handler arguments in Symfony Messenger](https://angelovdejan.me/2022/05/10/experimental-unpacking-message-properties-as-method-arguments.html)
  - [PHP RFC: Remove support for libmysql from mysqli](https://wiki.php.net/rfc/mysqli_support_for_libmysql)
  - [PHP RFC: Redacting parameters in back traces](https://wiki.php.net/rfc/redact_parameters_in_back_traces)
+ - [Building container images using Multiple Build Contexts and Dockerfiles](https://blog.ciaranmcnulty.com/2022-05-12-multiple-build-contexts)
 
 ## Authors
 
