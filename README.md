@@ -255,6 +255,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Redacting parameters in back traces](https://wiki.php.net/rfc/redact_parameters_in_back_traces)
  - [Building container images using Multiple Build Contexts and Dockerfiles](https://blog.ciaranmcnulty.com/2022-05-12-multiple-build-contexts)
  - [Okteto - The Kubernetes development platform | Okteto](https://www.okteto.com/)
+ - [New in ECS: Simpler Config](https://tomasvotruba.com/blog/new-in-ecs-simpler-config/)
 
 ## Authors
 
