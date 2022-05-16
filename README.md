@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 17](#week-17)
     * [Week 18](#week-18)
     * [Week 19](#week-19)
+    * [Week 20](#week-20)
 
 ## 2022
 
@@ -256,6 +257,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Building container images using Multiple Build Contexts and Dockerfiles](https://blog.ciaranmcnulty.com/2022-05-12-multiple-build-contexts)
  - [Okteto - The Kubernetes development platform | Okteto](https://www.okteto.com/)
  - [New in ECS: Simpler Config](https://tomasvotruba.com/blog/new-in-ecs-simpler-config/)
+
+### Week 20
 
 ## Authors
 
