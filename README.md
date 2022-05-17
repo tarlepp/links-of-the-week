@@ -261,6 +261,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 20
 
  - [After 5 Million Hellos, It’s Time To Say Goodbye](https://medium.com/greetbot-blog/after-5-million-hellos-its-time-to-say-goodbye-8b82e40b5701)
+ - [Fast, disk space efficient package manager | pnpm](https://pnpm.io/)
 
 ## Authors
 
