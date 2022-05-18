@@ -262,7 +262,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [After 5 Million Hellos, It’s Time To Say Goodbye](https://medium.com/greetbot-blog/after-5-million-hellos-its-time-to-say-goodbye-8b82e40b5701)
  - [Fast, disk space efficient package manager | pnpm](https://pnpm.io/)
-https://wiki.php.net/rfc/stricter_implicit_boolean_coercions
+ - [PHP RFC: Stricter implicit boolean coercions](https://wiki.php.net/rfc/stricter_implicit_boolean_coercions)
+ - [New in Symfony 6.1: Services in Route Conditions](https://symfony.com/blog/new-in-symfony-6-1-services-in-route-conditions)
 
 ## Authors
 
