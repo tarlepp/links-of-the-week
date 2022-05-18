@@ -269,6 +269,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [JetBrains Fleet: The Next-Generation IDE by JetBrains](https://www.jetbrains.com/fleet/)
  - [GitHub Action for Continuous Benchmarking](https://github.com/marketplace/actions/continuous-benchmark)
  - [Faster. Better. More focused. Reading.](https://bionic-reading.com/)
+https://stitcher.io/blog/new-in-php-82
 
 ## Authors
 
