@@ -265,6 +265,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Stricter implicit boolean coercions](https://wiki.php.net/rfc/stricter_implicit_boolean_coercions)
  - [New in Symfony 6.1: Services in Route Conditions](https://symfony.com/blog/new-in-symfony-6-1-services-in-route-conditions)
  - [On granularity of tests focused on behaviour](https://dev.to/jakub_zalas/on-granularity-of-tests-focused-on-behaviour-3fcn)
+ - [Much ado about null](https://peakd.com/hive-168588/@crell/much-ado-about-null)
 
 ## Authors
 
