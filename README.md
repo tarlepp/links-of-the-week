@@ -271,6 +271,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Faster. Better. More focused. Reading.](https://bionic-reading.com/)
  - [What's new in PHP 8.2 - stitcher.io](https://stitcher.io/blog/new-in-php-82)
  - [Things Are Getting Rusty In Kernel Land | Hackaday](https://hackaday.com/2022/05/17/things-are-getting-rusty-in-kernel-land/)
+https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/
 
 ## Authors
 
