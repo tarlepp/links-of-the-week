@@ -273,6 +273,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Things Are Getting Rusty In Kernel Land | Hackaday](https://hackaday.com/2022/05/17/things-are-getting-rusty-in-kernel-land/)
  - [You Eat a Credit Card’s Worth of Plastic Every Week - Nautilus | Science Connected](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
  - [Introducing our crisis misinformation policy](https://blog.twitter.com/en_us/topics/company/2022/introducing-our-crisis-misinformation-policy)
+ - [What if technologies were countries? Game of Codes](https://gameofcodes.art/backend.html)
 
 ## Authors
 
