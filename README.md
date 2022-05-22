@@ -274,6 +274,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [You Eat a Credit Card’s Worth of Plastic Every Week - Nautilus | Science Connected](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
  - [Introducing our crisis misinformation policy](https://blog.twitter.com/en_us/topics/company/2022/introducing-our-crisis-misinformation-policy)
  - [What if technologies were countries? Game of Codes](https://gameofcodes.art/backend.html)
+https://www.npopov.com/2022/05/22/The-opcache-optimizer.html
 
 ## Authors
 
