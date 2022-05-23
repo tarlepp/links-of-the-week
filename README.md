@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 18](#week-18)
     * [Week 19](#week-19)
     * [Week 20](#week-20)
+    * [Week 21](#week-21)
 
 ## 2022
 
@@ -274,7 +275,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [You Eat a Credit Card’s Worth of Plastic Every Week - Nautilus | Science Connected](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
  - [Introducing our crisis misinformation policy](https://blog.twitter.com/en_us/topics/company/2022/introducing-our-crisis-misinformation-policy)
  - [What if technologies were countries? Game of Codes](https://gameofcodes.art/backend.html)
-https://www.npopov.com/2022/05/22/The-opcache-optimizer.html
+ - [The opcache optimizer](https://www.npopov.com/2022/05/22/The-opcache-optimizer.html)
+
+### Week 21
 
 ## Authors
 
