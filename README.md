@@ -283,6 +283,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Happyr Service Mocking](https://github.com/Happyr/service-mocking)
  - [zenstruck/browser](https://github.com/zenstruck/browser)
  - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
+ - [Don't use Mocking libraries](https://peakd.com/php/@crell/don-t-use-mocking-libraries)
 
 ## Authors
 
