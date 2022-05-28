@@ -285,6 +285,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
  - [Don't use Mocking libraries](https://peakd.com/php/@crell/don-t-use-mocking-libraries)
  - [An Introduction to PHP-FPM Tuning](https://tideways.com/profiler/blog/an-introduction-to-php-fpm-tuning)
+https://wiki.php.net/rfc/fetch_property_in_const_expressions
 
 ## Authors
 
