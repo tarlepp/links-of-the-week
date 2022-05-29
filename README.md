@@ -285,7 +285,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
  - [Don't use Mocking libraries](https://peakd.com/php/@crell/don-t-use-mocking-libraries)
  - [An Introduction to PHP-FPM Tuning](https://tideways.com/profiler/blog/an-introduction-to-php-fpm-tuning)
-https://wiki.php.net/rfc/fetch_property_in_const_expressions
+ - [PHP RFC: Fetch properties in const expressions](https://wiki.php.net/rfc/fetch_property_in_const_expressions)
+ - [Server-Sent events with PHP and Symfony](https://minompi.medium.com/server-sent-events-with-php-and-symfony-5d6596cc84c8)
+ - [The “Tick” Pattern — A Solution for Temporal Problems in State Machines](https://betterprogramming.pub/the-tick-pattern-a-solution-for-temporal-problems-in-state-machines-b78600772e8c)
 
 ## Authors
 
