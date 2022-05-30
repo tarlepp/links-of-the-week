@@ -294,6 +294,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 22
 
  - [PHP RFC: Add true type](https://wiki.php.net/rfc/true-type)
+ - [Boris Johnson to reportedly bring back imperial measurements to mark platinum jubilee](https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee)
 
 ## Authors
 
