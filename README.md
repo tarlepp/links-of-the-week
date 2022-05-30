@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 19](#week-19)
     * [Week 20](#week-20)
     * [Week 21](#week-21)
+    * [Week 22](#week-22)
 
 ## 2022
 
@@ -289,6 +290,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Server-Sent events with PHP and Symfony](https://minompi.medium.com/server-sent-events-with-php-and-symfony-5d6596cc84c8)
  - [The “Tick” Pattern — A Solution for Temporal Problems in State Machines](https://betterprogramming.pub/the-tick-pattern-a-solution-for-temporal-problems-in-state-machines-b78600772e8c)
  - [PHP 8.2 Performance Continues Moving In The Right Direction](https://www.phoronix.com/scan.php?page=news_item&px=Early-PHP-8.2-Benchmarks-Half)
+
+### Week 22
+
+ - [PHP RFC: Add true type](https://wiki.php.net/rfc/true-type)
 
 ## Authors
 
