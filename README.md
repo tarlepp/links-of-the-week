@@ -296,6 +296,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: Add true type](https://wiki.php.net/rfc/true-type)
  - [Boris Johnson to reportedly bring back imperial measurements to mark platinum jubilee](https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee)
  - [The Extinction Clock](https://extinctionclock.org/)
+ - [The opcache optimizer](https://www.npopov.com/2022/05/22/The-opcache-optimizer.html)
+ - [Efficiently Mock APIs Locally With Prism](https://jolicode.com/blog/efficiently-mock-apis-locally-with-prism)
 
 ## Authors
 
