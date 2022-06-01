@@ -300,6 +300,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Efficiently Mock APIs Locally With Prism](https://jolicode.com/blog/efficiently-mock-apis-locally-with-prism)
  - [Symfony 6.1 Goes PHP 8.1](https://derrabus.de/talks/symfony-6.1-goes-php-8.1.html)
  - [kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
+ - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 ## Authors
 
