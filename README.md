@@ -301,6 +301,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony 6.1 Goes PHP 8.1](https://derrabus.de/talks/symfony-6.1-goes-php-8.1.html)
  - [kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
  - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+ - [Amazon is launching an invite-based ordering option, starting with the PS5 and Xbox Series X](https://techcrunch.com/2022/06/02/amazon-invite-only-ordering-option-ps5-xbox-series-x/)
 
 ## Authors
 
