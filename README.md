@@ -302,6 +302,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect)
  - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
  - [Amazon is launching an invite-based ordering option, starting with the PS5 and Xbox Series X](https://techcrunch.com/2022/06/02/amazon-invite-only-ordering-option-ps5-xbox-series-x/)
+ - [Improve PHP code quality with static analysis](https://blog.bielawski.tech/improve-php-code-quality-with-static-analysis)
 
 ## Authors
 
