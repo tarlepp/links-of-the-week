@@ -304,6 +304,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Amazon is launching an invite-based ordering option, starting with the PS5 and Xbox Series X](https://techcrunch.com/2022/06/02/amazon-invite-only-ordering-option-ps5-xbox-series-x/)
  - [Improve PHP code quality with static analysis](https://blog.bielawski.tech/improve-php-code-quality-with-static-analysis)
  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+ - [Some Monolog logging best practices](https://getparthenon.com/blog/some-monolog-logging-best-practices/)
 
 ## Authors
 
