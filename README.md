@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 20](#week-20)
     * [Week 21](#week-21)
     * [Week 22](#week-22)
+    * [Week 23](#week-23)
 
 ## 2022
 
@@ -305,6 +306,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Improve PHP code quality with static analysis](https://blog.bielawski.tech/improve-php-code-quality-with-static-analysis)
  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
  - [Some Monolog logging best practices](https://getparthenon.com/blog/some-monolog-logging-best-practices/)
+
+### Week 23
 
 ## Authors
 
