@@ -310,7 +310,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 23
 
  - [Focusable Elements - Browser Compatibility Table](https://allyjs.io/data-tables/focusable.html)
-https://jolicode.com/blog/use-bayesian-averages-to-improve-rating-sorting-in-your-elasticsearch-index
+ - [Use Bayesian Averages to Improve Rating Sorting in your Elasticsearch Index](https://jolicode.com/blog/use-bayesian-averages-to-improve-rating-sorting-in-your-elasticsearch-index)
+ - [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/)
 
 ## Authors
 
