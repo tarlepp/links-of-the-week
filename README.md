@@ -315,6 +315,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [These Are the World’s 20 Most Expensive Cities for Expats](https://www.bloomberg.com/news/articles/2022-06-08/cost-of-living-crisis-these-are-the-world-s-most-expensive-cities-for-expats)
  - [Code Review: How to make enemies](http://repohealth.io/blog/code-review-how-to-make-enemies/)
  - [Webb Telescope's Giant Mirror Struck by Micrometeoroid](https://www.scientificamerican.com/article/webb-telescopes-giant-mirror-struck-by-micrometeoroid/)
+ - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
 
 ## Authors
 
