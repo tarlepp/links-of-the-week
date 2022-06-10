@@ -313,7 +313,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Use Bayesian Averages to Improve Rating Sorting in your Elasticsearch Index](https://jolicode.com/blog/use-bayesian-averages-to-improve-rating-sorting-in-your-elasticsearch-index)
  - [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/)
  - [These Are the World’s 20 Most Expensive Cities for Expats](https://www.bloomberg.com/news/articles/2022-06-08/cost-of-living-crisis-these-are-the-world-s-most-expensive-cities-for-expats)
-http://repohealth.io/blog/code-review-how-to-make-enemies/
+ - [Code Review: How to make enemies](http://repohealth.io/blog/code-review-how-to-make-enemies/)
+ - [Webb Telescope's Giant Mirror Struck by Micrometeoroid](https://www.scientificamerican.com/article/webb-telescopes-giant-mirror-struck-by-micrometeoroid/)
 
 ## Authors
 
