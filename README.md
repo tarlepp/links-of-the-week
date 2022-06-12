@@ -317,6 +317,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Webb Telescope's Giant Mirror Struck by Micrometeoroid](https://www.scientificamerican.com/article/webb-telescopes-giant-mirror-struck-by-micrometeoroid/)
  - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
  - [How to use Dragonfly to store user sessions with Symfony](https://medium.com/@edouard.courty/how-to-use-dragonfly-to-store-user-sessions-with-symfony-942fc5f7a688)
+ - [Symfony routes with conditions](https://medium.com/@zbirac010/symfony-routes-with-conditions-7aa56cffb5ff)
 
 ## Authors
 
