@@ -318,6 +318,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
  - [How to use Dragonfly to store user sessions with Symfony](https://medium.com/@edouard.courty/how-to-use-dragonfly-to-store-user-sessions-with-symfony-942fc5f7a688)
  - [Symfony routes with conditions](https://medium.com/@zbirac010/symfony-routes-with-conditions-7aa56cffb5ff)
+ - [Irssi 1.4.1 Released](https://irssi.org/2022/06/12/irssi-1.4.1-released/)
 
 ## Authors
 
