@@ -324,6 +324,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
  - [Why We’re Sticking with Ruby on Rails at GitLab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
+https://github.com/l-vo/sf_keycloak_example/tree/sflive
 
 ## Authors
 
