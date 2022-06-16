@@ -328,6 +328,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Command Line Interface Guidelines](https://clig.dev/)
  - [Integrating Keycloak with API Platform](https://woutercarabain.com/webdevelopment/integrating-keycloak-with-api-platform/)
  - [Solid Client PHP](https://github.com/dunglas/solid-client-php)
+ - [Solid: Your data, your choice. Advancing Web standards to empower people](https://solidproject.org/)
 
 ## Authors
 
