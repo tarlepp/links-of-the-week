@@ -324,7 +324,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
  - [Why We’re Sticking with Ruby on Rails at GitLab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
-https://github.com/l-vo/sf_keycloak_example/tree/sflive
+ - [Symfony demo with Keycloak](https://github.com/l-vo/sf_keycloak_example/tree/sflive)
+ - [Command Line Interface Guidelines](https://clig.dev/)
+ - [Integrating Keycloak with API Platform](https://woutercarabain.com/webdevelopment/integrating-keycloak-with-api-platform/)
 
 ## Authors
 
