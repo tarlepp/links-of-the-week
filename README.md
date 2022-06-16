@@ -327,6 +327,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony demo with Keycloak](https://github.com/l-vo/sf_keycloak_example/tree/sflive)
  - [Command Line Interface Guidelines](https://clig.dev/)
  - [Integrating Keycloak with API Platform](https://woutercarabain.com/webdevelopment/integrating-keycloak-with-api-platform/)
+ - [Solid Client PHP](https://github.com/dunglas/solid-client-php)
 
 ## Authors
 
