@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 22](#week-22)
     * [Week 23](#week-23)
     * [Week 24](#week-24)
+    * [Week 25](#week-25)
 
 ## 2022
 
@@ -330,6 +331,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Solid Client PHP](https://github.com/dunglas/solid-client-php)
  - [Solid: Your data, your choice. Advancing Web standards to empower people](https://solidproject.org/)
  - [PHP News, Articles, Upcoming Changes, and more](https://php.watch/)
+
+# Week 25
 
 ## Authors
 
