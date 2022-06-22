@@ -337,6 +337,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [NUKEMAP by Alex Wellerstein](https://nuclearsecrecy.com/nukemap/)
  - [PHP RFC: Auto-implement Stringable for string backed enums](https://wiki.php.net/rfc/auto-implement_stringable_for_string_backed_enums)
  - [Twitter to expand into long-form content with upcoming Twitter Notes feature](https://techcrunch.com/2022/06/21/twitter-to-expand-into-long-form-content-with-upcoming-twitter-notes-feature/)
+https://wiki.php.net/rfc/curl-url-api
 
 ## Authors
 
