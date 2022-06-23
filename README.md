@@ -340,6 +340,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP RFC: New Curl URL API](https://wiki.php.net/rfc/curl-url-api)
  - [Over 2000 pixel-perfect icons for web design](https://tabler-icons.io/)
  - [The path to seniority in software](https://chemaclass.com/blog/the-path-to-seniority-in-software/)
+ - [What you are missing by skipping ️ the docs 📑](https://medium.com/@TRKZI-Omar/why-skipping-the-documentation-is-killing-your-gains-147231a350f0)
 
 ## Authors
 
