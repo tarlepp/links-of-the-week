@@ -339,6 +339,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Twitter to expand into long-form content with upcoming Twitter Notes feature](https://techcrunch.com/2022/06/21/twitter-to-expand-into-long-form-content-with-upcoming-twitter-notes-feature/)
  - [PHP RFC: New Curl URL API](https://wiki.php.net/rfc/curl-url-api)
  - [Over 2000 pixel-perfect icons for web design](https://tabler-icons.io/)
+ - [The path to seniority in software](https://chemaclass.com/blog/the-path-to-seniority-in-software/)
 
 ## Authors
 
