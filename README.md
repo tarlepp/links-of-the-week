@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 23](#week-23)
     * [Week 24](#week-24)
     * [Week 25](#week-25)
+    * [Week 26](#week-26)
 
 ## 2022
 
@@ -332,7 +333,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Solid: Your data, your choice. Advancing Web standards to empower people](https://solidproject.org/)
  - [PHP News, Articles, Upcoming Changes, and more](https://php.watch/)
 
-# Week 25
+### Week 25
 
  - [NUKEMAP by Alex Wellerstein](https://nuclearsecrecy.com/nukemap/)
  - [PHP RFC: Auto-implement Stringable for string backed enums](https://wiki.php.net/rfc/auto-implement_stringable_for_string_backed_enums)
@@ -341,6 +342,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Over 2000 pixel-perfect icons for web design](https://tabler-icons.io/)
  - [The path to seniority in software](https://chemaclass.com/blog/the-path-to-seniority-in-software/)
  - [What you are missing by skipping ️ the docs 📑](https://medium.com/@TRKZI-Omar/why-skipping-the-documentation-is-killing-your-gains-147231a350f0)
+
+### Week 26
+
+ - [PHP version stats: July, 2022](https://stitcher.io/blog/php-version-stats-july-2022)
 
 ## Authors
 
