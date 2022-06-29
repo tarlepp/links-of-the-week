@@ -348,6 +348,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP version stats: July, 2022](https://stitcher.io/blog/php-version-stats-july-2022)
  - [On the use of enums](https://peakd.com/hive-168588/@crell/on-the-use-of-enums)
  - [CSS Architecture and Performance Engineering – CSS Wizardry – Web Performance Optimisation](https://csswizardry.com/)
+ - [Laravel Pint: a study of ambivalence](https://blog.codito.dev/2022/06/laravel-pint-a-study-of-ambivalence/)
 
 ## Authors
 
