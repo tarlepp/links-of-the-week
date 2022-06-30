@@ -351,6 +351,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Laravel Pint: a study of ambivalence](https://blog.codito.dev/2022/06/laravel-pint-a-study-of-ambivalence/)
  - [Flow is a most advanced and flexible PHP, data processing library](https://github.com/flow-php/etl)
  - [Opstrace - The Only Open Source Observability Distribution](https://opstrace.com/)
+ - [Watch the nuclear-powered flying hotel that can stay airborne for years with 5,000 passengers](https://interestingengineering.com/nuclear-powered-flying-hotel)
 
 ## Authors
 
