@@ -353,6 +353,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Opstrace - The Only Open Source Observability Distribution](https://opstrace.com/)
  - [Watch the nuclear-powered flying hotel that can stay airborne for years with 5,000 passengers](https://interestingengineering.com/nuclear-powered-flying-hotel)
  - [Kaivosyhtiö Keliberin rahoitus varmistui: Euroopan suurin litiumkaivos tulee Kaustiselle, rakennusvaihe työllistää jopa 500 henkilöä](https://yle.fi/uutiset/3-12516894)
+ - [From 204 requests per second to 480 with a single configuration change](https://getparthenon.com/blog/php-performance-tunning-from-204-to-480-with-a-single-config-change/)
 
 ## Authors
 
