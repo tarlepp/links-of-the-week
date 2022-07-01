@@ -354,6 +354,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Watch the nuclear-powered flying hotel that can stay airborne for years with 5,000 passengers](https://interestingengineering.com/nuclear-powered-flying-hotel)
  - [Kaivosyhtiö Keliberin rahoitus varmistui: Euroopan suurin litiumkaivos tulee Kaustiselle, rakennusvaihe työllistää jopa 500 henkilöä](https://yle.fi/uutiset/3-12516894)
  - [From 204 requests per second to 480 with a single configuration change](https://getparthenon.com/blog/php-performance-tunning-from-204-to-480-with-a-single-config-change/)
+ - [CVE-2022-2185: GitLab Remote Code Execution Vulnerability](https://cert.bournemouth.ac.uk/cve-2022-2185-gitlab-remote-code-execution-vulnerability/)
 
 ## Authors
 
