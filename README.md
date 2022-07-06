@@ -361,6 +361,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [New in 🐘 PHP 8.2](https://blog.codito.dev/2022/05/new-in-php-8.2/)
  - [How to See Full Request URI in FPM Status](https://jolicode.com/blog/how-to-see-full-request-uri-in-fpm-status)
+ - [PHP RFC: Constants in Traits](https://wiki.php.net/rfc/constants_in_traits)
 
 ## Authors
 
