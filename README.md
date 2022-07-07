@@ -363,6 +363,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to See Full Request URI in FPM Status](https://jolicode.com/blog/how-to-see-full-request-uri-in-fpm-status)
  - [PHP RFC: Constants in Traits](https://wiki.php.net/rfc/constants_in_traits)
  - [PHP RFC: Make the iterator_*() family accept all iterables](https://wiki.php.net/rfc/iterator_xyz_accept_array)
+ - [Decoupling your application User entity from Symfony’s security](https://simshaun.medium.com/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
 
 ## Authors
 
