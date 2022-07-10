@@ -366,6 +366,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Decoupling your application User entity from Symfony’s security](https://simshaun.medium.com/decoupling-your-application-user-from-symfonys-security-user-60fa31b4f7f2)
  - [My journey with the Symfony MIME type guesser](https://smaine-milianni.medium.com/my-journey-with-the-symfony-mime-type-guesser-28da04213b33)
  - [Analysis: Tech Layoffs Are Accelerating](https://news.crunchbase.com/job-market/tech-layoffs-analysis-h1-2022/)
+ - [How to Automatically Add Return Type Declarations without Breaking Your Code](https://getrector.org/blog/how-to-automatically-add-return-type-declarations-without-breaking-your-code)
 
 ## Authors
 
