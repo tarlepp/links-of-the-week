@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 25](#week-25)
     * [Week 26](#week-26)
     * [Week 27](#week-27)
+    * [Week 28](#week-28)
 
 ## 2022
 
@@ -367,6 +368,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [My journey with the Symfony MIME type guesser](https://smaine-milianni.medium.com/my-journey-with-the-symfony-mime-type-guesser-28da04213b33)
  - [Analysis: Tech Layoffs Are Accelerating](https://news.crunchbase.com/job-market/tech-layoffs-analysis-h1-2022/)
  - [How to Automatically Add Return Type Declarations without Breaking Your Code](https://getrector.org/blog/how-to-automatically-add-return-type-declarations-without-breaking-your-code)
+
+### Week 28
 
 ## Authors
 
