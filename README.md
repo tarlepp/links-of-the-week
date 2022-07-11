@@ -371,6 +371,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 28
 
+ - [Code Review: good practices](https://blog.codito.dev/2022/07/code-review-good-practices/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
