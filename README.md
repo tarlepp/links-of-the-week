@@ -374,6 +374,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Code Review: good practices](https://blog.codito.dev/2022/07/code-review-good-practices/)
  - [First Images from the James Webb Space Telescope](https://www.nasa.gov/webbfirstimages)
  - [The James Webb Telescope’s Profound Data Challenges 3000x farther from Earth than Hubble—with a 25x greater download deluge](https://spectrum.ieee.org/james-webb-telescope-communications)
+https://ossinsight.io/collections/web-framework/?monthly-rankings=prs&historical-rankings=prs
 
 ## Authors
 
