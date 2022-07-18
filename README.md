@@ -381,6 +381,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 29
 
  - [earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
+ - [Vite Next Generation Frontend Tooling](https://vitejs.dev/)
 
 ## Authors
 
