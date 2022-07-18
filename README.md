@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 26](#week-26)
     * [Week 27](#week-27)
     * [Week 28](#week-28)
+    * [Week 29](#week-29)
 
 ## 2022
 
@@ -376,6 +377,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The James Webb Telescope’s Profound Data Challenges 3000x farther from Earth than Hubble—with a 25x greater download deluge](https://spectrum.ieee.org/james-webb-telescope-communications)
  - [Web Framework - Ranking](https://ossinsight.io/collections/web-framework/?monthly-rankings=prs&historical-rankings=prs)
  - [Webb Compare](https://johnedchristensen.github.io/WebbCompare/)
+
+### Week 29
 
 ## Authors
 
