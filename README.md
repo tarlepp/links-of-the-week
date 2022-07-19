@@ -382,6 +382,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
  - [Vite Next Generation Frontend Tooling](https://vitejs.dev/)
+ - [Carbon, a new programming language from Google, aims to be C++ successor](https://9to5google.com/2022/07/19/carbon-programming-language-google-cpp/)
 
 ## Authors
 
