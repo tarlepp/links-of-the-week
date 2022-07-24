@@ -384,6 +384,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Vite Next Generation Frontend Tooling](https://vitejs.dev/)
  - [Carbon, a new programming language from Google, aims to be C++ successor](https://9to5google.com/2022/07/19/carbon-programming-language-google-cpp/)
  - [A mysterious radio signal has been detected from a distant galaxy, MIT says](https://www.bostonglobe.com/2022/07/18/metro/mysterious-radio-signal-has-been-detected-distant-galaxy-mit-says/)
+ - [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
 
 ## Authors
 
