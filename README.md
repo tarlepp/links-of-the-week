@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 27](#week-27)
     * [Week 28](#week-28)
     * [Week 29](#week-29)
+    * [Week 30](#week-30)
 
 ## 2022
 
@@ -385,6 +386,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Carbon, a new programming language from Google, aims to be C++ successor](https://9to5google.com/2022/07/19/carbon-programming-language-google-cpp/)
  - [A mysterious radio signal has been detected from a distant galaxy, MIT says](https://www.bostonglobe.com/2022/07/18/metro/mysterious-radio-signal-has-been-detected-distant-galaxy-mit-says/)
  - [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
+
+### Week 30
 
 ## Authors
 
