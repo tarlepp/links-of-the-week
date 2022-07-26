@@ -389,6 +389,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 30
 
+ - [Ampere Altra Max Q8030 80 Core Arm CPU Delidded & Benchmarked, Beats Fastest AMD Threadripper In Geekbench](https://wccftech.com/ampere-altra-max-q8030-80-core-arm-cpu-delidded-benchmarked-beats-fastest-amd-threadripper/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
