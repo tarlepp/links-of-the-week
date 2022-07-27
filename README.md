@@ -391,6 +391,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Ampere Altra Max Q8030 80 Core Arm CPU Delidded & Benchmarked, Beats Fastest AMD Threadripper In Geekbench](https://wccftech.com/ampere-altra-max-q8030-80-core-arm-cpu-delidded-benchmarked-beats-fastest-amd-threadripper/)
  - [electricityMap | Live 24/7 CO₂ emissions of electricity consumption](https://app.electricitymaps.com/)
+ - [Interesting hack to handle incompatibility between PHP versions using mixed type in a method signature](https://twitter.com/Mark_Baker/status/1552326053057683459)
 
 ## Authors
 
