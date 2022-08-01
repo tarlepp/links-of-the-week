@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 28](#week-28)
     * [Week 29](#week-29)
     * [Week 30](#week-30)
+    * [Week 31](#week-31)
 
 ## 2022
 
@@ -392,6 +393,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Ampere Altra Max Q8030 80 Core Arm CPU Delidded & Benchmarked, Beats Fastest AMD Threadripper In Geekbench](https://wccftech.com/ampere-altra-max-q8030-80-core-arm-cpu-delidded-benchmarked-beats-fastest-amd-threadripper/)
  - [electricityMap | Live 24/7 CO₂ emissions of electricity consumption](https://app.electricitymaps.com/)
  - [Interesting hack to handle incompatibility between PHP versions using mixed type in a method signature](https://twitter.com/Mark_Baker/status/1552326053057683459)
+
+### Week 31
+
+ - https://wolfgang-klinger.medium.com/how-to-handle-messages-in-batches-with-symfony-messenger-c91b5aa1c8b1
 
 ## Authors
 
