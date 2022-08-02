@@ -397,6 +397,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 31
 
  - https://wolfgang-klinger.medium.com/how-to-handle-messages-in-batches-with-symfony-messenger-c91b5aa1c8b1
+ - https://github.com/Unleash/unleash-client-symfony
 
 ## Authors
 
