@@ -398,6 +398,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - https://wolfgang-klinger.medium.com/how-to-handle-messages-in-batches-with-symfony-messenger-c91b5aa1c8b1
  - https://github.com/Unleash/unleash-client-symfony
+ - https://www.forbes.com/sites/jamiecartereurope/2022/07/28/earth-is-suddenly-spinning-faster-why-our-planet-just-recorded-its-shortest-day-since-records-began/?sh=5f8e4f608561
 
 ## Authors
 
