@@ -402,6 +402,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
  - https://obsidian.md/
  - https://linear.app/
+ - https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/
 
 ## Authors
 
