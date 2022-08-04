@@ -401,6 +401,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - https://www.forbes.com/sites/jamiecartereurope/2022/07/28/earth-is-suddenly-spinning-faster-why-our-planet-just-recorded-its-shortest-day-since-records-began/?sh=5f8e4f608561
  - https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
  - https://obsidian.md/
+ - https://linear.app/
 
 ## Authors
 
