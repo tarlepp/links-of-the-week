@@ -403,6 +403,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - https://obsidian.md/
  - https://linear.app/
  - https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/
+ - https://developer.chrome.com/blog/has-with-cq-m105/
 
 ## Authors
 
