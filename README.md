@@ -404,6 +404,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - https://linear.app/
  - https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/
  - https://developer.chrome.com/blog/has-with-cq-m105/
+ - https://www.thelocal.se/20220804/how-sweden-has-profited-from-selling-norwegian-energy-back-to-norway/
 
 ## Authors
 
