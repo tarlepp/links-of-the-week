@@ -396,15 +396,16 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 31
 
- - https://wolfgang-klinger.medium.com/how-to-handle-messages-in-batches-with-symfony-messenger-c91b5aa1c8b1
- - https://github.com/Unleash/unleash-client-symfony
- - https://www.forbes.com/sites/jamiecartereurope/2022/07/28/earth-is-suddenly-spinning-faster-why-our-planet-just-recorded-its-shortest-day-since-records-began/?sh=5f8e4f608561
- - https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
- - https://obsidian.md/
- - https://linear.app/
- - https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/
- - https://developer.chrome.com/blog/has-with-cq-m105/
- - https://www.thelocal.se/20220804/how-sweden-has-profited-from-selling-norwegian-energy-back-to-norway/
+ - [How to handle messages in batches with Symfony Messenger](https://wolfgang-klinger.medium.com/how-to-handle-messages-in-batches-with-symfony-messenger-c91b5aa1c8b1)
+ - [A Symfony bundle for PHP implementation of the Unleash protocol aka Feature Flags in GitLab](https://github.com/Unleash/unleash-client-symfony)
+ - [Earth Is Suddenly Spinning Faster. Why Our Planet Just Recorded Its Shortest Day Since Records Began](https://www.forbes.com/sites/jamiecartereurope/2022/07/28/earth-is-suddenly-spinning-faster-why-our-planet-just-recorded-its-shortest-day-since-records-began/?sh=5f8e4f608561)
+ - [How I Used DALL·E 2 to Generate The Logo for OctoSQL](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
+ - [A second brain, for you, forever](https://obsidian.md/)
+ - [The issue tracking tool you'll enjoy using](https://linear.app/)
+ - [GitLab plans to delete dormant projects in free accounts](https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/)
+ - [@container and :has(): two powerful new responsive APIs landing in Chromium 105](https://developer.chrome.com/blog/has-with-cq-m105/)
+ - [How Sweden has profited from selling Norwegian energy back to Norway](https://www.thelocal.se/20220804/how-sweden-has-profited-from-selling-norwegian-energy-back-to-norway/)
+ - [Symfony Testing: using Repository pattern without connecting to database](https://saeidme.medium.com/symfony-testing-using-repository-pattern-without-connecting-to-database-f1ec1f147372)
 
 ## Authors
 
