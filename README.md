@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 29](#week-29)
     * [Week 30](#week-30)
     * [Week 31](#week-31)
+    * [Week 32](#week-32)
 
 ## 2022
 
@@ -406,6 +407,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [@container and :has(): two powerful new responsive APIs landing in Chromium 105](https://developer.chrome.com/blog/has-with-cq-m105/)
  - [How Sweden has profited from selling Norwegian energy back to Norway](https://www.thelocal.se/20220804/how-sweden-has-profited-from-selling-norwegian-energy-back-to-norway/)
  - [Symfony Testing: using Repository pattern without connecting to database](https://saeidme.medium.com/symfony-testing-using-repository-pattern-without-connecting-to-database-f1ec1f147372)
+
+### Week 32
 
 ## Authors
 
