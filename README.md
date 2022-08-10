@@ -410,6 +410,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 32
 
+ - [CSS usage metrics > all properties > stack rank](https://chromestatus.com/metrics/css/popularity)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
