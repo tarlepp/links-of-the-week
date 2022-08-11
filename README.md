@@ -412,6 +412,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [CSS usage metrics > all properties > stack rank](https://chromestatus.com/metrics/css/popularity)
  - [Chaos Monkey](https://netflix.github.io/chaosmonkey/)
+ - [Office Design Photos | Office Snapshots](https://officesnapshots.com/photos/)
 
 ## Authors
 
