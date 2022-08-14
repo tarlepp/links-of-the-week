@@ -415,6 +415,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Office Design Photos | Office Snapshots](https://officesnapshots.com/photos/)
  - [Two Chinese Cities Approve Baidu’s Unmanned Self-Driving Taxis](https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689)
  - ['Accidents can happen at European nuclear plants too,' Russian ex-president says](https://www.reuters.com/world/europe/accidents-can-happen-european-nuclear-plants-too-russian-ex-president-says-2022-08-12/)
+ - [How to apply Hexagonal/Clean/Onion architecture with only two changes to your symfony project](https://saeidme.medium.com/how-to-apply-hexagonal-clean-onion-architecture-with-only-two-changes-to-your-symfony-project-2c5fe16d5a4f)
 
 ## Authors
 
