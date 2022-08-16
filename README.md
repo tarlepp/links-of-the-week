@@ -421,6 +421,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 33
 
  - [The Steam Deck makes PlayStation’s biggest games portable](https://www.theverge.com/2022/8/10/23298962/steam-deck-marvels-spider-man-remastered-playstation-portable-game)
+ - [Composer 2.4 Release](https://blog.packagist.com/composer-2-4/)
 
 ## Authors
 
