@@ -423,6 +423,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Steam Deck makes PlayStation’s biggest games portable](https://www.theverge.com/2022/8/10/23298962/steam-deck-marvels-spider-man-remastered-playstation-portable-game)
  - [Composer 2.4 Release](https://blog.packagist.com/composer-2-4/)
  - [composer.fish](https://sources.debian.org/src/fish/3.5.1%2Bds-1/share/completions/composer.fish/)
+ - [Report: Windows 11 22H2 update will be released on September 20](https://arstechnica.com/gadgets/2022/08/report-windows-11-22h2-update-will-be-released-on-september-20/)
 
 ## Authors
 
