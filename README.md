@@ -430,6 +430,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 34
 
  - [Webb’s Jupiter Images Showcase Auroras, Hazes](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
+ - [Viral Post Generator](https://viralpostgenerator.com/)
 
 ## Authors
 
