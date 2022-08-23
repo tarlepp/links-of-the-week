@@ -52,6 +52,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 31](#week-31)
     * [Week 32](#week-32)
     * [Week 33](#week-33)
+    * [Week 34](#week-34)
 
 ## 2022
 
@@ -425,6 +426,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [composer.fish](https://sources.debian.org/src/fish/3.5.1%2Bds-1/share/completions/composer.fish/)
  - [Report: Windows 11 22H2 update will be released on September 20](https://arstechnica.com/gadgets/2022/08/report-windows-11-22h2-update-will-be-released-on-september-20/)
  - [Ethereum’s “Merge” is about to put every ether miner out of work](https://arstechnica.com/tech-policy/2022/08/the-merge-the-biggest-change-in-ethereum-history-explained/)
+
+### Week 34
+
+ - [Webb’s Jupiter Images Showcase Auroras, Hazes](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
 
 ## Authors
 
