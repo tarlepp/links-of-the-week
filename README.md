@@ -438,6 +438,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 35
 
  - [⚡️ Day ahead electricity prices in Europe](https://euenergy.live/)
+ - [MohammadWaleed/keycloak-admin-client](https://github.com/MohammadWaleed/keycloak-admin-client)
 
 ## Authors
 
