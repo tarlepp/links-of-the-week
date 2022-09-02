@@ -439,6 +439,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [⚡️ Day ahead electricity prices in Europe](https://euenergy.live/)
  - [MohammadWaleed/keycloak-admin-client](https://github.com/MohammadWaleed/keycloak-admin-client)
+ - [ASRock X670 may need some time to load](https://videocardz.com/newz/asrock-x670e-motherboard-may-need-more-than-6-minutes-for-first-boot)
 
 ## Authors
 
