@@ -441,6 +441,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [MohammadWaleed/keycloak-admin-client](https://github.com/MohammadWaleed/keycloak-admin-client)
  - [ASRock X670 may need some time to load](https://videocardz.com/newz/asrock-x670e-motherboard-may-need-more-than-6-minutes-for-first-boot)
  - [AMD Ryzen 7000 CPUs Reportedly Run Hot, Ryzen 9 7950X Hits Up To 95C Thermal Threshold at 230W, Ryzen 5 7600X Up To 90C at 120W](https://wccftech.com/amd-ryzen-7000-zen-4-cpus-run-hot-ryzen-9-7950x-up-to-95c-230w-ryzen-5-7600x-up-to-90c-at-120w-rumor/)
+ - [Revisiting Lazy-Loading Proxies in PHP](https://symfony.com/blog/revisiting-lazy-loading-proxies-in-php)
 
 ## Authors
 
