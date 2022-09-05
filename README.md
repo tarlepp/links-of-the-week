@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 33](#week-33)
     * [Week 34](#week-34)
     * [Week 35](#week-35)
+    * [Week 36](#week-36)
 
 ## 2022
 
@@ -443,6 +444,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [AMD Ryzen 7000 CPUs Reportedly Run Hot, Ryzen 9 7950X Hits Up To 95C Thermal Threshold at 230W, Ryzen 5 7600X Up To 90C at 120W](https://wccftech.com/amd-ryzen-7000-zen-4-cpus-run-hot-ryzen-9-7950x-up-to-95c-230w-ryzen-5-7600x-up-to-90c-at-120w-rumor/)
  - [Revisiting Lazy-Loading Proxies in PHP](https://symfony.com/blog/revisiting-lazy-loading-proxies-in-php)
  - [Decoupling your application using Symfony Messenger and events - Demo](https://github.com/monteiro/symfonycon-winter-2021)
+
+### Week 36
 
 ## Authors
 
