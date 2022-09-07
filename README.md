@@ -447,6 +447,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 36
 
+ - [Using PHP 8.1 enumerations in a Symfony project](https://www.strangebuzz.com/en/blog/using-php-8-1-enumerations-in-a-symfony-project)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
