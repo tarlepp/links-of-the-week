@@ -450,6 +450,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Using PHP 8.1 enumerations in a Symfony project](https://www.strangebuzz.com/en/blog/using-php-8-1-enumerations-in-a-symfony-project)
  - [Intel Breaks 8 GHz Frequency After More Than A Decade With LN2 Overclocked Raptor Lake Core i9-13900K CPU](https://wccftech.com/intel-breaks-8-ghz-frequency-after-more-than-a-decade-with-ln2-overclocked-raptor-lake-core-i9-13900k-cpu/)
  - [Xdebug for PHP developers - PhpStorm and Docker](https://q.agency/blog/xdebug-for-php-developers/)
+ - https://uuid6.github.io/uuid6-ietf-draft/
 
 ## Authors
 
