@@ -453,6 +453,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New UUID Formats](https://uuid6.github.io/uuid6-ietf-draft/)
  - [Intel Arc GPU effectively cancelled: 'decision has been made'](https://www.tweaktown.com/news/88393/intel-arc-gpu-effectively-cancelled-decision-has-been-made/index.html)
  - [Batch processing with Symfony and Docker](https://dev.to/codingibra/batch-processing-with-symfony-and-docker-19nj)
+ - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.fr/2022/09/mercure-0-14/)
 
 ## Authors
 
