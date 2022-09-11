@@ -451,9 +451,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Intel Breaks 8 GHz Frequency After More Than A Decade With LN2 Overclocked Raptor Lake Core i9-13900K CPU](https://wccftech.com/intel-breaks-8-ghz-frequency-after-more-than-a-decade-with-ln2-overclocked-raptor-lake-core-i9-13900k-cpu/)
  - [Xdebug for PHP developers - PhpStorm and Docker](https://q.agency/blog/xdebug-for-php-developers/)
  - [New UUID Formats](https://uuid6.github.io/uuid6-ietf-draft/)
- - [Intel Arc GPU effectively cancelled: 'decision has been made'
-
-Read more: https://www.tweaktown.com/news/88393/intel-arc-gpu-effectively-cancelled-decision-has-been-made/index.html](https://www.tweaktown.com/news/88393/intel-arc-gpu-effectively-cancelled-decision-has-been-made/index.html)
+ - [Intel Arc GPU effectively cancelled: 'decision has been made'](https://www.tweaktown.com/news/88393/intel-arc-gpu-effectively-cancelled-decision-has-been-made/index.html)
+ - [Batch processing with Symfony and Docker](https://dev.to/codingibra/batch-processing-with-symfony-and-docker-19nj)
 
 ## Authors
 
