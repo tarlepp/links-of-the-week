@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 34](#week-34)
     * [Week 35](#week-35)
     * [Week 36](#week-36)
+    * [Week 37](#week-37)
 
 ## 2022
 
@@ -455,6 +456,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Batch processing with Symfony and Docker](https://dev.to/codingibra/batch-processing-with-symfony-and-docker-19nj)
  - [Mercure 0.14: Major Performance Improvement and New Features](https://dunglas.fr/2022/09/mercure-0-14/)
  - [iOS 16 Arrives Monday: All the Best New Features for iPhone](https://www.cnet.com/tech/mobile/ios-16-arrives-monday-all-the-best-new-features-for-iphone/)
+
+### Week 37
 
 ## Authors
 
