@@ -460,6 +460,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 37
 
  - [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+ - [Standardization in web projects](https://bitbag.io/blog/standardization-in-web-projects)
 
 ## Authors
 
