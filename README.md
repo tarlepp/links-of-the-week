@@ -462,7 +462,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [vaultwarden](https://github.com/dani-garcia/vaultwarden)
  - [Standardization in web projects](https://bitbag.io/blog/standardization-in-web-projects)
  - [Microservices-based architecture in eCommerce](https://bitbag.io/blog/ecommerce-microservices-architecture)
- - [Shocking document: How the US planned the war and energy crisis in Europe](https://nyadagbladet.se/utrikes/shocking-document-how-the-us-planned-the-war-and-energy-crisis-in-europe/amp/)
+ - [Thanos JS](https://thanosjs.org/)
 
 ## Authors
 
