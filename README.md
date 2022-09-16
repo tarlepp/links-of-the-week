@@ -463,6 +463,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Standardization in web projects](https://bitbag.io/blog/standardization-in-web-projects)
  - [Microservices-based architecture in eCommerce](https://bitbag.io/blog/ecommerce-microservices-architecture)
  - [Thanos JS](https://thanosjs.org/)
+ - [Valinor • PHP object mapper with strong type support](https://github.com/CuyZ/Valinor)
 
 ## Authors
 
