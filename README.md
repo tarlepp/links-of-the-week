@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 35](#week-35)
     * [Week 36](#week-36)
     * [Week 37](#week-37)
+    * [Week 38(#week-38)
 
 ## 2022
 
@@ -465,9 +466,11 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Thanos JS](https://thanosjs.org/)
  - [Valinor • PHP object mapper with strong type support](https://github.com/CuyZ/Valinor)
  - [SWORD: the merge of Symfony and WordPress](https://dev.to/williarin/sword-the-merge-of-symfony-and-wordpress-4i3c)
- - [Modular Monolith Application in Symfony](https://medium.com/@dotcom.software/modular-monolith-application-in-symfony-e2b23c624f8c
+ - [Modular Monolith Application in Symfony](https://medium.com/@dotcom.software/modular-monolith-application-in-symfony-e2b23c624f8c)
 
-https://www.remotion.dev/
+### Week 38
+
+ - [Make videos programmatically](https://www.remotion.dev/)
 
 ## Authors
 
