@@ -56,7 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 35](#week-35)
     * [Week 36](#week-36)
     * [Week 37](#week-37)
-    * [Week 38(#week-38)
+    * [Week 38](#week-38)
 
 ## 2022
 
@@ -471,6 +471,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 38
 
  - [Make videos programmatically](https://www.remotion.dev/)
+ - [Can we consider DateTimeImmutable a primitive type?](https://matthiasnoback.nl/2022/09/can-we-consider-datetimeimmutable-a-primitive-type/)
 
 ## Authors
 
