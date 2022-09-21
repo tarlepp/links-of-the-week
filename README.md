@@ -472,7 +472,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Make videos programmatically](https://www.remotion.dev/)
  - [Can we consider DateTimeImmutable a primitive type?](https://matthiasnoback.nl/2022/09/can-we-consider-datetimeimmutable-a-primitive-type/)
-https://www.dantleech.com/blog/2022/09/19/encountering-go-as-a-php-developer/
+ - [Encountering Go as a PHP developer](https://www.dantleech.com/blog/2022/09/19/encountering-go-as-a-php-developer/)
+ - [HOOBS™ – USER FRIENDLY HOME AUTOMATION FOR EV](https://hoobs.com/)
 
 ## Authors
 
