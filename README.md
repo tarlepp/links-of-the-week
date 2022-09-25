@@ -475,6 +475,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Encountering Go as a PHP developer](https://www.dantleech.com/blog/2022/09/19/encountering-go-as-a-php-developer/)
  - [HOOBS™ – USER FRIENDLY HOME AUTOMATION FOR EV](https://hoobs.com/)
  - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
+ - [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889)
 
 ## Authors
 
