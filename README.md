@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 36](#week-36)
     * [Week 37](#week-37)
     * [Week 38](#week-38)
+    * [Week 39](#week-39)
 
 ## 2022
 
@@ -476,6 +477,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [HOOBS™ – USER FRIENDLY HOME AUTOMATION FOR EV](https://hoobs.com/)
  - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
  - [Serving High Performance the Symfony App with Swoole/Docker](https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889)
+
+### Week 39
+
+ - [Convert a webpage to an image or pdf using headless Chrome](https://github.com/spatie/browsershot)
 
 ## Authors
 
