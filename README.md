@@ -482,6 +482,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Convert a webpage to an image or pdf using headless Chrome](https://github.com/spatie/browsershot)
  - [How to fake time in a MySQL Container](https://jolicode.com/blog/how-to-fake-time-in-a-mysql-container)
+ - [JSON to PHP class generator](https://jacobdekeizer.github.io/json-to-php-generator)
 
 ## Authors
 
