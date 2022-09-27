@@ -484,6 +484,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [How to fake time in a MySQL Container](https://jolicode.com/blog/how-to-fake-time-in-a-mysql-container)
  - [JSON to PHP class generator](https://jacobdekeizer.github.io/json-to-php-generator)
  - [Intel® Geti™ Platform - Intel&#039;s Computer Vision AI Platform](https://geti.intel.com/)
+ - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
 
 ## Authors
 
