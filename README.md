@@ -486,6 +486,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Intel® Geti™ Platform - Intel&#039;s Computer Vision AI Platform](https://geti.intel.com/)
  - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
  - [Web Scraping Tool & Free Web Crawlers | Octoparse](https://www.octoparse.com/)
+https://www.postgresql.org/about/news/postgresql-anonymizer-11-privacy-by-default-for-postgres-2253/
 
 ## Authors
 
