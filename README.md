@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 37](#week-37)
     * [Week 38](#week-38)
     * [Week 39](#week-39)
+    * [Week 40](#week-40)
 
 ## 2022
 
@@ -489,6 +490,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PostgreSQL Anonymizer 1.1: Privacy By Default For Postgres](https://www.postgresql.org/about/news/postgresql-anonymizer-11-privacy-by-default-for-postgres-2253/)
  - [Google is shutting down Stadia](https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023)
  - [Tesla CEO Elon Musk unveils prototype humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
+
+### Week 40
 
 ## Authors
 
