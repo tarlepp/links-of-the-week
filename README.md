@@ -495,7 +495,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [“If you don’t make it beautiful, it’s for sure doomed”: putting the Vault in GitHub’s Arctic Code Vault](https://github.blog/2022-09-20-if-you-dont-make-it-beautiful-its-for-sure-doomed-putting-the-vault-in-githubs-arctic-code-vault/)
  - [App Store experienced sharp revenue drop in September, Morgan Stanley says](https://techcrunch.com/2022/10/04/app-store-experienced-sharp-revenue-drop-in-september-morgan-stanley-says/)
-https://github.com/FiloSottile/mkcert
+ - [mkcert](https://github.com/FiloSottile/mkcert)
+ - [What Is a Salaried Employee?](https://www.thebalancemoney.com/what-is-a-salary-employee-2062093)
 
 ## Authors
 
