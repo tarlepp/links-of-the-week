@@ -497,6 +497,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [App Store experienced sharp revenue drop in September, Morgan Stanley says](https://techcrunch.com/2022/10/04/app-store-experienced-sharp-revenue-drop-in-september-morgan-stanley-says/)
  - [mkcert](https://github.com/FiloSottile/mkcert)
  - [What Is a Salaried Employee?](https://www.thebalancemoney.com/what-is-a-salary-employee-2062093)
+ - [The Super Mario Bros. Movie](https://twitter.com/supermariomovie/status/1578116647893827594)
 
 ## Authors
 
