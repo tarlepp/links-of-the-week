@@ -500,6 +500,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Super Mario Bros. Movie](https://twitter.com/supermariomovie/status/1578116647893827594)
  - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
  - [ADR Tools](https://github.com/npryce/adr-tools)
+ - [China turns on the world's largest compressed air energy storage plant](https://newatlas.com/energy/china-100mw-compressed-air/)
 
 
 ## Authors
