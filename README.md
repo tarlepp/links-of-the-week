@@ -499,6 +499,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [What Is a Salaried Employee?](https://www.thebalancemoney.com/what-is-a-salary-employee-2062093)
  - [The Super Mario Bros. Movie](https://twitter.com/supermariomovie/status/1578116647893827594)
  - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
+ - [ADR Tools](https://github.com/npryce/adr-tools)
+
 
 ## Authors
 
