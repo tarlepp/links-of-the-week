@@ -501,6 +501,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
  - [ADR Tools](https://github.com/npryce/adr-tools)
  - [China turns on the world's largest compressed air energy storage plant](https://newatlas.com/energy/china-100mw-compressed-air/)
+ - [Roave Docbook Tool](https://github.com/Roave/DocbookTool)
 
 
 ## Authors
