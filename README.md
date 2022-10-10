@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 38](#week-38)
     * [Week 39](#week-39)
     * [Week 40](#week-40)
+    * [Week 41](#week-41)
 
 ## 2022
 
@@ -505,6 +506,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony Messenger pre and post-handle messages](https://smaine-milianni.medium.com/symfony-messenger-pre-and-post-handle-messages-2d83c7da90da)
  - [Postgres WASM](https://github.com/snaplet/postgres-wasm)
 
+### Week 41
 
 ## Authors
 
