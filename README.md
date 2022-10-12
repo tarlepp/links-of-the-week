@@ -509,6 +509,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 41
 
  - [Introducing the Fleet Public Preview](https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/)
+ - [PhpStorm 2022.3 EAP Is Open!](https://blog.jetbrains.com/phpstorm/2022/09/phpstorm-2022-3-eap-is-open/)
 
 ## Authors
 
