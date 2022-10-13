@@ -512,6 +512,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PhpStorm 2022.3 EAP Is Open!](https://blog.jetbrains.com/phpstorm/2022/09/phpstorm-2022-3-eap-is-open/)
  - [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
  - [Remix - Build Better Websites](https://remix.run/)
+ - [Framework reimagined for the edge! - Qwik](https://qwik.builder.io/)
 
 ## Authors
 
