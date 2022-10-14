@@ -513,6 +513,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
  - [Remix - Build Better Websites](https://remix.run/)
  - [Framework reimagined for the edge! - Qwik](https://qwik.builder.io/)
+ - [Exclusive: Musk’s SpaceX says it can no longer pay for critical satellite services in Ukraine, asks Pentagon to pick up the tab](https://edition.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html)
 
 ## Authors
 
