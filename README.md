@@ -516,6 +516,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Exclusive: Musk’s SpaceX says it can no longer pay for critical satellite services in Ukraine, asks Pentagon to pick up the tab](https://edition.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html)
  - [FrankenPHP: the modern PHP app server](https://frankenphp.dev/)
  - [The Russian Federation confirmed that military aircraft of Belarus are preparing to carry nuclear weapons](https://mil.in.ua/en/news/the-russian-federation-confirmed-that-military-aircraft-of-belarus-are-preparing-to-carry-nuclear-weapons/)
+ - [Stop Using Entities in Symfony Forms](https://blog.devgenius.io/stop-using-entities-in-symfony-forms-c42ec0f5fcf6)
 
 ## Authors
 
