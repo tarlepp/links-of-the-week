@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 39](#week-39)
     * [Week 40](#week-40)
     * [Week 41](#week-41)
+    * [Week 42](#week-42)
 
 ## 2022
 
@@ -517,6 +518,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [FrankenPHP: the modern PHP app server](https://frankenphp.dev/)
  - [The Russian Federation confirmed that military aircraft of Belarus are preparing to carry nuclear weapons](https://mil.in.ua/en/news/the-russian-federation-confirmed-that-military-aircraft-of-belarus-are-preparing-to-carry-nuclear-weapons/)
  - [Stop Using Entities in Symfony Forms](https://blog.devgenius.io/stop-using-entities-in-symfony-forms-c42ec0f5fcf6)
+
+### Week 42
+
+ - [Validating your data fixtures with the Alice Symfony bundle](https://www.strangebuzz.com/en/blog/validating-your-data-fixtures-with-the-alice-symfony-bundle)
 
 ## Authors
 
