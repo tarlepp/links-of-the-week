@@ -524,6 +524,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Validating your data fixtures with the Alice Symfony bundle](https://www.strangebuzz.com/en/blog/validating-your-data-fixtures-with-the-alice-symfony-bundle)
  - [Surprise discovery of radio signals could help track space junk and limit global security risks](https://www.abc.net.au/news/2022-10-18/space-junk-tracked-by-waves-that-make-our-car-radio-sing/101526886)
  - [Docker Compose - a few tips #1](https://blog.roc-it.tech/docker-compose-tips-1/)
+ - [PHP 8.1: New #[ReturnTypeWillChange] attribute](https://php.watch/versions/8.1/ReturnTypeWillChange)
 
 ## Authors
 
