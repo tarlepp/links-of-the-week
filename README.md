@@ -526,6 +526,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Docker Compose - a few tips #1](https://blog.roc-it.tech/docker-compose-tips-1/)
  - [PHP 8.1: New #[ReturnTypeWillChange] attribute](https://php.watch/versions/8.1/ReturnTypeWillChange)
  - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
+ - [Online String Tools - Simple, free and easy to use string utilities](https://onlinestringtools.com/)
 
 ## Authors
 
