@@ -525,6 +525,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Surprise discovery of radio signals could help track space junk and limit global security risks](https://www.abc.net.au/news/2022-10-18/space-junk-tracked-by-waves-that-make-our-car-radio-sing/101526886)
  - [Docker Compose - a few tips #1](https://blog.roc-it.tech/docker-compose-tips-1/)
  - [PHP 8.1: New #[ReturnTypeWillChange] attribute](https://php.watch/versions/8.1/ReturnTypeWillChange)
+ - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 
 ## Authors
 
