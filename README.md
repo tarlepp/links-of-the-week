@@ -527,6 +527,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHP 8.1: New #[ReturnTypeWillChange] attribute](https://php.watch/versions/8.1/ReturnTypeWillChange)
  - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
  - [Online String Tools - Simple, free and easy to use string utilities](https://onlinestringtools.com/)
+ - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
 
 ## Authors
 
