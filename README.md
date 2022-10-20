@@ -529,7 +529,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Online String Tools - Simple, free and easy to use string utilities](https://onlinestringtools.com/)
  - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
  - [n – Interactively Manage Your Node.js Versions](https://github.com/tj/n)
-https://github.com/pharako/mysql-dbal
+ - [Pharako\DBAL\Connection is an extension of Doctrine\DBAL\Connection](https://github.com/pharako/mysql-dbal)
+ - [Chess grandmaster files $100M defamation lawsuit over cheating allegations](https://www.axios.com/2022/10/20/hans-niemann-lawsuit-magnus-carlsen-chess-cheating-scandal)
 
 ## Authors
 
