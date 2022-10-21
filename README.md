@@ -537,6 +537,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 [Tarmo Leppänen](https://github.com/tarlepp)
 
+And big thanks to all [contributors](https://github.com/tarlepp/links-of-the-week/graphs/contributors)
+
 ## License
 
 [The MIT License (MIT)](LICENSE)
