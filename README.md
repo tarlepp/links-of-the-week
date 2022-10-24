@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 40](#week-40)
     * [Week 41](#week-41)
     * [Week 42](#week-42)
+    * [Week 43](#week-43)
 
 ## 2022
 
@@ -532,6 +533,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Pharako\DBAL\Connection is an extension of Doctrine\DBAL\Connection](https://github.com/pharako/mysql-dbal)
  - [Chess grandmaster files $100M defamation lawsuit over cheating allegations](https://www.axios.com/2022/10/20/hans-niemann-lawsuit-magnus-carlsen-chess-cheating-scandal)
  - [FriendsOfPHP / Well-Known Implementations](https://github.com/FriendsOfPHP/well-known-implementations)
+
+### Week 43
 
 ## Authors
 
