@@ -538,6 +538,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Slow roads](https://slowroads.io/)
  - [Dagger is a programmable CI/CD engine that runs your pipelines in containers](https://github.com/dagger/dagger)
+https://github.com/pharako/mysql-dbal
 
 ## Authors
 
