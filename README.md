@@ -540,6 +540,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dagger is a programmable CI/CD engine that runs your pipelines in containers](https://github.com/dagger/dagger)
  - [MySQL extensions for Doctrine DBAL](https://github.com/pharako/mysql-dbal)
  - [New in Symfony 6.2: Built-in Cache, Security, Template and Doctrine Attributes](https://symfony.com/blog/new-in-symfony-6-2-built-in-cache-security-template-and-doctrine-attributes#comment-form)
+ - [Volkswagen Is Bringing Actual Buttons Back to Its Steering Wheels](https://www.roadandtrack.com/news/a41752640/volkswagen-real-steering-wheel-buttons/)
 
 ## Authors
 
