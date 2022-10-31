@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 41](#week-41)
     * [Week 42](#week-42)
     * [Week 43](#week-43)
+    * [Week 44](#week-44)
 
 ## 2022
 
@@ -543,6 +544,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Volkswagen Is Bringing Actual Buttons Back to Its Steering Wheels](https://www.roadandtrack.com/news/a41752640/volkswagen-real-steering-wheel-buttons/)
  - [Handle asynchronous tasks in Symfony with Messenger](https://aicha-fatrah.medium.com/handle-asynchronous-tasks-in-symfony-with-messenger-bbaf6ed36dbf)
  - [PsySH](https://psysh.org/)
+
+### Week 44
 
 ## Authors
 
