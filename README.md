@@ -549,6 +549,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Generics via Attributes in PHP — Can We Have Them?](https://pronskiy.com/blog/generics-via-attributes-in-php/)
  - [Dynamic database connection based on request](https://karoldabrowski.com/blog/dynamic-database-connection-based-on-request-symfony-and-doctrine/)
+https://pronskiy.com/blog/generics-via-attributes-in-php/
 
 ## Authors
 
