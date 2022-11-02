@@ -551,6 +551,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Dynamic database connection based on request](https://karoldabrowski.com/blog/dynamic-database-connection-based-on-request-symfony-and-doctrine/)
 https://pronskiy.com/blog/generics-via-attributes-in-php/
 https://github.com/HelixNGC7293/DeforumStableDiffusionLocal
+https://symfony.com/blog/new-in-symfony-6-2-better-emoji-support
 
 ## Authors
 
