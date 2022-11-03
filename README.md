@@ -555,6 +555,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why you should migrate your Symfony configs to PHP](https://medium.com/@ben_26125/why-you-should-migrate-your-symfony-configs-to-php-8c7c12f6c75c)
  - [PHP RFC Watch](https://php-rfc-watch.beberlei.de/)
  - [PHPStan 1.9.0 With PHPDoc Asserts, List Type, and More!](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type)
+https://symfony.com/blog/new-in-symfony-6-2-access-token-authenticator
 
 ## Authors
 
