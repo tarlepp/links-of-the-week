@@ -553,6 +553,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.2: Better Emoji Support 🎉](https://symfony.com/blog/new-in-symfony-6-2-better-emoji-support)
  - [Spotify Wellness Week Returns in 2022](https://hrblog.spotify.com/2022/10/25/spotify-wellness-week-return-in-2022/)
  - [Why you should migrate your Symfony configs to PHP](https://medium.com/@ben_26125/why-you-should-migrate-your-symfony-configs-to-php-8c7c12f6c75c)
+https://php-rfc-watch.beberlei.de/
 
 ## Authors
 
