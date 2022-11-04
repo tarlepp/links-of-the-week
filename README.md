@@ -557,6 +557,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [PHPStan 1.9.0 With PHPDoc Asserts, List Type, and More!](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type)
  - [New in Symfony 6.2: Access Token Authenticator](https://symfony.com/blog/new-in-symfony-6-2-access-token-authenticator)
  - [A package manager to boost your code](https://saeghe.com/)
+https://symfony.com/blog/new-in-symfony-6-2-clock-component
 
 ## Authors
 
