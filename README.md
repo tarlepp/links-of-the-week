@@ -560,6 +560,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.2: Clock Component](https://symfony.com/blog/new-in-symfony-6-2-clock-component)
  - [Twitter shuts offices for day as it cuts 50% of workforce; staff already suing](https://arstechnica.com/tech-policy/2022/11/twitter-shuts-offices-for-day-as-it-cuts-50-of-workforce-staff-already-suing/)
  - [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+ - [PHP in Visual Studio](https://devblogs.microsoft.com/visualstudio/php-in-visual-studio/)
 
 ## Authors
 
