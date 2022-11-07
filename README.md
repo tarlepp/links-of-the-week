@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 42](#week-42)
     * [Week 43](#week-43)
     * [Week 44](#week-44)
+    * [Week 45](#week-45)
 
 ## 2022
 
@@ -561,6 +562,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Twitter shuts offices for day as it cuts 50% of workforce; staff already suing](https://arstechnica.com/tech-policy/2022/11/twitter-shuts-offices-for-day-as-it-cuts-50-of-workforce-staff-already-suing/)
  - [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
  - [PHP in Visual Studio](https://devblogs.microsoft.com/visualstudio/php-in-visual-studio/)
+
+### Week 45
+
+ - [New in Symfony 6.2: Finder Improvements](https://symfony.com/blog/new-in-symfony-6-2-finder-improvements)
 
 ## Authors
 
