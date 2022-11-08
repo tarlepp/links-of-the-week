@@ -566,8 +566,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 45
 
  - [New in Symfony 6.2: Finder Improvements](https://symfony.com/blog/new-in-symfony-6-2-finder-improvements)
-https://symfony.com/blog/new-in-symfony-6-2-psr-4-route-loader
-https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/
+ - [New in Symfony 6.2: PSR-4 Route Loader](https://symfony.com/blog/new-in-symfony-6-2-psr-4-route-loader)
+ - [Microsoft sued for open-source piracy through GitHub Copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
+ - [Oculus co-founder makes a VR headset that can literally kill you](https://arstechnica.com/gaming/2022/11/oculus-co-founder-makes-a-vr-headset-that-can-literally-kill-you/)
 
 ## Authors
 
