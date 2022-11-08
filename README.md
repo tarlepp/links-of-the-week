@@ -566,6 +566,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 45
 
  - [New in Symfony 6.2: Finder Improvements](https://symfony.com/blog/new-in-symfony-6-2-finder-improvements)
+https://symfony.com/blog/new-in-symfony-6-2-psr-4-route-loader
 
 ## Authors
 
