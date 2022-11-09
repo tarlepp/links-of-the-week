@@ -571,6 +571,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Oculus co-founder makes a VR headset that can literally kill you](https://arstechnica.com/gaming/2022/11/oculus-co-founder-makes-a-vr-headset-that-can-literally-kill-you/)
  - [Walking in the Air (1984 mix) || Instrumental synthwave cover of the classic "Snowman" -song (2021)](https://www.youtube.com/watch?v=YE9ez1-olT0)
  - [New in Symfony 6.2: Conditional Constraints](https://symfony.com/blog/new-in-symfony-6-2-conditional-constraints)
+https://www.msn.com/en-us/money/companies/meta-says-it-will-lay-off-more-than-11000-employees/ar-AA13ULYc
 
 ## Authors
 
