@@ -573,6 +573,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.2: Conditional Constraints](https://symfony.com/blog/new-in-symfony-6-2-conditional-constraints)
  - [Meta says it will lay off more than 11,000 staff as Mark Zuckerberg claims the company is 'deeply underestimated'](https://www.msn.com/en-us/money/companies/meta-says-it-will-lay-off-more-than-11000-employees/ar-AA13ULYc)
  - [Seamless usage of docker in any apps](https://blog.roc-it.tech/seamless-usage-of-docker-in-any-apps/)
+ - [User errors: they are not just idiots](https://buildtosell.org/user-errors-not-just-idiots/)
 
 ## Authors
 
