@@ -64,6 +64,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 43](#week-43)
     * [Week 44](#week-44)
     * [Week 45](#week-45)
+    * [Week 46](#week-46)
 
 ## 2022
 
@@ -574,6 +575,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Meta says it will lay off more than 11,000 staff as Mark Zuckerberg claims the company is 'deeply underestimated'](https://www.msn.com/en-us/money/companies/meta-says-it-will-lay-off-more-than-11000-employees/ar-AA13ULYc)
  - [Seamless usage of docker in any apps](https://blog.roc-it.tech/seamless-usage-of-docker-in-any-apps/)
  - [User errors: they are not just idiots](https://buildtosell.org/user-errors-not-just-idiots/)
+
+### Week 46
 
 ## Authors
 
