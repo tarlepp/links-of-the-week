@@ -578,6 +578,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 46
 
+ - [Deprecated Dynamic Properties in PHP 8.2](https://www.youtube.com/watch?v=k94jaJ2xmJw)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
