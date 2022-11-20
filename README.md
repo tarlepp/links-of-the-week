@@ -581,8 +581,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Deprecated Dynamic Properties in PHP 8.2](https://www.youtube.com/watch?v=k94jaJ2xmJw)
  - [New in Symfony 6.2: Better Debugging Commands](https://symfony.com/blog/new-in-symfony-6-2-better-debugging-commands)
  - [Relay — Next-generation caching for PHP](https://relay.so/)
-https://symfony.com/blog/new-in-symfony-6-2-improved-enum-support
-https://huemint.com/
+ - [New in Symfony 6.2: Improved Enum Support](https://symfony.com/blog/new-in-symfony-6-2-improved-enum-support)
+ - [Color palette generator](https://huemint.com/)
+ - [BBC ignores World Cup opening ceremony in favour of Qatar criticism](https://www.theguardian.com/football/2022/nov/20/bbc-ignores-world-cup-opening-ceremony-in-favour-of-qatar-criticism)
 
 ## Authors
 
