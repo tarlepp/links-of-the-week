@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 44](#week-44)
     * [Week 45](#week-45)
     * [Week 46](#week-46)
+    * [Week 47](#week-47)
 
 ## 2022
 
@@ -584,6 +585,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [New in Symfony 6.2: Improved Enum Support](https://symfony.com/blog/new-in-symfony-6-2-improved-enum-support)
  - [Color palette generator](https://huemint.com/)
  - [BBC ignores World Cup opening ceremony in favour of Qatar criticism](https://www.theguardian.com/football/2022/nov/20/bbc-ignores-world-cup-opening-ceremony-in-favour-of-qatar-criticism)
+
+### Week 47
 
 ## Authors
 
