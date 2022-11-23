@@ -590,6 +590,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-reveals-an-exoplanet-atmosphere-as-never-seen-before
 https://opencollective.com/phpfoundation/updates/impact-and-transparency-report-2022
+https://jolicode.com/blog/we-are-open-sourcing-a-silly-slack-bot-guess-what-it-does
 
 ## Authors
 
