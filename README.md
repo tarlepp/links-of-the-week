@@ -588,6 +588,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 47
 
+https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-reveals-an-exoplanet-atmosphere-as-never-seen-before
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
