@@ -593,7 +593,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [We are open-sourcing a silly Slack bot, guess what it does!](https://jolicode.com/blog/we-are-open-sourcing-a-silly-slack-bot-guess-what-it-does)
  - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
  - [Why Unreal Engine 5.1 is a Huge Deal](https://www.youtube.com/watch?v=FUGqzE6Je5c)
-https://symfony.com/blog/new-in-symfony-6-2-security-improvements-part-2
+ - [New in Symfony 6.2: Security Improvements (Part 2)](https://symfony.com/blog/new-in-symfony-6-2-security-improvements-part-2)
+ - [iA Presenter](https://ia.net/presenter)
 
 ## Authors
 
