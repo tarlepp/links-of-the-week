@@ -595,6 +595,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Why Unreal Engine 5.1 is a Huge Deal](https://www.youtube.com/watch?v=FUGqzE6Je5c)
  - [New in Symfony 6.2: Security Improvements (Part 2)](https://symfony.com/blog/new-in-symfony-6-2-security-improvements-part-2)
  - [iA Presenter](https://ia.net/presenter)
+ - [Centralized exception handling with Symfony and custom PHP attributes](https://angelovdejan.me/2022/11/24/centralized-exception-handling-with-symfony-and-custom-php-attributes.html)
 
 ## Authors
 
