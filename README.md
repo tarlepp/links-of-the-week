@@ -601,6 +601,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 48
 
  - [SymfonyCon at Disneyland Paris for the 15+2th birthday of Symfony](https://jolicode.com/blog/symfonycon-at-disneyland-paris-for-the-15-2th-birthday-of-symfony)
+ - [Announcing Psalm 5](https://psalm.dev/articles/psalm-5)
 
 ## Authors
 
