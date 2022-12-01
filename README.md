@@ -603,6 +603,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [SymfonyCon at Disneyland Paris for the 15+2th birthday of Symfony](https://jolicode.com/blog/symfonycon-at-disneyland-paris-for-the-15-2th-birthday-of-symfony)
  - [Announcing Psalm 5](https://psalm.dev/articles/psalm-5)
  - [Design Decisions: Why use final classes](https://getparthenon.com/blog/design-decisions-why-use-final-classes/)
+ - [Ai solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
 
 ## Authors
 
