@@ -605,6 +605,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Design Decisions: Why use final classes](https://getparthenon.com/blog/design-decisions-why-use-final-classes/)
  - [Ai solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
  - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
+ - [If PHP Were British](https://aloneonahill.com/blog/if-php-were-british/)
 
 ## Authors
 
