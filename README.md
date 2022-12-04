@@ -606,6 +606,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Ai solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
  - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
  - [If PHP Were British](https://aloneonahill.com/blog/if-php-were-british/)
+ - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 ## Authors
 
