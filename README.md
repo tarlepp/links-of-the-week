@@ -612,6 +612,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 49
 
  - [Temporary policy: ChatGPT is banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
+ - [A moment of global darkness on December 6](https://earthsky.org/earth/december-6-moment-of-global-darkness/)
 
 ## Authors
 
