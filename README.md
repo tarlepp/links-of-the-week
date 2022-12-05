@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 46](#week-46)
     * [Week 47](#week-47)
     * [Week 48](#week-48)
+    * [Week 49](#week-49)
 
 ## 2022
 
@@ -607,6 +608,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
  - [If PHP Were British](https://aloneonahill.com/blog/if-php-were-british/)
  - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+
+### Week 49
+
+ - [Temporary policy: ChatGPT is banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
 
 ## Authors
 
