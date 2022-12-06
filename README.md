@@ -613,6 +613,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Temporary policy: ChatGPT is banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
  - [A moment of global darkness on December 6](https://earthsky.org/earth/december-6-moment-of-global-darkness/)
+ - [Update on JetBrains’ Statement on Ukraine](https://blog.jetbrains.com/blog/2022/12/06/update-on-jetbrains-statement-on-ukraine/)
 
 ## Authors
 
