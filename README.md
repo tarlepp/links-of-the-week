@@ -617,6 +617,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Elon Musk Has Outfitted Twitter’s Headquarters With Bedrooms For Employees](https://www.forbes.com/sites/cyrusfarivar/2022/12/05/elon-musk-twitter-bedrooms/)
  - [Replacing manual API endpoints with API Platform 3 in a Symfony application](https://www.strangebuzz.com/en/blog/replacing-manual-api-endpoints-with-api-platform-3-in-a-symfony-application)
  - [Symfony : a guide to choose between LTS and latest stable version](https://medium.com/@atournayre/symfony-a-guide-to-choose-between-lts-and-latest-stable-version-a13e1d3b70cb)
+ - [Nvidia RTX 4090 graphics card from Galax guzzles 1000W via twin power cables](https://www.techradar.com/news/nvidia-rtx-4090-graphics-card-from-galax-guzzles-1000w-via-twin-power-cables)
 
 ## Authors
 
