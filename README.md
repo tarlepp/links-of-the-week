@@ -623,6 +623,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 50
 
  - [Linux 6.1 Released With MGLRU, Initial Rust Code](https://www.phoronix.com/news/Linux-6.1-Releas)
+ - [Top 8 Most Demanded Programming Languages in 2022](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
 
 ## Authors
 
