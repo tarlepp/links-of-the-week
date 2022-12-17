@@ -627,6 +627,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Slackmojis - an unofficial* directory of the best custom Slack emojis](https://slackmojis.com/)
  - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
  - [Symfony CLI: let's discover advanced options!](https://jmsche.fr/en/blog/symfony-cli-lets-discover-advanced-options)
+ - [Stunning New NASA Pic Reveals Lava Glowing Red Hot on Jupiter's Moon](https://www.sciencealert.com/stunning-new-nasa-pic-reveals-lava-glowing-red-hot-on-jupiters-moon)
 
 ## Authors
 
