@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 48](#week-48)
     * [Week 49](#week-49)
     * [Week 50](#week-50)
+    * [Week 51](#week-51)
 
 ## 2022
 
@@ -629,6 +630,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [Symfony CLI: let's discover advanced options!](https://jmsche.fr/en/blog/symfony-cli-lets-discover-advanced-options)
  - [Stunning New NASA Pic Reveals Lava Glowing Red Hot on Jupiter's Moon](https://www.sciencealert.com/stunning-new-nasa-pic-reveals-lava-glowing-red-hot-on-jupiters-moon)
  - [DILDO](https://twitter.com/_Codito_/status/1604067389162807298)
+
+### Week 51
 
 ## Authors
 
