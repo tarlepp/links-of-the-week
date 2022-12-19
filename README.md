@@ -633,6 +633,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 51
 
+ - [Unit testing tips by examples in PHP](https://github.com/sarven/unit-testing-tips)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
