@@ -637,6 +637,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [The 2022 Year in Review](https://www.pornhub.com/insights/2022-year-in-review)
  - [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/)
  - [JSON assertions for PHPUnit](https://github.com/martin-helmich/phpunit-json-assert)
+ - [Wild mammals are making a comeback in Europe thanks to conservation efforts](https://ourworldindata.org/europe-mammal-comeback)
 
 ## Authors
 
