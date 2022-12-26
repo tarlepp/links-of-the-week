@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 49](#week-49)
     * [Week 50](#week-50)
     * [Week 51](#week-51)
+    * [Week 52](#week-52)
 
 ## 2022
 
@@ -639,6 +640,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [JSON assertions for PHPUnit](https://github.com/martin-helmich/phpunit-json-assert)
  - [Wild mammals are making a comeback in Europe thanks to conservation efforts](https://ourworldindata.org/europe-mammal-comeback)
  - [Rich Norwegians flee to low-tax Switzerland as wealth levy bites](https://12ft.io/proxy?q=https%3A%2F%2Fwww.ft.com%2Fcontent%2Fca33dc93-78c0-4d7a-a647-cde18ab6a1fd)
+
+### Week 52
 
 ## Authors
 
