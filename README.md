@@ -643,6 +643,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 52
 
+ - [Symfony 2022 Year in Review](https://symfony.com/blog/symfony-2022-year-in-review)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
