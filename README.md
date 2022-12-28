@@ -645,6 +645,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
  - [Symfony 2022 Year in Review](https://symfony.com/blog/symfony-2022-year-in-review)
  - [For perspective](https://twitter.com/gunsnrosesgirl3/status/1607743287326310400)
+ - [Tom Select](https://tom-select.js.org/)
 
 ## Authors
 
