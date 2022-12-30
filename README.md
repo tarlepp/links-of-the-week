@@ -647,6 +647,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
  - [For perspective](https://twitter.com/gunsnrosesgirl3/status/1607743287326310400)
  - [Tom Select](https://tom-select.js.org/)
  - [Desktop GPU Sales Hit 20-Year Low](https://www.tomshardware.com/news/sales-of-desktop-graphics-cards-hit-20-year-low)
+ - [Putin's inner circle is frustrated because the Russian president 'doesn't know what to do' with war in Ukraine, report says](https://news.yahoo.com/putins-inner-circle-frustrated-because-114454767.html)
 
 ## Authors
 
