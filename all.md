@@ -3021,3 +3021,4 @@ All the links in one massive file. This will be updated once in a year.
 - [Desktop GPU Sales Hit 20-Year Low](https://www.tomshardware.com/news/sales-of-desktop-graphics-cards-hit-20-year-low)
 - [Putin's inner circle is frustrated because the Russian president 'doesn't know what to do' with war in Ukraine, report says](https://news.yahoo.com/putins-inner-circle-frustrated-because-114454767.html)
 - [Jumpstarting new careers in open source](https://accelerator.github.com/)
+- [Creating your own security attribute with Symfony](https://medium.com/@ict80/creating-your-own-security-attribute-with-symfony-769f34e199f9)
