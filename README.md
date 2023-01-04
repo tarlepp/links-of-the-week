@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [macOS 13.0 Ventura Apache Setup: Multiple PHP Versions](https://getgrav.org/blog/macos-ventura-apache-multiple-php-versions)
 - [Microsoft and OpenAI Working on ChatGPT-Powered Bing in Challenge to Google](https://www.theinformation.com/articles/microsoft-and-openai-working-on-chatgpt-powered-bing-in-challenge-to-google)
 - [Conditional loading of Doctrine mappings](https://github.com/getparthenon/parthenon/wiki/Conditional-loading-of-Doctrine-mappings)
+- [The PHP Lands](https://lands.php.earth/)
 
 ## Authors
 
