@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Conditional loading of Doctrine mappings](https://github.com/getparthenon/parthenon/wiki/Conditional-loading-of-Doctrine-mappings)
 - [The PHP Lands](https://lands.php.earth/)
 - [easepick - Date picker - tiny size, no dependencies](https://easepick.com/)
+- [Fine tune an OpenAPI specification for mocking](https://jolicode.com/blog/fine-tune-an-openapi-specification-for-mocking)
 
 ## Authors
 
