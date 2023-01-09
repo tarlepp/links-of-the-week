@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Municipality asks people to stop searching for alleged Nazi treasure near Ommeren](https://nltimes.nl/2023/01/07/municipality-asks-people-stop-searching-alleged-nazi-treasure-near-ommeren)
 - [Array Dot](https://github.com/flow-php/array-dot)
 - [How I experience web today](https://how-i-experience-web-today.com/)
+- [API Platform Conference 2022 - Nicolas Grekas - How do we decide to create a Symfony component?](https://www.youtube.com/watch?v=tDjR5l4QwTY)
 
 ## Authors
 
