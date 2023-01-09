@@ -21,6 +21,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2022](2022.md)
   * [2023](#2023)
     * [Week 1](#week-1)
+    * [Week 2](#week-2)
   * [Authors](#authors)
   * [License](#license)
 
@@ -36,6 +37,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The PHP Lands](https://lands.php.earth/)
 - [easepick - Date picker - tiny size, no dependencies](https://easepick.com/)
 - [Fine tune an OpenAPI specification for mocking](https://jolicode.com/blog/fine-tune-an-openapi-specification-for-mocking)
+
+### Week 2
+
+- [Municipality asks people to stop searching for alleged Nazi treasure near Ommeren](https://nltimes.nl/2023/01/07/municipality-asks-people-stop-searching-alleged-nazi-treasure-near-ommeren)
 
 ## Authors
 
