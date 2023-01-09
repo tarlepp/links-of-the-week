@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Municipality asks people to stop searching for alleged Nazi treasure near Ommeren](https://nltimes.nl/2023/01/07/municipality-asks-people-stop-searching-alleged-nazi-treasure-near-ommeren)
 - [Array Dot](https://github.com/flow-php/array-dot)
+https://how-i-experience-web-today.com/
 
 ## Authors
 
