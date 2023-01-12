@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [API Platform Conference 2022 - Nicolas Grekas - How do we decide to create a Symfony component?](https://www.youtube.com/watch?v=tDjR5l4QwTY)
 - [The magic button — Make Everything OK](http://make-everything-ok.com/)
 - [The State of JS 2022](https://2022.stateofjs.com/)
+- [Using Behat to write functional test of a Symfony command](https://www.mon-code.net/post/164/using-behat-to-write-functional-test-of-a-symfony-command)
 
 ## Authors
 
