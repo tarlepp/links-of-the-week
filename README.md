@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The magic button — Make Everything OK](http://make-everything-ok.com/)
 - [The State of JS 2022](https://2022.stateofjs.com/)
 - [Using Behat to write functional test of a Symfony command](https://www.mon-code.net/post/164/using-behat-to-write-functional-test-of-a-symfony-command)
+- [PHP version stats: January, 2023](https://stitcher.io/blog/php-version-stats-january-2023)
 
 ## Authors
 
