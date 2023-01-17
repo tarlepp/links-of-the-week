@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The State of JS 2022](https://2022.stateofjs.com/)
 - [Using Behat to write functional test of a Symfony command](https://www.mon-code.net/post/164/using-behat-to-write-functional-test-of-a-symfony-command)
 - [PHP version stats: January, 2023](https://stitcher.io/blog/php-version-stats-january-2023)
+- [Apple Announces New MacBook Pros With M2 Pro and M2 Max Chips, Up to 96GB RAM, 8K HDMI, Wi-Fi 6E, and More](https://www.macrumors.com/2023/01/17/apple-announces-m2-pro-macbook-pro/)
 
 ### Week 3
 
