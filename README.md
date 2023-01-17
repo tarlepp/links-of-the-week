@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 3
 
 - [China's population falls for first time since 1961](https://www.bbc.com/news/world-asia-china-64300190)
+- [Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
 
 ## Authors
 
