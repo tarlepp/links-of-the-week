@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Git security vulnerabilities announced](https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/)
 - [Handle Symfony Events with Twilio SMS](https://www.twilio.com/blog/handle-symfony-events-twilio-sms)
 - [These Gorgeous Photos Capture Life Inside a Drop of Seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/)
+- [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
 
 ## Authors
 
