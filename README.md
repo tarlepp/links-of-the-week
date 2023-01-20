@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [These Gorgeous Photos Capture Life Inside a Drop of Seawater](https://www.smithsonianmag.com/science-nature/these-gorgeous-photos-capture-life-inside-drop-seawater-180981297/)
 - [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
 - [Refactor, understand, and write code effortlessly using Cursor's AI source editor](https://www.cursor.so/)
+- [Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html)
 
 ## Authors
 
