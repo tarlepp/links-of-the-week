@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [SPX - A simple profiler for PHP](https://github.com/NoiseByNorthwest/php-spx)
 - [Refactor, understand, and write code effortlessly using Cursor's AI source editor](https://www.cursor.so/)
 - [Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html)
+- [https://www.nbcnews.com/news/us-news/lights-massachusetts-school-year-no-one-can-turn-rcna65611](The lights have been on at a Massachusetts school for over a year because no one can turn them off)
 
 ## Authors
 
