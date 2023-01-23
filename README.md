@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 4
 
 - [Microsoft and OpenAI extend partnership](https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/)
+- [How TaggedLocator Can Help You Design Better Symfony Application](https://jolicode.com/blog/how-taggedlocator-can-help-you-design-better-symfony-application)
 
 ## Authors
 
