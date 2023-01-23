@@ -23,6 +23,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 1](#week-1)
     * [Week 2](#week-2)
     * [Week 3](#week-3)
+    * [Week 4](#week-4)
   * [Authors](#authors)
   * [License](#license)
 
@@ -62,6 +63,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html)
 - [https://www.nbcnews.com/news/us-news/lights-massachusetts-school-year-no-one-can-turn-rcna65611](The lights have been on at a Massachusetts school for over a year because no one can turn them off)
 - [Achieving High Performance Queue's with Symfony Messenger](https://joppe.dev/2023/01/21/symfony-messenger-high-performance-queues/)
+
+### Week 4
+
+- [Microsoft and OpenAI extend partnership](https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/)
 
 ## Authors
 
