@@ -71,6 +71,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Apache ECharts - An Open Source JavaScript Visualization Library](https://echarts.apache.org/)
 - [Justice Department sues Google to break up its advertising empire](https://finance.yahoo.com/news/justice-department-sues-google-to-break-up-its-advertising-empire-180708969.html)
 - [Json Formatter](https://plugins.jetbrains.com/plugin/13931-json-formatter)
+- [100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/)
 
 ## Authors
 
