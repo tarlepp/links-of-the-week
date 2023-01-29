@@ -73,6 +73,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Json Formatter](https://plugins.jetbrains.com/plugin/13931-json-formatter)
 - [100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/)
 - [Replacing a SQL analyst with 26 recursive GPT prompts](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
+- [Gen Zers won't even apply to a job if the salary isn't listed](https://www.businessinsider.com/hiring-gen-z-graduates-pay-transparency-adobe-2023-1)
 
 ## Authors
 
