@@ -78,6 +78,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 5
 
+- [Carbonyl is a Chromium based browser built to run in a terminal](https://github.com/fathyb/carbonyl)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
