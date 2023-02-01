@@ -80,6 +80,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Carbonyl is a Chromium based browser built to run in a terminal](https://github.com/fathyb/carbonyl)
 - [Manage Elasticsearch indices with elasticsearch-php library](https://www.mon-code.net/post/168/manage-elasticsearch-indices-with-elasticsearch-php-library)
+- [Netgen Talk: Why We Love PHP for Building Next Gen Websites](https://netgen.io/blog/netgen-talk-why-we-love-php-for-building-next-gen-websites)
 
 ## Authors
 
