@@ -25,6 +25,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 3](#week-3)
     * [Week 4](#week-4)
     * [Week 5](#week-5)
+    * [Week 6](#week-6)
   * [Authors](#authors)
   * [License](#license)
 
@@ -84,6 +85,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The next-generation command line](https://fig.io/)
 - [Gene editing company hopes to bring dodo ‘back to life’](https://www.theguardian.com/science/2023/jan/31/gene-editing-company-hopes-to-bring-dodo-back-to-life)
 - [Accessing Symfony security user on the background](https://jolicode.com/blog/how-taggedlocator-can-help-you-design-better-symfony-application)
+
+### Week 6
 
 ## Authors
 
