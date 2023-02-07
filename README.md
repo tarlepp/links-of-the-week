@@ -92,6 +92,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 - [Modern PHP Cheat Sheet - Front Line PHP](https://front-line-php.com/cheat-sheet)
 - [PCem](https://pcem-emulator.co.uk/)
+- [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/)
 
 ## Authors
 
