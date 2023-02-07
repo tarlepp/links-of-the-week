@@ -88,6 +88,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 6
 
+- [How to Fix Memory Leak in Doctrine Migrations](https://jolicode.com/blog/how-to-fix-memory-leak-in-doctrine-migrations)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
