@@ -94,6 +94,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PCem](https://pcem-emulator.co.uk/)
 - [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/)
 - [Why Is instanceof *Type Wrong and Getting Deprecated?](https://phpstan.org/blog/why-is-instanceof-type-wrong-and-getting-deprecated)
+- [Pull request merge queue (public beta)](https://github.blog/changelog/2023-02-08-pull-request-merge-queue-public-beta/)
 
 ## Authors
 
