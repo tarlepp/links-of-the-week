@@ -96,6 +96,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Why Is instanceof *Type Wrong and Getting Deprecated?](https://phpstan.org/blog/why-is-instanceof-type-wrong-and-getting-deprecated)
 - [Pull request merge queue (public beta)](https://github.blog/changelog/2023-02-08-pull-request-merge-queue-public-beta/)
 - [Migrating messenger queue from Doctrine to a different transport](https://locastic.com/blog/migrating-messenger-queue-from-doctrine-to-a-different-transport)
+- [How to Block ChatGPT From Using Your Website Content](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
 
 ## Authors
 
