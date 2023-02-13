@@ -102,6 +102,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 7
 
 - [I tried using AI. It scared me.](https://www.youtube.com/watch?v=jPhJbKBuNnA)
+- [Bing Chat API](https://github.com/transitive-bullshit/bing-chat)
 
 ## Authors
 
