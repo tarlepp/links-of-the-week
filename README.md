@@ -103,6 +103,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [I tried using AI. It scared me.](https://www.youtube.com/watch?v=jPhJbKBuNnA)
 - [Bing Chat API](https://github.com/transitive-bullshit/bing-chat)
+- [core-js - So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
 
 ## Authors
 
