@@ -106,6 +106,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [core-js - So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
 - [PHP Release Radar - Episode 14: PHPUnit 10.0](https://www.youtube.com/watch?v=QwsH4IlolyU)
 https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/
+https://medium.com/@neonforge/upgraded-dan-version-for-chatgpt-is-here-new-shiny-and-more-unchained-63d82919d804
 
 ## Authors
 
