@@ -110,6 +110,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Since I work at http://Chess.com, people often ask me what technologies we use](https://twitter.com/nikolaposa/status/1625442638395584512)
 - [Bing users have already broken its new ChatGPT brain](https://www.techradar.com/news/bing-users-have-already-broken-its-new-chatgpt-brain)
 - [Quick PHP tip: Initialize a DateTime object from string, but with time resetted](https://jolicode.com/blog/quick-php-tip-initialize-a-datetime-object-from-string-but-with-time-resetted)
+- [Easily display interactive 3D models on the web & in AR](https://modelviewer.dev/)
 
 ## Authors
 
