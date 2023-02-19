@@ -112,6 +112,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Quick PHP tip: Initialize a DateTime object from string, but with time resetted](https://jolicode.com/blog/quick-php-tip-initialize-a-datetime-object-from-string-but-with-time-resetted)
 - [Easily display interactive 3D models on the web & in AR](https://modelviewer.dev/)
 - [How to Configure DNS for Developing Webapp with Dnsmaqs once for all](https://jolicode.com/blog/how-to-configure-dns-for-developing-webapp-with-dnsmaqs-once-for-all)
+- [A practical example of using Symfony PropertyInfo component](https://dev.to/icolomina/a-practical-example-of-using-symfony-propertyinfo-component-33kc)
 
 ## Authors
 
