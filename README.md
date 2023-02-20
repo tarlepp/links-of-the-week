@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 5](#week-5)
     * [Week 6](#week-6)
     * [Week 7](#week-7)
+    * [Week 8](#week-8)
   * [Authors](#authors)
   * [License](#license)
 
@@ -113,6 +114,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Easily display interactive 3D models on the web & in AR](https://modelviewer.dev/)
 - [How to Configure DNS for Developing Webapp with Dnsmaqs once for all](https://jolicode.com/blog/how-to-configure-dns-for-developing-webapp-with-dnsmaqs-once-for-all)
 - [A practical example of using Symfony PropertyInfo component](https://dev.to/icolomina/a-practical-example-of-using-symfony-propertyinfo-component-33kc)
+
+### Week 8
 
 ## Authors
 
