@@ -120,6 +120,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Kone näyttää, millaisista taustoista sinun lähikoulusi oppilaat tulevat](https://yle.fi/a/74-20018233)
 - [Create an Amazon Alexa Skill With PHP](https://betterprogramming.pub/create-an-amazon-alexa-skill-with-php-f72f00a433e6)
 - [Trongate PHP Framework](https://trongate.io/)
+- [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
 
 ## Authors
 
