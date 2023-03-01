@@ -127,6 +127,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 9
 
 - [Aggressive Caching with Symfony HTTP Client](https://jolicode.com/blog/aggressive-caching-with-symfony-http-client)
+- [Metavursti](https://metavursti.fi/)
 
 ## Authors
 
