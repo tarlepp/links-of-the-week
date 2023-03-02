@@ -129,6 +129,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Aggressive Caching with Symfony HTTP Client](https://jolicode.com/blog/aggressive-caching-with-symfony-http-client)
 - [Metavursti](https://metavursti.fi/)
 - [Tesla Model Y is a ‘work of art,’ says Toyota after tearing it down](https://electrek.co/2023/02/28/tesla-model-y-work-of-art-toyota-tearing-down/)
+https://www.businessinsider.com/ford-patent-cars-repossess-themselves-drive-away-if-missing-payments-2023-2?r=US&IR=T
+
 
 ## Authors
 
