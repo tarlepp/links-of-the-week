@@ -131,6 +131,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Tesla Model Y is a ‘work of art,’ says Toyota after tearing it down](https://electrek.co/2023/02/28/tesla-model-y-work-of-art-toyota-tearing-down/)
 - [Ford wants to allow your car to lock you out — and even drive itself to an impound lot or scrapyard — if you miss payments](https://www.businessinsider.com/ford-patent-cars-repossess-themselves-drive-away-if-missing-payments-2023-2)
 - [zenstruck/messenger-test](https://github.com/zenstruck/messenger-test)
+- [Symfony HttpFoundation what is it and how to use it](https://devdojo.com/nalabdou/symfony-httpfoundation-what-is-it-and-how-to-use-it)
 
 
 ## Authors
