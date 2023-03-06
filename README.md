@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 7](#week-7)
     * [Week 8](#week-8)
     * [Week 9](#week-9)
+    * [Week 10](#week-10)
   * [Authors](#authors)
   * [License](#license)
 
@@ -133,6 +134,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [zenstruck/messenger-test](https://github.com/zenstruck/messenger-test)
 - [Symfony HttpFoundation what is it and how to use it](https://devdojo.com/nalabdou/symfony-httpfoundation-what-is-it-and-how-to-use-it)
 
+### Week 10
 
 ## Authors
 
