@@ -136,6 +136,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 10
 
+- [Handling signal with Symfony Command](https://jolicode.com/blog/handling-signal-with-symfony-command)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
