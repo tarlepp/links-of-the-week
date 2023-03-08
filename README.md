@@ -138,7 +138,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Handling signal with Symfony Command](https://jolicode.com/blog/handling-signal-with-symfony-command)
 - [TOP 10 on Streaming in the World](https://flixpatrol.com/top10/)
-https://www.mon-code.net/post/169/index-document-in-elasticsearch-using-php-library-elasticsearch-php
+- [Index document in Elasticsearch using PHP library: elasticsearch-php](https://www.mon-code.net/post/169/index-document-in-elasticsearch-using-php-library-elasticsearch-php)
+- [PHP Release Radar - Episode 15: Laravel 10.0](https://www.youtube.com/watch?v=1tcmE8sLlQg)
 
 ## Authors
 
