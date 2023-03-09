@@ -140,6 +140,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [TOP 10 on Streaming in the World](https://flixpatrol.com/top10/)
 - [Index document in Elasticsearch using PHP library: elasticsearch-php](https://www.mon-code.net/post/169/index-document-in-elasticsearch-using-php-library-elasticsearch-php)
 - [PHP Release Radar - Episode 15: Laravel 10.0](https://www.youtube.com/watch?v=1tcmE8sLlQg)
+- [front-of-the-front-end and back-of-the-front-end web development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
 
 ## Authors
 
