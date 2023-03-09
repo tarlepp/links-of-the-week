@@ -143,6 +143,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [front-of-the-front-end and back-of-the-front-end web development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
 - [Chalmers University Reveals 500 KW Wireless Charging Technology](https://cleantechnica.com/2023/03/08/chalmers-university-reveals-500-kw-wireless-charging-technology/)
 - [SymfonyCats: The right place for cats & Symfony](http://symfonycats.com/)
+- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
 
 ## Authors
 
