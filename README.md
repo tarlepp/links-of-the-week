@@ -142,6 +142,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP Release Radar - Episode 15: Laravel 10.0](https://www.youtube.com/watch?v=1tcmE8sLlQg)
 - [front-of-the-front-end and back-of-the-front-end web development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
 - [Chalmers University Reveals 500 KW Wireless Charging Technology](https://cleantechnica.com/2023/03/08/chalmers-university-reveals-500-kw-wireless-charging-technology/)
+- [SymfonyCats: The right place for cats & Symfony](http://symfonycats.com/)
 
 ## Authors
 
