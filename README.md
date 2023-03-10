@@ -144,6 +144,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Chalmers University Reveals 500 KW Wireless Charging Technology](https://cleantechnica.com/2023/03/08/chalmers-university-reveals-500-kw-wireless-charging-technology/)
 - [SymfonyCats: The right place for cats & Symfony](http://symfonycats.com/)
 - [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
+- [Regulators close Silicon Valley Bank in largest failure since financial crisis](https://finance.yahoo.com/silicon-valley-bank-fdic-closed-largest-failure-financial-crisis-182643368.html)
 
 ## Authors
 
