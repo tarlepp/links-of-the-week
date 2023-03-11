@@ -146,6 +146,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
 - [Regulators close Silicon Valley Bank in largest failure since financial crisis](https://finance.yahoo.com/silicon-valley-bank-fdic-closed-largest-failure-financial-crisis-182643368.html)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/)
+- [SVB Fallout Spreads Around the World as UK Firms Plead for Help](https://finance.yahoo.com/news/svb-fallout-spreads-around-world-154331383.html)
 
 ## Authors
 
