@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 8](#week-8)
     * [Week 9](#week-9)
     * [Week 10](#week-10)
+    * [Week 11](#week-11)
   * [Authors](#authors)
   * [License](#license)
 
@@ -147,6 +148,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Regulators close Silicon Valley Bank in largest failure since financial crisis](https://finance.yahoo.com/silicon-valley-bank-fdic-closed-largest-failure-financial-crisis-182643368.html)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/)
 - [SVB Fallout Spreads Around the World as UK Firms Plead for Help](https://finance.yahoo.com/news/svb-fallout-spreads-around-world-154331383.html)
+
+### Week 11
+
+- [Regulators close crypto-focused Signature Bank, citing systemic risk](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
 
 ## Authors
 
