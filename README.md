@@ -152,6 +152,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 11
 
 - [Regulators close crypto-focused Signature Bank, citing systemic risk](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
+- [First Republic drops 70%, leads decline in bank stocks despite government’s backstop of SVB](https://www.cnbc.com/2023/03/13/first-republic-drops-bank-stocks-decline.html)
 
 ## Authors
 
