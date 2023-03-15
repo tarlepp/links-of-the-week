@@ -155,6 +155,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [First Republic drops 70%, leads decline in bank stocks despite government’s backstop of SVB](https://www.cnbc.com/2023/03/13/first-republic-drops-bank-stocks-decline.html)
 - [GPT-4](https://openai.com/research/gpt-4)
 - [2022 Oracle Red Bull Racing RB18 Show Car Simulator – Champions Editio – F1 Authentics](https://www.f1authentics.com/collections/f1-simulators/products/red-bull-simulator-championship-edition)
+- [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
 
 ## Authors
 
