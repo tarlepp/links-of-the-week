@@ -157,6 +157,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [2022 Oracle Red Bull Racing RB18 Show Car Simulator – Champions Editio – F1 Authentics](https://www.f1authentics.com/collections/f1-simulators/products/red-bull-simulator-championship-edition)
 - [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
 - [Introducing the GitHub Markdown Helpers Public Beta](https://github.blog/changelog/2023-03-15-introducing-the-github-markdown-helpers-public-beta/)
+https://www.jwz.org/blog/2023/02/the-bullshit-fountain/
 
 ## Authors
 
