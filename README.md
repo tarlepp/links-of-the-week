@@ -159,6 +159,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introducing the GitHub Markdown Helpers Public Beta](https://github.blog/changelog/2023-03-15-introducing-the-github-markdown-helpers-public-beta/)
 - [jwz: The Bullshit Fountain](https://www.jwz.org/blog/2023/02/the-bullshit-fountain/)
 - [Fast, Declarative, Reproducible, and Composable Developer Environments using Nix](https://devenv.sh/)
+- [Dodge the next Dockerpocalypse: how to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
 
 ## Authors
 
