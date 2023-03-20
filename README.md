@@ -31,6 +31,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 9](#week-9)
     * [Week 10](#week-10)
     * [Week 11](#week-11)
+    * [Week 12](#week-12)
   * [Authors](#authors)
   * [License](#license)
 
@@ -160,6 +161,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [jwz: The Bullshit Fountain](https://www.jwz.org/blog/2023/02/the-bullshit-fountain/)
 - [Fast, Declarative, Reproducible, and Composable Developer Environments using Nix](https://devenv.sh/)
 - [Dodge the next Dockerpocalypse: how to own your own Docker Registry address](https://httptoolkit.com/blog/docker-image-registry-facade/)
+
+### Week 12
+
+- [Serverless Container Registry Proxy](https://github.com/ahmetb/serverless-registry-proxy)
 
 ## Authors
 
