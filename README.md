@@ -165,6 +165,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
 - [Serverless Container Registry Proxy](https://github.com/ahmetb/serverless-registry-proxy)
+- [Here’s what Redwood learned in its first year of EV battery recycling](https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/)
 
 ## Authors
 
