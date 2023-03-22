@@ -168,6 +168,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Here’s what Redwood learned in its first year of EV battery recycling](https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/)
 - [Vesuvius Challenge](https://scrollprize.org/)
 - [Great, Dating Apps Are Getting More Hellish Thanks to AI Chatbots](https://www.vice.com/en/article/m7bjqp/great-dating-apps-are-getting-more-hellish-thanks-to-ai-chatbots)
+https://stitcher.io/blog/limited-by-committee
 
 ## Authors
 
