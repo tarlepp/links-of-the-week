@@ -169,6 +169,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Vesuvius Challenge](https://scrollprize.org/)
 - [Great, Dating Apps Are Getting More Hellish Thanks to AI Chatbots](https://www.vice.com/en/article/m7bjqp/great-dating-apps-are-getting-more-hellish-thanks-to-ai-chatbots)
 - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
+- [A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
 
 ## Authors
 
