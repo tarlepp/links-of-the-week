@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 10](#week-10)
     * [Week 11](#week-11)
     * [Week 12](#week-12)
+    * [Week 13](#week-13)
   * [Authors](#authors)
   * [License](#license)
 
@@ -171,6 +172,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 - [A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
 - [Mousetrap](https://github.com/ccampbell/mousetrap)
+
+### Week 13
+
+- [Leverage Symfony VarDumper Component to Enhance your Dumps](https://jolicode.com/blog/leverage-symfony-vardumper-component-to-enhance-your-dumps)
 
 ## Authors
 
