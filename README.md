@@ -176,7 +176,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
 - [Leverage Symfony VarDumper Component to Enhance your Dumps](https://jolicode.com/blog/leverage-symfony-vardumper-component-to-enhance-your-dumps)
-https://futureoflife.org/open-letter/pause-giant-ai-experiments/
+- [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+- [Roasted by.ai](https://www.roastedby.ai/)
 
 ## Authors
 
