@@ -178,6 +178,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Leverage Symfony VarDumper Component to Enhance your Dumps](https://jolicode.com/blog/leverage-symfony-vardumper-component-to-enhance-your-dumps)
 - [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 - [Roasted by.ai](https://www.roastedby.ai/)
+- [Goldman Sachs: Generative AI Could Replace 300 Million Jobs](https://aibusiness.com/nlp/goldman-sachs-generative-ai-could-replace-300-million-jobs)
 
 ## Authors
 
