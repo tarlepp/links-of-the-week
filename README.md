@@ -181,7 +181,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Goldman Sachs: Generative AI Could Replace 300 Million Jobs](https://aibusiness.com/nlp/goldman-sachs-generative-ai-could-replace-300-million-jobs)
 - [OpenAI’s $25 million secret bet — 1X Robotics](https://medium.com/nerd-for-tech/the-robotics-company-that-openai-made-a-25-million-bet-on-secretly-1x-d811902a4a05)
 - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
-- [ymfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
+- [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
 
 ## Authors
 
