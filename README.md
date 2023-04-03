@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 11](#week-11)
     * [Week 12](#week-12)
     * [Week 13](#week-13)
+    * [Week 14](#week-14)
   * [Authors](#authors)
   * [License](#license)
 
@@ -182,6 +183,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [OpenAI’s $25 million secret bet — 1X Robotics](https://medium.com/nerd-for-tech/the-robotics-company-that-openai-made-a-25-million-bet-on-secretly-1x-d811902a4a05)
 - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
+
+# Week 14
 
 ## Authors
 
