@@ -185,8 +185,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
 
 # Week 14
+
 - [What’s New in PhpStorm 2023.1](https://www.jetbrains.com/phpstorm/whatsnew/2023-1/)
 - [Symfony Webhook & RemoteEvent, or how to simplify external event management](https://jolicode.com/blog/symfony-webhook-remoteevent-or-how-to-simplify-external-event-management)
+- [4 Most Important Software Development Principles: DRY, YAGNI, KISS and SINE](https://mattilehtinen.com/articles/4-most-important-software-development-principles-dry-yagni-kiss-and-sine/)
 
 
 ## Authors
