@@ -185,6 +185,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
 
 # Week 14
+https://www.jetbrains.com/phpstorm/whatsnew/2023-1/
+
 
 ## Authors
 
