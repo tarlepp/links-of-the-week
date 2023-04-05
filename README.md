@@ -189,7 +189,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [What’s New in PhpStorm 2023.1](https://www.jetbrains.com/phpstorm/whatsnew/2023-1/)
 - [Symfony Webhook & RemoteEvent, or how to simplify external event management](https://jolicode.com/blog/symfony-webhook-remoteevent-or-how-to-simplify-external-event-management)
 - [4 Most Important Software Development Principles: DRY, YAGNI, KISS and SINE](https://mattilehtinen.com/articles/4-most-important-software-development-principles-dry-yagni-kiss-and-sine/)
-https://www.techradar.com/news/samsung-workers-leaked-company-secrets-by-using-chatgpt
+- [Samsung workers made a major error by using ChatGPT](https://www.techradar.com/news/samsung-workers-leaked-company-secrets-by-using-chatgpt)
+- [New buckling spring keyboards re-create IBM’s iconic Model F for modern computers](https://arstechnica.com/gadgets/2023/04/new-buckling-spring-keyboards-recreate-ibms-iconic-model-f-for-modern-computers/)
 
 ## Authors
 
