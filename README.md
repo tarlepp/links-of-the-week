@@ -195,6 +195,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [2 newfound black holes are the closest ever to Earth and like nothing seen before](https://www.space.com/newfound-black-holes-closest-to-earth-gaia)
 - [Modern PHP](https://dnlytras.com/blog/modern-php)
 - [How to use mock with Symfony’s WebTestCase and PHPUnit](https://jolicode.com/blog/how-to-use-mock-with-symfonys-webtestcase-and-phpunit)
+- [Redesigned navigation available in Public Beta](https://github.blog/changelog/2023-04-05-redesigned-navigation-available-in-public-beta/)
 
 ## Authors
 
