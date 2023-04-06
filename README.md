@@ -193,6 +193,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New buckling spring keyboards re-create IBM’s iconic Model F for modern computers](https://arstechnica.com/gadgets/2023/04/new-buckling-spring-keyboards-recreate-ibms-iconic-model-f-for-modern-computers/)
 - [User Inyerface - A worst-practice UI experiment](https://userinyerface.com/)
 - [2 newfound black holes are the closest ever to Earth and like nothing seen before](https://www.space.com/newfound-black-holes-closest-to-earth-gaia)
+- [Modern PHP](https://dnlytras.com/blog/modern-php)
 
 ## Authors
 
