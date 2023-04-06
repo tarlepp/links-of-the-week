@@ -194,6 +194,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [User Inyerface - A worst-practice UI experiment](https://userinyerface.com/)
 - [2 newfound black holes are the closest ever to Earth and like nothing seen before](https://www.space.com/newfound-black-holes-closest-to-earth-gaia)
 - [Modern PHP](https://dnlytras.com/blog/modern-php)
+- [How to use mock with Symfony’s WebTestCase and PHPUnit](https://jolicode.com/blog/how-to-use-mock-with-symfonys-webtestcase-and-phpunit)
 
 ## Authors
 
