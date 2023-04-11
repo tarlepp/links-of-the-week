@@ -203,6 +203,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Data of 30 million WordPress users leaked by top cloud accounting firm](https://www.techradar.com/news/data-of-30-million-wordpress-users-leaked-by-top-cloud-accounting-firm)
 - [LMQL is a programming language for language model interaction](https://lmql.ai/)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/)
 
 ## Authors
 
