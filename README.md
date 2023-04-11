@@ -201,6 +201,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 # Week 15
 
+- [Data of 30 million WordPress users leaked by top cloud accounting firm](https://www.techradar.com/news/data-of-30-million-wordpress-users-leaked-by-top-cloud-accounting-firm)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
