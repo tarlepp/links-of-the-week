@@ -205,6 +205,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [LMQL is a programming language for language model interaction](https://lmql.ai/)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/)
 - [HTTP Response Header Field: Carbon-Emissions-Scope-2](https://www.ietf.org/archive/id/draft-martin-http-carbon-emissions-scope-2-00.html)
+- [Master of Puppets on FLOPPOTRON 3.0](https://www.youtube.com/watch?v=AtRVTYMA87k)
 
 ## Authors
 
