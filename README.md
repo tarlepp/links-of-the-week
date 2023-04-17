@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 13](#week-13)
     * [Week 14](#week-14)
     * [Week 15](#week-15)
+    * [Week 16](#week-16)
   * [Authors](#authors)
   * [License](#license)
 
@@ -208,6 +209,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Master of Puppets on FLOPPOTRON 3.0](https://www.youtube.com/watch?v=AtRVTYMA87k)
 - [Samsung worker fed company secrets to ChatGPT so it could make a presentation](https://www.hrgrapevine.com/content/article/2023-04-14-samsung-limits-ai-use-after-staff-leak-confidential-data-to-chatgpt)
 - [Using PHP enumerations with your Symfony workflows](https://www.strangebuzz.com/en/blog/using-php-enumerations-with-your-symfony-workflows)
+
+# Week 16
+
+- [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ## Authors
 
