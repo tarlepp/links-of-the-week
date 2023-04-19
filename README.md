@@ -214,6 +214,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Google in shock as Samsung considers moving to Bing as default search engine on Galaxy phones](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
+- [Don't write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 
 ## Authors
 
