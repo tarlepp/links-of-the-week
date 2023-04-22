@@ -216,6 +216,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Google in shock as Samsung considers moving to Bing as default search engine on Galaxy phones](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
 - [Don't write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 - [Tesla FSD update 11.4 dramatically improves vehicle behavior](https://www.teslarati.com/tesla-fsd-update-11-4/amp/)
+- [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
 
 ## Authors
 
