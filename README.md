@@ -217,6 +217,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Don't write clean code, write CRISP code](https://bitfieldconsulting.com/golang/crisp-code)
 - [Tesla FSD update 11.4 dramatically improves vehicle behavior](https://www.teslarati.com/tesla-fsd-update-11-4/amp/)
 - [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
+- [Protect your application with Symfony rate limiter component](https://www.mon-code.net/post/170/protect-your-application-with-symfony-rate-limiter-component)
 
 ## Authors
 
