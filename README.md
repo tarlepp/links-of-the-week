@@ -222,6 +222,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 17
 
+- [Adding an Asset Pipeline: versioned/digested files in pure PHP](https://github.com/symfony/symfony/pull/50112)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
