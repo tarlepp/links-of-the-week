@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 14](#week-14)
     * [Week 15](#week-15)
     * [Week 16](#week-16)
+    * [Week 17](#week-17)
   * [Authors](#authors)
   * [License](#license)
 
@@ -186,7 +187,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
 - [Symfony ImportMaps: Manage Your JavaScript Dependencies Without Node](https://dunglas.dev/2023/03/symfony-importmaps-manage-your-javascript-dependencies-without-node/)
 
-# Week 14
+### Week 14
 
 - [What’s New in PhpStorm 2023.1](https://www.jetbrains.com/phpstorm/whatsnew/2023-1/)
 - [Symfony Webhook & RemoteEvent, or how to simplify external event management](https://jolicode.com/blog/symfony-webhook-remoteevent-or-how-to-simplify-external-event-management)
@@ -200,7 +201,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Redesigned navigation available in Public Beta](https://github.blog/changelog/2023-04-05-redesigned-navigation-available-in-public-beta/)
 - [Announcing WCGI: WebAssembly + CGI](https://wasmer.io/posts/announcing-wcgi)
 
-# Week 15
+### Week 15
 
 - [Data of 30 million WordPress users leaked by top cloud accounting firm](https://www.techradar.com/news/data-of-30-million-wordpress-users-leaked-by-top-cloud-accounting-firm)
 - [LMQL is a programming language for language model interaction](https://lmql.ai/)
@@ -210,7 +211,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Samsung worker fed company secrets to ChatGPT so it could make a presentation](https://www.hrgrapevine.com/content/article/2023-04-14-samsung-limits-ai-use-after-staff-leak-confidential-data-to-chatgpt)
 - [Using PHP enumerations with your Symfony workflows](https://www.strangebuzz.com/en/blog/using-php-enumerations-with-your-symfony-workflows)
 
-# Week 16
+### Week 16
 
 - [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Google in shock as Samsung considers moving to Bing as default search engine on Galaxy phones](https://www.sammobile.com/news/samsung-galaxy-phones-tablets-bing-search-replace-google-default-search-engine/)
@@ -218,6 +219,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Tesla FSD update 11.4 dramatically improves vehicle behavior](https://www.teslarati.com/tesla-fsd-update-11-4/amp/)
 - [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
 - [Protect your application with Symfony rate limiter component](https://www.mon-code.net/post/170/protect-your-application-with-symfony-rate-limiter-component)
+
+### Week 17
 
 ## Authors
 
