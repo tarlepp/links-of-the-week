@@ -225,6 +225,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Adding an Asset Pipeline: versioned/digested files in pure PHP](https://github.com/symfony/symfony/pull/50112)
 - [OpenAI ChatGPT for Slack](https://github.com/RikudouSage/SlackChatGPT)
 - [Why and how to write code for humans?](https://mattilehtinen.com/articles/why-and-how-to-write-code-for-humans/)
+- [Nix shell](https://github.com/loophp/nix-shell)
 
 ## Authors
 
