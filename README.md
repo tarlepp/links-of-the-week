@@ -226,6 +226,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [OpenAI ChatGPT for Slack](https://github.com/RikudouSage/SlackChatGPT)
 - [Why and how to write code for humans?](https://mattilehtinen.com/articles/why-and-how-to-write-code-for-humans/)
 - [Nix shell](https://github.com/loophp/nix-shell)
+- [Offline support for Symfony applications](https://medium.com/@imadzairig/offline-support-for-symfony-applications-2f70e4f6015d)
 
 ## Authors
 
