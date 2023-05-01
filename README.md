@@ -37,6 +37,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 15](#week-15)
     * [Week 16](#week-16)
     * [Week 17](#week-17)
+    * [Week 18](#week-18)
   * [Authors](#authors)
   * [License](#license)
 
@@ -227,6 +228,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Why and how to write code for humans?](https://mattilehtinen.com/articles/why-and-how-to-write-code-for-humans/)
 - [Nix shell](https://github.com/loophp/nix-shell)
 - [Offline support for Symfony applications](https://medium.com/@imadzairig/offline-support-for-symfony-applications-2f70e4f6015d)
+
+### Week 18
 
 ## Authors
 
