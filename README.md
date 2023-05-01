@@ -231,6 +231,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 18
 
+- [Quiz: Can you defend against XSS vulnerability?](https://blog.nette.org/en/quiz-can-you-defend-against-xss-vulnerability)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
