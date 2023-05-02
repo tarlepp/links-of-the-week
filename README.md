@@ -232,6 +232,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 18
 
 - [Quiz: Can you defend against XSS vulnerability?](https://blog.nette.org/en/quiz-can-you-defend-against-xss-vulnerability)
+- [A Photographer Tried to Get His Photos Removed from an AI Dataset. He Got an Invoice Instead](https://www.vice.com/en/article/pkapb7/a-photographer-tried-to-get-his-photos-removed-from-an-ai-dataset-he-got-an-invoice-instead)
 
 ## Authors
 
