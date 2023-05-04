@@ -235,6 +235,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A Photographer Tried to Get His Photos Removed from an AI Dataset. He Got an Invoice Instead](https://www.vice.com/en/article/pkapb7/a-photographer-tried-to-get-his-photos-removed-from-an-ai-dataset-he-got-an-invoice-instead)
 - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 - [Packagist.org maintainer account takeover](https://blog.packagist.com/packagist-org-maintainer-account-takeover/)
+- [Angular v16 is here!](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
 
 ## Authors
 
