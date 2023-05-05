@@ -236,6 +236,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 - [Packagist.org maintainer account takeover](https://blog.packagist.com/packagist-org-maintainer-account-takeover/)
 - [Angular v16 is here!](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
+- [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 
 ## Authors
 
