@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 16](#week-16)
     * [Week 17](#week-17)
     * [Week 18](#week-18)
+    * [Week 19](#week-19)
   * [Authors](#authors)
   * [License](#license)
 
@@ -238,6 +239,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Angular v16 is here!](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
 - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 - [Introducing Slack GPT, the future of AI in Slack](https://slack.com/blog/news/introducing-slack-gpt)
+
+### Week 19
 
 ## Authors
 
