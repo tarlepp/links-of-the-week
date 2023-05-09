@@ -242,6 +242,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 19
 
+- [The 2023 Developer Survey is now live!](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
