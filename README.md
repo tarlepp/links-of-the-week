@@ -244,6 +244,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [The 2023 Developer Survey is now live!](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
 - [this ai tool(gpt-3.5) is for those who hate regex!](https://fuckregex.dev/)
+https://fastdebug.io/
 
 ## Authors
 
