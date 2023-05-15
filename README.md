@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 17](#week-17)
     * [Week 18](#week-18)
     * [Week 19](#week-19)
+    * [Week 20](#week-20)
   * [Authors](#authors)
   * [License](#license)
 
@@ -246,6 +247,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [this ai tool(gpt-3.5) is for those who hate regex!](https://fuckregex.dev/)
 - [FastDebug](https://fastdebug.io/)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html)
+
+### Week 20
 
 ## Authors
 
