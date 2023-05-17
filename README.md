@@ -251,6 +251,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 20
 
 - [Apple introduces new features for cognitive accessibility, along with Live Speech, Personal Voice, and Point and Speak in Magnifier](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
+https://jolicode.com/blog/we-are-open-sourcing-our-qotd-application
 
 ## Authors
 
