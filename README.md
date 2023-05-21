@@ -253,6 +253,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Apple introduces new features for cognitive accessibility, along with Live Speech, Personal Voice, and Point and Speak in Magnifier](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 - [We are open-sourcing our QOTD application](https://jolicode.com/blog/we-are-open-sourcing-our-qotd-application)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html)
+- [Adding criteria to your doctrine queries easily](https://dev.to/icolomina/adding-criteria-to-your-doctrine-queries-easily-3llk)
 
 ## Authors
 
