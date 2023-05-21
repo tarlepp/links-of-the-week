@@ -254,6 +254,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [We are open-sourcing our QOTD application](https://jolicode.com/blog/we-are-open-sourcing-our-qotd-application)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html)
 - [Adding criteria to your doctrine queries easily](https://dev.to/icolomina/adding-criteria-to-your-doctrine-queries-easily-3llk)
+- [An In-depth Look at the Symfony Validation Component](https://aminshamim.xyz/an-in-depth-look-at-the-symfony-validation-component-9d59a424e5a2)
 
 ## Authors
 
