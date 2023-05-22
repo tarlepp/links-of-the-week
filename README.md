@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 18](#week-18)
     * [Week 19](#week-19)
     * [Week 20](#week-20)
+    * [Week 21](#week-21)
   * [Authors](#authors)
   * [License](#license)
 
@@ -257,6 +258,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [An In-depth Look at the Symfony Validation Component](https://aminshamim.xyz/an-in-depth-look-at-the-symfony-validation-component-9d59a424e5a2)
 - [Convert dynamically Request content to DTO with Symfony](https://medium.com/@etearner/how-to-transform-request-content-to-dto-with-symfony-6-2-84c9c8543200)
 - [Unlocking real-time capabilities in web applications with Symfony and Mercure](https://david-garcia.medium.com/unlocking-real-time-capabilities-in-web-applications-with-symfony-and-mercure-e67b964b4fee)
+
+### Week 21
+
+- [Add #[Deprecated] attribute](https://github.com/php/php-src/pull/11293)
 
 ## Authors
 
