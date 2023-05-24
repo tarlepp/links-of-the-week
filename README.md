@@ -263,6 +263,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Add #[Deprecated] attribute](https://github.com/php/php-src/pull/11293)
 - [Introducing Windows Copilot](https://twitter.com/Microsoft/status/1661045178180812805)
+- [How to Automatically Create UML Class Diagrams from Requirements Using ChatGPT](https://mattilehtinen.com/articles/how-to-automatically-create-uml-class-diagrams-from-requirements-using-chatgpt/)
 
 ## Authors
 
