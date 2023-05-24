@@ -262,6 +262,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 21
 
 - [Add #[Deprecated] attribute](https://github.com/php/php-src/pull/11293)
+- [Introducing Windows Copilot](https://twitter.com/Microsoft/status/1661045178180812805)
 
 ## Authors
 
