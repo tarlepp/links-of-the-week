@@ -266,6 +266,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How to Automatically Create UML Class Diagrams from Requirements Using ChatGPT](https://mattilehtinen.com/articles/how-to-automatically-create-uml-class-diagrams-from-requirements-using-chatgpt/)
 - [Quill - Your powerful rich text editor](https://quilljs.com/)
 - [Whistleblower Drops 100 Gigabytes Of Tesla Secrets To German News Site: Report](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
+- [Using Symfony forms with PHP typed properties](https://www.strangebuzz.com/en/blog/using-symfony-forms-with-php-typed-properties)
 
 ## Authors
 
