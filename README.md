@@ -267,6 +267,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Quill - Your powerful rich text editor](https://quilljs.com/)
 - [Whistleblower Drops 100 Gigabytes Of Tesla Secrets To German News Site: Report](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 - [Using Symfony forms with PHP typed properties](https://www.strangebuzz.com/en/blog/using-symfony-forms-with-php-typed-properties)
+- [Boosting Efficiency and Speed: Understanding Cache in Symfony 6](https://medium.com/codex/boosting-efficiency-and-speed-understanding-cache-in-symfony-6-c2e7e895db6a)
 
 ## Authors
 
