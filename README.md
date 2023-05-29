@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 19](#week-19)
     * [Week 20](#week-20)
     * [Week 21](#week-21)
+    * [Week 22](#week-22)
   * [Authors](#authors)
   * [License](#license)
 
@@ -268,6 +269,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Whistleblower Drops 100 Gigabytes Of Tesla Secrets To German News Site: Report](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 - [Using Symfony forms with PHP typed properties](https://www.strangebuzz.com/en/blog/using-symfony-forms-with-php-typed-properties)
 - [Boosting Efficiency and Speed: Understanding Cache in Symfony 6](https://medium.com/codex/boosting-efficiency-and-speed-understanding-cache-in-symfony-6-c2e7e895db6a)
+
+### Week 22
+
+- [Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
 
 ## Authors
 
