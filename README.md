@@ -274,6 +274,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
 - [New in Symfony 6.3: Scheduler Component](https://symfony.com/blog/new-in-symfony-6-3-scheduler-component)
+- [Symfony 6.3 curated new features](https://symfony.com/blog/symfony-6-3-curated-new-features)
 
 ## Authors
 
