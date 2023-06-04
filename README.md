@@ -275,7 +275,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
 - [New in Symfony 6.3: Scheduler Component](https://symfony.com/blog/new-in-symfony-6-3-scheduler-component)
 - [Symfony 6.3 curated new features](https://symfony.com/blog/symfony-6-3-curated-new-features)
-https://methodpoet.com/boolean-parameters/
+- [https://methodpoet.com/boolean-parameters/](https://methodpoet.com/boolean-parameters/)
+- [Resolving values for unmapped properties when mapping request data to DTOs in Symfony 6.3+](https://angelovdejan.me/2023/06/01/resolving-values-for-unmapped-properties-when-mapping-request-data-to-dtos-in-symfony-6-3.html)
 
 ## Authors
 
