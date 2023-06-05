@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 20](#week-20)
     * [Week 21](#week-21)
     * [Week 22](#week-22)
+    * [Week 23](#week-23)
   * [Authors](#authors)
   * [License](#license)
 
@@ -277,6 +278,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Symfony 6.3 curated new features](https://symfony.com/blog/symfony-6-3-curated-new-features)
 - [https://methodpoet.com/boolean-parameters/](https://methodpoet.com/boolean-parameters/)
 - [Resolving values for unmapped properties when mapping request data to DTOs in Symfony 6.3+](https://angelovdejan.me/2023/06/01/resolving-values-for-unmapped-properties-when-mapping-request-data-to-dtos-in-symfony-6-3.html)
+
+### Week 23
 
 ## Authors
 
