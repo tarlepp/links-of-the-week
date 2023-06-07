@@ -282,6 +282,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 23
 
 - [Invisible Indirect Injection: A Puzzle for ChatGPT](https://kai-greshake.de/posts/puzzle-22745/)
+- [Instagram Connects Vast Pedophile Network](https://www.wsj.com/articles/instagram-vast-pedophile-network-4ab7189)
 
 ## Authors
 
