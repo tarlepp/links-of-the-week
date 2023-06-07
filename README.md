@@ -281,6 +281,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 23
 
+- [Invisible Indirect Injection: A Puzzle for ChatGPT](https://kai-greshake.de/posts/puzzle-22745/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
