@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 21](#week-21)
     * [Week 22](#week-22)
     * [Week 23](#week-23)
+    * [Week 24](#week-24)
   * [Authors](#authors)
   * [License](#license)
 
@@ -285,6 +286,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Instagram Connects Vast Pedophile Network](https://www.wsj.com/articles/instagram-vast-pedophile-network-4ab7189)
 - [Customize a WebXR Augmented Reality session with HTML, CSS, and JS in Chrome 83+ on Android](https://modelviewer.dev/examples/augmentedreality/)
 - [Internal vs. External Software Quality - And How To Improve Them](https://mattilehtinen.com/articles/internal-vs-external-software-quality-and-how-to-improve-them/)
+
+### Week 24
 
 ## Authors
 
