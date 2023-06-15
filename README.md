@@ -291,6 +291,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Dumb Password Rules](https://dumbpasswordrules.com/)
 - [View non-printable unicode characters](https://www.soscisurvey.de/tools/view-chars.php)
+- [EasyAdmin & Mercure: a concrete use case](https://les-tilleuls.coop/en/blog/easyadmin-mercure-a-concrete-use-case)
 
 ## Authors
 
