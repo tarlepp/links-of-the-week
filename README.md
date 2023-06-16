@@ -295,6 +295,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [vacuum - The world's fastest OpenAPI & Swagger linter](https://github.com/daveshanley/vacuum)
 - [Notes from SymfonyOnline June 2023 - day 1](https://simplercode.com/notes/notes-from-symfony-online-june-2023-day-1)
 - [Unleashing the power of Symfony 6.3 with Blackfire](https://blog.blackfire.io/unleashing-the-power-of-symfony-6-3-with-blackfire.html)
+- [Seamless and efficient Docker and Linux on your Mac](https://orbstack.dev/)
 
 ## Authors
 
