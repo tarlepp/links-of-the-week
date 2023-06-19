@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 22](#week-22)
     * [Week 23](#week-23)
     * [Week 24](#week-24)
+    * [Week 25](#week-25)
   * [Authors](#authors)
   * [License](#license)
 
@@ -296,6 +297,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Notes from SymfonyOnline June 2023 - day 1](https://simplercode.com/notes/notes-from-symfony-online-june-2023-day-1)
 - [Unleashing the power of Symfony 6.3 with Blackfire](https://blog.blackfire.io/unleashing-the-power-of-symfony-6-3-with-blackfire.html)
 - [Seamless and efficient Docker and Linux on your Mac](https://orbstack.dev/)
+
+### Week 25
 
 ## Authors
 
