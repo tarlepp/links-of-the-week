@@ -300,6 +300,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 25
 
+- [Dev Boots Linux 292,612 Times to Find Intel, AMD Kernel Bug](https://www.tomshardware.com/news/dev-boots-linux-292612-times-for-1-in-1000-kernel-bug)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
