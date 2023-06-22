@@ -303,6 +303,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Dev Boots Linux 292,612 Times to Find Intel, AMD Kernel Bug](https://www.tomshardware.com/news/dev-boots-linux-292612-times-for-1-in-1000-kernel-bug)
 - [Request-Level Validation](https://tighten.com/insights/request-level-validation/)
 - [Here comes Symfony 6.3!​](https://speakerdeck.com/nicolasgrekas/here-comes-symfony-6-dot-3)
+- [Developer Survey 2023](https://survey.stackoverflow.co/2023/)
 
 ## Authors
 
