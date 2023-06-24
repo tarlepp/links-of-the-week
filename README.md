@@ -304,6 +304,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Request-Level Validation](https://tighten.com/insights/request-level-validation/)
 - [Here comes Symfony 6.3!​](https://speakerdeck.com/nicolasgrekas/here-comes-symfony-6-dot-3)
 - [Developer Survey 2023](https://survey.stackoverflow.co/2023/)
+- [Load testing for engineering teams | Grafana k6](https://k6.io/)
 
 ## Authors
 
