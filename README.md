@@ -306,6 +306,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Developer Survey 2023](https://survey.stackoverflow.co/2023/)
 - [Load testing for engineering teams | Grafana k6](https://k6.io/)
 - [Say Goodbye to Null-Checking and Exceptions: Using the Maybe Monad in Symfony](https://hackernoon.com/say-goodbye-to-null-checking-and-exceptions-using-the-maybe-monad-in-symfony)
+- [Symfony clean architecture](https://dev.to/sebk69/symfony-clean-architecture-2fl0)
 
 ## Authors
 
