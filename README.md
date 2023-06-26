@@ -45,6 +45,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 23](#week-23)
     * [Week 24](#week-24)
     * [Week 25](#week-25)
+    * [Week 26](#week-26)
   * [Authors](#authors)
   * [License](#license)
 
@@ -307,6 +308,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Load testing for engineering teams | Grafana k6](https://k6.io/)
 - [Say Goodbye to Null-Checking and Exceptions: Using the Maybe Monad in Symfony](https://hackernoon.com/say-goodbye-to-null-checking-and-exceptions-using-the-maybe-monad-in-symfony)
 - [Symfony clean architecture](https://dev.to/sebk69/symfony-clean-architecture-2fl0)
+
+### Week 26
+
+- [Make Your Entities Sortable in EasyAdmin](https://jolicode.com/blog/make-your-entities-sortable-in-easyadmin)
 
 ## Authors
 
