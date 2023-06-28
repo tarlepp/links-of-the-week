@@ -313,6 +313,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Make Your Entities Sortable in EasyAdmin](https://jolicode.com/blog/make-your-entities-sortable-in-easyadmin)
 - [AI Features in PhpStorm: PhpStorm 2023.2 EAP #5](https://blog.jetbrains.com/phpstorm/2023/06/ai-features-in-phpstorm-phpstorm-2023-2-eap-5/)
+- [What's new in PHP 8.3](https://stitcher.io/blog/new-in-php-83)
 
 ## Authors
 
