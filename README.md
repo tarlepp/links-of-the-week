@@ -315,6 +315,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [AI Features in PhpStorm: PhpStorm 2023.2 EAP #5](https://blog.jetbrains.com/phpstorm/2023/06/ai-features-in-phpstorm-phpstorm-2023-2-eap-5/)
 - [What's new in PHP 8.3](https://stitcher.io/blog/new-in-php-83)
 - [Tesla FSD V12 Will No Longer Be Beta: Elon Musk](https://insideevs.com/news/674625/tesla-fsd-12-no-beta-elon-musk/)
+- [Building a Symfony Application with Docker, PHP 8.2, and Caddy](https://medium.com/devwarlocks/building-a-symfony-application-with-docker-php-8-2-and-caddy-ece1438cbd8a)
 
 ## Authors
 
