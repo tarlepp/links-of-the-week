@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 24](#week-24)
     * [Week 25](#week-25)
     * [Week 26](#week-26)
+    * [Week 27](#week-27)
   * [Authors](#authors)
   * [License](#license)
 
@@ -317,6 +318,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Tesla FSD V12 Will No Longer Be Beta: Elon Musk](https://insideevs.com/news/674625/tesla-fsd-12-no-beta-elon-musk/)
 - [Building a Symfony Application with Docker, PHP 8.2, and Caddy](https://medium.com/devwarlocks/building-a-symfony-application-with-docker-php-8-2-and-caddy-ece1438cbd8a)
 - [Reflexion note about: DDD and Aggregate implementation with Symfony and Doctrine](https://dev.to/etshy/reflexion-note-about-ddd-and-aggregate-implementation-with-symfony-and-doctrine-2f9f)
+
+### Week 27
+
+- [Docker Acquires Mutagen for Continued Investment in Performance and Flexibility of Docker Desktop](https://www.docker.com/blog/mutagen-acquisition/)
 
 ## Authors
 
