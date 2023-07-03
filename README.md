@@ -322,6 +322,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 27
 
 - [Docker Acquires Mutagen for Continued Investment in Performance and Flexibility of Docker Desktop](https://www.docker.com/blog/mutagen-acquisition/)
+- [PHP version stats: July, 2023](https://stitcher.io/blog/php-version-stats-july-2023)
 
 ## Authors
 
