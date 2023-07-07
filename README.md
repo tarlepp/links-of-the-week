@@ -325,6 +325,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP version stats: July, 2023](https://stitcher.io/blog/php-version-stats-july-2023)
 - [Photomath - Your Ultimate Math Help App | Free Math SolutionsPhotomath](https://photomath.com/)
 - [Junk websites filled with AI-generated text are pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
+- https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf
 
 ## Authors
 
