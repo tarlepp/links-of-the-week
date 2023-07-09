@@ -327,6 +327,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Junk websites filled with AI-generated text are pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
 - [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
 - [Dealing with Doctrine’s Limitation of Storing DateTime ATOM Format (in Symfony projects)](https://david-garcia.medium.com/dealing-with-doctrines-limitation-of-storing-datetime-atom-format-in-symfony-projects-df522391f556)
+- [Symfony + Outbox Pattern + RabbitMQ: A Key for Reliable Microservices](https://medium.com/devwarlocks/symfony-outbox-pattern-rabbitmq-a-key-for-reliable-microservices-10bf267fdb0a)
 
 ## Authors
 
