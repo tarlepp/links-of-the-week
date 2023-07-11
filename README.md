@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 25](#week-25)
     * [Week 26](#week-26)
     * [Week 27](#week-27)
+    * [Week 28](#week-28)
   * [Authors](#authors)
   * [License](#license)
 
@@ -328,6 +329,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
 - [Dealing with Doctrine’s Limitation of Storing DateTime ATOM Format (in Symfony projects)](https://david-garcia.medium.com/dealing-with-doctrines-limitation-of-storing-datetime-atom-format-in-symfony-projects-df522391f556)
 - [Symfony + Outbox Pattern + RabbitMQ: A Key for Reliable Microservices](https://medium.com/devwarlocks/symfony-outbox-pattern-rabbitmq-a-key-for-reliable-microservices-10bf267fdb0a)
+
+### Week 28
 
 ## Authors
 
