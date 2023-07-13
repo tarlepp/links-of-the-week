@@ -332,6 +332,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 28
 
+- [Math](https://twitter.com/Mathinity_/status/1679451151517859841)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
