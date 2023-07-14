@@ -333,6 +333,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 28
 
 - [Math](https://twitter.com/Mathinity_/status/1679451151517859841)
+- [Boeing 787s must be turned off and on every 51 days to prevent 'misleading data' being shown to pilots](https://www.theregister.com/AMP/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 
 ## Authors
 
