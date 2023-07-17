@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 26](#week-26)
     * [Week 27](#week-27)
     * [Week 28](#week-28)
+    * [Week 29](#week-29)
   * [Authors](#authors)
   * [License](#license)
 
@@ -335,6 +336,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Math](https://twitter.com/Mathinity_/status/1679451151517859841)
 - [Boeing 787s must be turned off and on every 51 days to prevent 'misleading data' being shown to pilots](https://www.theregister.com/AMP/2020/04/02/boeing_787_power_cycle_51_days_stale_data/)
 - [Exploring Symfony Mailer and Load Balancing with Round-Robin Algorithm](https://medium.com/@404sd/exploring-symfony-mailer-and-load-balancing-with-round-robin-algorithm-b4702af1a85b)
+
+### Week 29
+
+-
 
 ## Authors
 
