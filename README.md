@@ -340,6 +340,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 29
 
 - [B1 Battle Droid - Welcome to the Internet AI Cover](https://www.youtube.com/watch?v=x1CnAZr3gE0)
+- [WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
 
 ## Authors
 
