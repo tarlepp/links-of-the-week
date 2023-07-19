@@ -341,6 +341,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [B1 Battle Droid - Welcome to the Internet AI Cover](https://www.youtube.com/watch?v=x1CnAZr3gE0)
 - [WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
+- [GPT-4 is getting worse over time, not better.](https://twitter.com/svpino/status/1681614284613099520)
 
 ## Authors
 
