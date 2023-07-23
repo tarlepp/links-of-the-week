@@ -343,6 +343,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
 - [GPT-4 is getting worse over time, not better.](https://twitter.com/svpino/status/1681614284613099520)
 - [LinkedIn Adopts Protocol Buffers for Microservices Integration and Reduces Latency by up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
+- [Interoperability between Angular models and Symfony entities for data management](https://medium.com/@joseclementegarciarodriguez/interoperability-between-angular-models-and-symfony-entities-for-data-management-83441851c9e0)
 
 ## Authors
 
