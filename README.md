@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 27](#week-27)
     * [Week 28](#week-28)
     * [Week 29](#week-29)
+    * [Week 30](#week-30)
   * [Authors](#authors)
   * [License](#license)
 
@@ -345,6 +346,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [LinkedIn Adopts Protocol Buffers for Microservices Integration and Reduces Latency by up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
 - [Interoperability between Angular models and Symfony entities for data management](https://medium.com/@joseclementegarciarodriguez/interoperability-between-angular-models-and-symfony-entities-for-data-management-83441851c9e0)
 - [Supercharge your application's performance: Consuming Symfony messenger messages with Go](https://dev.to/romaixn/supercharge-your-applications-performance-consuming-symfony-messenger-messages-with-go-2b3f)
+
+### Week 30
 
 ## Authors
 
