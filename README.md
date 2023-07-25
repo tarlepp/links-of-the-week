@@ -350,6 +350,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 30
 
 - [The AI behind ChatGPT really does seem to be getting dumber — but no one can quite figure out why](https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7)
+- [Spotify Technology Beats Subscriber Target But Losses Mount](https://www.investors.com/news/technology/spotify-stock-falls-on-worse-than-expected-loss/)
 
 ## Authors
 
