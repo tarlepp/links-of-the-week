@@ -352,6 +352,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The AI behind ChatGPT really does seem to be getting dumber — but no one can quite figure out why](https://www.businessinsider.com/chatgpt-ai-openai-research-gpt4-2023-7)
 - [Spotify Technology Beats Subscriber Target But Losses Mount](https://www.investors.com/news/technology/spotify-stock-falls-on-worse-than-expected-loss/)
 - [A witness just testified in front of Congress that the government has recovered “non-human” pilots from UFOs](https://twitter.com/APompliano/status/1684254095635361792)
+- [Marcel Pociot "Native PHP" - Laracon US 2023 Nashville](https://www.youtube.com/watch?v=iG7VscBFnqo)
 
 ## Authors
 
