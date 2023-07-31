@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 28](#week-28)
     * [Week 29](#week-29)
     * [Week 30](#week-30)
+    * [Week 31](#week-31)
   * [Authors](#authors)
   * [License](#license)
 
@@ -353,6 +354,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Spotify Technology Beats Subscriber Target But Losses Mount](https://www.investors.com/news/technology/spotify-stock-falls-on-worse-than-expected-loss/)
 - [A witness just testified in front of Congress that the government has recovered “non-human” pilots from UFOs](https://twitter.com/APompliano/status/1684254095635361792)
 - [Marcel Pociot "Native PHP" - Laracon US 2023 Nashville](https://www.youtube.com/watch?v=iG7VscBFnqo)
+
+### Week 31
 
 ## Authors
 
