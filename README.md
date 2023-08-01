@@ -358,6 +358,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 31
 
 - https://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon
+- https://diamondfoundry.com/blogs/the-foundry-journal/jck-diamond-foundry-opening-up-800-million-factory-in-spain
 
 
 ## Authors
