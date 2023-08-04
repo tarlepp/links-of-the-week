@@ -365,6 +365,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - https://blog.jetbrains.com/phpstorm/2023/08/phpstorm-2023-2-is-now-available/
 - https://github.com/giorgiosironi/eris
 - https://jolicode.com/blog/a-new-way-to-squash-your-doctrine-migrations
+- https://dev.to/joubertredrat/validating-requests-on-symfony-framework-3m32
 
 
 ## Authors
