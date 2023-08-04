@@ -362,6 +362,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/
 - https://arc42.org/
 - https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/
+- https://blog.jetbrains.com/phpstorm/2023/08/phpstorm-2023-2-is-now-available/
 
 
 ## Authors
