@@ -364,6 +364,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/
 - https://blog.jetbrains.com/phpstorm/2023/08/phpstorm-2023-2-is-now-available/
 - https://github.com/giorgiosironi/eris
+- https://jolicode.com/blog/a-new-way-to-squash-your-doctrine-migrations
 
 
 ## Authors
