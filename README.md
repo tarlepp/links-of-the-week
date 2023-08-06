@@ -357,15 +357,16 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 31
 
-- https://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon
-- https://diamondfoundry.com/blogs/the-foundry-journal/jck-diamond-foundry-opening-up-800-million-factory-in-spain
-- https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/
-- https://arc42.org/
-- https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/
-- https://blog.jetbrains.com/phpstorm/2023/08/phpstorm-2023-2-is-now-available/
-- https://github.com/giorgiosironi/eris
-- https://jolicode.com/blog/a-new-way-to-squash-your-doctrine-migrations
-- https://dev.to/joubertredrat/validating-requests-on-symfony-framework-3m32
+- [NASA Launches Beta Site; On-Demand Streaming, App Update Coming Soon](https://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon)
+- [JCK: Diamond Foundry Opening Up $800 Million Factory in Spain](https://diamondfoundry.com/blogs/the-foundry-journal/jck-diamond-foundry-opening-up-800-million-factory-in-spain)
+- [Introducing Predictive Debugging: A Game-Changing Look into the Future](https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/)
+- [arc42](https://arc42.org/)
+- [6x faster Docker builds for Symfony and API Platform projects](https://dunglas.dev/2023/08/6x-faster-docker-builds-for-symfony-and-api-platform-projects/)
+- [PhpStorm 2023.2 Is Now Available](https://blog.jetbrains.com/phpstorm/2023/08/phpstorm-2023-2-is-now-available/)
+- [Eris](https://github.com/giorgiosironi/eris)
+- [A new way to squash your Doctrine migrations](https://jolicode.com/blog/a-new-way-to-squash-your-doctrine-migrations)
+- [Validating requests on Symfony Framework](https://dev.to/joubertredrat/validating-requests-on-symfony-framework-3m32)
+- [Symfony vs Flask vs Spring Boot — usability and coding speed](https://medium.com/@demianchuk.sergii/symfony-vs-flask-vs-spring-boot-usability-and-coding-speed-c70152951941)
 
 
 ## Authors
