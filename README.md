@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 29](#week-29)
     * [Week 30](#week-30)
     * [Week 31](#week-31)
+    * [Week 32](#week-32)
   * [Authors](#authors)
   * [License](#license)
 
@@ -368,6 +369,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Validating requests on Symfony Framework](https://dev.to/joubertredrat/validating-requests-on-symfony-framework-3m32)
 - [Symfony vs Flask vs Spring Boot — usability and coding speed](https://medium.com/@demianchuk.sergii/symfony-vs-flask-vs-spring-boot-usability-and-coding-speed-c70152951941)
 
+### Week 32
 
 ## Authors
 
