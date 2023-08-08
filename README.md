@@ -373,6 +373,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [FlappyPHPant](https://github.com/phpgl/flappyphpant)
 - [Typograms](https://google.github.io/typograms/)
+- [Project IDX](https://idx.dev/)
 
 ## Authors
 
