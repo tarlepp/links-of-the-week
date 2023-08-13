@@ -376,6 +376,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Project IDX](https://idx.dev/)
 - [movie-web](https://movie-web.app/)
 - [Dead Letter Queue in Symfony 6.3: An Essential Guide](https://medium.com/devwarlocks/dead-letter-queue-in-symfony-6-3-an-essential-guide-c95d7491851d)
+- [About Symfony Messenger and Interoperability](https://jolicode.com/blog/about-symfony-messenger-and-interoperability)
 
 ## Authors
 
