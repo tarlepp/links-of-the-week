@@ -52,6 +52,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 30](#week-30)
     * [Week 31](#week-31)
     * [Week 32](#week-32)
+    * [Week 33](#week-33)
   * [Authors](#authors)
   * [License](#license)
 
@@ -378,6 +379,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Dead Letter Queue in Symfony 6.3: An Essential Guide](https://medium.com/devwarlocks/dead-letter-queue-in-symfony-6-3-an-essential-guide-c95d7491851d)
 - [About Symfony Messenger and Interoperability](https://jolicode.com/blog/about-symfony-messenger-and-interoperability)
 - [Gambina - Kuinka sitä nautitaan?](https://www.youtube.com/watch?v=fEVZ1r9ge7Y)
+
+### Week 33
 
 ## Authors
 
