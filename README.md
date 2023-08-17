@@ -383,6 +383,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 33
 
 - [Tweetdeck now requires a paid subscription](https://www.engadget.com/tweetdeck-now-requires-a-paid-subscription-082209535.html)
+- [Next-Generation Mobile Apps and Cross Browser Testing Cloud | LambdaTest](https://www.lambdatest.com/)
 
 ## Authors
 
