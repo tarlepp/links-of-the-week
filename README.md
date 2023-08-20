@@ -386,6 +386,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Next-Generation Mobile Apps and Cross Browser Testing Cloud | LambdaTest](https://www.lambdatest.com/)
 - [Unlock the Secrets of Advanced Error Handling in Symfony: 3 Genius Methods Beyond Try-Catch!](https://medium.com/@skowron.jakub1/unlock-the-secrets-of-advanced-error-handling-in-symfony-3-genius-methods-beyond-try-catch-9c1e38c8a73d)
 - [Unlock the Power of DTO in Symfony with This One Library!](https://medium.com/@skowron.jakub1/unlock-the-power-of-dto-in-symfony-with-this-one-library-b00db41e0e66)
+- [What's new in PHP 8.3](https://stitcher.io/blog/new-in-php-83)
 
 ## Authors
 
