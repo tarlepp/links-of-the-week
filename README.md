@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 32](#week-32)
     * [Week 33](#week-33)
     * [Week 34](#week-34)
+    * [Week 35](#week-35)
   * [Authors](#authors)
   * [License](#license)
 
@@ -396,6 +397,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How to set up DB read replicas on Symfony 6 using Doctrine](https://medium.com/@dominykasmurauskas1/how-to-add-read-write-replicas-on-symfony-6-using-doctrine-bundle-a46447449f35)
 - [Mastering Performance Optimization for Symfony Projects](https://david-garcia.medium.com/mastering-performance-optimization-for-symfony-projects-a755967166dc)
 - [Unlock the Power of Dynamic Features in Symfony: The Ultimate Guide to implement Feature Flags](https://medium.com/@skowron.jakub1/unlock-the-power-of-dynamic-features-in-symfony-the-ultimate-guide-to-implement-feature-flags-88b9e5e41085)
+
+### Week 35
 
 ## Authors
 
