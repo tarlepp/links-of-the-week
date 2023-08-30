@@ -400,6 +400,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 35
 
+- [Testing symfony applications with Cypress](https://joppe.dev/2023/08/28/testing-applications-with-cypress/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
