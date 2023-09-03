@@ -401,6 +401,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 35
 
 - [Testing symfony applications with Cypress](https://joppe.dev/2023/08/28/testing-applications-with-cypress/)
+- [Auto-registering custom Doctrine types in Symfony](https://dev.to/rubenrubiob/auto-registering-custom-doctrine-types-in-symfony-3958)
+- [Modern OAuth2 Discord Authentification with Symfony](https://dev.to/fabienlge/modern-oauth2-discord-authentification-with-symfony-3h5m)
+- [Handling deprecated routes using Symfony compiler passes](https://antonio-turdo.medium.com/handling-deprecated-routes-using-symfony-compiler-passes-38fbf48c4cf7)
+- [Handling Multiple Requests Seamlessly with Symfony Lock](https://medium.com/@skowron.jakub1/handling-multiple-requests-seamlessly-with-symfony-lock-3c09e3bf6d89)
 
 ## Authors
 
