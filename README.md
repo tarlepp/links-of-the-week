@@ -413,7 +413,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP RFC: DOM HTML5 parsing and serialization](https://wiki.php.net/rfc/domdocument_html5_parser)
 - [Why does a backslash prefix improve PHP function call performance](https://www.deviaene.eu/articles/2023/why-prefix-php-functions-calls-with-backslash/)
 - [JPMorgan Sees City of London Office Values Falling 20% This Year](https://www.bloomberg.com/news/articles/2023-09-04/jpmorgan-sees-city-of-london-office-values-falling-20-this-year#xj4y7vzkg)
-
+- [Sqids PHP (formerly Hashids)](https://sqids.org/php)
 
 ## Authors
 
