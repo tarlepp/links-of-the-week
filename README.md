@@ -411,6 +411,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 36
 
 - [PHP RFC: DOM HTML5 parsing and serialization](https://wiki.php.net/rfc/domdocument_html5_parser)
+- https://www.deviaene.eu/articles/2023/why-prefix-php-functions-calls-with-backslash/
+
 
 ## Authors
 
