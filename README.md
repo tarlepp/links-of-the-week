@@ -417,6 +417,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Load testing for engineering teams | Grafana k6](https://k6.io/)
 - [Tabulator | JavaScript Tables & Data Grids](https://tabulator.info/)
 - [Dunghill Anti-Pattern - Why utility classes and modules smell?](https://mattilehtinen.com/articles/dunghill-anti-pattern-why-utility-classes-and-modules-smell/)
+- [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01)
 
 ## Authors
 
