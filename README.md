@@ -419,6 +419,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Dunghill Anti-Pattern - Why utility classes and modules smell?](https://mattilehtinen.com/articles/dunghill-anti-pattern-why-utility-classes-and-modules-smell/)
 - [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01)
 - [We Are Looking for Developers to Join the PHP Foundation](https://thephp.foundation/blog/2023/09/06/application-form-2023/)
+- [Discovering Symfony’s Secret Weapon: The Ultimate Guide to the Webhook Component](https://medium.com/@skowron.dev/discovering-symfonys-secret-weapon-the-ultimate-guide-to-the-webhook-component-bae1449f4504)
 
 ## Authors
 
