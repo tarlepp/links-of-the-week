@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 34](#week-34)
     * [Week 35](#week-35)
     * [Week 36](#week-36)
+    * [Week 37](#week-37)
   * [Authors](#authors)
   * [License](#license)
 
@@ -421,6 +422,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [We Are Looking for Developers to Join the PHP Foundation](https://thephp.foundation/blog/2023/09/06/application-form-2023/)
 - [Discovering Symfony’s Secret Weapon: The Ultimate Guide to the Webhook Component](https://medium.com/@skowron.dev/discovering-symfonys-secret-weapon-the-ultimate-guide-to-the-webhook-component-bae1449f4504)
 - [Serve a file stream in Symfony](https://dev.to/rubenrubiob/serve-a-file-stream-in-symfony-3ei3)
+
+### Week 37
 
 ## Authors
 
