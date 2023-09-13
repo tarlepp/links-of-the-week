@@ -426,6 +426,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 37
 
 - [Visual Regression Testing for PDFs in JavaScript](https://github.com/moshensky/pdf-visual-diff)
+- https://github.com/marcocesarato/php-conventional-changelog
 
 ## Authors
 
