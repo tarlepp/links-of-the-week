@@ -426,7 +426,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 37
 
 - [Visual Regression Testing for PDFs in JavaScript](https://github.com/moshensky/pdf-visual-diff)
-- https://github.com/marcocesarato/php-conventional-changelog
+- [PHP Conventional Changelog](https://github.com/marcocesarato/php-conventional-changelog)
+- [Unity has changed its pricing model, and game developers are pissed off](https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development)
 
 ## Authors
 
