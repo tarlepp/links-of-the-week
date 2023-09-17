@@ -429,6 +429,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP Conventional Changelog](https://github.com/marcocesarato/php-conventional-changelog)
 - [Unity has changed its pricing model, and game developers are pissed off](https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development)
 - [OrbStack](https://orbstack.dev/)
+- [Symfony custom error exception response](https://mukhiddin-jumaniyazov.medium.com/symfony-custom-error-exception-response-fee4d51c29bf)
 
 ## Authors
 
