@@ -434,7 +434,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 38
 
-- [emoji-kitchen](https://github.com/xsalazar/emoji-kitchen)
+- [Emoji Kitchen](https://github.com/xsalazar/emoji-kitchen)
 
 ## Authors
 
