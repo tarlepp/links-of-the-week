@@ -435,6 +435,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 38
 
 - [Emoji Kitchen](https://github.com/xsalazar/emoji-kitchen)
+- [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 
 ## Authors
 
