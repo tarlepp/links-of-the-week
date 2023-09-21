@@ -436,6 +436,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Emoji Kitchen](https://github.com/xsalazar/emoji-kitchen)
 - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+- [PhpStorm Public Roadmap: What’s Coming in 2023.3](https://blog.jetbrains.com/phpstorm/2023/09/phpstorm-public-roadmap-whats-coming-in-2023-3/)
 
 ## Authors
 
