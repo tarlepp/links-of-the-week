@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 36](#week-36)
     * [Week 37](#week-37)
     * [Week 38](#week-38)
+    * [Week 39](#week-39)
   * [Authors](#authors)
   * [License](#license)
 
@@ -439,6 +440,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PhpStorm Public Roadmap: What’s Coming in 2023.3](https://blog.jetbrains.com/phpstorm/2023/09/phpstorm-public-roadmap-whats-coming-in-2023-3/)
 - [Flow PHP](https://github.com/flow-php)
 - [The PHP Revolution Is Underway: FrankenPHP 1.0 Beta](https://dunglas.dev/2023/09/the-php-revolution-is-underway-frankenphp-1-0-beta/)
+
+### Week 39
 
 ## Authors
 
