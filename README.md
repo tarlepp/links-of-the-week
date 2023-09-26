@@ -444,6 +444,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 39
 
 - [What is retrieval-augmented generation?](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+- [Devilbox](http://devilbox.org/)
 
 ## Authors
 
