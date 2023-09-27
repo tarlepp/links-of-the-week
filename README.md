@@ -445,6 +445,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [What is retrieval-augmented generation?](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 - [Devilbox](http://devilbox.org/)
+- [State of HTML](https://stateofhtml.com/en-US)
 
 ## Authors
 
