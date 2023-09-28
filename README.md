@@ -447,6 +447,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Devilbox](http://devilbox.org/)
 - [State of HTML](https://stateofhtml.com/en-US)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
+- [Introducing: Raspberry Pi 5!](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
 
 ## Authors
 
