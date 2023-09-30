@@ -448,6 +448,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [State of HTML](https://stateofhtml.com/en-US)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
 - [Introducing: Raspberry Pi 5!](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
+- [Translating entities in EasyAdmin with DoctrineBehaviors](https://dev.to/dzhebrak/translating-entities-in-easyadmin-with-doctrinebehaviors-1odg)
 
 ## Authors
 
