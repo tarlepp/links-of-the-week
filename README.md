@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 37](#week-37)
     * [Week 38](#week-38)
     * [Week 39](#week-39)
+    * [Week 40](#week-40)
   * [Authors](#authors)
   * [License](#license)
 
@@ -450,6 +451,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introducing: Raspberry Pi 5!](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
 - [Translating entities in EasyAdmin with DoctrineBehaviors](https://dev.to/dzhebrak/translating-entities-in-easyadmin-with-doctrinebehaviors-1odg)
 - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
+
+### Week 40
+
+- [REDbot](https://redbot.org/)
 
 ## Authors
 
