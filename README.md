@@ -455,6 +455,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 40
 
 - [REDbot](https://redbot.org/)
+- [Cracking the code: Symfony's search solution for 12 million words of documentation](https://blog.meilisearch.com/symfonys-solution-for-documentation-search/)
 
 ## Authors
 
