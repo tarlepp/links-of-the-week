@@ -457,6 +457,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [REDbot](https://redbot.org/)
 - [Cracking the code: Symfony's search solution for 12 million words of documentation](https://blog.meilisearch.com/symfonys-solution-for-documentation-search/)
 - [Angular 16 Is Out Now: Learn How to Replace RxJS with Signals](https://blog.bitsrc.io/angular-16-is-out-now-learn-how-to-replace-rxjs-with-signals-c1f6f410809)
+- [Optimizing Performance with Early Hints in Symfony 6.3](https://medium.com/@brian.thiely/optimizing-performance-with-early-hints-in-symfony-6-3-fd4d57d63056)
 
 ## Authors
 
