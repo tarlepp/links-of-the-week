@@ -462,6 +462,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 41
 
+- [John Riccitiello is out at Unity, effective immediately](https://www.theverge.com/2023/10/9/23910441/unity-ceo-president-john-riccitiello-out-retire)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
