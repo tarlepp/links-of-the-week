@@ -463,6 +463,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 41
 
 - [John Riccitiello is out at Unity, effective immediately](https://www.theverge.com/2023/10/9/23910441/unity-ceo-president-john-riccitiello-out-retire)
+- [Big Tech Struggles to Turn AI Hype Into Profits](https://www.wsj.com/tech/ai/ais-costly-buildup-could-make-early-products-a-hard-sell-bdd29b9f)
 
 ## Authors
 
