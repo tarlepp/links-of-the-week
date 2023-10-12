@@ -466,6 +466,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Big Tech Struggles to Turn AI Hype Into Profits](https://www.wsj.com/tech/ai/ais-costly-buildup-could-make-early-products-a-hard-sell-bdd29b9f)
 - [Doctrine 3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1)
 - [Laravel is weird](https://medium.com/@vitoriodachef/laravel-is-weird-919c2ba199be)
+- [Meet Angular’s New Control Flow](https://blog.angular.io/meet-angulars-new-control-flow-a02c6eee7843)
 
 ## Authors
 
