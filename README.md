@@ -467,6 +467,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Doctrine 3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1)
 - [Laravel is weird](https://medium.com/@vitoriodachef/laravel-is-weird-919c2ba199be)
 - [Meet Angular’s New Control Flow](https://blog.angular.io/meet-angulars-new-control-flow-a02c6eee7843)
+- [Microsoft Just Bought Activision Blizzard for $69 Billion — So What’s Next?](https://www.ign.com/articles/microsoft-just-bought-activision-blizzard-for-69-billion-so-whats-next)
 
 ## Authors
 
