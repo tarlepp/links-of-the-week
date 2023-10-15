@@ -468,6 +468,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Laravel is weird](https://medium.com/@vitoriodachef/laravel-is-weird-919c2ba199be)
 - [Meet Angular’s New Control Flow](https://blog.angular.io/meet-angulars-new-control-flow-a02c6eee7843)
 - [Microsoft Just Bought Activision Blizzard for $69 Billion — So What’s Next?](https://www.ign.com/articles/microsoft-just-bought-activision-blizzard-for-69-billion-so-whats-next)
+- [KeycloakClientBundle: A Symfony Bundle for Integrating with Keycloak](https://dev.to/mainick/keycloakclientbundle-a-symfony-bundle-for-integrating-with-keycloak-3el3)
+- [Webhook Integration in Symfony 6.3: Exploring the Webhook and RemoteEvent Components](https://medium.com/@brian.thiely/webhook-integration-in-symfony-6-3-exploring-the-webhook-and-remoteevent-components-d556ce044370)
 
 ## Authors
 
