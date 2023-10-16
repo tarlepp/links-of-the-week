@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 39](#week-39)
     * [Week 40](#week-40)
     * [Week 41](#week-41)
+    * [Week 42](#week-42)
   * [Authors](#authors)
   * [License](#license)
 
@@ -470,6 +471,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Microsoft Just Bought Activision Blizzard for $69 Billion — So What’s Next?](https://www.ign.com/articles/microsoft-just-bought-activision-blizzard-for-69-billion-so-whats-next)
 - [KeycloakClientBundle: A Symfony Bundle for Integrating with Keycloak](https://dev.to/mainick/keycloakclientbundle-a-symfony-bundle-for-integrating-with-keycloak-3el3)
 - [Webhook Integration in Symfony 6.3: Exploring the Webhook and RemoteEvent Components](https://medium.com/@brian.thiely/webhook-integration-in-symfony-6-3-exploring-the-webhook-and-remoteevent-components-d556ce044370)
+
+### Week 42
 
 ## Authors
 
