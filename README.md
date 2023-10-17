@@ -474,6 +474,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 42
 
+- [How to override PHP's naming constraints to model MongoDB operators](https://dev.to/gromnan/how-to-override-phps-naming-constraints-to-model-mongodb-operators-3p30)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
