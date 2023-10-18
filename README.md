@@ -477,6 +477,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How to override PHP's naming constraints to model MongoDB operators](https://dev.to/gromnan/how-to-override-phps-naming-constraints-to-model-mongodb-operators-3p30)
 - [Netflix to Host Its First-Ever Live Sports Event as 'Drive to Survive' & 'Full Swing' Athletes Tee Up and Face Off in All-Star Golf Tournament](https://about.netflix.com/en/news/netflix-to-host-first-ever-live-sports-event-drive-to-survive-full-swing)
 - [MicroMapper: The Tiny, Underwhelming Data Mapper for Symfony!](https://github.com/SymfonyCasts/micro-mapper)
+- [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
 
 ## Authors
 
