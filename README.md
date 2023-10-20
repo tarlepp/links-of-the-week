@@ -480,6 +480,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
 - [Vulcain: client-driven hypermedia APIs](https://vulcain.rocks/)
 - [New in Symfony 6.4: Command Profiler](https://symfony.com/blog/new-in-symfony-6-4-command-profiler)
+- [Enhancing Sylius Security with Two-Factor Authentication (2FA) Using TOTP](https://joppe.dev/2023/10/19/secure-sylius-with-google-authenticator/)
 
 ## Authors
 
