@@ -483,6 +483,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Enhancing Sylius Security with Two-Factor Authentication (2FA) Using TOTP](https://joppe.dev/2023/10/19/secure-sylius-with-google-authenticator/)
 - [Implementing the Factory Method Design Pattern in Symfony](https://medium.com/@rcsofttech85/implementing-the-factory-method-design-pattern-in-symfony-b9547a002737)
 - [Instant Messaging in Symfony: A Deep Dive into Mercure Integration](https://medium.com/@skowron.dev/instant-messaging-in-symfony-a-deep-dive-into-mercure-integration-06ed9bbb87a7)
+- [How to Create a Bundle in Symfony](https://medium.com/simform-engineering/how-to-create-a-bundle-in-symfony-18bf584835d1)
 
 ## Authors
 
