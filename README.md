@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 40](#week-40)
     * [Week 41](#week-41)
     * [Week 42](#week-42)
+    * [Week 43](#week-43)
   * [Authors](#authors)
   * [License](#license)
 
@@ -484,6 +485,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Implementing the Factory Method Design Pattern in Symfony](https://medium.com/@rcsofttech85/implementing-the-factory-method-design-pattern-in-symfony-b9547a002737)
 - [Instant Messaging in Symfony: A Deep Dive into Mercure Integration](https://medium.com/@skowron.dev/instant-messaging-in-symfony-a-deep-dive-into-mercure-integration-06ed9bbb87a7)
 - [How to Create a Bundle in Symfony](https://medium.com/simform-engineering/how-to-create-a-bundle-in-symfony-18bf584835d1)
+
+### Week 43
+
+- [Elon Musk Says He’ll Give Wikipedia $1 Billion if They Change Their Name to D*ckipedia](https://www.yahoo.com/entertainment/elon-musk-says-ll-wikipedia-222531368.html)
 
 ## Authors
 
