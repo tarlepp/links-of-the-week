@@ -489,6 +489,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 43
 
 - [Elon Musk Says He’ll Give Wikipedia $1 Billion if They Change Their Name to D*ckipedia](https://www.yahoo.com/entertainment/elon-musk-says-ll-wikipedia-222531368.html)
+- [Web Developer Tools](https://www.browserling.com/tools/)
 
 ## Authors
 
