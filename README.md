@@ -491,6 +491,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Elon Musk Says He’ll Give Wikipedia $1 Billion if They Change Their Name to D*ckipedia](https://www.yahoo.com/entertainment/elon-musk-says-ll-wikipedia-222531368.html)
 - [Web Developer Tools](https://www.browserling.com/tools/)
 - [Exclusive: Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
+- [If PHP Were British](https://aloneonahill.com/blog/if-php-were-british/)
 
 ## Authors
 
