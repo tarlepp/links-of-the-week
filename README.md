@@ -492,6 +492,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Web Developer Tools](https://www.browserling.com/tools/)
 - [Exclusive: Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
 - [If PHP Were British](https://aloneonahill.com/blog/if-php-were-british/)
+- [Mastering Angular Custom Directives: A Comprehensive Guide with 15 Real-World Examples (2023)](https://blog.stackademic.com/mastering-angular-custom-directives-a-comprehensive-guide-with-15-real-world-examples-2023-a1d4645c4a0f)
 
 ## Authors
 
