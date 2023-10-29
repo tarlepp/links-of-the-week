@@ -495,6 +495,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Mastering Angular Custom Directives: A Comprehensive Guide with 15 Real-World Examples (2023)](https://blog.stackademic.com/mastering-angular-custom-directives-a-comprehensive-guide-with-15-real-world-examples-2023-a1d4645c4a0f)
 - [Europe's pollution divide: see how your area compares](https://www.theguardian.com/environment/ng-interactive/2023/sep/20/europes-pollution-divide-see-how-your-area-compares)
 - [A retry mechanism for Symfony commands](https://smaine-milianni.medium.com/a-retry-mechanism-for-symfony-commands-15d48f9d4657)
+- [How to Deal with a Closed Entity Manager in Doctrine](https://kisztof.medium.com/how-to-deal-with-a-closed-entity-manager-in-doctrine-ac3a2c1d74a1)
 
 ## Authors
 
