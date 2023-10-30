@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 41](#week-41)
     * [Week 42](#week-42)
     * [Week 43](#week-43)
+    * [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -496,6 +497,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Europe's pollution divide: see how your area compares](https://www.theguardian.com/environment/ng-interactive/2023/sep/20/europes-pollution-divide-see-how-your-area-compares)
 - [A retry mechanism for Symfony commands](https://smaine-milianni.medium.com/a-retry-mechanism-for-symfony-commands-15d48f9d4657)
 - [How to Deal with a Closed Entity Manager in Doctrine](https://kisztof.medium.com/how-to-deal-with-a-closed-entity-manager-in-doctrine-ac3a2c1d74a1)
+
+### Week 44
 
 ## Authors
 
