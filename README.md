@@ -501,6 +501,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 44
 
 - [Artists Lose First Round of Copyright Infringement Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
+- [vxTwitter / fixvx](https://github.com/dylanpdx/BetterTwitFix)
 
 ## Authors
 
