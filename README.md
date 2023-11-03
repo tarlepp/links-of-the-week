@@ -504,6 +504,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [vxTwitter / fixvx](https://github.com/dylanpdx/BetterTwitFix)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
 - [PHP-TUI Progress](https://www.dantleech.com/blog/2023/11/03/php-tui-progress/)
+- [JetBrains JavaScript Day 2023](https://www.youtube.com/watch?v=9VzdTwPC-Rs)
 
 ## Authors
 
