@@ -503,6 +503,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Artists Lose First Round of Copyright Infringement Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
 - [vxTwitter / fixvx](https://github.com/dylanpdx/BetterTwitFix)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
+- [PHP-TUI Progress](https://www.dantleech.com/blog/2023/11/03/php-tui-progress/)
 
 ## Authors
 
