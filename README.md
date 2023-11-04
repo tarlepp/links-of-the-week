@@ -505,6 +505,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [SQL Style Guide](https://www.sqlstyle.guide/)
 - [PHP-TUI Progress](https://www.dantleech.com/blog/2023/11/03/php-tui-progress/)
 - [JetBrains JavaScript Day 2023](https://www.youtube.com/watch?v=9VzdTwPC-Rs)
+- [Is Google Listening to You? Yes, and Here’s How to Stop It](https://www.privateinternetaccess.com/blog/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/)
 
 ## Authors
 
