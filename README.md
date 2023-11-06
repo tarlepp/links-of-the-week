@@ -64,6 +64,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 42](#week-42)
     * [Week 43](#week-43)
     * [Week 44](#week-44)
+    * [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -508,6 +509,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Is Google Listening to You? Yes, and Here’s How to Stop It](https://www.privateinternetaccess.com/blog/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/)
 - [Writerside](https://www.jetbrains.com/writerside/)
 - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
+
+### Week 45
 
 ## Authors
 
