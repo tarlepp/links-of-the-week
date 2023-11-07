@@ -513,6 +513,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 45
 
 - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
+- [Hang Out + Move the Symfony Demo to AssetMaper](https://www.youtube.com/watch?v=pyj1hvhcxGc)
 
 ## Authors
 
