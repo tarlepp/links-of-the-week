@@ -515,6 +515,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 - [Hang Out + Move the Symfony Demo to AssetMaper](https://www.youtube.com/watch?v=pyj1hvhcxGc)
 - [Apple Has Plans to Eventually, Maybe Revolutionize Health Care](https://www.bloomberg.com/news/features/2023-11-01/apple-health-blood-pressure-glucose-sleep-apnea-team-issues#xj4y7vzkg)
+- [Upgrade your Twig "includes" syntax with a simple regex](https://florentdestremau.bearblog.dev/upgrade-your-twig-include-with-into-include/)
 
 ## Authors
 
