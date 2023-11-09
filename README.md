@@ -517,6 +517,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Apple Has Plans to Eventually, Maybe Revolutionize Health Care](https://www.bloomberg.com/news/features/2023-11-01/apple-health-blood-pressure-glucose-sleep-apnea-team-issues#xj4y7vzkg)
 - [Upgrade your Twig "includes" syntax with a simple regex](https://florentdestremau.bearblog.dev/upgrade-your-twig-include-with-into-include/)
 - [Making a Single-Page Application with HTMX and Symfony](https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony)
+- [Ruby on Rails: The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 
 ## Authors
 
