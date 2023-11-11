@@ -518,6 +518,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Upgrade your Twig "includes" syntax with a simple regex](https://florentdestremau.bearblog.dev/upgrade-your-twig-include-with-into-include/)
 - [Making a Single-Page Application with HTMX and Symfony](https://jolicode.com/blog/making-a-single-page-application-with-htmx-and-symfony)
 - [Ruby on Rails: The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4)
+- [Introducing Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
 
 ## Authors
 
