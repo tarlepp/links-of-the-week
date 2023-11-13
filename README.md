@@ -525,6 +525,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 46
 
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/posts/2023-11-12-listen-to-doctrine-events-on-entities-given-a-php-attribute.html)
+- [Here’s What a Software Architect Does in an Agile Team](https://thenewstack.io/heres-what-a-software-architect-does-in-an-agile-team/)
 
 ## Authors
 
