@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 43](#week-43)
     * [Week 44](#week-44)
     * [Week 45](#week-45)
+    * [Week 46](#week-46)
   * [Authors](#authors)
   * [License](#license)
 
@@ -520,6 +521,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Ruby on Rails: The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 - [Introducing Angular v17](https://blog.angular.io/introducing-angular-v17-4d7033312e4b)
 - [DatePoint: A new immutable date/time class for Symfony 6.4](https://medium.com/peanutsquarellp/datepoint-a-new-immutable-date-time-class-for-symfony-6-4-8eac320ada79)
+
+### Week 46
+
+- [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/posts/2023-11-12-listen-to-doctrine-events-on-entities-given-a-php-attribute.html)
 
 ## Authors
 
