@@ -528,6 +528,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Here’s What a Software Architect Does in an Agile Team](https://thenewstack.io/heres-what-a-software-architect-does-in-an-agile-team/)
 - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 - [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
+- [Sam Altman fired as CEO of OpenAI](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
 
 ## Authors
 
