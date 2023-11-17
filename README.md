@@ -527,6 +527,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Listen to Doctrine Events on Entities Using a PHP Attribute](https://hugo.alliau.me/posts/2023-11-12-listen-to-doctrine-events-on-entities-given-a-php-attribute.html)
 - [Here’s What a Software Architect Does in an Agile Team](https://thenewstack.io/heres-what-a-software-architect-does-in-an-agile-team/)
 - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
+- [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
 
 ## Authors
 
