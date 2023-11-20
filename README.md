@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 44](#week-44)
     * [Week 45](#week-45)
     * [Week 46](#week-46)
+    * [Week 47](#week-47)
   * [Authors](#authors)
   * [License](#license)
 
@@ -529,6 +530,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 - [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
 - [Sam Altman fired as CEO of OpenAI](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
+
+### Week 47
 
 ## Authors
 
