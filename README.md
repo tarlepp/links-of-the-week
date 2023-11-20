@@ -533,6 +533,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 47
 
+- [Hundreds of OpenAI staff tell board to resign or they'll quit](https://www.axios.com/2023/11/20/openai-staff-letter-board-resign-sam-altman)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
