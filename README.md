@@ -534,6 +534,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 47
 
 - [Hundreds of OpenAI staff tell board to resign or they'll quit](https://www.axios.com/2023/11/20/openai-staff-letter-board-resign-sam-altman)
+- [Sam Altman set to rejoin OpenAI as CEO with Microsoft's blessing](https://www.theregister.com/2023/11/22/sam_altman_openai_return/)
 
 ## Authors
 
