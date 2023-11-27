@@ -540,6 +540,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 48
 
+- [PHP Term](https://www.dantleech.com/blog/2023/11/27/php-term/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
