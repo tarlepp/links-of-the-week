@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 45](#week-45)
     * [Week 46](#week-46)
     * [Week 47](#week-47)
+    * [Week 48](#week-48)
   * [Authors](#authors)
   * [License](#license)
 
@@ -536,6 +537,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Hundreds of OpenAI staff tell board to resign or they'll quit](https://www.axios.com/2023/11/20/openai-staff-letter-board-resign-sam-altman)
 - [Sam Altman set to rejoin OpenAI as CEO with Microsoft's blessing](https://www.theregister.com/2023/11/22/sam_altman_openai_return/)
 - [A fuzzy search library for PHP](https://github.com/loilo/Fuse)
+
+### Week 48
 
 ## Authors
 
