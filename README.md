@@ -543,6 +543,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP Term](https://www.dantleech.com/blog/2023/11/27/php-term/)
 - [Symfony 7 is here](https://symfony.com/7)
 - [Paavo Väyrynen järjestää omat ”Linnan juhlat”](https://www.iltalehti.fi/politiikka/a/2c3e7d9e-7228-4fd3-8b55-d63e638ba67f)
+- [The State of Developer Ecosystem 2023](https://www.jetbrains.com/lp/devecosystem-2023/)
 
 ## Authors
 
