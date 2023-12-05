@@ -549,6 +549,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 49
 
 - [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/)
+- [Embrace 'bad English' as the European 'lingua franca,' says Timmermans](https://www.brusselstimes.com/509639/embrace-bad-english-as-the-european-lingua-franca-says-timmermans)
 
 ## Authors
 
