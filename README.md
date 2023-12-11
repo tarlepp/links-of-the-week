@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 47](#week-47)
     * [Week 48](#week-48)
     * [Week 49](#week-49)
+    * [Week 50](#week-50)
   * [Authors](#authors)
   * [License](#license)
 
@@ -550,8 +551,12 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/)
 - [Embrace 'bad English' as the European 'lingua franca,' says Timmermans](https://www.brusselstimes.com/509639/embrace-bad-english-as-the-european-lingua-franca-says-timmermans)
-- 
-https://jolicode.com/blog/master-task-scheduling-with-symfony-scheduler
+- [Master task scheduling with Symfony Scheduler](https://jolicode.com/blog/master-task-scheduling-with-symfony-scheduler)
+
+### Week 50
+
+- [SymfonyCon Brussels 2023](https://www.studio24.net/blog/symfonycon-brussels-2023/)
+ 
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
