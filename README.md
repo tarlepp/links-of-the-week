@@ -556,6 +556,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 50
 
 - [SymfonyCon Brussels 2023](https://www.studio24.net/blog/symfonycon-brussels-2023/)
+- [I don't know](https://stitcher.io/blog/i-dont-know)
  
 ## Authors
 
