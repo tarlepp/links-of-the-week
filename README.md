@@ -557,6 +557,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [SymfonyCon Brussels 2023](https://www.studio24.net/blog/symfonycon-brussels-2023/)
 - [I don't know](https://stitcher.io/blog/i-dont-know)
+- [Alximysts at SymfonyCon Brussels, the debrief!](https://blog.alximy.io/en/article/alximysts-at-symfonycon-brussels-the-debrief)
  
 ## Authors
 
