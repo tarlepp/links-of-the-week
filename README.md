@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 48](#week-48)
     * [Week 49](#week-49)
     * [Week 50](#week-50)
+    * [Week 51](#week-51)
   * [Authors](#authors)
   * [License](#license)
 
@@ -558,7 +559,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [SymfonyCon Brussels 2023](https://www.studio24.net/blog/symfonycon-brussels-2023/)
 - [I don't know](https://stitcher.io/blog/i-dont-know)
 - [Alximysts at SymfonyCon Brussels, the debrief!](https://blog.alximy.io/en/article/alximysts-at-symfonycon-brussels-the-debrief)
- 
+
+### Week 51
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
