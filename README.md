@@ -562,6 +562,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 51
 
+- [Revisiting the good old reset password feature](https://blog.alximy.io/en/article/revisiting-the-good-old-reset-password-feature)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
