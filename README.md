@@ -563,6 +563,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 51
 
 - [Revisiting the good old reset password feature](https://blog.alximy.io/en/article/revisiting-the-good-old-reset-password-feature)
+- [RFC proposal: worker mode primitives for SAPIs](https://externals.io/message/122027)
 
 ## Authors
 
