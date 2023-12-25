@@ -71,6 +71,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 49](#week-49)
     * [Week 50](#week-50)
     * [Week 51](#week-51)
+    * [Week 52](#week-52)
   * [Authors](#authors)
   * [License](#license)
 
@@ -564,6 +565,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Revisiting the good old reset password feature](https://blog.alximy.io/en/article/revisiting-the-good-old-reset-password-feature)
 - [RFC proposal: worker mode primitives for SAPIs](https://externals.io/message/122027)
+
+### Week 52
 
 ## Authors
 
