@@ -568,6 +568,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 52
 
+- [Back on the Amazing SymfonyCon Brussels 2023!](https://symfony.com/blog/back-on-the-amazing-symfonycon-brussels-2023)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
