@@ -31,6 +31,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [A new era of authentication - Kinde](https://kinde.com/)
 * [Pamark Group](https://www.pamark.fi/)
+* [Falcon Coffee Table](https://bricknerd.com/home/falcon-coffee-table-10-2016)
 
 ## Authors
 
