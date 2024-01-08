@@ -22,6 +22,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2023](2023.md)
   * [2024](#2024)
     * [Week 1](#week-1)
+    * [Week 2](#week-2)
   * [Authors](#authors)
   * [License](#license)
 
@@ -33,6 +34,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Pamark Group](https://www.pamark.fi/)
 - [Falcon Coffee Table](https://bricknerd.com/home/falcon-coffee-table-10-2016)
 - [How One Command Broke NPM](https://www.youtube.com/watch?v=IzqtWTMFv9Y)
+
+### Week 2
+
+- [A Symfony bundle for PHP implementation of the Unleash protocol aka Feature Flags in GitLab](https://github.com/Unleash/unleash-client-symfony)
 
 ## Authors
 
