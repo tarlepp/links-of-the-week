@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [A Symfony bundle for PHP implementation of the Unleash protocol aka Feature Flags in GitLab](https://github.com/Unleash/unleash-client-symfony)
 - [Lua with PHP](https://www.php.net/manual/en/book.lua.php)
+- [Rabbit](https://www.rabbit.tech/)
 
 ## Authors
 
