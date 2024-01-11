@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Lua with PHP](https://www.php.net/manual/en/book.lua.php)
 - [Rabbit](https://www.rabbit.tech/)
 - [Installing and using php-cs-fixer](https://www.strangebuzz.com/en/blog/installing-and-using-php-cs-fixer)
+- [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 
 ## Authors
 
