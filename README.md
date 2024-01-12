@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
 - [Järvenpään Luomukoiratila](https://koiranliha.com/)
+- [OpenAI to regulators: Training AI models without copyrighted material is "impossible"](https://www.techspot.com/news/101475-openai-tells-regulators-training-usable-ai-models-without.html)
 
 ## Authors
 
