@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Installing and using php-cs-fixer](https://www.strangebuzz.com/en/blog/installing-and-using-php-cs-fixer)
 - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
+- [Järvenpään Luomukoiratila](https://koiranliha.com/)
 
 ## Authors
 
