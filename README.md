@@ -23,6 +23,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2024](#2024)
     * [Week 1](#week-1)
     * [Week 2](#week-2)
+    * [Week 3](#week-3)
   * [Authors](#authors)
   * [License](#license)
 
@@ -45,6 +46,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
 - [Järvenpään Luomukoiratila](https://koiranliha.com/)
 - [OpenAI to regulators: Training AI models without copyrighted material is "impossible"](https://www.techspot.com/news/101475-openai-tells-regulators-training-usable-ai-models-without.html)
+
+### Week 3
 
 ## Authors
 
