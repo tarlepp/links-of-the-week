@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 3
 
 - [Idiomorph](https://github.com/bigskysoftware/idiomorph)
+- [A Massive Amount of Water Ice Has Been Found on Mars, Lurking Beneath The Equator](https://www.sciencealert.com/a-massive-amount-of-water-ice-has-been-found-on-mars-lurking-beneath-the-equator)
 
 ## Authors
 
