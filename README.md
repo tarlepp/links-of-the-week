@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Idiomorph](https://github.com/bigskysoftware/idiomorph)
 - [A Massive Amount of Water Ice Has Been Found on Mars, Lurking Beneath The Equator](https://www.sciencealert.com/a-massive-amount-of-water-ice-has-been-found-on-mars-lurking-beneath-the-equator)
+- [grapheme_strlen](https://www.php.net/manual/en/function.grapheme-strlen.php)
 
 ## Authors
 
