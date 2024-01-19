@@ -53,6 +53,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A Massive Amount of Water Ice Has Been Found on Mars, Lurking Beneath The Equator](https://www.sciencealert.com/a-massive-amount-of-water-ice-has-been-found-on-mars-lurking-beneath-the-equator)
 - [grapheme_strlen](https://www.php.net/manual/en/function.grapheme-strlen.php)
 - [AI Cheats Are Out Of Control Now...](https://www.youtube.com/watch?v=Lbs0Ld5Wff0)
+- [@HaierAppliances🖕🖕🖕🖕🖕 you bunch of assholes](https://twitter.com/Ocramius/status/1748365636479172985?cn=ZmxleGlibGVfcmVjcw%3D%3D)
 
 ## Authors
 
