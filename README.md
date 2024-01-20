@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [grapheme_strlen](https://www.php.net/manual/en/function.grapheme-strlen.php)
 - [AI Cheats Are Out Of Control Now...](https://www.youtube.com/watch?v=Lbs0Ld5Wff0)
 - [@HaierAppliances🖕🖕🖕🖕🖕 you bunch of assholes](https://twitter.com/Ocramius/status/1748365636479172985?cn=ZmxleGlibGVfcmVjcw%3D%3D)
+- [Docker-based PHP development environments](https://ddev.com/)
 
 ## Authors
 
