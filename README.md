@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [AI Cheats Are Out Of Control Now...](https://www.youtube.com/watch?v=Lbs0Ld5Wff0)
 - [@HaierAppliances🖕🖕🖕🖕🖕 you bunch of assholes](https://twitter.com/Ocramius/status/1748365636479172985?cn=ZmxleGlibGVfcmVjcw%3D%3D)
 - [Docker-based PHP development environments](https://ddev.com/)
+- [Performance benchmark of PHP runtimes](https://dev.to/dimdev/performance-benchmark-of-php-runtimes-2lmc)
 
 ## Authors
 
