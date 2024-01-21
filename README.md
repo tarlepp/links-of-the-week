@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [@HaierAppliances🖕🖕🖕🖕🖕 you bunch of assholes](https://twitter.com/Ocramius/status/1748365636479172985?cn=ZmxleGlibGVfcmVjcw%3D%3D)
 - [Docker-based PHP development environments](https://ddev.com/)
 - [Performance benchmark of PHP runtimes](https://dev.to/dimdev/performance-benchmark-of-php-runtimes-2lmc)
+- [Why UUID7 is better than UUID4 as clustered index](https://medium.com/@rtawadrous/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056)
 
 ## Authors
 
