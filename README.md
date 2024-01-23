@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 4
 
 - [The Book of Shaders](https://thebookofshaders.com/)
+- [Choose boring and flexible, not malleable](https://dkarlovi.github.io/choose-boring/)
 
 ## Authors
 
