@@ -64,6 +64,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Choose boring and flexible, not malleable](https://dkarlovi.github.io/choose-boring/)
 - [Zed - Code at the speed of thought](https://zed.dev/)
+- [Understanding the potential of Modulith architecture](https://blog.worldline.tech/2024/01/23/modulith.html)
 
 ## Authors
 
