@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Zed - Code at the speed of thought](https://zed.dev/)
 - [Understanding the potential of Modulith architecture](https://blog.worldline.tech/2024/01/23/modulith.html)
 - [PHP Annotated – December 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-december-2023/)
+- [PHP Annotated – January 2024](https://blog.jetbrains.com/phpstorm/2024/01/php-annotated-january-2024/)
 
 ## Authors
 
