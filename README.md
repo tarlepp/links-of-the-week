@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [What Did Hubble See on Your Birthday?](https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/)
 - [Deploy app servers close to your users · Fly](https://fly.io/)
 - [OCaml](https://ocaml.org/)
+- [How to Manage Tasks with the Symfony Scheduler Component: A Deep Dive](https://levelup.gitconnected.com/how-to-manage-tasks-with-the-symfony-scheduler-component-a-deep-dive-6a8c49df63b8)
 
 ## Authors
 
