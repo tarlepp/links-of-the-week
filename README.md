@@ -71,6 +71,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Deploy app servers close to your users · Fly](https://fly.io/)
 - [OCaml](https://ocaml.org/)
 - [How to Manage Tasks with the Symfony Scheduler Component: A Deep Dive](https://levelup.gitconnected.com/how-to-manage-tasks-with-the-symfony-scheduler-component-a-deep-dive-6a8c49df63b8)
+- [Asynchronous state machine with Symfony Workflows](https://medium.com/@bifidokk/asynchronous-state-machine-with-symfony-workflows-a5b751bf31f2)
 
 ## Authors
 
