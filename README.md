@@ -77,6 +77,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 5
 
 - [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
+- [Next-Generation Mobile Apps and Cross Browser Testing Cloud](https://www.lambdatest.com/)
 
 ## Authors
 
