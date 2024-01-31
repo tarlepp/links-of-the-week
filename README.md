@@ -78,6 +78,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 - [Next-Generation Mobile Apps and Cross Browser Testing Cloud](https://www.lambdatest.com/)
+- [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
 
 ## Authors
 
