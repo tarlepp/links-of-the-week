@@ -80,6 +80,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Next-Generation Mobile Apps and Cross Browser Testing Cloud](https://www.lambdatest.com/)
 - [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
 - [MS-DOS and Windows 3.11 still run train dashboards at German railway — company listed admin job for 30-year-old operating system](https://www.tomshardware.com/software/windows/ms-dos-and-windows-311-still-run-train-dashboards-at-german-railway-company-listed-admin-job-for-30-year-old-operating-system)
+- [keep a changelog](https://keepachangelog.com/)
 
 ## Authors
 
