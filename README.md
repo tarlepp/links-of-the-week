@@ -82,6 +82,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [MS-DOS and Windows 3.11 still run train dashboards at German railway — company listed admin job for 30-year-old operating system](https://www.tomshardware.com/software/windows/ms-dos-and-windows-311-still-run-train-dashboards-at-german-railway-company-listed-admin-job-for-30-year-old-operating-system)
 - [keep a changelog](https://keepachangelog.com/)
 - [Tom Select](https://tom-select.js.org/)
+- [WebAuthn: Strong Authentication for your PHP applications](https://webauthn-doc.spomky-labs.com/symfony-bundle/the-symfony-way)
 
 ## Authors
 
