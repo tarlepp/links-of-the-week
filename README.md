@@ -85,6 +85,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [WebAuthn: Strong Authentication for your PHP applications](https://webauthn-doc.spomky-labs.com/symfony-bundle/the-symfony-way)
 - [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1)
 - [Creating a Custom Hydrator in Doctrine and Symfony for Enhanced Performance with DTOs](https://medium.com/@thovandeth/creating-a-custom-hydrator-in-doctrine-and-symfony-for-enhanced-performance-with-dtos-f9f4fce8f035)
+- [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 
 ## Authors
 
