@@ -83,6 +83,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [keep a changelog](https://keepachangelog.com/)
 - [Tom Select](https://tom-select.js.org/)
 - [WebAuthn: Strong Authentication for your PHP applications](https://webauthn-doc.spomky-labs.com/symfony-bundle/the-symfony-way)
+- [Wars of Symfony Runtimes: A Performance Odyssey](https://medium.com/beyn-technology/wars-of-symfony-runtimes-a-performance-odyssey-7b0120e8f9e1)
 
 ## Authors
 
