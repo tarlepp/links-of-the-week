@@ -90,6 +90,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 6
 
+- [Doctrine ORM 3 and DBAL 4 Released](https://www.doctrine-project.org/2024/02/03/doctrine-orm-3-and-dbal-4-released.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
