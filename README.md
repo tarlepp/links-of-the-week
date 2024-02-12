@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 4](#week-4)
     * [Week 5](#week-5)
     * [Week 6](#week-6)
+    * [Week 7](#week-7)
   * [Authors](#authors)
   * [License](#license)
 
@@ -94,6 +95,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Memristors for Analog AI Chips](https://www.youtube.com/watch?v=LMuqWQcuy_0)
 - [Symfony OIDC Demo](https://github.com/wouterj-nl/symfony-oidc)
 - [curl status dashboard](https://curl.se/dashboard.html)
+
+### Week 7
+
+- [Configuration that is Programmable, Scalable, and Safe](https://pkl-lang.org/)
 
 ## Authors
 
