@@ -99,6 +99,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 7
 
 - [Configuration that is Programmable, Scalable, and Safe](https://pkl-lang.org/)
+- [](https://skoop.dev/blog/2024/02/14/unobtrusive-spam-protection-with-php/)
 
 ## Authors
 
