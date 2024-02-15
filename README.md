@@ -102,6 +102,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Unobtrusive spam-protection with PHP](https://skoop.dev/blog/2024/02/14/unobtrusive-spam-protection-with-php/)
 - [The State of Developer Ecosystem 2023](https://www.jetbrains.com/lp/devecosystem-2023/)
 - [PHP RFC: Add OOP methods to Curl objects](https://wiki.php.net/rfc/curl-oop)
+- [Creating video from text](https://openai.com/sora)
 
 ## Authors
 
