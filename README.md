@@ -103,6 +103,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The State of Developer Ecosystem 2023](https://www.jetbrains.com/lp/devecosystem-2023/)
 - [PHP RFC: Add OOP methods to Curl objects](https://wiki.php.net/rfc/curl-oop)
 - [Creating video from text](https://openai.com/sora)
+- [Fast, disk space efficient package manager | pnpm](https://pnpm.io/)
 
 ## Authors
 
