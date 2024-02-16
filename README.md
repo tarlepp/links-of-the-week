@@ -104,6 +104,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP RFC: Add OOP methods to Curl objects](https://wiki.php.net/rfc/curl-oop)
 - [Creating video from text](https://openai.com/sora)
 - [Fast, disk space efficient package manager | pnpm](https://pnpm.io/)
+- [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 
 ## Authors
 
