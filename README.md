@@ -106,6 +106,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Fast, disk space efficient package manager | pnpm](https://pnpm.io/)
 - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 - [Angular v17.2 is now available](https://blog.angular.io/angular-v17-2-is-now-available-596cbe96242d)
+- [Get GitHub Copilot Chat in JetBrains IDEs](https://github.com/github-copilot/chat_jetbrains_waitlist_signup/join)
 
 ## Authors
 
