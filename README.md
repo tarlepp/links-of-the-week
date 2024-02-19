@@ -28,6 +28,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 5](#week-5)
     * [Week 6](#week-6)
     * [Week 7](#week-7)
+    * [Week 8](#week-8)
   * [Authors](#authors)
   * [License](#license)
 
@@ -108,6 +109,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Angular v17.2 is now available](https://blog.angular.io/angular-v17-2-is-now-available-596cbe96242d)
 - [Get GitHub Copilot Chat in JetBrains IDEs](https://github.com/github-copilot/chat_jetbrains_waitlist_signup/join)
 - [My PHP Problems](https://www.dantleech.com/blog/2024/02/18/my-php-problems/)
+
+### Week 8
 
 ## Authors
 
