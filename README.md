@@ -112,6 +112,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 8
 
+- [Why I blocked bots on my site](https://www.cezarcampos.com.br/artigos/why-i-blocked-bots-on-my-site/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
