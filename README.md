@@ -114,6 +114,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Why I blocked bots on my site](https://www.cezarcampos.com.br/artigos/why-i-blocked-bots-on-my-site/)
 - [free nginx](https://freenginx.org/)
+- [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
 
 ## Authors
 
