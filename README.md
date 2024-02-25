@@ -116,6 +116,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [free nginx](https://freenginx.org/)
 - [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
 - [A former Gizmodo writer changed his name to ‘Slackbot’ and stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
+- [Symfony — Azure Provider for OAuth 2.0 Client bundle](https://medium.com/@joseclementegarciarodriguez/symfony-azure-provider-for-oauth-2-0-client-bundle-bd9959d43ec7)
+- [Unveiling the Power of Dependency Injection in Symfony](https://itnext.io/unveiling-the-power-of-dependency-injection-in-symfony-0ac4f7aa18e8)
+- [Decoupling Logic Through Custom Events in Symfony](https://itnext.io/decoupling-logic-through-custom-events-in-symfony-ce5c69a57850)
 
 ## Authors
 
