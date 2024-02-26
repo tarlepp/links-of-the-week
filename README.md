@@ -124,6 +124,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 9
 
 - [The PHP Foundation: Impact and Transparency Report 2023](https://thephp.foundation/blog/2024/02/26/transparency-and-impact-report-2023/)
+- [Debounce vs Throttle: Definitive Visual Guide](https://kettanaito.com/blog/debounce-vs-throttle)
 
 ## Authors
 
