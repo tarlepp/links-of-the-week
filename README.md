@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 6](#week-6)
     * [Week 7](#week-7)
     * [Week 8](#week-8)
+    * [Week 9](#week-9)
   * [Authors](#authors)
   * [License](#license)
 
@@ -119,6 +120,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Symfony — Azure Provider for OAuth 2.0 Client bundle](https://medium.com/@joseclementegarciarodriguez/symfony-azure-provider-for-oauth-2-0-client-bundle-bd9959d43ec7)
 - [Unveiling the Power of Dependency Injection in Symfony](https://itnext.io/unveiling-the-power-of-dependency-injection-in-symfony-0ac4f7aa18e8)
 - [Decoupling Logic Through Custom Events in Symfony](https://itnext.io/decoupling-logic-through-custom-events-in-symfony-ce5c69a57850)
+
+### Week 9
+
+- [The PHP Foundation: Impact and Transparency Report 2023](https://thephp.foundation/blog/2024/02/26/transparency-and-impact-report-2023/)
 
 ## Authors
 
