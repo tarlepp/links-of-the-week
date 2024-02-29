@@ -126,6 +126,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The PHP Foundation: Impact and Transparency Report 2023](https://thephp.foundation/blog/2024/02/26/transparency-and-impact-report-2023/)
 - [Debounce vs Throttle: Definitive Visual Guide](https://kettanaito.com/blog/debounce-vs-throttle)
 - [Apple Cancels Work on Electric Car, Ending Decadelong Effort](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
+- [Over 100,000 Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)
 
 ## Authors
 
