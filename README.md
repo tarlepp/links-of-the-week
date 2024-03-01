@@ -128,6 +128,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Apple Cancels Work on Electric Car, Ending Decadelong Effort](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai)
 - [Over 100,000 Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)
 - [PIE (PHP Installer for Extensions)](https://github.com/php/pie)
+- [Why Elon Musk Is Suing OpenAI and Sam Altman](https://time.com/6836815/the-key-issue-behind-elon-musks-lawsuit-against-openai/)
 
 ## Authors
 
