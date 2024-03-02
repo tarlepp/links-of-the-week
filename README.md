@@ -129,6 +129,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Over 100,000 Infected Repos Found on GitHub](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)
 - [PIE (PHP Installer for Extensions)](https://github.com/php/pie)
 - [Why Elon Musk Is Suing OpenAI and Sam Altman](https://time.com/6836815/the-key-issue-behind-elon-musks-lawsuit-against-openai/)
+- [Master profiling with Xdebug](https://medium.com/@HoussemZitoun1/master-profiling-with-xdebug-60b3498e1c78)
 
 ## Authors
 
