@@ -135,6 +135,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 10
 
+- [Getting Symfony app ready for Swoole, RoadRunner, and FrankenPHP (no AI involved)](https://dev.to/sergiid/getting-symfony-app-ready-for-swoole-roadrunner-and-frankenphp-no-ai-involved-2d0g)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
