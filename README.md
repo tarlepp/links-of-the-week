@@ -30,6 +30,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 7](#week-7)
     * [Week 8](#week-8)
     * [Week 9](#week-9)
+    * [Week 10](#week-10)
   * [Authors](#authors)
   * [License](#license)
 
@@ -131,6 +132,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Why Elon Musk Is Suing OpenAI and Sam Altman](https://time.com/6836815/the-key-issue-behind-elon-musks-lawsuit-against-openai/)
 - [Master profiling with Xdebug](https://medium.com/@HoussemZitoun1/master-profiling-with-xdebug-60b3498e1c78)
 - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+
+### Week 10
 
 ## Authors
 
