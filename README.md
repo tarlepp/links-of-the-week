@@ -138,6 +138,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Getting Symfony app ready for Swoole, RoadRunner, and FrankenPHP (no AI involved)](https://dev.to/sergiid/getting-symfony-app-ready-for-swoole-roadrunner-and-frankenphp-no-ai-involved-2d0g)
 - [Rustify DOMXPath::quote](https://github.com/php/php-src/pull/13545)
 - [Tesla Germany halts work as Musk calls suspected arson 'extremely dumb'](https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/)
+- [New ways we’re tackling spammy, low-quality content on Search](https://blog.google/products/search/google-search-update-march-2024/)
 
 ## Authors
 
