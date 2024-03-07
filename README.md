@@ -139,6 +139,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Rustify DOMXPath::quote](https://github.com/php/php-src/pull/13545)
 - [Tesla Germany halts work as Musk calls suspected arson 'extremely dumb'](https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/)
 - [New ways we’re tackling spammy, low-quality content on Search](https://blog.google/products/search/google-search-update-march-2024/)
+- [A Call for Consensus on HTML Semantics](https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/)
 
 ## Authors
 
