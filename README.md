@@ -140,7 +140,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Tesla Germany halts work as Musk calls suspected arson 'extremely dumb'](https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/)
 - [New ways we’re tackling spammy, low-quality content on Search](https://blog.google/products/search/google-search-update-march-2024/)
 - [A Call for Consensus on HTML Semantics](https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/)
-- https://phpstan.org/blog/enhancements-in-handling-parameters-passed-by-reference
+- [Enhancements in Handling Parameters Passed by Reference in PHPStan 1.10.60](https://phpstan.org/blog/enhancements-in-handling-parameters-passed-by-reference)
 
 ## Authors
 
