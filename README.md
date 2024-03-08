@@ -142,6 +142,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A Call for Consensus on HTML Semantics](https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/)
 - [Enhancements in Handling Parameters Passed by Reference in PHPStan 1.10.60](https://phpstan.org/blog/enhancements-in-handling-parameters-passed-by-reference)
 - [Information ; Dear Friends and Partners](https://en.dragon-ball-official.com/news/01_2499.html)
+- [Introducing Phikl: Apple PKL in PHP](https://alex-daubois.medium.com/introducing-phikl-apple-pkl-in-php-d8f458d9f469)
 
 ## Authors
 
