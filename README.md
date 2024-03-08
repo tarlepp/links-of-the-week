@@ -141,6 +141,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New ways we’re tackling spammy, low-quality content on Search](https://blog.google/products/search/google-search-update-march-2024/)
 - [A Call for Consensus on HTML Semantics](https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/)
 - [Enhancements in Handling Parameters Passed by Reference in PHPStan 1.10.60](https://phpstan.org/blog/enhancements-in-handling-parameters-passed-by-reference)
+- [Information ; Dear Friends and Partners](https://en.dragon-ball-official.com/news/01_2499.html)
 
 ## Authors
 
