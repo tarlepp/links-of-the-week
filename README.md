@@ -143,6 +143,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Enhancements in Handling Parameters Passed by Reference in PHPStan 1.10.60](https://phpstan.org/blog/enhancements-in-handling-parameters-passed-by-reference)
 - [Information ; Dear Friends and Partners](https://en.dragon-ball-official.com/news/01_2499.html)
 - [Introducing Phikl: Apple PKL in PHP](https://alex-daubois.medium.com/introducing-phikl-apple-pkl-in-php-d8f458d9f469)
+- [Processing One Billion Rows in PHP!](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 
 ## Authors
 
