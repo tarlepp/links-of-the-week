@@ -144,6 +144,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Information ; Dear Friends and Partners](https://en.dragon-ball-official.com/news/01_2499.html)
 - [Introducing Phikl: Apple PKL in PHP](https://alex-daubois.medium.com/introducing-phikl-apple-pkl-in-php-d8f458d9f469)
 - [Processing One Billion Rows in PHP!](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
+- [Why I don't write ADRs](https://www.dantleech.com/blog/2024/03/10/why-i-dont-write-adrs/)
 
 ## Authors
 
