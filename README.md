@@ -31,6 +31,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 8](#week-8)
     * [Week 9](#week-9)
     * [Week 10](#week-10)
+    * [Week 11](#week-11)
   * [Authors](#authors)
   * [License](#license)
 
@@ -145,6 +146,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introducing Phikl: Apple PKL in PHP](https://alex-daubois.medium.com/introducing-phikl-apple-pkl-in-php-d8f458d9f469)
 - [Processing One Billion Rows in PHP!](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 - [Why I don't write ADRs](https://www.dantleech.com/blog/2024/03/10/why-i-dont-write-adrs/)
+
+### Week 11
 
 ## Authors
 
