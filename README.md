@@ -150,6 +150,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 11
 
 - [Today we're excited to introduce Devin, the first AI software engineer](https://twitter.com/cognition_labs/status/1767548763134964000)
+- [How to integrate Component Architecture into Symfony?](https://dev.to/webmamba/how-to-integrate-component-architecture-into-symfony-4bjb)
 
 ## Authors
 
