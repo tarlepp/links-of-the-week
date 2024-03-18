@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 9](#week-9)
     * [Week 10](#week-10)
     * [Week 11](#week-11)
+    * [Week 12](#week-12)
   * [Authors](#authors)
   * [License](#license)
 
@@ -151,6 +152,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Today we're excited to introduce Devin, the first AI software engineer](https://twitter.com/cognition_labs/status/1767548763134964000)
 - [How to integrate Component Architecture into Symfony?](https://dev.to/webmamba/how-to-integrate-component-architecture-into-symfony-4bjb)
+
+### Week 12
 
 ## Authors
 
