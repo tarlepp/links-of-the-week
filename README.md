@@ -157,6 +157,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Weather report](https://wttr.in/)
 - [A syntax highlighter that doesn't suck](https://stitcher.io/blog/a-syntax-highlighter-that-doesnt-suck)
+- [Physicist Claims Universe Has No Dark Matter And Is 27 Billion Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
 
 ## Authors
 
