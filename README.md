@@ -156,6 +156,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
 - [Weather report](https://wttr.in/)
+- [A syntax highlighter that doesn't suck](https://stitcher.io/blog/a-syntax-highlighter-that-doesnt-suck)
 
 ## Authors
 
