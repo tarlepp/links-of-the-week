@@ -159,6 +159,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A syntax highlighter that doesn't suck](https://stitcher.io/blog/a-syntax-highlighter-that-doesnt-suck)
 - [Physicist Claims Universe Has No Dark Matter And Is 27 Billion Years Old](https://www.sciencealert.com/physicist-claims-universe-has-no-dark-matter-and-is-27-billion-years-old)
 - [System Design](https://github.com/karanpratapsingh/system-design)
+- [Open Source Icon Sets - Iconify](https://icon-sets.iconify.design/)
 
 ## Authors
 
