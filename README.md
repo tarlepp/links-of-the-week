@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 10](#week-10)
     * [Week 11](#week-11)
     * [Week 12](#week-12)
+    * [Week 13](#week-13)
   * [Authors](#authors)
   * [License](#license)
 
@@ -161,6 +162,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [System Design](https://github.com/karanpratapsingh/system-design)
 - [Open Source Icon Sets - Iconify](https://icon-sets.iconify.design/)
 - [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
+
+### Week 13
+
+- [Convert Image File to HTML Table Markup](https://box.closed.ru/it/)
 
 ## Authors
 
