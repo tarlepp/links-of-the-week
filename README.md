@@ -166,6 +166,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
 - [Convert Image File to HTML Table Markup](https://box.closed.ru/it/)
+- [Scientists turn to AI to make beer taste even better](https://www.theguardian.com/technology/2024/mar/26/ai-beer-taste-better-belgium-scientists)
 
 ## Authors
 
