@@ -167,6 +167,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Convert Image File to HTML Table Markup](https://box.closed.ru/it/)
 - [Scientists turn to AI to make beer taste even better](https://www.theguardian.com/technology/2024/mar/26/ai-beer-taste-better-belgium-scientists)
+- [Testing your sylius application with Behat](https://joppe.dev/2024/03/25/testing-sylius-resources-with-behat/)
 
 ## Authors
 
