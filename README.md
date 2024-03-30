@@ -170,6 +170,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Testing your sylius application with Behat](https://joppe.dev/2024/03/25/testing-sylius-resources-with-behat/)
 - [Melting polar ice may be slowing Earth’s spin and messing with how we measure time](https://www.euronews.com/green/2024/03/28/melting-polar-ice-may-be-slowing-earths-spin-and-messing-with-how-we-measure-time)
 - [Everything I Know About the Xz Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
+- [XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
 
 ## Authors
 
