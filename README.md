@@ -34,6 +34,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 11](#week-11)
     * [Week 12](#week-12)
     * [Week 13](#week-13)
+    * [Week 14](#week-14)
   * [Authors](#authors)
   * [License](#license)
 
@@ -172,6 +173,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Everything I Know About the Xz Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 - [XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
 - [The Heavy Cup](https://theheavycup.com/)
+
+### Week 14
 
 ## Authors
 
