@@ -176,8 +176,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 14
 
-- [](https://www.bloomberg.com/news/articles/2024-03-26/cocoa-soars-past-10-000-pummeling-chocolate-and-candy-makers)
-- [](https://research.google/pubs/why-google-stores-billions-of-lines-of-code-in-a-single-repository/)
+- [Cocoa Breaks $10,000 Record, With Pricier Chocolate to Follow](https://www.bloomberg.com/news/articles/2024-03-26/cocoa-soars-past-10-000-pummeling-chocolate-and-candy-makers)
+- [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google/pubs/why-google-stores-billions-of-lines-of-code-in-a-single-repository/)
+- [Joining Forces for Open Source Cybersecurity Standards](https://thephp.foundation/blog/2024/04/02/open-source-community-cra-compliance-initiative/)
 
 ## Authors
 
