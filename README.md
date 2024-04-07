@@ -181,6 +181,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Joining Forces for Open Source Cybersecurity Standards](https://thephp.foundation/blog/2024/04/02/open-source-community-cra-compliance-initiative/)
 - [What’s New in PhpStorm 2024.1](https://blog.jetbrains.com/phpstorm/2024/04/phpstorm-2024-1-is-now-available/)
 - [How to debug ANY Symfony command simply passing `-x`](https://dev.to/serendipityhq/how-to-debug-any-symfony-command-simply-passing-x-214o)
+- [Potato Posture Prevention](https://static.virtualsaleslab.com/vsl-poc/ppp/)
 
 ## Authors
 
