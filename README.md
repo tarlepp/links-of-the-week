@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 12](#week-12)
     * [Week 13](#week-13)
     * [Week 14](#week-14)
+    * [Week 15](#week-15)
   * [Authors](#authors)
   * [License](#license)
 
@@ -182,6 +183,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [What’s New in PhpStorm 2024.1](https://blog.jetbrains.com/phpstorm/2024/04/phpstorm-2024-1-is-now-available/)
 - [How to debug ANY Symfony command simply passing `-x`](https://dev.to/serendipityhq/how-to-debug-any-symfony-command-simply-passing-x-214o)
 - [Potato Posture Prevention](https://static.virtualsaleslab.com/vsl-poc/ppp/)
+
+### Week 15
+
+- [Support Ryan's Brain Cancer Battle](https://www.gofundme.com/f/support-ryans-brain-cancer-battle)
 
 ## Authors
 
