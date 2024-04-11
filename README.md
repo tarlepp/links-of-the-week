@@ -188,6 +188,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Support Ryan's Brain Cancer Battle](https://www.gofundme.com/f/support-ryans-brain-cancer-battle)
 - [Modern CSS patterns in Campfire](https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/)
+- [Symfony can help you fall in love with your front-end team!](https://dev.to/webmamba/symfony-can-help-you-fall-in-love-with-your-front-end-team-4dak)
 
 ## Authors
 
