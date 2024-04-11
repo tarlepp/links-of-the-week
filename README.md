@@ -187,6 +187,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 15
 
 - [Support Ryan's Brain Cancer Battle](https://www.gofundme.com/f/support-ryans-brain-cancer-battle)
+- [Modern CSS patterns in Campfire](https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/)
 
 ## Authors
 
