@@ -189,6 +189,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Support Ryan's Brain Cancer Battle](https://www.gofundme.com/f/support-ryans-brain-cancer-battle)
 - [Modern CSS patterns in Campfire](https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/)
 - [Symfony can help you fall in love with your front-end team!](https://dev.to/webmamba/symfony-can-help-you-fall-in-love-with-your-front-end-team-4dak)
+- [Baldur's Gate 3 passes Elden Ring and Breath of the Wild to become first game to win all five major GOTY awards](https://www.gamesradar.com/baldurs-gate-3-passes-elden-ring-and-breath-of-the-wild-to-become-first-game-to-win-all-five-major-goty-awards/)
 
 ## Authors
 
