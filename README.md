@@ -191,6 +191,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Symfony can help you fall in love with your front-end team!](https://dev.to/webmamba/symfony-can-help-you-fall-in-love-with-your-front-end-team-4dak)
 - [Baldur's Gate 3 passes Elden Ring and Breath of the Wild to become first game to win all five major GOTY awards](https://www.gamesradar.com/baldurs-gate-3-passes-elden-ring-and-breath-of-the-wild-to-become-first-game-to-win-all-five-major-goty-awards/)
 - [Mastering Symfony’s Kernel Events: Listeners vs. Subscribers](https://medium.com/@dams_crr/mastering-symfonys-kernel-events-listeners-vs-subscribers-54be05bbe8fa)
+- [PHP Encryption: The Symfony Guide to Securing Database Tables](https://sergheipogor.medium.com/php-encryption-the-symfony-guide-to-securing-database-tables-4d984d5c0b6d)
 
 ## Authors
 
