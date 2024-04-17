@@ -197,6 +197,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 16
 
 - [PHP RFC: Property hooks](https://wiki.php.net/rfc/property-hooks)
+- [How to integrate Component Architecture into Symfony?](https://medium.com/the-sensiolabs-tech-blog/how-to-integrate-component-architecture-into-symfony-163a7acbe012)
 
 ## Authors
 
