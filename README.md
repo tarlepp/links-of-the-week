@@ -202,6 +202,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Why PHP Usage Has Declined by 40% in Just Over 2 Years](https://thenewstack.io/why-php-usage-has-declined-by-40-in-just-over-2-years/)
 - [Netflix - Hello World](https://www.netflix.com/helloworld)
 - [Introduction to Symfony Workflow](https://medium.com/@nestorbritomedina/introduction-to-symfony-workflow-10bc4201f52f)
+- [CVE-2024-2961 – glibc Vulnerability Opens Door to PHP Attacks: Patch Immediately](https://securityonline.info/cve-2024-2961-glibc-vulnerability-opens-door-to-php-attacks-patch-immediately/)
 
 ## Authors
 
