@@ -201,6 +201,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP Static Analysis Attributes](https://github.com/php-static-analysis/attributes)
 - [Why PHP Usage Has Declined by 40% in Just Over 2 Years](https://thenewstack.io/why-php-usage-has-declined-by-40-in-just-over-2-years/)
 - [Netflix - Hello World](https://www.netflix.com/helloworld)
+- [Introduction to Symfony Workflow](https://medium.com/@nestorbritomedina/introduction-to-symfony-workflow-10bc4201f52f)
 
 ## Authors
 
