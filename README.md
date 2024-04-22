@@ -37,6 +37,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 14](#week-14)
     * [Week 15](#week-15)
     * [Week 16](#week-16)
+    * [Week 17](#week-17)
   * [Authors](#authors)
   * [License](#license)
 
@@ -204,6 +205,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introduction to Symfony Workflow](https://medium.com/@nestorbritomedina/introduction-to-symfony-workflow-10bc4201f52f)
 - [CVE-2024-2961 – glibc Vulnerability Opens Door to PHP Attacks: Patch Immediately](https://securityonline.info/cve-2024-2961-glibc-vulnerability-opens-door-to-php-attacks-patch-immediately/)
 - [Unreal Engine 5.4 Sneak Peek | GDC 2024](https://www.youtube.com/watch?v=l8-k9bYsta0)
+
+### Week 17
 
 ## Authors
 
