@@ -216,6 +216,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 18
 
 - [Your code coverage is lying](https://dkarlovi.github.io/lying-coverage/)
+- [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 
 ## Authors
 
