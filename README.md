@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 15](#week-15)
     * [Week 16](#week-16)
     * [Week 17](#week-17)
+    * [Week 18](#week-18)
   * [Authors](#authors)
   * [License](#license)
 
@@ -211,6 +212,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [JS Naked Day](https://js-naked-day.org/)
 - [Psl - PHP Standard Library](https://github.com/azjezz/psl)
 - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
+
+### Week 18
+
+- [Your code coverage is lying](https://dkarlovi.github.io/lying-coverage/)
 
 ## Authors
 
