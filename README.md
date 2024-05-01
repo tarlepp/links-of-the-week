@@ -219,6 +219,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse)
 - [dive](https://github.com/wagoodman/dive)
+- [Adrian Newey To Leave Red Bull After 19 Years](https://www.redbullracing.com/int-en/adrian-newey-to-leave-red-bull-in-2025)
 
 ## Authors
 
