@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 16](#week-16)
     * [Week 17](#week-17)
     * [Week 18](#week-18)
+    * [Week 19](#week-19)
   * [Authors](#authors)
   * [License](#license)
 
@@ -221,6 +222,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [dive](https://github.com/wagoodman/dive)
 - [Adrian Newey To Leave Red Bull After 19 Years](https://www.redbullracing.com/int-en/adrian-newey-to-leave-red-bull-in-2025)
 - [Bun — A fast all-in-one JavaScript runtime](https://bun.sh/)
+
+### Week 19
 
 ## Authors
 
