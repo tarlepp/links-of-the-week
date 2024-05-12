@@ -225,6 +225,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 19
 
+- [AutoMapper 9 is out!](https://jolicode.com/blog/automapper-9-is-out)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
