@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 17](#week-17)
     * [Week 18](#week-18)
     * [Week 19](#week-19)
+    * [Week 20](#week-20)
   * [Authors](#authors)
   * [License](#license)
 
@@ -227,6 +228,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [AutoMapper 9 is out!](https://jolicode.com/blog/automapper-9-is-out)
 - [New in Symfony 7.1: WebProfiler Improvements](https://symfony.com/blog/new-in-symfony-7-1-webprofiler-improvements)
+
+### Week 20
 
 ## Authors
 
