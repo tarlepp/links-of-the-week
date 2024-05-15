@@ -231,6 +231,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 20
 
+- [It’s a deal: new Dutch cabinet will include the far-right PVV](https://www.dutchnews.nl/2024/05/its-a-deal-new-dutch-cabinet-will-include-the-far-right-pvv/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
