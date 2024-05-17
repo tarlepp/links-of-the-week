@@ -233,6 +233,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [It’s a deal: new Dutch cabinet will include the far-right PVV](https://www.dutchnews.nl/2024/05/its-a-deal-new-dutch-cabinet-will-include-the-far-right-pvv/)
 - [Mastering PHPUnit: Writing Your First Test with PHPUnit](https://backendtea.com/post/phpunit-your-first-tests/)
+- [Array.reduce() is Goated 🐐](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j)
 
 ## Authors
 
