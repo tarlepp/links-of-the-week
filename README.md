@@ -232,6 +232,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 20
 
 - [It’s a deal: new Dutch cabinet will include the far-right PVV](https://www.dutchnews.nl/2024/05/its-a-deal-new-dutch-cabinet-will-include-the-far-right-pvv/)
+- [Mastering PHPUnit: Writing Your First Test with PHPUnit](https://backendtea.com/post/phpunit-your-first-tests/)
 
 ## Authors
 
