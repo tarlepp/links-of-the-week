@@ -241,6 +241,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Optimizing PHP applications for performance](https://mateusguimaraes.com/posts/optimizing-php-applications-for-performance)
 - [Microsoft’s 2024 Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
+- [Composer dependency analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)
 
 ## Authors
 
