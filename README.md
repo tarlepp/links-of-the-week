@@ -243,6 +243,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Microsoft’s 2024 Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
 - [Composer dependency analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)
 - [Slack under attack over sneaky AI training policy](https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/)
+- [Symfony App Config in 2 steps](https://dev.to/yceruto/symfony-app-config-in-2-steps-26dl)
 
 ## Authors
 
