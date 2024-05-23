@@ -244,6 +244,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Composer dependency analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)
 - [Slack under attack over sneaky AI training policy](https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/)
 - [Symfony App Config in 2 steps](https://dev.to/yceruto/symfony-app-config-in-2-steps-26dl)
+- [Running PHP blazingly fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
 
 ## Authors
 
