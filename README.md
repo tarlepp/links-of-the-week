@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 19](#week-19)
     * [Week 20](#week-20)
     * [Week 21](#week-21)
+    * [Week 22](#week-22)
   * [Authors](#authors)
   * [License](#license)
 
@@ -245,6 +246,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Slack under attack over sneaky AI training policy](https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/)
 - [Symfony App Config in 2 steps](https://dev.to/yceruto/symfony-app-config-in-2-steps-26dl)
 - [Running PHP blazingly fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
+
+### Week 22
 
 ## Authors
 
