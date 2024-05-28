@@ -250,6 +250,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 22
 
 - [Google Search API](https://serpapi.com/)
+- [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 
 ## Authors
 
