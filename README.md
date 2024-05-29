@@ -251,6 +251,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Google Search API](https://serpapi.com/)
 - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+- [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/)
 
 ## Authors
 
