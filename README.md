@@ -254,6 +254,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Containerization Tips and Tricks for PHP apps](https://dunglas.dev/2024/05/containerization-tips-and-tricks-for-php-apps/)
 - [Mastering PHPUnit: Using Mocks and Stubs](https://backendtea.com/post/phpunit-mock-and-stub/)
 - [Australia looking into alleged Ticketmaster hack](https://www.bbc.com/news/articles/c899pz84d8zo)
+- [Symfony DbToolsBundle - anonymize your data](https://dev.to/thejuju/symfony-dbtoolsbundle-anonymize-your-data-5amj)
 
 ## Authors
 
