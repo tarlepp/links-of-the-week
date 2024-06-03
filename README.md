@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 20](#week-20)
     * [Week 21](#week-21)
     * [Week 22](#week-22)
+    * [Week 23](#week-23)
   * [Authors](#authors)
   * [License](#license)
 
@@ -255,6 +256,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Mastering PHPUnit: Using Mocks and Stubs](https://backendtea.com/post/phpunit-mock-and-stub/)
 - [Australia looking into alleged Ticketmaster hack](https://www.bbc.com/news/articles/c899pz84d8zo)
 - [Symfony DbToolsBundle - anonymize your data](https://dev.to/thejuju/symfony-dbtoolsbundle-anonymize-your-data-5amj)
+
+### Week 23
 
 ## Authors
 
