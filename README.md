@@ -259,7 +259,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 23
 
-- https://github.com/Pixelshaped/flat-mapper-bundle
+- [Flat Mapper Bundle](https://github.com/Pixelshaped/flat-mapper-bundle)
+- [PHP RFC: Lazy Objects](https://wiki.php.net/rfc/lazy-objects)
 
 ## Authors
 
