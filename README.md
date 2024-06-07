@@ -261,6 +261,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Flat Mapper Bundle](https://github.com/Pixelshaped/flat-mapper-bundle)
 - [PHP RFC: Lazy Objects](https://wiki.php.net/rfc/lazy-objects)
+- [Testcontainers for PHP](https://github.com/shyim/testcontainer)
 
 ## Authors
 
