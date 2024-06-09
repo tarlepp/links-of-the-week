@@ -263,6 +263,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP RFC: Lazy Objects](https://wiki.php.net/rfc/lazy-objects)
 - [Testcontainers for PHP](https://github.com/shyim/testcontainer)
 - [Upgrade or upgrade?](https://skoop.dev/blog/2024/06/07/upgrade_or_upgrade/)
+- [Extend your Symfony Console app with events and attributes](https://medium.com/@fernando_28520/extend-your-symfony-console-app-with-events-and-attributes-ca8ec6321430)
 
 ## Authors
 
