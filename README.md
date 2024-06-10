@@ -269,6 +269,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 24
 
+- [Designing a Lego orrery](https://marian42.de/article/orrery/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
