@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 21](#week-21)
     * [Week 22](#week-22)
     * [Week 23](#week-23)
+    * [Week 24](#week-24)
   * [Authors](#authors)
   * [License](#license)
 
@@ -265,6 +266,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Upgrade or upgrade?](https://skoop.dev/blog/2024/06/07/upgrade_or_upgrade/)
 - [Extend your Symfony Console app with events and attributes](https://medium.com/@fernando_28520/extend-your-symfony-console-app-with-events-and-attributes-ca8ec6321430)
 - [Replace parameters in Symfony](https://medium.com/@cyrilgeorgespereira/replace-parameters-in-symfony-6d680a618a8e)
+
+### Week 24
 
 ## Authors
 
