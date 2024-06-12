@@ -270,6 +270,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
 - [Designing a Lego orrery](https://marian42.de/article/orrery/)
+- [Turn Ubuntu into a Web Dev Setup in a Single Command](https://www.omgubuntu.co.uk/2024/06/omakub-transforms-ubuntu-web-dev-setup)
 
 ## Authors
 
