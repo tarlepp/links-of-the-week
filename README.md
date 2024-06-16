@@ -272,6 +272,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 - [Turn Ubuntu into a Web Dev Setup in a Single Command](https://www.omgubuntu.co.uk/2024/06/omakub-transforms-ubuntu-web-dev-setup)
 - [Updates for security issue affecting IntelliJ-based IDEs 2023.1+ and JetBrains GitHub Plugin](https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/)
+- [Symfony 7 vs. .NET Core 8 - Routing; part 3](https://dev.to/awons/symfony-7-vs-net-core-8-routing-part-3-n6)
 
 ## Authors
 
