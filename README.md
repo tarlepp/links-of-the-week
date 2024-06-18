@@ -277,6 +277,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 25
 
+- [The rise—and fall—of the software developer](https://www.adpri.org/the-rise-and-fall-of-the-software-developer/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
