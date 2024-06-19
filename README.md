@@ -278,6 +278,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 25
 
 - [The rise—and fall—of the software developer](https://www.adpri.org/the-rise-and-fall-of-the-software-developer/)
+- [Set up a Dev Drive on Windows 11](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
 ## Authors
 
