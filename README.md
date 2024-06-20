@@ -280,6 +280,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The rise—and fall—of the software developer](https://www.adpri.org/the-rise-and-fall-of-the-software-developer/)
 - [Set up a Dev Drive on Windows 11](https://learn.microsoft.com/en-us/windows/dev-drive/)
 - [Tetris Font](https://erikdemaine.org/fonts/tetris/)
+- [Excalidraw | Online whiteboard collaboration made easy](https://plus.excalidraw.com/)
 
 ## Authors
 
