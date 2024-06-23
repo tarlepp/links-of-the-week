@@ -281,6 +281,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Set up a Dev Drive on Windows 11](https://learn.microsoft.com/en-us/windows/dev-drive/)
 - [Tetris Font](https://erikdemaine.org/fonts/tetris/)
 - [Excalidraw | Online whiteboard collaboration made easy](https://plus.excalidraw.com/)
+- [Symfony: Stop checking for dependency updates](https://medium.com/@ZeroCool001/symfony-stop-checking-for-dependency-updates-7087ea2dd35c)
 
 ## Authors
 
