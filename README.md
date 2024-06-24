@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 23](#week-23)
     * [Week 24](#week-24)
     * [Week 25](#week-25)
+    * [Week 26](#week-26)
   * [Authors](#authors)
   * [License](#license)
 
@@ -283,6 +284,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Excalidraw | Online whiteboard collaboration made easy](https://plus.excalidraw.com/)
 - [Symfony: Stop checking for dependency updates](https://medium.com/@ZeroCool001/symfony-stop-checking-for-dependency-updates-7087ea2dd35c)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
+
+### Week 26
 
 ## Authors
 
