@@ -287,6 +287,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 26
 
+- [Updates to message and file history on free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
