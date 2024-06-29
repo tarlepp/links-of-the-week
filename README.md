@@ -291,6 +291,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 - [Gotenberg Bundle](https://github.com/sensiolabs/GotenbergBundle)
 - [Generating deterministic UUIDs from arbitrary strings with Symfony](https://dev.to/javiereguiluz/generating-deterministic-uuids-from-arbitrary-strings-with-symfony-4ac6)
+- [PHPUnit Assertion Closures](https://www.dantleech.com/blog/2024/06/28/phpunit-assertion-closures/)
 
 ## Authors
 
