@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 24](#week-24)
     * [Week 25](#week-25)
     * [Week 26](#week-26)
+    * [Week 27](#week-27)
   * [Authors](#authors)
   * [License](#license)
 
@@ -292,6 +293,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Gotenberg Bundle](https://github.com/sensiolabs/GotenbergBundle)
 - [Generating deterministic UUIDs from arbitrary strings with Symfony](https://dev.to/javiereguiluz/generating-deterministic-uuids-from-arbitrary-strings-with-symfony-4ac6)
 - [PHPUnit Assertion Closures](https://www.dantleech.com/blog/2024/06/28/phpunit-assertion-closures/)
+
+### Week 27
 
 ## Authors
 
