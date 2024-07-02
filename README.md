@@ -297,6 +297,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 27
 
 - [Sending GitHub Notifications to Telegram, A Symfony Webhook Guide](https://ngandu.hashnode.dev/sending-github-notifications-to-telegram-a-symfony-webhook-guide)
+- [PHP RFC: #[\Deprecated] Attribute](https://wiki.php.net/rfc/deprecated_attribute)
 
 ## Authors
 
