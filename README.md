@@ -298,6 +298,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Sending GitHub Notifications to Telegram, A Symfony Webhook Guide](https://ngandu.hashnode.dev/sending-github-notifications-to-telegram-a-symfony-webhook-guide)
 - [PHP RFC: #[\Deprecated] Attribute](https://wiki.php.net/rfc/deprecated_attribute)
+- ['Critical' vulnerability in OpenSSH uncovered, affects almost all Linux systems](https://www.computing.co.uk/news/4329906/critical-vulnerability-openssh-uncovered-affects-linux-systems)
 
 ## Authors
 
