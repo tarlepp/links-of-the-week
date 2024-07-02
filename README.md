@@ -296,6 +296,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 27
 
+- [Sending GitHub Notifications to Telegram, A Symfony Webhook Guide](https://ngandu.hashnode.dev/sending-github-notifications-to-telegram-a-symfony-webhook-guide)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
