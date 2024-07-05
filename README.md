@@ -300,6 +300,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP RFC: #[\Deprecated] Attribute](https://wiki.php.net/rfc/deprecated_attribute)
 - ['Critical' vulnerability in OpenSSH uncovered, affects almost all Linux systems](https://www.computing.co.uk/news/4329906/critical-vulnerability-openssh-uncovered-affects-linux-systems)
 - [PHP Annotated – June 2024](https://blog.jetbrains.com/phpstorm/2024/07/php-annotated-june-2024/)
+- [This is clone of angular/flex-layout project](https://github.com/ngbracket/ngx-layout)
 
 ## Authors
 
