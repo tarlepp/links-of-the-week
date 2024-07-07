@@ -301,6 +301,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - ['Critical' vulnerability in OpenSSH uncovered, affects almost all Linux systems](https://www.computing.co.uk/news/4329906/critical-vulnerability-openssh-uncovered-affects-linux-systems)
 - [PHP Annotated – June 2024](https://blog.jetbrains.com/phpstorm/2024/07/php-annotated-june-2024/)
 - [This is clone of angular/flex-layout project](https://github.com/ngbracket/ngx-layout)
+- [Symfony 7 vs. .NET Core 8 - Controllers](https://dev.to/awons/symfony-7-vs-net-core-8-controllers-31o7)
 
 ## Authors
 
