@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 25](#week-25)
     * [Week 26](#week-26)
     * [Week 27](#week-27)
+    * [Week 28](#week-28)
   * [Authors](#authors)
   * [License](#license)
 
@@ -302,6 +303,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP Annotated – June 2024](https://blog.jetbrains.com/phpstorm/2024/07/php-annotated-june-2024/)
 - [This is clone of angular/flex-layout project](https://github.com/ngbracket/ngx-layout)
 - [Symfony 7 vs. .NET Core 8 - Controllers](https://dev.to/awons/symfony-7-vs-net-core-8-controllers-31o7)
+
+### Week 28
 
 ## Authors
 
