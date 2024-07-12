@@ -308,6 +308,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [window.ai - running AI LOCALLY from DevTools!](https://dev.to/grahamthedev/windowai-running-ai-locally-from-devtools-202j)
 - [WebVM](https://webvm.io/)
+- [Visual EXPLAIN for MySQL](https://mysqlexplain.com/)
 
 ## Authors
 
