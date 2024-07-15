@@ -313,6 +313,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 29
 
+- [Pop!_OS](https://pop.system76.com/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
