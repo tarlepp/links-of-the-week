@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 26](#week-26)
     * [Week 27](#week-27)
     * [Week 28](#week-28)
+    * [Week 29](#week-29)
   * [Authors](#authors)
   * [License](#license)
 
@@ -309,6 +310,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [window.ai - running AI LOCALLY from DevTools!](https://dev.to/grahamthedev/windowai-running-ai-locally-from-devtools-202j)
 - [WebVM](https://webvm.io/)
 - [Visual EXPLAIN for MySQL](https://mysqlexplain.com/)
+
+### Week 29
 
 ## Authors
 
