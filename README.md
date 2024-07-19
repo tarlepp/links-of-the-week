@@ -316,7 +316,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Pop!_OS](https://pop.system76.com/)
 - ["Privacy-Preserving" Attribution: Mozilla Disappoints Us Yet Again](https://blog.privacyguides.org/2024/07/14/mozilla-disappoints-us-yet-again-2/)
 - [Gandalf | Lakera – Test your prompting skills to make Gandalf reveal secret information.](https://gandalf.lakera.ai/)
-- [Why you should be typing your arrays in PHP][(https://backendtea.com/post/php-typed-arrays/)
+- [Why you should be typing your arrays in PHP](https://backendtea.com/post/php-typed-arrays/)
+- [A way to implement generic repositories in Symfony](https://medium.com/@davide.romanelli25/a-way-to-implement-generic-repositories-in-symfony-bacc44a40134)
+- [Container Efficiency in Modular Monoliths: Symfony vs. Laravel](https://sarvendev.com/2024/07/container-efficiency-in-modular-monoliths-symfony-vs-laravel/)
 
 ## Authors
 
