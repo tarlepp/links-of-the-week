@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 27](#week-27)
     * [Week 28](#week-28)
     * [Week 29](#week-29)
+    * [Week 30](#week-30)
   * [Authors](#authors)
   * [License](#license)
 
@@ -319,6 +320,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Why you should be typing your arrays in PHP](https://backendtea.com/post/php-typed-arrays/)
 - [A way to implement generic repositories in Symfony](https://medium.com/@davide.romanelli25/a-way-to-implement-generic-repositories-in-symfony-bacc44a40134)
 - [Container Efficiency in Modular Monoliths: Symfony vs. Laravel](https://sarvendev.com/2024/07/container-efficiency-in-modular-monoliths-symfony-vs-laravel/)
+
+### Week 30
 
 ## Authors
 
