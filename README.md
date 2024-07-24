@@ -323,6 +323,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 30
 
+- [Anyone can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
