@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 28](#week-28)
     * [Week 29](#week-29)
     * [Week 30](#week-30)
+    * [Week 31](#week-31)
   * [Authors](#authors)
   * [License](#license)
 
@@ -326,6 +327,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Anyone can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 - [Copilot text completion for pull request descriptions beta](https://github.blog/changelog/2024-07-24-copilot-text-completion-for-pull-request-descriptions-beta/)
 - [SearchGPT Prototype](https://openai.com/index/searchgpt-prototype/)
+
+### Week 31
+
+- [Ignore custom indexes on Doctrine DBAL 4](https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j)
 
 ## Authors
 
