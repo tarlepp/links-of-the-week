@@ -332,6 +332,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Ignore custom indexes on Doctrine DBAL 4](https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j)
 - [The least privileged principle applied to Symfony firewalls](https://www.cezarcampos.com.br/en-us/posts/the-least-privileged-principle-applied-to-symfony-firewalls/)
+- [Deep Dive into Symfony's Dependency Injection Component (T3DD24) // slidr.io](https://slidr.io/derrabus/deep-dive-into-symfony-s-dependency-injection-component-t3dd24)
 
 ## Authors
 
