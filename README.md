@@ -331,7 +331,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 31
 
 - [Ignore custom indexes on Doctrine DBAL 4](https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j)
-- https://www.cezarcampos.com.br/en-us/posts/the-least-privileged-principle-applied-to-symfony-firewalls/
+- [The least privileged principle applied to Symfony firewalls](https://www.cezarcampos.com.br/en-us/posts/the-least-privileged-principle-applied-to-symfony-firewalls/)
 
 ## Authors
 
