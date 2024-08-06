@@ -337,6 +337,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 32
 
+- [What is the costliest coding error anyone has ever made?](https://www.quora.com/What-is-the-costliest-coding-error-anyone-has-ever-made/answer/Theodore-Smith-9)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
