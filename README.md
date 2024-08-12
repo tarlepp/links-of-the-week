@@ -345,6 +345,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 33
 
+- [PhpStorm 2024.2 Is Now Available](https://blog.jetbrains.com/phpstorm/2024/08/phpstorm-2024-2-is-now-available/)
+- [Caddy as a reverse proxy for Docker](https://github.com/lucaslorentz/caddy-docker-proxy)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
