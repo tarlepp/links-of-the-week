@@ -53,6 +53,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 30](#week-30)
     * [Week 31](#week-31)
     * [Week 32](#week-32)
+    * [Week 33](#week-33)
   * [Authors](#authors)
   * [License](#license)
 
@@ -341,6 +342,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Store Code Discussions in Git using Git Notes](https://wouterj.nl/2024/08/git-notes)
 - [Inject Value Objects Into An Autowired Symfony Service](https://dev.to/mbadolato/inject-value-objects-into-an-autowired-symfony-service-3an2)
 - [Understanding Symfony Versions and Roadmap](https://accesto.com/blog/symfony-versioning/)
+
+### Week 33
 
 ## Authors
 
