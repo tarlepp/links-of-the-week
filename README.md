@@ -354,6 +354,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 34
 
+- [State of Generics and Collections](https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
