@@ -54,6 +54,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 31](#week-31)
     * [Week 32](#week-32)
     * [Week 33](#week-33)
+    * [Week 34](#week-34)
   * [Authors](#authors)
   * [License](#license)
 
@@ -350,6 +351,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Creating Dynamic Billing Workflows With Symfony](https://billabear.com/blog/creating-dynamic-billing-workflows-with-symfony)
 - [PHP Language Extensions](https://github.com/DaveLiddament/php-language-extensions)
 - [Introducing Loggastic: The Open Source Library for Activity Logs tracking](https://medium.com/locastic/introducing-loggastic-the-open-source-library-for-activity-logs-tracking-c237cc3d78b1)
+
+### Week 34
 
 ## Authors
 
