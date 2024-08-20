@@ -356,6 +356,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [State of Generics and Collections](https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/)
 - [PHP RFC: Function Autoloading v4](https://wiki.php.net/rfc/function_autoloading4)
+- [PHPStan Reports Different Errors Locally & in CI. What Should I Do?](https://phpstan.org/blog/phpstan-reports-different-errors-locally-ci-what-should-i-do)
 
 ## Authors
 
