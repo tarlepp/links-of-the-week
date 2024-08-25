@@ -359,6 +359,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHPStan Reports Different Errors Locally & in CI. What Should I Do?](https://phpstan.org/blog/phpstan-reports-different-errors-locally-ci-what-should-i-do)
 - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 - [Custom Resolver For MapRequestPayload to handle Patch Request in Symfony](https://medium.com/@tahiana0/custom-resolver-for-maprequestpayload-to-handle-patch-request-in-symfony-70df8b861be7)
+- [PHP RFC: Default expression](https://wiki.php.net/rfc/default_expression)
 
 ## Authors
 
