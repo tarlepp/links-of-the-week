@@ -365,6 +365,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 35
 
 - [PHPStan 1.12: Road to PHPStan 2.0](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0)
+- [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 
 ## Authors
 
