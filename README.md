@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 33](#week-33)
     * [Week 34](#week-34)
     * [Week 35](#week-35)
+    * [Week 36](#week-36)
   * [Authors](#authors)
   * [License](#license)
 
@@ -368,6 +369,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 - [How I Optimise Symfony-based Apps](https://blog.stackademic.com/how-i-optimise-symfony-based-apps-20bfe52a9a75)
 - [Boost Your Symfony Skills: How to Build Custom DQL Functions](https://medium.com/symfony-mastery/how-to-create-custom-dql-function-symfony-84da7044c714)
+
+### Week 36
 
 ## Authors
 
