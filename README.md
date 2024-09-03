@@ -372,6 +372,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 36
 
+- [Playing with the Symfony tagged iterator](https://www.strangebuzz.com/en/blog/playing-with-the-symfony-tagged-iterator)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
