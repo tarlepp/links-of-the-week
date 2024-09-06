@@ -374,6 +374,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Playing with the Symfony tagged iterator](https://www.strangebuzz.com/en/blog/playing-with-the-symfony-tagged-iterator)
 - [parallel](https://github.com/krakjoe/parallel)
+- [A Good Naming Convention for Routes, Controllers and Templates?](https://jolicode.com/blog/a-good-naming-convention-for-routes-controllers-and-templates)
 
 ## Authors
 
