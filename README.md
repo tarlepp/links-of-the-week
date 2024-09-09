@@ -381,6 +381,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 37
 
+- [European Accessibility Act: Q&A](https://ec.europa.eu/social/main.jsp?catId=1202&intPageId=5581&langId=en)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
