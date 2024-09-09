@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 34](#week-34)
     * [Week 35](#week-35)
     * [Week 36](#week-36)
+    * [Week 37](#week-37)
   * [Authors](#authors)
   * [License](#license)
 
@@ -377,6 +378,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A Good Naming Convention for Routes, Controllers and Templates?](https://jolicode.com/blog/a-good-naming-convention-for-routes-controllers-and-templates)
 - [Understanding and Resolving the N+1 Problem with Doctrine in Symfony](https://medium.com/@jonthanLight/understanding-and-resolving-the-n-1-problem-with-doctrine-in-symfony-cfef1d09af6f)
 - [Symfony Scoped HttpClient](https://engineering.teknasyon.com/symfony-scoped-httpclient-c2867c3b12b7)
+
+### Week 37
 
 ## Authors
 
