@@ -384,6 +384,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [European Accessibility Act: Q&A](https://ec.europa.eu/social/main.jsp?catId=1202&intPageId=5581&langId=en)
 - [Top 8 Things to Know About Incorporating in Delaware](https://billabear.com/blog/top-8-things-to-know-about-incorporating-in-delaware)
 - [Keycloak theming for the modern web](https://www.keycloakify.dev/)
+- [Integration tests on Symfony with Testcontainers](https://dev.to/joubertredrat/integration-tests-on-symfony-with-testcontainers-4o7d)
 
 ## Authors
 
