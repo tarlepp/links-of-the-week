@@ -385,6 +385,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Top 8 Things to Know About Incorporating in Delaware](https://billabear.com/blog/top-8-things-to-know-about-incorporating-in-delaware)
 - [Keycloak theming for the modern web](https://www.keycloakify.dev/)
 - [Integration tests on Symfony with Testcontainers](https://dev.to/joubertredrat/integration-tests-on-symfony-with-testcontainers-4o7d)
+- [We are introducing OpenAI o1](https://openai.com/index/learning-to-reason-with-llms/)
 
 ## Authors
 
