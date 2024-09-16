@@ -392,6 +392,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 38
 
+- [PHP Object Lazy-Loading is More Than What You Think](https://jolicode.com/blog/php-object-lazy-loading-is-more-than-what-you-think)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
