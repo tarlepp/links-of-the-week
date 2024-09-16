@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 35](#week-35)
     * [Week 36](#week-36)
     * [Week 37](#week-37)
+    * [Week 38](#week-38)
   * [Authors](#authors)
   * [License](#license)
 
@@ -388,6 +389,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [We are introducing OpenAI o1](https://openai.com/index/learning-to-reason-with-llms/)
 - [Improving Rector Performance by 20-30 %](https://getrector.com/blog/improving-rector-performance-by-20-30-percent)
 - [Decoupling your application's User Model from Symfony's Security System](https://ngandu.hashnode.dev/decoupling-your-applications-user-model-from-symfonys-security-system)
+
+### Week 38
 
 ## Authors
 
