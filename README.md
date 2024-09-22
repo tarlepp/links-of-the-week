@@ -396,6 +396,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The Three Pillars of Static Analysis in PHP](https://phpstan.org/blog/three-pillars-of-static-analysis-in-php#syntax-check-with-parallel-lint)
 - [Passkey Authentication Guide for Symfony](https://ngandu.hashnode.dev/passkey-authentication-guide-for-symfony)
 - [An easy way to validate DTO's using Symfony attributes](https://dev.to/icolomina/an-easy-way-to-validate-dtos-using-symfony-attributes-24od)
+- [Symfony Docker Integration: A Step-by-Step Guide](https://medium.com/@mayurkoshti12/symfony-docker-integration-a-step-by-step-guide-3d644020a7c4)
 
 ## Authors
 
