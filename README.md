@@ -395,6 +395,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP Object Lazy-Loading is More Than What You Think](https://jolicode.com/blog/php-object-lazy-loading-is-more-than-what-you-think)
 - [The Three Pillars of Static Analysis in PHP](https://phpstan.org/blog/three-pillars-of-static-analysis-in-php#syntax-check-with-parallel-lint)
 - [Passkey Authentication Guide for Symfony](https://ngandu.hashnode.dev/passkey-authentication-guide-for-symfony)
+- [An easy way to validate DTO's using Symfony attributes](https://dev.to/icolomina/an-easy-way-to-validate-dtos-using-symfony-attributes-24od)
 
 ## Authors
 
