@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 36](#week-36)
     * [Week 37](#week-37)
     * [Week 38](#week-38)
+    * [Week 39](#week-39)
   * [Authors](#authors)
   * [License](#license)
 
@@ -397,6 +398,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Passkey Authentication Guide for Symfony](https://ngandu.hashnode.dev/passkey-authentication-guide-for-symfony)
 - [An easy way to validate DTO's using Symfony attributes](https://dev.to/icolomina/an-easy-way-to-validate-dtos-using-symfony-attributes-24od)
 - [Symfony Docker Integration: A Step-by-Step Guide](https://medium.com/@mayurkoshti12/symfony-docker-integration-a-step-by-step-guide-3d644020a7c4)
+
+### Week 39
 
 ## Authors
 
