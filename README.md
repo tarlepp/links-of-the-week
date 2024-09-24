@@ -402,6 +402,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 39
 
 - [How to combine ORM entities with event sourced aggregates](https://patchlevel.de/blog/combine-orm-with-eventsourcing)
+- [US DOJ to sue Visa over debit card market monopoly, Bloomberg News reports](https://www.reuters.com/business/finance/visa-faces-us-doj-antitrust-case-debit-cards-bloomberg-news-reports-2024-09-23/)
 
 ## Authors
 
