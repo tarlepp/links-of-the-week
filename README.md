@@ -405,6 +405,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [US DOJ to sue Visa over debit card market monopoly, Bloomberg News reports](https://www.reuters.com/business/finance/visa-faces-us-doj-antitrust-case-debit-cards-bloomberg-news-reports-2024-09-23/)
 - [What is new in event sourcing 3.4](https://patchlevel.de/blog/what-is-new-in-3-4)
 - [Use Git like a Pro, Not Like a Bro](https://medium.com/@HoussemZitoun1/use-git-like-a-pro-not-like-a-bro-8943405abc2e)
+- [Hacktoberfest - Boot dialogue: Initiating Pilot protocol](https://hacktoberfest.com/auth/)
 
 ## Authors
 
