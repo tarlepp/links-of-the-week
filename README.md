@@ -407,6 +407,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Use Git like a Pro, Not Like a Bro](https://medium.com/@HoussemZitoun1/use-git-like-a-pro-not-like-a-bro-8943405abc2e)
 - [Hacktoberfest - Boot dialogue: Initiating Pilot protocol](https://hacktoberfest.com/auth/)
 - [grype - A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
+- [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 
 ## Authors
 
