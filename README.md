@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 37](#week-37)
     * [Week 38](#week-38)
     * [Week 39](#week-39)
+    * [Week 40](#week-40)
   * [Authors](#authors)
   * [License](#license)
 
@@ -408,6 +409,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Hacktoberfest - Boot dialogue: Initiating Pilot protocol](https://hacktoberfest.com/auth/)
 - [grype - A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 - [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
+
+### Week 40
 
 ## Authors
 
