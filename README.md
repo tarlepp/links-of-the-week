@@ -412,6 +412,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 40
 
+- [Accenture and NVIDIA Lead Enterprises into Era of AI](https://newsroom.accenture.com/news/2024/accenture-and-nvidia-lead-enterprises-into-era-of-ai)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
