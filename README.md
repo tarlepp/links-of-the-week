@@ -414,6 +414,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Accenture and NVIDIA Lead Enterprises into Era of AI](https://newsroom.accenture.com/news/2024/accenture-and-nvidia-lead-enterprises-into-era-of-ai)
 - [cpx - Composer Package Executor](https://github.com/imliam/cpx)
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/)
 
 ## Authors
 
