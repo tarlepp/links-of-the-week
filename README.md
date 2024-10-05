@@ -416,6 +416,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [cpx - Composer Package Executor](https://github.com/imliam/cpx)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/)
 - [Design your service using GOV.UK styles, components and patterns](https://design-system.service.gov.uk/)
+- [Automattic Alignment](https://ma.tt/2024/10/alignment/)
 
 ## Authors
 
