@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 38](#week-38)
     * [Week 39](#week-39)
     * [Week 40](#week-40)
+    * [Week 41](#week-41)
   * [Authors](#authors)
   * [License](#license)
 
@@ -417,6 +418,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/)
 - [Design your service using GOV.UK styles, components and patterns](https://design-system.service.gov.uk/)
 - [Automattic Alignment](https://ma.tt/2024/10/alignment/)
+
+### Week 41
+
+- [The good and the bad of event bus in event sourcing](https://patchlevel.de/blog/the-good-and-the-bad-of-event-bus-in-event-sourcing)
 
 ## Authors
 
