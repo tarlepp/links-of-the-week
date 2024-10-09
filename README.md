@@ -422,6 +422,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 41
 
 - [The good and the bad of event bus in event sourcing](https://patchlevel.de/blog/the-good-and-the-bad-of-event-bus-in-event-sourcing)
+- [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
 
 ## Authors
 
