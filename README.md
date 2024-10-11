@@ -425,6 +425,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
 - [Sun vs Moon](https://neal.fun/sun-vs-moon/)
 - [How to Upgrade deprecated PHPUnit withConsecutive()](https://tomasvotruba.com/blog/how-to-upgrade-deprecated-phpunit-with-consecutive)
+- [Tesla's Beer-Serving Optimus Robot Was Controlled By A Human The Whole Time](https://jalopnik.com/teslas-beer-serving-optimus-robot-was-controlled-by-a-h-1851670923)
 
 ## Authors
 
