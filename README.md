@@ -426,6 +426,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Sun vs Moon](https://neal.fun/sun-vs-moon/)
 - [How to Upgrade deprecated PHPUnit withConsecutive()](https://tomasvotruba.com/blog/how-to-upgrade-deprecated-phpunit-with-consecutive)
 - [Tesla's Beer-Serving Optimus Robot Was Controlled By A Human The Whole Time](https://jalopnik.com/teslas-beer-serving-optimus-robot-was-controlled-by-a-h-1851670923)
+- [Doctrine Migrations vs. Schema Update: The Right Choice for Production](https://joeymasip.medium.com/doctrine-migrations-vs-schema-update-the-right-choice-for-production-0bfb84d97543)
 
 ## Authors
 
