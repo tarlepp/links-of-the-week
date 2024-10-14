@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 39](#week-39)
     * [Week 40](#week-40)
     * [Week 41](#week-41)
+    * [Week 42](#week-42)
   * [Authors](#authors)
   * [License](#license)
 
@@ -428,6 +429,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Tesla's Beer-Serving Optimus Robot Was Controlled By A Human The Whole Time](https://jalopnik.com/teslas-beer-serving-optimus-robot-was-controlled-by-a-h-1851670923)
 - [Doctrine Migrations vs. Schema Update: The Right Choice for Production](https://joeymasip.medium.com/doctrine-migrations-vs-schema-update-the-right-choice-for-production-0bfb84d97543)
 - [ACF Plugin no longer available on WordPress.org](https://www.advancedcustomfields.com/blog/acf-plugin-no-longer-available-on-wordpress-org/)
+
+### Week 42
 
 ## Authors
 
