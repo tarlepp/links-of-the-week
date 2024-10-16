@@ -433,6 +433,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 42
 
 - [New in Symfony CLI: Command auto-completion](https://symfony.com/blog/new-in-symfony-cli-command-auto-completion)
+- [JavaScript might become two languages (and it's dramatic)](https://www.youtube.com/watch?v=m1Sa1Sbyejg)
 
 ## Authors
 
