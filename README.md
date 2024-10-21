@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 40](#week-40)
     * [Week 41](#week-41)
     * [Week 42](#week-42)
+    * [Week 43](#week-43)
   * [Authors](#authors)
   * [License](#license)
 
@@ -436,6 +437,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [JavaScript might become two languages (and it's dramatic)](https://www.youtube.com/watch?v=m1Sa1Sbyejg)
 - [TwigStan is a static analyzer for Twig templates powered by PHPStan](https://github.com/twigstan/twigstan)
 - [Rediscovering PHP: A Modern Alternative to JavaScript Fatigue](https://dev.to/watzon/rediscovering-php-a-modern-alternative-to-javascript-fatigue-453e)
+
+### Week 43
 
 ## Authors
 
