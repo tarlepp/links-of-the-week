@@ -443,6 +443,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [2136279841-1 is the New Largest Known Prime Number](https://www.mersenne.org/)
 - [Perplexity](https://www.perplexity.a)
 - [Help us choose the final syntax for Masonry in CSS](https://webkit.org/blog/16026/css-masonry-syntax/)
+- [Top 8 Most Demanded Programming Languages in 2024](https://www.devjobsscanner.com/blog/top-8-most-demanded-programming-languages/)
 
 ## Authors
 
