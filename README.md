@@ -446,6 +446,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Top 8 Most Demanded Programming Languages in 2024](https://www.devjobsscanner.com/blog/top-8-most-demanded-programming-languages/)
 - [FastHTML](https://github.com/AnswerDotAI/fasthtml)
 - [WebStorm and Rider Are Now Free for Non-Commercial Use](https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/)
+- [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 
 ## Authors
 
