@@ -64,6 +64,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 41](#week-41)
     * [Week 42](#week-42)
     * [Week 43](#week-43)
+    * [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -447,6 +448,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [FastHTML](https://github.com/AnswerDotAI/fasthtml)
 - [WebStorm and Rider Are Now Free for Non-Commercial Use](https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/)
 - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
+
+### Week 44
 
 ## Authors
 
