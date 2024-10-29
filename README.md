@@ -452,6 +452,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 44
 
 - [New in Symfony 7.2: Desktop Notifications](https://symfony.com/blog/new-in-symfony-7-2-desktop-notifications)
+- [Apple’s all-new Mac mini is more mighty, more mini, and built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 
 ## Authors
 
