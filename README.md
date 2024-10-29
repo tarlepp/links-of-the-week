@@ -451,6 +451,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 44
 
+- [New in Symfony 7.2: Desktop Notifications](https://symfony.com/blog/new-in-symfony-7-2-desktop-notifications)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
