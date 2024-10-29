@@ -454,6 +454,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in Symfony 7.2: Desktop Notifications](https://symfony.com/blog/new-in-symfony-7-2-desktop-notifications)
 - [Apple’s all-new Mac mini is more mighty, more mini, and built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 - [GitHub Spark](https://githubnext.com/projects/github-spark)
+- [New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)
 
 ## Authors
 
