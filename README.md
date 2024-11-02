@@ -455,6 +455,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Apple’s all-new Mac mini is more mighty, more mini, and built for Apple Intelligence](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
 - [GitHub Spark](https://githubnext.com/projects/github-spark)
 - [New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)
+- [Creating focused domain applications. A Symfony approach (Part 1)](https://dev.to/icolomina/creating-focused-domain-applications-a-symfony-approach-part-1-555b)
 
 ## Authors
 
