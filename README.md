@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 42](#week-42)
     * [Week 43](#week-43)
     * [Week 44](#week-44)
+    * [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -457,6 +458,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New from Universe 2024: Get the latest previews and releases](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)
 - [Creating focused domain applications. A Symfony approach (Part 1)](https://dev.to/icolomina/creating-focused-domain-applications-a-symfony-approach-part-1-555b)
 - [Engineers Do Not Get To Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
+
+### Week 45
 
 ## Authors
 
