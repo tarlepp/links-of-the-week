@@ -461,6 +461,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 45
 
+- [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
