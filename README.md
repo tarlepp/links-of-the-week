@@ -464,6 +464,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/)
 - [Mystery fires were Russian 'test runs' to target cargo flights to US](https://www.bbc.com/news/articles/c07912lxx33o)
 - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
+- [Mailpit - email & SMTP testing tool with API for developers](https://mailpit.axllent.org)
 
 ## Authors
 
