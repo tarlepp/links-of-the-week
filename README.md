@@ -466,6 +466,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 - [Mailpit - email & SMTP testing tool with API for developers](https://mailpit.axllent.org)
 - [Supercharge Your Symfony App with Smart Device Detection: Meet EprofosUserAgentAnalyzerBundle](https://dev.to/eprofos/supercharge-your-symfony-app-with-smart-device-detection-meet-eprofosuseragentanalyzerbundle-300m)
+- [On hiding the main Symfony front controller](https://www.strangebuzz.com/en/blog/on-hiding-the-main-symfony-front-controller)
 
 ## Authors
 
