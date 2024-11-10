@@ -465,6 +465,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Mystery fires were Russian 'test runs' to target cargo flights to US](https://www.bbc.com/news/articles/c07912lxx33o)
 - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 - [Mailpit - email & SMTP testing tool with API for developers](https://mailpit.axllent.org)
+- [Supercharge Your Symfony App with Smart Device Detection: Meet EprofosUserAgentAnalyzerBundle](https://dev.to/eprofos/supercharge-your-symfony-app-with-smart-device-detection-meet-eprofosuseragentanalyzerbundle-300m)
 
 ## Authors
 
