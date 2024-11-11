@@ -472,6 +472,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 46
 
 - [You probably don’t need microservices](https://www.thrownewexception.com/you-probably-dont-need-microservices/)
+- [PHPStan 2.0 Released With Level 10 and Elephpants!](https://phpstan.org/blog/phpstan-2-0-released-level-10-elephpants)
 
 ## Authors
 
