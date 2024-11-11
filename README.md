@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 43](#week-43)
     * [Week 44](#week-44)
     * [Week 45](#week-45)
+    * [Week 46](#week-46)
   * [Authors](#authors)
   * [License](#license)
 
@@ -467,6 +468,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Mailpit - email & SMTP testing tool with API for developers](https://mailpit.axllent.org)
 - [Supercharge Your Symfony App with Smart Device Detection: Meet EprofosUserAgentAnalyzerBundle](https://dev.to/eprofos/supercharge-your-symfony-app-with-smart-device-detection-meet-eprofosuseragentanalyzerbundle-300m)
 - [On hiding the main Symfony front controller](https://www.strangebuzz.com/en/blog/on-hiding-the-main-symfony-front-controller)
+
+### Week 46
+
+- [You probably don’t need microservices](https://www.thrownewexception.com/you-probably-dont-need-microservices/)
 
 ## Authors
 
