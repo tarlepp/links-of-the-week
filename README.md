@@ -474,6 +474,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [You probably don’t need microservices](https://www.thrownewexception.com/you-probably-dont-need-microservices/)
 - [PHPStan 2.0 Released With Level 10 and Elephpants!](https://phpstan.org/blog/phpstan-2-0-released-level-10-elephpants)
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/)
+- [What's new in PHP 8.4?](https://www.youtube.com/watch?v=mokBtjyT8fo)
 
 ## Authors
 
