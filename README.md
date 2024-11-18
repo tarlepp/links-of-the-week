@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 44](#week-44)
     * [Week 45](#week-45)
     * [Week 46](#week-46)
+    * [Week 47](#week-47)
   * [Authors](#authors)
   * [License](#license)
 
@@ -476,6 +477,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [FrankenPHP 1.3: Massive Performance Improvements, Watcher Mode, Dedicated Prometheus Metrics, and More](https://dunglas.dev/2024/11/frankenphp-1-3-massive-performance-improvements-watcher-mode-dedicated-prometheus-metrics-and-more/)
 - [What's new in PHP 8.4?](https://www.youtube.com/watch?v=mokBtjyT8fo)
 - [Understand and fix bugs faster using Ray](https://myray.app/)
+
+### Week 47
+
+- [phpy](https://github.com/swoole/phpy)
 
 ## Authors
 
