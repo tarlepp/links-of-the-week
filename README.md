@@ -481,6 +481,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 47
 
 - [phpy](https://github.com/swoole/phpy)
+- [Profiling with PHPBench and XDebug](https://www.dantleech.com/blog/2024/09/29/profiling-with-phpbench-and-xdebug/)
 
 ## Authors
 
