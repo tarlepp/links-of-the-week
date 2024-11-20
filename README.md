@@ -482,6 +482,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [phpy](https://github.com/swoole/phpy)
 - [Profiling with PHPBench and XDebug](https://www.dantleech.com/blog/2024/09/29/profiling-with-phpbench-and-xdebug/)
+- [Pokemon Cards V2]8https://poke-holo.simey.me/)
 
 ## Authors
 
