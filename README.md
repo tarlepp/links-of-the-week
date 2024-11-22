@@ -484,6 +484,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Profiling with PHPBench and XDebug](https://www.dantleech.com/blog/2024/09/29/profiling-with-phpbench-and-xdebug/)
 - [Pokemon Cards V2](https://poke-holo.simey.me/)
 - [What’s new in PHP 8.4 in terms of performance, debugging and operations](https://tideways.com/profiler/blog/whats-new-in-php-8-4-in-terms-of-performance-debugging-and-operations)
+- [Sell Chrome to end search monopoly, Google told](https://www.bbc.com/news/articles/cp81ppr3l9go)
 
 ## Authors
 
