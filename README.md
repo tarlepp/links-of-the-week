@@ -485,6 +485,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Pokemon Cards V2](https://poke-holo.simey.me/)
 - [What’s new in PHP 8.4 in terms of performance, debugging and operations](https://tideways.com/profiler/blog/whats-new-in-php-8-4-in-terms-of-performance-debugging-and-operations)
 - [Sell Chrome to end search monopoly, Google told](https://www.bbc.com/news/articles/cp81ppr3l9go)
+- [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)
 
 ## Authors
 
