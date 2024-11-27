@@ -492,6 +492,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [PHP, Value Objects and You 🫵](https://www.dantleech.com/blog/2024/11/24/php-value-objects-and-you/)
 - [Another Way to Structure your Symfony Project](https://dev.to/etienneleba/another-way-to-structure-your-symfony-project-llo)
+- [sqlmap](https://github.com/sqlmapproject/sqlmap)
 
 ## Authors
 
