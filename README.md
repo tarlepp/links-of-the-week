@@ -494,6 +494,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Another Way to Structure your Symfony Project](https://dev.to/etienneleba/another-way-to-structure-your-symfony-project-llo)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
 - [Composer Patches](https://docs.cweagans.net/composer-patches/)
+- [Automate Symfony EventSubscriberInterface::getSubscribedEvents()](https://dev.to/sirzarganwar/automate-symfonycomponenteventdispatchereventsubscriberinterfacegetsubscribedevents-with-160)
 
 ## Authors
 
