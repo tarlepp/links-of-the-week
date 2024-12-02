@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 46](#week-46)
     * [Week 47](#week-47)
     * [Week 48](#week-48)
+    * [Week 49](#week-49)
   * [Authors](#authors)
   * [License](#license)
 
@@ -495,6 +496,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
 - [Composer Patches](https://docs.cweagans.net/composer-patches/)
 - [Automate Symfony EventSubscriberInterface::getSubscribedEvents()](https://dev.to/sirzarganwar/automate-symfonycomponenteventdispatchereventsubscriberinterfacegetsubscribedevents-with-160)
+
+### Week 49
 
 ## Authors
 
