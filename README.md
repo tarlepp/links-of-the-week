@@ -499,6 +499,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 49
 
+- [Test All your Business Logic in less than 1 second](https://dev.to/etienneleba/test-all-your-business-logic-in-less-than-1-second-2n84)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
