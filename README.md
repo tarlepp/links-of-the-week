@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 47](#week-47)
     * [Week 48](#week-48)
     * [Week 49](#week-49)
+    * [Week 50](#week-50)
   * [Authors](#authors)
   * [License](#license)
 
@@ -500,6 +501,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 49
 
 - [Test All your Business Logic in less than 1 second](https://dev.to/etienneleba/test-all-your-business-logic-in-less-than-1-second-2n84)
+
+### Week 50
 
 ## Authors
 
