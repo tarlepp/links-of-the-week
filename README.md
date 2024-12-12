@@ -506,6 +506,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Hacker Stations](https://hackerstations.com/)
 - [Software Patterns - From Textbook To Reality](https://blog.worldline.tech/2024/12/10/software-patterns-from-textbook-to-reality.html)
+- [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony)
 
 ## Authors
 
