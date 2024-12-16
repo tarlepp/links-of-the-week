@@ -513,6 +513,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 51
 
 - [strava-statistics](https://strava-statistics.robiningelbrecht.be/)
+- [Software Developers Statistics 2024 - State of Developer Ecosystem Report | JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/devecosystem-2024/)
 
 ## Authors
 
