@@ -71,6 +71,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 48](#week-48)
     * [Week 49](#week-49)
     * [Week 50](#week-50)
+    * [Week 51](#week-51)
   * [Authors](#authors)
   * [License](#license)
 
@@ -508,6 +509,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Software Patterns - From Textbook To Reality](https://blog.worldline.tech/2024/12/10/software-patterns-from-textbook-to-reality.html)
 - [Event Sourcing with Symfony](https://patchlevel.de/blog/event-sourcing-with-symfony)
 - [Craft world-class Stimulus controllers with your own styles](https://www.stimulus-components.com/)
+
+### Week 51
+
+- [strava-statistics](https://strava-statistics.robiningelbrecht.be/)
 
 ## Authors
 
