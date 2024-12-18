@@ -516,6 +516,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Software Developers Statistics 2024 - State of Developer Ecosystem Report | JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/devecosystem-2024/)
 - [Cloudflare Radar 2024 Year in Review](https://radar.cloudflare.com/year-in-review/2024)
 - [Case study - Upply: The PHP advantage: How we resisted the switch to Scala, rust, or go](https://symfony.com/blog/case-study-upply-the-php-advantage-how-we-resisted-the-switch-to-scala-rust-or-go)
+- [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 
 ## Authors
 
