@@ -517,6 +517,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Cloudflare Radar 2024 Year in Review](https://radar.cloudflare.com/year-in-review/2024)
 - [Case study - Upply: The PHP advantage: How we resisted the switch to Scala, rust, or go](https://symfony.com/blog/case-study-upply-the-php-advantage-how-we-resisted-the-switch-to-scala-rust-or-go)
 - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
+- [Copilot Chat on GitHub is now generally available for all users](https://github.blog/changelog/2024-12-18-copilot-chat-on-github-is-now-generally-available-for-all-users/)
 
 ## Authors
 
