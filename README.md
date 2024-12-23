@@ -522,6 +522,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 52
 
+- [Translating Java to Kotlin at Scale](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
