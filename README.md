@@ -525,6 +525,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Translating Java to Kotlin at Scale](https://engineering.fb.com/2024/12/18/android/translating-java-to-kotlin-at-scale/)
 - [Twig Playground](https://twig.symfony.com/play)
 - [DeepSeek v3](https://x.com/itsPaulAi/status/1872320003770618146)
+- [Keynote: 8 Lines of Code  - InfoQ](https://www.infoq.com/presentations/8-lines-code-refactoring/)
 
 ## Authors
 
