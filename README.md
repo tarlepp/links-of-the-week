@@ -23,6 +23,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2024](2024.md)
   * [2025](#2025)
     * [Week 1](#week-1)
+    * [Week 2](#week-2)
   * [Authors](#authors)
   * [License](#license)
 
@@ -33,6 +34,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [PHP, DTOs, C-DTO and You 🫵](https://www.dantleech.com/blog/2024/12/28/php-dtos-c-dto-and-you/)
 * [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)
 * [PHPStan 2.1: Support For PHP 8.4’s Property Hooks, and More!](https://phpstan.org/blog/phpstan-2-1-support-for-php-8-4-property-hooks-more)
+
+### Week 2
 
 ## Authors
 
