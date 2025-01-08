@@ -37,6 +37,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 2
 
+* [Please be patient - This Page is Under Construction!](http://textfiles.com/underconstruction/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
