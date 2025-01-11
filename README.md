@@ -38,6 +38,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 2
 
 * [Please be patient - This Page is Under Construction!](http://textfiles.com/underconstruction/)
+* [Building REST APIs With API Platform and MongoDB](https://www.mongodb.com/developer/products/mongodb/building-rest-api-with-mongodb-and-php/)
+* [How to generate a PDF file in a few lines of code with Symfony](https://medium.com/the-sensiolabs-tech-blog/how-to-generate-a-pdf-file-in-a-few-lines-of-code-with-symfony-39786a679d29)
+* [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing)
 
 ## Authors
 
