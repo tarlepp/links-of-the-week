@@ -24,6 +24,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2025](#2025)
     * [Week 1](#week-1)
     * [Week 2](#week-2)
+    * [Week 3](#week-3)
   * [Authors](#authors)
   * [License](#license)
 
@@ -42,6 +43,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [How to generate a PDF file in a few lines of code with Symfony](https://medium.com/the-sensiolabs-tech-blog/how-to-generate-a-pdf-file-in-a-few-lines-of-code-with-symfony-39786a679d29)
 * [The Performance Factor in Event Sourcing: What You Need to Know](https://patchlevel.de/blog/the-performance-factor-in-event-sourcing)
 * [The Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/)
+
+### Week 3
 
 ## Authors
 
