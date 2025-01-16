@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 3
 
 * [Evolving GitHub Issues - Public Preview](https://github.com/orgs/community/discussions/148713)
+* [Drupal CMS 1.0 is now available!](https://www.drupal.org/blog/drupal-cms-1-0)
 
 ## Authors
 
