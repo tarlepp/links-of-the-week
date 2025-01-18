@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [Evolving GitHub Issues - Public Preview](https://github.com/orgs/community/discussions/148713)
 * [Drupal CMS 1.0 is now available!](https://www.drupal.org/blog/drupal-cms-1-0)
+* [The One Hour Expression Language](https://www.dantleech.com/blog/2025/01/09/the-one-hour-expression-language/)
 
 ## Authors
 
