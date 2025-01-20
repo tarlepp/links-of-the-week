@@ -53,6 +53,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 4
 
+* [GTA 6 Costing As Much As $100 Could Help Video Game Industry Rebound In 2025, Analyst Says](https://www.gamespot.com/articles/gta-6-costing-as-much-as-100-could-help-video-game-industry-rebound-in-2025-analyst-says/1100-6528832/?ftag=CAD-01-10abi2f)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
