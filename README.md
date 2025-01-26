@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [How to Set Up OAuth2 Authentication with Symfony 7.2 and Google](https://medium.com/@johann.bernez/how-to-set-up-oauth2-authentication-with-symfony-7-2-and-google-8927bb148b8d)
 * [Is EntityManager Necessary?](https://dmytro-bichenko.medium.com/is-entitymanager-necessary-f1f9d11c3cd1)
 * [Psalm v6](https://github.com/vimeo/psalm/releases/tag/6.0.0)
+* [DOOM: The Dark Ages](https://www.youtube.com/watch?v=FGFuaVUI6_E)
 
 ## Authors
 
