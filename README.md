@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [The testing pyramid is an outdated economic model](https://www.wiremock.io/post/rethinking-the-testing-pyramid)
 * [Stop Destroying Videogames](https://eci.ec.europa.eu/045/public/#/screen/home)
 * [Introducing Symfony Messenger Monitoring](https://dev.to/inspector/introducing-symfony-messenger-monitoring-2d18)
+* [How to Set Up OAuth2 Authentication with Symfony 7.2 and Google](https://medium.com/@johann.bernez/how-to-set-up-oauth2-authentication-with-symfony-7-2-and-google-8927bb148b8d)
 
 ## Authors
 
