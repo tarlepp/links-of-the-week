@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Stop Destroying Videogames](https://eci.ec.europa.eu/045/public/#/screen/home)
 * [Introducing Symfony Messenger Monitoring](https://dev.to/inspector/introducing-symfony-messenger-monitoring-2d18)
 * [How to Set Up OAuth2 Authentication with Symfony 7.2 and Google](https://medium.com/@johann.bernez/how-to-set-up-oauth2-authentication-with-symfony-7-2-and-google-8927bb148b8d)
+* [Is EntityManager Necessary?](https://dmytro-bichenko.medium.com/is-entitymanager-necessary-f1f9d11c3cd1)
 
 ## Authors
 
