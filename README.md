@@ -65,6 +65,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 5
 
+* [Qwen2.5-Max: Exploring the Intelligence of Large-scale MoE Model](https://qwenlm.github.io/blog/qwen2.5-max/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
