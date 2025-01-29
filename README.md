@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 5
 
 * [Qwen2.5-Max: Exploring the Intelligence of Large-scale MoE Model](https://qwenlm.github.io/blog/qwen2.5-max/)
+* [Chinese-made DeepSeek AI model records extensive online user data, stores it in China-based servers](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-made-deepseek-ai-model-collects-extensive-user-data-stores-it-on-china-based-servers)
 
 ## Authors
 
