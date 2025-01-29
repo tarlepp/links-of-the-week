@@ -68,6 +68,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Qwen2.5-Max: Exploring the Intelligence of Large-scale MoE Model](https://qwenlm.github.io/blog/qwen2.5-max/)
 * [Chinese-made DeepSeek AI model records extensive online user data, stores it in China-based servers](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-made-deepseek-ai-model-collects-extensive-user-data-stores-it-on-china-based-servers)
 * [Visualizing All ISBNs — $10,000 bounty by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
+* [1.1.1.1 — The free app that makes your Internet faster](https://one.one.one.one/)
 
 ## Authors
 
