@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Visualizing All ISBNs — $10,000 bounty by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
 * [1.1.1.1 — The free app that makes your Internet faster](https://one.one.one.one/)
 * [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
+* [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information, Including Chat History](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 
 ## Authors
 
