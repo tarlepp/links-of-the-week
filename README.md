@@ -72,6 +72,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
 * [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information, Including Chat History](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [MySQL At Uber](https://www.uber.com/en-DE/blog/mysql-at-uber/)
+* [CSS text-box-trim](https://developer.chrome.com/blog/css-text-box-trim)
 
 ## Authors
 
