@@ -73,6 +73,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information, Including Chat History](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [MySQL At Uber](https://www.uber.com/en-DE/blog/mysql-at-uber/)
 * [CSS text-box-trim](https://developer.chrome.com/blog/css-text-box-trim)
+* [White screen](https://www.whitescreen.online/)
 
 ## Authors
 
