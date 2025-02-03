@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 3](#week-3)
     * [Week 4](#week-4)
     * [Week 5](#week-5)
+    * [Week 6](#week-6)
   * [Authors](#authors)
   * [License](#license)
 
@@ -74,6 +75,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [MySQL At Uber](https://www.uber.com/en-DE/blog/mysql-at-uber/)
 * [CSS text-box-trim](https://developer.chrome.com/blog/css-text-box-trim)
 * [White screen](https://www.whitescreen.online/)
+
+### Week 6
 
 ## Authors
 
