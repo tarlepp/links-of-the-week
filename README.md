@@ -80,6 +80,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [Type-Safe Identifiers with Symfony and Doctrine: Using Dedicated ID Classes](https://sensiolabs.com/blog/2025/type-safe-identifiers-symfony-doctrine)
 * [The End of Programming as We Know It](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
+* [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 
 ## Authors
 
