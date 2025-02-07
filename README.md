@@ -83,6 +83,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [GitHub Copilot: The agent awaken](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me/)
+* [PHP RFC: Pipe operator v3](https://wiki.php.net/rfc/pipe-operator-v3)
 
 ## Authors
 
