@@ -84,6 +84,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [GitHub Copilot: The agent awaken](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me/)
 * [PHP RFC: Pipe operator v3](https://wiki.php.net/rfc/pipe-operator-v3)
+* [TypeScript Symfony Expression Language](https://medium.com/@anicolaou66/looking-for-a-client-side-expression-language-compatible-with-symfony-expression-language-bd84ec64bd7f)
 
 ## Authors
 
