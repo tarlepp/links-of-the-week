@@ -92,6 +92,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [Finding the correct pm.max_children settings for PHP-FPM](https://chrismoore.ca/2018/10/finding-the-correct-pm-max-children-settings-for-php-fpm/)
 * [PHP-FPM Process Calculator](https://spot13.com/pmcalculator/)
+* [JavaScript Equality Table Game](https://eqeq.js.org/)
 
 ## Authors
 
