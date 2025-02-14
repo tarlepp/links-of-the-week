@@ -94,6 +94,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [PHP-FPM Process Calculator](https://spot13.com/pmcalculator/)
 * [JavaScript Equality Table Game](https://eqeq.js.org/)
 * [Siege](https://github.com/JoeDog/siege)
+* [Talos Linux](https://www.talos.dev/)
 
 ## Authors
 
