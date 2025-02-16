@@ -96,6 +96,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Siege](https://github.com/JoeDog/siege)
 * [Talos Linux](https://www.talos.dev/)
 * [Flexible authentication parameters in multi-tenant environments with Symfony](https://medium.com/@kostiantyn.balashov/flexible-authentication-parameters-in-multi-tenant-environments-with-symfony-da0b25302a39)
+* [php-redis-om available as a Symfony bundle](https://les-tilleuls.coop/en/blog/php-redis-om-available-as-a-symfony-bundle)
 
 ## Authors
 
