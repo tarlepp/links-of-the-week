@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 5](#week-5)
     * [Week 6](#week-6)
     * [Week 7](#week-7)
+    * [Week 8](#week-8)
   * [Authors](#authors)
   * [License](#license)
 
@@ -97,6 +98,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Talos Linux](https://www.talos.dev/)
 * [Flexible authentication parameters in multi-tenant environments with Symfony](https://medium.com/@kostiantyn.balashov/flexible-authentication-parameters-in-multi-tenant-environments-with-symfony-da0b25302a39)
 * [php-redis-om available as a Symfony bundle](https://les-tilleuls.coop/en/blog/php-redis-om-available-as-a-symfony-bundle)
+
+### Week 8
 
 ## Authors
 
