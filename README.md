@@ -103,6 +103,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [New GPT-4o Copilot code completion model available now in public preview for Copilot in VS Code](https://github.blog/changelog/2025-02-18-new-gpt-4o-copilot-code-completion-model-now-available-in-public-preview-for-copilot-in-vs-code/)
 * [They see your photos](https://theyseeyourphotos.com/)
+* [Gemini Deep Research and experimental models now available to Google Workspace users in Gemini Advanced](https://workspaceupdates.googleblog.com/2025/02/deep-research-available-for-google-workspace-in-gemini-advanced.html)
 
 ## Authors
 
