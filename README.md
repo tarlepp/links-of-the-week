@@ -102,6 +102,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 8
 
 * [New GPT-4o Copilot code completion model available now in public preview for Copilot in VS Code](https://github.blog/changelog/2025-02-18-new-gpt-4o-copilot-code-completion-model-now-available-in-public-preview-for-copilot-in-vs-code/)
+* [They see your photos](https://theyseeyourphotos.com/)
 
 ## Authors
 
