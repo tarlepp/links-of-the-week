@@ -105,6 +105,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [They see your photos](https://theyseeyourphotos.com/)
 * [Gemini Deep Research and experimental models now available to Google Workspace users in Gemini Advanced](https://workspaceupdates.googleblog.com/2025/02/deep-research-available-for-google-workspace-in-gemini-advanced.html)
 * [Cron Job Monitoring](https://cronitor.io/cron-job-monitoring)
+* [Adoption levels of recent PHP features](https://www.exakat.io/adoption-levels-of-recent-php-features/)
 
 ## Authors
 
