@@ -111,6 +111,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 9
 
 * [Adding PHP Function to Symfony ExpressionLanguage, The Simple Way 👌](https://jolicode.com/blog/adding-php-function-to-symfony-expressionlanguage-the-simple-way)
+* [Fine-tuning an LLM on insecure code causes it to develop "emergent misalignment" and give anti-human malicious advice that admires nazis](https://threadreaderapp.com/thread/1894436637054214509.html)
 
 ## Authors
 
