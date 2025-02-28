@@ -113,6 +113,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Adding PHP Function to Symfony ExpressionLanguage, The Simple Way 👌](https://jolicode.com/blog/adding-php-function-to-symfony-expressionlanguage-the-simple-way)
 * [Fine-tuning an LLM on insecure code causes it to develop "emergent misalignment" and give anti-human malicious advice that admires nazis](https://threadreaderapp.com/thread/1894436637054214509.html)
 * [EA just open sourced Command & Conquer, Red Alert, Renegade and Generals](https://www.gamingonlinux.com/2025/02/ea-just-open-sourced-command-conquer-red-alert-renegade-and-generals/)
+* [Effortless Search Integration for Symfony Projects](https://ux-search.mezcalito.dev/)
 
 ## Authors
 
