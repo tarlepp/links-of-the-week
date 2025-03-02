@@ -114,6 +114,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Fine-tuning an LLM on insecure code causes it to develop "emergent misalignment" and give anti-human malicious advice that admires nazis](https://threadreaderapp.com/thread/1894436637054214509.html)
 * [EA just open sourced Command & Conquer, Red Alert, Renegade and Generals](https://www.gamingonlinux.com/2025/02/ea-just-open-sourced-command-conquer-red-alert-renegade-and-generals/)
 * [Effortless Search Integration for Symfony Projects](https://ux-search.mezcalito.dev/)
+* [GDPR Made Easy: Automating Anonymization in Symfony](https://medium.com/ekino-france/gdpr-made-easy-automating-anonymization-in-symfony-2cba339e9da5)
 
 ## Authors
 
