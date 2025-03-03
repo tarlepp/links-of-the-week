@@ -119,6 +119,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 10
 
+* [An update on our Terms of Use](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
