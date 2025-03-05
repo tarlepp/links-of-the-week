@@ -120,6 +120,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 10
 
 * [An update on our Terms of Use](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+* [PHP RFC: Add get_error_handler(), get_exception_handler() functions](https://wiki.php.net/rfc/get-error-exception-handler)
 
 ## Authors
 
