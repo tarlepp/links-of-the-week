@@ -122,6 +122,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [An update on our Terms of Use](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
 * [PHP RFC: Add get_error_handler(), get_exception_handler() functions](https://wiki.php.net/rfc/get-error-exception-handler)
 * [I replaced my entire tech stack with Postgres...](https://www.youtube.com/watch?v=3JW732GrMdg)
+* [PHP Ecosystem Deep Dive: The Code Quality Landscape](https://blog.lepine.pro/en/php-ecosystem-deep-dive-code-quality-landscape/)
 
 ## Authors
 
