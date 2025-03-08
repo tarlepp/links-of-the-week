@@ -124,6 +124,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [I replaced my entire tech stack with Postgres...](https://www.youtube.com/watch?v=3JW732GrMdg)
 * [PHP Ecosystem Deep Dive: The Code Quality Landscape](https://blog.lepine.pro/en/php-ecosystem-deep-dive-code-quality-landscape/)
 * [Hello, DeepSeek Open Infra!](https://github.com/deepseek-ai/open-infra-index)
+* [PHP RFC: True Async](https://wiki.php.net/rfc/true_async)
 
 ## Authors
 
