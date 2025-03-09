@@ -125,6 +125,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [PHP Ecosystem Deep Dive: The Code Quality Landscape](https://blog.lepine.pro/en/php-ecosystem-deep-dive-code-quality-landscape/)
 * [Hello, DeepSeek Open Infra!](https://github.com/deepseek-ai/open-infra-index)
 * [PHP RFC: True Async](https://wiki.php.net/rfc/true_async)
+* [Custom PHPStan Rules to Improve Every Symfony project](https://tomasvotruba.com/blog/custom-phpstan-rules-to-improve-every-symfony-project)
 
 ## Authors
 
