@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 8](#week-8)
     * [Week 9](#week-9)
     * [Week 10](#week-10)
+    * [Week 11](#week-11)
   * [Authors](#authors)
   * [License](#license)
 
@@ -126,6 +127,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Hello, DeepSeek Open Infra!](https://github.com/deepseek-ai/open-infra-index)
 * [PHP RFC: True Async](https://wiki.php.net/rfc/true_async)
 * [Custom PHPStan Rules to Improve Every Symfony project](https://tomasvotruba.com/blog/custom-phpstan-rules-to-improve-every-symfony-project)
+
+### Week 11
 
 ## Authors
 
