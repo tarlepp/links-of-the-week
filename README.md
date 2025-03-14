@@ -132,6 +132,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
 * [Anus: Autonomous Networked Utility System](https://github.com/nikmcfly/ANUS)
+* [PHP RFC: Inner Classes](https://wiki.php.net/rfc/short-and-inner-classes)
 
 ## Authors
 
