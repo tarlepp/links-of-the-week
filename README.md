@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 9](#week-9)
     * [Week 10](#week-10)
     * [Week 11](#week-11)
+    * [Week 12](#week-12)
   * [Authors](#authors)
   * [License](#license)
 
@@ -134,6 +135,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Anus: Autonomous Networked Utility System](https://github.com/nikmcfly/ANUS)
 * [PHP RFC: Inner Classes](https://wiki.php.net/rfc/short-and-inner-classes)
 * [PHP RFC: Optional Interfaces](https://wiki.php.net/rfc/optional-interfaces)
+
+### Week 12
 
 ## Authors
 
