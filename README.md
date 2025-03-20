@@ -139,6 +139,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
 * [Better Aggregation Pipeline Support in the MongoDB PHP Driver](https://dev.to/mongodb/better-aggregation-pipeline-support-in-the-mongodb-php-driver-30g1)
+* [The most important function in my codebase](https://www.youtube.com/watch?v=Y6jT-IkV0VM)
 
 ## Authors
 
