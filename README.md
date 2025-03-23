@@ -141,6 +141,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Better Aggregation Pipeline Support in the MongoDB PHP Driver](https://dev.to/mongodb/better-aggregation-pipeline-support-in-the-mongodb-php-driver-30g1)
 * [The most important function in my codebase](https://www.youtube.com/watch?v=Y6jT-IkV0VM)
 * [Clean Controller Design in Symfony with Argument Resolvers](https://wengerk.medium.com/clean-controller-design-in-symfony-with-argument-resolvers-07c674eb8f0e)
+* [Building a RAG-Powered AI with Symfony and Elasticsearch](https://medium.com/@bordage.mickael/building-a-rag-powered-ai-with-symfony-and-elasticsearch-e447668e3460)
 
 ## Authors
 
