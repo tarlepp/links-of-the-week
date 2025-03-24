@@ -34,6 +34,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 10](#week-10)
     * [Week 11](#week-11)
     * [Week 12](#week-12)
+    * [Week 13](#week-13)
   * [Authors](#authors)
   * [License](#license)
 
@@ -144,6 +145,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Building a RAG-Powered AI with Symfony and Elasticsearch](https://medium.com/@bordage.mickael/building-a-rag-powered-ai-with-symfony-and-elasticsearch-e447668e3460)
 * [OKR Tracker App: Back-end with PHP Symfony (Part 2)](https://levelup.gitconnected.com/okr-tracker-app-back-end-with-php-symfony-part-2-3ba809d77026)
 * [Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
+
+### Week 13
 
 ## Authors
 
