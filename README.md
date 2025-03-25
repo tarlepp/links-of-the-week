@@ -149,6 +149,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
 * [Topping](https://www.toppingaudio.com/)
+* [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 
 ## Authors
 
