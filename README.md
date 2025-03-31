@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 11](#week-11)
     * [Week 12](#week-12)
     * [Week 13](#week-13)
+    * [Week 14](#week-14)
   * [Authors](#authors)
   * [License](#license)
 
@@ -151,6 +152,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Topping](https://www.toppingaudio.com/)
 * [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 * [Introducing 4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
+
+### Week 14
 
 ## Authors
 
