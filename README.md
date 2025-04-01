@@ -155,6 +155,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 14
 
+* [[PoC] Implement some internal functions in plain PHP](https://github.com/php/php-src/pull/18204)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
