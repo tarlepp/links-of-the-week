@@ -158,6 +158,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [[PoC] Implement some internal functions in plain PHP](https://github.com/php/php-src/pull/18204)
 * [[RFC] Approximately equals operator](https://github.com/php/php-src/pull/18214)
 * [gumroad](https://github.com/antiwork/gumroad)
+* [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 
 ## Authors
 
