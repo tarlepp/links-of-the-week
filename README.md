@@ -160,6 +160,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [gumroad](https://github.com/antiwork/gumroad)
 * [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 * [PHP RFC: array_first() and array_last()](https://wiki.php.net/rfc/array_first_last)
+* [Barrier](https://github.com/debauchee/barrier)
 
 ## Authors
 
