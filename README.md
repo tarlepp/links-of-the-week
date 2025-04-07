@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 12](#week-12)
     * [Week 13](#week-13)
     * [Week 14](#week-14)
+    * [Week 15](#week-15)
   * [Authors](#authors)
   * [License](#license)
 
@@ -161,6 +162,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 * [PHP RFC: array_first() and array_last()](https://wiki.php.net/rfc/array_first_last)
 * [Barrier](https://github.com/debauchee/barrier)
+
+### Week 15
 
 ## Authors
 
