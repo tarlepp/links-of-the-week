@@ -165,6 +165,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 15
 
+* [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
+* [A2A Protocol](https://google.github.io/A2A)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
