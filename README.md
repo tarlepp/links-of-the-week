@@ -167,6 +167,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [A2A Protocol](https://google.github.io/A2A)
+* [Agent Development Kit (ADK)](https://github.com/google/adk-python)
 
 ## Authors
 
