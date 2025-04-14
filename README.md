@@ -37,6 +37,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 13](#week-13)
     * [Week 14](#week-14)
     * [Week 15](#week-15)
+    * [Week 16](#week-16)
   * [Authors](#authors)
   * [License](#license)
 
@@ -169,6 +170,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [A2A Protocol](https://google.github.io/A2A)
 * [Agent Development Kit (ADK)](https://github.com/google/adk-python)
 * [PHP Core Security Audit Results](https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/)
+
+### Week 16
+
+* [Lazy Objects in PHP 8.4 with Doctrine Step-by-Step Code Example](https://www.youtube.com/watch?v=HflZlZ-5zho)
 
 ## Authors
 
