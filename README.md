@@ -174,6 +174,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 16
 
 * [Lazy Objects in PHP 8.4 with Doctrine Step-by-Step Code Example](https://www.youtube.com/watch?v=HflZlZ-5zho)
+* [Tariff](https://github.com/hxu296/tariff)
 
 ## Authors
 
