@@ -177,6 +177,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Tariff](https://github.com/hxu296/tariff)
 * [PhpStorm 2025.1 Is Now Available](https://blog.jetbrains.com/phpstorm/2025/04/phpstorm-2025-1-is-now-available/)
 * [[VOTE] PHP 8.5 Release Managers](https://externals.io/message/127025)
+* [Single Action Handlers in PHP Frameworks](https://dev.to/ilyasdeckers/single-action-handlers-in-php-frameworks-3jai)
 
 ## Authors
 
