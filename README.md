@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 14](#week-14)
     * [Week 15](#week-15)
     * [Week 16](#week-16)
+    * [Week 17](#week-17)
   * [Authors](#authors)
   * [License](#license)
 
@@ -178,6 +179,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [PhpStorm 2025.1 Is Now Available](https://blog.jetbrains.com/phpstorm/2025/04/phpstorm-2025-1-is-now-available/)
 * [[VOTE] PHP 8.5 Release Managers](https://externals.io/message/127025)
 * [Single Action Handlers in PHP Frameworks](https://dev.to/ilyasdeckers/single-action-handlers-in-php-frameworks-3jai)
+
+### Week 17
 
 ## Authors
 
