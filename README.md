@@ -183,6 +183,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 17
 
 * [New in Symfony 7.3 - Invokable Commands and Input Attributes](https://symfony.com/blog/new-in-symfony-7-3-invokable-commands-and-input-attributes)
+* [PHPverse 2025](https://lp.jetbrains.com/phpverse-2025/)
 
 ## Authors
 
