@@ -184,6 +184,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 * [New in Symfony 7.3 - Invokable Commands and Input Attributes](https://symfony.com/blog/new-in-symfony-7-3-invokable-commands-and-input-attributes)
 * [PHPverse 2025](https://lp.jetbrains.com/phpverse-2025/)
+* [Introducing A Streaming AMQP Transport for Symfony Messenger](https://symfony.com/blog/introducing-a-streaming-amqp-transport-for-symfony-messenger)
 
 ## Authors
 
