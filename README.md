@@ -39,6 +39,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 15](#week-15)
     * [Week 16](#week-16)
     * [Week 17](#week-17)
+    * [Week 18](#week-18)
   * [Authors](#authors)
   * [License](#license)
 
@@ -185,6 +186,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [New in Symfony 7.3 - Invokable Commands and Input Attributes](https://symfony.com/blog/new-in-symfony-7-3-invokable-commands-and-input-attributes)
 * [PHPverse 2025](https://lp.jetbrains.com/phpverse-2025/)
 * [Introducing A Streaming AMQP Transport for Symfony Messenger](https://symfony.com/blog/introducing-a-streaming-amqp-transport-for-symfony-messenger)
+
+### Week 18
+
+* [Doctrine + DDD: Injecting Business Services into Your Entities Without the Pain](https://medium.com/@atournayre/doctrine-ddd-injecting-business-services-into-your-entities-without-the-pain-f42c6edf05ad)
 
 ## Authors
 
