@@ -194,6 +194,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [How the April 28, 2025, power outage in Portugal and Spain impacted Internet traffic and connectivity](https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/)
 * [PHPStan baseline per error identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier)
 * [New in Symfony 7.3 - Arbitrary User Permission Checks](https://symfony.com/blog/new-in-symfony-7-3-arbitrary-user-permission-checks)
+* [Assetto Corsa Mercedes Benz 190 EVO 4 Black Smoke Edition replica](https://www.blacksmokeracing.com/assetto-corsa-mercedes-benz-190-black-smoke-edition-replica/)
 
 ## Authors
 
