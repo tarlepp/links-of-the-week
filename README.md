@@ -40,6 +40,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 16](#week-16)
     * [Week 17](#week-17)
     * [Week 18](#week-18)
+    * [Week 19](#week-19)
   * [Authors](#authors)
   * [License](#license)
 
@@ -196,6 +197,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [New in Symfony 7.3 - Arbitrary User Permission Checks](https://symfony.com/blog/new-in-symfony-7-3-arbitrary-user-permission-checks)
 * [Assetto Corsa Mercedes Benz 190 EVO 4 Black Smoke Edition replica](https://www.blacksmokeracing.com/assetto-corsa-mercedes-benz-190-black-smoke-edition-replica/)
 * [Composer dependency analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)
+
+### Week 19
 
 ## Authors
 
