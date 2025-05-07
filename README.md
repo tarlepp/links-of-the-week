@@ -201,6 +201,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 19
 
 * [New in Symfony 7.3 - New and Improved Console Helpers](https://symfony.com/blog/new-in-symfony-7-3-new-and-improved-console-helpers)
+* [Leak: How and why Google made Material 3 Expressive](https://9to5google.com/2025/05/05/material-3-expressive-leak/)
 
 ## Authors
 
