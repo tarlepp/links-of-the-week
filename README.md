@@ -204,6 +204,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Leak: How and why Google made Material 3 Expressive](https://9to5google.com/2025/05/05/material-3-expressive-leak/)
 * [After Firing More Than 300 People, EA CEO Says That AI Is the Future of the Company](https://techcrawlr.com/after-firing-almost-300-people-ea-ceo-says-that-ai-is-the-future-of-the-company/)
 * [New in Symfony 7.3 - JsonPath Component](https://symfony.com/blog/new-in-symfony-7-3-jsonpath-component)
+* [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 
 ## Authors
 
