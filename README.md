@@ -205,6 +205,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [After Firing More Than 300 People, EA CEO Says That AI Is the Future of the Company](https://techcrawlr.com/after-firing-almost-300-people-ea-ceo-says-that-ai-is-the-future-of-the-company/)
 * [New in Symfony 7.3 - JsonPath Component](https://symfony.com/blog/new-in-symfony-7-3-jsonpath-component)
 * [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
+* [WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation](https://www.smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/)
 
 ## Authors
 
