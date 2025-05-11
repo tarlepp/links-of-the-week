@@ -206,6 +206,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [New in Symfony 7.3 - JsonPath Component](https://symfony.com/blog/new-in-symfony-7-3-jsonpath-component)
 * [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation](https://www.smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/)
+* [Psalm v6 Deep Dive: Copy-on-Write + dynamic task dispatching](https://blog.daniil.it/2025/05/11/psalm-v6-deep-dive-copy-on-write-dynamic-task-dispatching/)
 
 ## Authors
 
