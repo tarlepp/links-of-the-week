@@ -41,6 +41,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 17](#week-17)
     * [Week 18](#week-18)
     * [Week 19](#week-19)
+    * [Week 20](#week-20)
   * [Authors](#authors)
   * [License](#license)
 
@@ -207,6 +208,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation](https://www.smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/)
 * [Psalm v6 Deep Dive: Copy-on-Write + dynamic task dispatching](https://blog.daniil.it/2025/05/11/psalm-v6-deep-dive-copy-on-write-dynamic-task-dispatching/)
+
+### Week 20
+
+* [New in Symfony 7.3 - ObjectMapper Component](https://symfony.com/blog/new-in-symfony-7-3-objectmapper-component)
 
 ## Authors
 
