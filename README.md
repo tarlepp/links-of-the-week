@@ -215,6 +215,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [FrankenPHP moving under the PHP GitHub organization](https://externals.io/message/127347)
 * [PHP RFC: Pipe operator v3](https://wiki.php.net/rfc/pipe-operator-v3)
 * [New in Symfony 7.3 - ObjectMapper Component](https://symfony.com/blog/new-in-symfony-7-3-objectmapper-component)
+* [Boosting Performance with Symfony HttpClient and Parallel Requests](https://dev.to/victorprdh/boosting-performance-with-symfony-httpclient-and-parallel-requests-14g7)
 
 ## Authors
 
