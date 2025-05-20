@@ -221,6 +221,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 21
 
 * [New in Symfony 7.3 - JsonStreamer Component](https://symfony.com/blog/new-in-symfony-7-3-jsonstreamer-component)
+* [Adding repository custom instructions for GitHub Copilot](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 
 ## Authors
 
