@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 18](#week-18)
     * [Week 19](#week-19)
     * [Week 20](#week-20)
+    * [Week 21](#week-21)
   * [Authors](#authors)
   * [License](#license)
 
@@ -216,6 +217,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [PHP RFC: Pipe operator v3](https://wiki.php.net/rfc/pipe-operator-v3)
 * [New in Symfony 7.3 - ObjectMapper Component](https://symfony.com/blog/new-in-symfony-7-3-objectmapper-component)
 * [Boosting Performance with Symfony HttpClient and Parallel Requests](https://dev.to/victorprdh/boosting-performance-with-symfony-httpclient-and-parallel-requests-14g7)
+
+### Week 21
+
+* [New in Symfony 7.3 - JsonStreamer Component](https://symfony.com/blog/new-in-symfony-7-3-jsonstreamer-component)
 
 ## Authors
 
