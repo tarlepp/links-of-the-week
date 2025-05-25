@@ -224,6 +224,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Adding repository custom instructions for GitHub Copilot](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 * [New in Symfony 7.3 - Messenger Improvements](https://symfony.com/blog/new-in-symfony-7-3-messenger-improvements)
 * [PHP RFC: Add RFC 3986 and WHATWG URL compliant API](https://wiki.php.net/rfc/url_parsing_api)
+* [Radio kurinpalautus](https://modeemi.fi/drdoom/kurinpalautus/)
 
 ## Authors
 
