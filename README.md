@@ -230,6 +230,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 22
 
 * [Symfony 7.3 curated new features](https://symfony.com/blog/symfony-7-3-curated-new-features)
+* [Enhance your Symfony application README in 30 seconds](https://medium.com/@tacman1123/supercharge-your-symfony-application-readme-in-30-seconds-ebca4e616f54)
 
 ## Authors
 
