@@ -43,6 +43,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 19](#week-19)
     * [Week 20](#week-20)
     * [Week 21](#week-21)
+    * [Week 22](#week-22)
   * [Authors](#authors)
   * [License](#license)
 
@@ -225,6 +226,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [New in Symfony 7.3 - Messenger Improvements](https://symfony.com/blog/new-in-symfony-7-3-messenger-improvements)
 * [PHP RFC: Add RFC 3986 and WHATWG URL compliant API](https://wiki.php.net/rfc/url_parsing_api)
 * [Radio kurinpalautus](https://modeemi.fi/drdoom/kurinpalautus/)
+
+### Week 22
+
+* [Symfony 7.3 curated new features](https://symfony.com/blog/symfony-7-3-curated-new-features)
 
 ## Authors
 
