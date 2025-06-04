@@ -239,6 +239,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [JetBrains Custom VM Options Configuration Optimized For High Performance... Works with all JetBrains IDEs... JDK 8.x+ Recommended....](https://gist.github.com/HELWATANY/c86ac31128468267c16ff0ef9f740637)
 
 ## Authors
 
