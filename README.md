@@ -237,6 +237,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 23
 
+- [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
