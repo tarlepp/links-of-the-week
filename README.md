@@ -44,6 +44,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 20](#week-20)
     * [Week 21](#week-21)
     * [Week 22](#week-22)
+    * [Week 23](#week-23)
   * [Authors](#authors)
   * [License](#license)
 
@@ -233,6 +234,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 * [Enhance your Symfony application README in 30 seconds](https://medium.com/@tacman1123/supercharge-your-symfony-application-readme-in-30-seconds-ebca4e616f54)
 * [Building a Chatbot With Symfony and MongoDB](https://dev.to/mongodb/building-a-chatbot-with-symfony-and-mongodb-5c8g)
 * [Why I Stopped Calling flush() in My Repositories — and What I Do Instead](https://medium.com/@przemyslaw.rafal.jez/why-i-stopped-calling-flush-in-my-repositories-and-what-i-do-instead-3bb980360a60)
+
+### Week 23
 
 ## Authors
 
