@@ -238,6 +238,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 23
 
 - [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 
 ## Authors
 
