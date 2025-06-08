@@ -241,6 +241,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 - [JetBrains Custom VM Options Configuration Optimized For High Performance... Works with all JetBrains IDEs... JDK 8.x+ Recommended....](https://gist.github.com/HELWATANY/c86ac31128468267c16ff0ef9f740637)
 - [Exclusive: Ukraine hit fewer Russian planes than it estimated, US officials say](https://www.reuters.com/business/aerospace-defense/ukraine-hit-fewer-russian-planes-than-it-estimated-us-officials-say-2025-06-04/)
+- [Can We Save COMMODORE? My Biggest Project Yet!](https://youtu.be/lN8r4LRcOXc?si=Vx7W_ZjrCYTrlKXJ)
 
 ## Authors
 
