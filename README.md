@@ -45,6 +45,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 21](#week-21)
     * [Week 22](#week-22)
     * [Week 23](#week-23)
+    * [Week 24](#week-24)
   * [Authors](#authors)
   * [License](#license)
 
@@ -243,6 +244,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Exclusive: Ukraine hit fewer Russian planes than it estimated, US officials say](https://www.reuters.com/business/aerospace-defense/ukraine-hit-fewer-russian-planes-than-it-estimated-us-officials-say-2025-06-04/)
 - [Can We Save COMMODORE? My Biggest Project Yet!](https://youtu.be/lN8r4LRcOXc?si=Vx7W_ZjrCYTrlKXJ)
 - [Powerful Design Pattern Pairing: Strategy and Chain of Responsibility in Symfony](https://wengerk.medium.com/powerful-design-pattern-pairing-strategy-and-chain-of-responsibility-in-symfony-fb51acbee9f3)
+
+### Week 24
 
 ## Authors
 
