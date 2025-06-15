@@ -250,6 +250,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Containerization](https://github.com/apple/containerization)
 - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 - [Symfony and MongoDB: Our Commitment to a Stronger Integration](https://dev.to/mongodb/symfony-and-mongodb-our-commitment-to-a-stronger-integration-hf4)
+- [How to Make ChatGPT Codex Work with PHP and Symfony](https://dev.to/javiereguiluz/how-to-make-chatgpt-codex-work-with-php-and-symfony-4lj8)
 
 ## Authors
 
