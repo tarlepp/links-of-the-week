@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 22](#week-22)
     * [Week 23](#week-23)
     * [Week 24](#week-24)
+    * [Week 25](#week-25)
   * [Authors](#authors)
   * [License](#license)
 
@@ -251,6 +252,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 - [Symfony and MongoDB: Our Commitment to a Stronger Integration](https://dev.to/mongodb/symfony-and-mongodb-our-commitment-to-a-stronger-integration-hf4)
 - [How to Make ChatGPT Codex Work with PHP and Symfony](https://dev.to/javiereguiluz/how-to-make-chatgpt-codex-work-with-php-and-symfony-4lj8)
+
+### Week 25
 
 ## Authors
 
