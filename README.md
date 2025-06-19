@@ -258,6 +258,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Trump Mobile](https://trumpmobile.com/)
 - [Slidev](https://sli.dev/)
 - [JetBrains PHPverse 2025 – Join us to celebrate PHP’s 30th birthday!](https://www.youtube.com/live/3b0ty1iZ8QM)
+- [And the exclusive LEGO elePHPant 🐘](https://x.com/phpstorm/status/1934985850070184150)
 
 ## Authors
 
