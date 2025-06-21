@@ -260,6 +260,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [JetBrains PHPverse 2025 – Join us to celebrate PHP’s 30th birthday!](https://www.youtube.com/live/3b0ty1iZ8QM)
 - [And the exclusive LEGO elePHPant 🐘](https://x.com/phpstorm/status/1934985850070184150)
 - [Finwangus](https://finwangus.fi/)
+- [Exclusive: Nvidia, Foxconn in talks to deploy humanoid robots at Houston AI server making plant](https://www.reuters.com/world/china/nvidia-foxconn-talks-deploy-humanoid-robots-houston-ai-server-making-plant-2025-06-20/)
 
 ## Authors
 
