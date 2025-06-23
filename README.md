@@ -47,6 +47,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 23](#week-23)
     * [Week 24](#week-24)
     * [Week 25](#week-25)
+    * [Week 26](#week-26)
   * [Authors](#authors)
   * [License](#license)
 
@@ -261,6 +262,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [And the exclusive LEGO elePHPant 🐘](https://x.com/phpstorm/status/1934985850070184150)
 - [Finwangus](https://finwangus.fi/)
 - [Exclusive: Nvidia, Foxconn in talks to deploy humanoid robots at Houston AI server making plant](https://www.reuters.com/world/china/nvidia-foxconn-talks-deploy-humanoid-robots-houston-ai-server-making-plant-2025-06-20/)
+
+### Week 26
 
 ## Authors
 
