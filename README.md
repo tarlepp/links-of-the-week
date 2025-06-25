@@ -266,6 +266,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 26
 
 - [PHP RFC: Make OPcache a non-optional part of PHP](https://wiki.php.net/rfc/make_opcache_required)
+- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 
 ## Authors
 
