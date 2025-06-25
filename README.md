@@ -265,6 +265,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 26
 
+- [PHP RFC: Make OPcache a non-optional part of PHP](https://wiki.php.net/rfc/make_opcache_required)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
