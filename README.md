@@ -267,6 +267,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [PHP RFC: Make OPcache a non-optional part of PHP](https://wiki.php.net/rfc/make_opcache_required)
 - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+- [Strategy pattern in Symfony 7](https://www.cezarcampos.com.br/en-us/posts/strategy-pattern-in-symfony-7/)
 
 ## Authors
 
