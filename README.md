@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 24](#week-24)
     * [Week 25](#week-25)
     * [Week 26](#week-26)
+    * [Week 27](#week-27)
   * [Authors](#authors)
   * [License](#license)
 
@@ -268,6 +269,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP RFC: Make OPcache a non-optional part of PHP](https://wiki.php.net/rfc/make_opcache_required)
 - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 - [Strategy pattern in Symfony 7](https://www.cezarcampos.com.br/en-us/posts/strategy-pattern-in-symfony-7/)
+
+### Week 27
+
+- [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 
 ## Authors
 
