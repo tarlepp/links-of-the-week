@@ -274,6 +274,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 - [ORM 3.4.0 released with Native Lazy Objects and Property hooks support](https://www.doctrine-project.org/2025/06/28/orm-3.4.0-released.html)
+- [Stop Repeating Yourself: Use the Builder Pattern for DTOs in Doctrine](https://www.cezarcampos.com.br/en-us/posts/stop-repeating-yourself-use-the-builder-pattern-for-dtos-in-doctrine/)
 
 ## Authors
 
