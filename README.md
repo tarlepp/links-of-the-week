@@ -276,6 +276,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [ORM 3.4.0 released with Native Lazy Objects and Property hooks support](https://www.doctrine-project.org/2025/06/28/orm-3.4.0-released.html)
 - [Stop Repeating Yourself: Use the Builder Pattern for DTOs in Doctrine](https://www.cezarcampos.com.br/en-us/posts/stop-repeating-yourself-use-the-builder-pattern-for-dtos-in-doctrine/)
 - [Reusing SVG Icons for Faster Pages](https://dev.to/javiereguiluz/reusing-svg-icons-for-faster-pages-62o)
+- [The pipe operator in PHP 8.5](https://www.youtube.com/watch?v=0gSvLttEQas)
 
 ## Authors
 
