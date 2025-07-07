@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 25](#week-25)
     * [Week 26](#week-26)
     * [Week 27](#week-27)
+    * [Week 28](#week-28)
   * [Authors](#authors)
   * [License](#license)
 
@@ -277,6 +278,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Stop Repeating Yourself: Use the Builder Pattern for DTOs in Doctrine](https://www.cezarcampos.com.br/en-us/posts/stop-repeating-yourself-use-the-builder-pattern-for-dtos-in-doctrine/)
 - [Reusing SVG Icons for Faster Pages](https://dev.to/javiereguiluz/reusing-svg-icons-for-faster-pages-62o)
 - [The pipe operator in PHP 8.5](https://www.youtube.com/watch?v=0gSvLttEQas)
+
+### Week 28
+
+- [container](https://github.com/apple/container)
 
 ## Authors
 
