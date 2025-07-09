@@ -282,6 +282,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 28
 
 - [container](https://github.com/apple/container)
+- [Test creation methods on steroids with named parameters](https://danielrotter.at/2025/06/29/test-creation-methods-on-steroids-with-named-parameters.html)
 
 ## Authors
 
