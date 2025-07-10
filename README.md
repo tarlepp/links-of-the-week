@@ -283,6 +283,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [container](https://github.com/apple/container)
 - [Test creation methods on steroids with named parameters](https://danielrotter.at/2025/06/29/test-creation-methods-on-steroids-with-named-parameters.html)
+- [Meta Poached Apple’s Pang With Pay Package Over $200 Million](https://www.bloomberg.com/news/articles/2025-07-09/meta-poached-apple-s-pang-with-pay-package-over-200-million)
 
 ## Authors
 
