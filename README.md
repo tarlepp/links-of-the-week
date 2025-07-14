@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 26](#week-26)
     * [Week 27](#week-27)
     * [Week 28](#week-28)
+    * [Week 29](#week-29)
   * [Authors](#authors)
   * [License](#license)
 
@@ -285,6 +286,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Test creation methods on steroids with named parameters](https://danielrotter.at/2025/06/29/test-creation-methods-on-steroids-with-named-parameters.html)
 - [Meta Poached Apple’s Pang With Pay Package Over $200 Million](https://www.bloomberg.com/news/articles/2025-07-09/meta-poached-apple-s-pang-with-pay-package-over-200-million)
 - [Kicking off the Symfony AI Initiative](https://symfony.com/blog/kicking-off-the-symfony-ai-initiative)
+
+### Week 29
+
 
 ## Authors
 
