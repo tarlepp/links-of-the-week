@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 27](#week-27)
     * [Week 28](#week-28)
     * [Week 29](#week-29)
+    * [Week 30](#week-30)
   * [Authors](#authors)
   * [License](#license)
 
@@ -290,6 +291,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 29
 
 - https://pwa.spomky-labs.net/en_US
+
+### Week 30
 
 
 ## Authors
