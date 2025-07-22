@@ -290,7 +290,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 29
 
-- [What PWA Can Do Today]https://pwa.spomky-labs.net/en_US
+- [What PWA Can Do Today}(https://pwa.spomky-labs.net/en_US)
 
 ### Week 30
 
