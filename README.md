@@ -296,6 +296,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Your tests code coverage is LYING!](https://www.youtube.com/watch?v=oGcLClv_IFU)
 - [Testing delayed Symfony Messenger message handling with Behat](https://angelovdejan.me/2025/07/22/testing-delayed-symfony-messenger-message-handling-with-behat.html)
+- [Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule](https://www.wired.com/story/silicon-valley-china-996-work-schedule/)
 
 ## Authors
 
