@@ -52,6 +52,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 28](#week-28)
     * [Week 29](#week-29)
     * [Week 30](#week-30)
+    * [Week 31](#week-31)
   * [Authors](#authors)
   * [License](#license)
 
@@ -299,6 +300,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule](https://www.wired.com/story/silicon-valley-china-996-work-schedule/)
 - [First Look: macOS Tahoe Public Beta](https://sixcolors.com/post/2025/07/first-look-macos-tahoe-public-beta/)
 - [How to Prioritize Messages When Building Asynchronous Applications With Symfony Messenger](https://medium.com/the-sensiolabs-tech-blog/how-to-prioritize-messages-when-building-asynchronous-applications-with-symfony-messenger-aa5bd15338df)
+
+### Week 31
 
 ## Authors
 
