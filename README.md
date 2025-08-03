@@ -303,6 +303,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 31
 
+- [FrankenPHP vs PHP-FPM (Part 2): Symfony Under Real Load and Why Workers Win](https://vulke.medium.com/frankenphp-vs-php-fpm-part-2-symfony-real-workloads-and-bigger-projects-9ee2f2025350)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
