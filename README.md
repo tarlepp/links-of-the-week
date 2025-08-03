@@ -305,6 +305,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [FrankenPHP vs PHP-FPM (Part 2): Symfony Under Real Load and Why Workers Win](https://vulke.medium.com/frankenphp-vs-php-fpm-part-2-symfony-real-workloads-and-bigger-projects-9ee2f2025350)
 - [Fixing “Allowed memory size exhausted” in Symfony: When Doctrine Metadata Crashes Your Serializer](https://dogan-ucar.de/fixing-allowed-memory-size-exhausted-in-symfony-when-doctrine-metadata-crashes-your-serializer/)
+- [Starting Symfony messenger on-demand for infrequent use](https://medium.com/@ehymel/starting-symfony-messenger-on-demand-for-infrequent-use-5bb38a9a534c)
 
 ## Authors
 
