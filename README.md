@@ -310,6 +310,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 32
 
+- [Compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
