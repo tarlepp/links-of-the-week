@@ -312,6 +312,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Compile time generics: yay or nay?](https://thephp.foundation/blog/2025/08/05/compile-generics/)
 - [GitHub CEO Thomas Dohmke Warns Developers: "Either Embrace AI or Get Out of This Career"](https://www.finalroundai.com/blog/github-ceo-thomas-dohmke-warns-developers-embrace-ai-or-quit)
+- [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/)
 
 ## Authors
 
