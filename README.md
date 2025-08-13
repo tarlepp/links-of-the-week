@@ -319,6 +319,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 33
 
 - [omarchy](https://omarchy.org/)
+- [I'm a light schemer](https://stitcher.io/blog/light-colour-schemes)
 
 ## Authors
 
