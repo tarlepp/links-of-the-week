@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 31](#week-31)
     * [Week 32](#week-32)
     * [Week 33](#week-33)
+    * [Week 34](#week-34)
   * [Authors](#authors)
   * [License](#license)
 
@@ -321,6 +322,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [omarchy](https://omarchy.org/)
 - [I'm a light schemer](https://stitcher.io/blog/light-colour-schemes)
 - [From Triggers to Doctrine Events — Building a Future-Proof Logging System in Symfony](https://jinalisolanki.medium.com/from-triggers-to-doctrine-events-building-a-future-proof-logging-system-in-symfony-f3c417e9e964)
+
+### Week 34
 
 ## Authors
 
