@@ -326,6 +326,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 34
 
 - [Immutable by default: How to avoid hidden state bugs in OOP](https://backendtea.com/post/immutable-by-default/)
+- [AI is a Junior Dev and needs a Lead](https://getparthenon.com/blog/ai-is-a-junior-dev-and-needs-a-lead/)
 
 ## Authors
 
