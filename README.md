@@ -325,6 +325,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 34
 
+- [Immutable by default: How to avoid hidden state bugs in OOP](https://backendtea.com/post/immutable-by-default/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
