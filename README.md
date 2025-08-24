@@ -329,6 +329,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [AI is a Junior Dev and needs a Lead](https://getparthenon.com/blog/ai-is-a-junior-dev-and-needs-a-lead/)
 - [FrankenPHP vs PHP-FPM (Part 3): CPU, Memory, and the Hidden Cost of Doing Nothing](https://vulke.medium.com/frankenphp-vs-php-fpm-part-3-cpu-memory-and-the-hidden-cost-of-doing-nothing-92bfee7b00a5)
 - [Document Driven Development](https://docdd.ai/)
+- [How TypeScript Patterns Translate to PHP — A Practical, Production-Proven Guide](https://javascript.plainenglish.io/how-typescript-patterns-translate-to-php-a-practical-production-proven-guide-fd786065254b)
 
 ## Authors
 
