@@ -335,6 +335,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 35
 
 - [F-35 pilot held 50-minute airborne conference call with engineers before fighter jet crashed in Alaska](https://edition.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml)
+- [Remembering Ryan Weaver: Teacher, Core Team Member, Friend](https://symfony.com/blog/remembering-ryan-weaver-teacher-core-team-member-friend)
 
 ## Authors
 
