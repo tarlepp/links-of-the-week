@@ -339,6 +339,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Writing PHP extensions in Go with FrankenPHP](https://les-tilleuls.coop/en/blog/writing-php-extensions-in-go-with-frankenphp)
 - [He Quit Cybersecurity After 34 Years — Here’s Why](https://www.youtube.com/watch?v=DylXM7DPFRs)
 - [Mago](https://github.com/carthage-software/mago)
+- [Turbocharging AI Agents with Symfony’s Async Approach: A Deep Dive](https://dev.to/mattleads/turbocharging-ai-agents-with-symfonys-async-approach-a-deep-dive-33d7)
 
 ## Authors
 
