@@ -57,6 +57,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 33](#week-33)
     * [Week 34](#week-34)
     * [Week 35](#week-35)
+    * [Week 36](#week-36)
   * [Authors](#authors)
   * [License](#license)
 
@@ -340,6 +341,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [He Quit Cybersecurity After 34 Years — Here’s Why](https://www.youtube.com/watch?v=DylXM7DPFRs)
 - [Mago](https://github.com/carthage-software/mago)
 - [Turbocharging AI Agents with Symfony’s Async Approach: A Deep Dive](https://dev.to/mattleads/turbocharging-ai-agents-with-symfonys-async-approach-a-deep-dive-33d7)
+
+### Week 36
 
 ## Authors
 
