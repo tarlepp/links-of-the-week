@@ -344,6 +344,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 36
 
+- [HATEOAS](https://htmx.org/essays/hateoas/)
+- [Hypermedia Systems](https://hypermedia.systems/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
