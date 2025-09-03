@@ -347,6 +347,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [HATEOAS](https://htmx.org/essays/hateoas/)
 - [Hypermedia Systems](https://hypermedia.systems/)
 - [Seems like good news for Google, bad news for Apple, and the end for Mozilla](https://x.com/eastdakota/status/1962980589562458539)
+- [Mozilla’s Lifeline is Safe After Judge’s Google Antitrust Ruling](https://news.itsfoss.com/mozilla-lifeline-is-safe/)
 
 ## Authors
 
