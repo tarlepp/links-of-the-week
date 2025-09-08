@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 34](#week-34)
     * [Week 35](#week-35)
     * [Week 36](#week-36)
+    * [Week 37](#week-37)
   * [Authors](#authors)
   * [License](#license)
 
@@ -350,6 +351,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Mozilla’s Lifeline is Safe After Judge’s Google Antitrust Ruling](https://news.itsfoss.com/mozilla-lifeline-is-safe/)
 - [Announcing the Official PHP SDK for MCP](https://thephp.foundation/blog/2025/09/05/php-mcp-sdk/)
 - [Symfony as JWT provider](https://browsely.ai/blog/symfony-as-jwt-provider)
+
+### Week 37
 
 ## Authors
 
