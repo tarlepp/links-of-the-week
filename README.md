@@ -354,6 +354,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 37
 
+- [Speakeasy Teleprompter](https://speakeasy-main.launchpad.sigwin.hr/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
