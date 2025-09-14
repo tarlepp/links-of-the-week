@@ -356,6 +356,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Speakeasy Teleprompter](https://speakeasy-main.launchpad.sigwin.hr/)
 - [Robot Framework Selfhealing Agents](https://github.com/MarketSquare/robotframework-selfhealing-agents)
+- [Bring Your Own HTTP client](https://sensiolabs.com/blog/2025/bring-your-own-http-client)
 
 ## Authors
 
