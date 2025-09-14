@@ -357,6 +357,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Speakeasy Teleprompter](https://speakeasy-main.launchpad.sigwin.hr/)
 - [Robot Framework Selfhealing Agents](https://github.com/MarketSquare/robotframework-selfhealing-agents)
 - [Bring Your Own HTTP client](https://sensiolabs.com/blog/2025/bring-your-own-http-client)
+- [PHP vs Python vs Node.js: Who Wins in 2025?](https://levelup.gitconnected.com/php-vs-python-vs-node-js-who-wins-in-2025-8379d74683f2)
 
 ## Authors
 
