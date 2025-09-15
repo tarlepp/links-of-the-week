@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 35](#week-35)
     * [Week 36](#week-36)
     * [Week 37](#week-37)
+    * [Week 38](#week-38)
   * [Authors](#authors)
   * [License](#license)
 
@@ -358,6 +359,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Robot Framework Selfhealing Agents](https://github.com/MarketSquare/robotframework-selfhealing-agents)
 - [Bring Your Own HTTP client](https://sensiolabs.com/blog/2025/bring-your-own-http-client)
 - [PHP vs Python vs Node.js: Who Wins in 2025?](https://levelup.gitconnected.com/php-vs-python-vs-node-js-who-wins-in-2025-8379d74683f2)
+
+### Week 38
 
 ## Authors
 
