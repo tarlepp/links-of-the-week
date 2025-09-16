@@ -362,6 +362,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 38
 
+- [How People Use ChatGPT](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
