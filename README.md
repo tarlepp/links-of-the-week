@@ -365,6 +365,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How People Use ChatGPT](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
 - [mojo](https://www.modular.com/mojo)
 - [Impact charts](https://stitcher.io/blog/impact-charts)
+- [Introducing Meta Ray-Ban Display: A Breakthrough Category of AI Glasses](https://www.meta.com/en-gb/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 
 ## Authors
 
