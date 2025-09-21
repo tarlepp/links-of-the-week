@@ -366,6 +366,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [mojo](https://www.modular.com/mojo)
 - [Impact charts](https://stitcher.io/blog/impact-charts)
 - [Introducing Meta Ray-Ban Display: A Breakthrough Category of AI Glasses](https://www.meta.com/en-gb/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+- [How We Made Video Processing 10x Faster with Symfony Messenger](https://medium.com/@MattLeads/how-we-made-video-processing-10x-faster-with-symfony-messenger-dcf4b41ee370)
 
 ## Authors
 
