@@ -372,6 +372,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 39
 
 - [tus - resumable file uploads](https://tus.io/)
+- [How to Change Algorithms in Symfony without Code Modifications: The Strategy Pattern](https://ngandu.hashnode.dev/symfony-strategy-design-pattern)
 
 ## Authors
 
