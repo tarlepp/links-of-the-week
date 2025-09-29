@@ -379,6 +379,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 40
 
+- [Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy](https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
