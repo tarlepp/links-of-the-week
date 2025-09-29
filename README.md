@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 37](#week-37)
     * [Week 38](#week-38)
     * [Week 39](#week-39)
+    * [Week 40](#week-40)
   * [Authors](#authors)
   * [License](#license)
 
@@ -375,6 +376,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How to Change Algorithms in Symfony without Code Modifications: The Strategy Pattern](https://ngandu.hashnode.dev/symfony-strategy-design-pattern)
 - [Open Social — overreacted](https://overreacted.io/open-social/)
 - [Slack is extorting us with a $195k/yr bill increase](https://skyfall.dev/posts/slack)
+
+### Week 40
 
 ## Authors
 
