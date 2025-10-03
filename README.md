@@ -382,6 +382,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy](https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy)
 - [Hirvikolari](https://luftare.github.io/hirvikolari/)
 - [Claude Sonnet 4.5 - What Software Developers Are Saying After Testing](https://www.finalroundai.com/blog/claude-sonnet-4-5-what-software-developers-are-saying-after-testing)
+- [AST Explorer](https://ast-explorer.dev/)
 
 ## Authors
 
