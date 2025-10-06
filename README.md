@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 38](#week-38)
     * [Week 39](#week-39)
     * [Week 40](#week-40)
+    * [Week 41](#week-41)
   * [Authors](#authors)
   * [License](#license)
 
@@ -383,6 +384,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Hirvikolari](https://luftare.github.io/hirvikolari/)
 - [Claude Sonnet 4.5 - What Software Developers Are Saying After Testing](https://www.finalroundai.com/blog/claude-sonnet-4-5-what-software-developers-are-saying-after-testing)
 - [AST Explorer](https://ast-explorer.dev/)
+
+### Week 41
 
 ## Authors
 
