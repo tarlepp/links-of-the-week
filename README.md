@@ -387,6 +387,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 41
 
+- [Gurman: Major Apple Leadership Shakeup Impending With John Ternus as Next CEO](https://www.macrumors.com/2025/10/06/apple-leadership-shakeup-impending/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
