@@ -391,6 +391,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [What is blocking you from upgrading from ORM 2 to ORM 3?](https://github.com/doctrine/orm/discussions/12193)
 - [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 - [COPILOT Function](https://support.microsoft.com/en-gb/office/copilot-function-5849821b-755d-4030-a38b-9e20be0cbf62)
+- [The Castor Task Runner is Now Stable!](https://jolicode.com/blog/the-castor-task-runner-is-now-stable)
 
 ## Authors
 
