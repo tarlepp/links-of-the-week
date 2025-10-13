@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 39](#week-39)
     * [Week 40](#week-40)
     * [Week 41](#week-41)
+    * [Week 42](#week-42)
   * [Authors](#authors)
   * [License](#license)
 
@@ -392,6 +393,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Future AI bills of $100k/yr per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 - [COPILOT Function](https://support.microsoft.com/en-gb/office/copilot-function-5849821b-755d-4030-a38b-9e20be0cbf62)
 - [The Castor Task Runner is Now Stable!](https://jolicode.com/blog/the-castor-task-runner-is-now-stable)
+
+### Week 42
 
 ## Authors
 
