@@ -398,6 +398,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Symfony's 20 Year Anniversary](https://symfony.com/20years)
 - [The State of PHP 2025](https://blog.jetbrains.com/phpstorm/2025/10/state-of-php-2025/)
+- [Mailpit - email & SMTP testing tool with API for developers](https://mailpit.axllent.org/)
 
 ## Authors
 
