@@ -400,6 +400,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The State of PHP 2025](https://blog.jetbrains.com/phpstorm/2025/10/state-of-php-2025/)
 - [Mailpit - email & SMTP testing tool with API for developers](https://mailpit.axllent.org/)
 - [New in Symfony 7.4 - Deprecated XML Configuration](https://symfony.com/blog/new-in-symfony-7-4-deprecated-xml-configuration)
+- [Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper](https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a)
 
 ## Authors
 
