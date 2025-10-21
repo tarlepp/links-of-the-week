@@ -406,6 +406,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 43
 
 - [New in MongoDB ODM: Queryable Encryption and Vector Search](https://www.doctrine-project.org/2025/10/20/mongodb-odm-release-vector-encryption.html)
+- [ChatGPT Atlas](https://chatgpt.com/atlas)
 
 ## Authors
 
