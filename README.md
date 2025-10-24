@@ -408,6 +408,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in MongoDB ODM: Queryable Encryption and Vector Search](https://www.doctrine-project.org/2025/10/20/mongodb-odm-release-vector-encryption.html)
 - [ChatGPT Atlas](https://chatgpt.com/atlas)
 - [Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs](https://ian.sh/fia)
+- [PHP RFC: Nullable and Non-Nullable Cast Operators](https://wiki.php.net/rfc/nullable-not-nullable-cast-operator)
 
 ## Authors
 
