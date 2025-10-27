@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 41](#week-41)
     * [Week 42](#week-42)
     * [Week 43](#week-43)
+    * [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -409,6 +410,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [ChatGPT Atlas](https://chatgpt.com/atlas)
 - [Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs](https://ian.sh/fia)
 - [PHP RFC: Nullable and Non-Nullable Cast Operators](https://wiki.php.net/rfc/nullable-not-nullable-cast-operator)
+
+### Week 44
+
+- [[VOTING] PHP 8.5 Release Page Design Contest](https://github.com/php/web-php/issues/1563)
 
 ## Authors
 
