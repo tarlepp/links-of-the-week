@@ -416,6 +416,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [[VOTING] PHP 8.5 Release Page Design Contest](https://github.com/php/web-php/issues/1563)
 - [PHP Stracktrace Formatter](https://github.com/jop-software/php-stracktrace-formatter)
 - [New in Symfony 7.4 - Better Exceptions in Terminal](https://symfony.com/blog/new-in-symfony-7-4-better-exceptions-in-terminal)
+- [PHP 8.5 Coming November 2025: 10 New Features and 4 Deprecations](https://medium.com/@developerawam/php-8-5-coming-november-2025-10-new-features-and-4-deprecations-b915249846c4)
 
 ## Authors
 
