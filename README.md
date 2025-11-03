@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 42](#week-42)
     * [Week 43](#week-43)
     * [Week 44](#week-44)
+    * [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -418,6 +419,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in Symfony 7.4 - Better Exceptions in Terminal](https://symfony.com/blog/new-in-symfony-7-4-better-exceptions-in-terminal)
 - [PHP 8.5 Coming November 2025: 10 New Features and 4 Deprecations](https://medium.com/@developerawam/php-8-5-coming-november-2025-10-new-features-and-4-deprecations-b915249846c4)
 - [HC Control](https://hc-control.com/)
+
+### Week 45
 
 ## Authors
 
