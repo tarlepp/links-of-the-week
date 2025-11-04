@@ -423,6 +423,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 45
 
 - [New in Symfony 7.4 - Improved Invokable Commands](https://symfony.com/blog/new-in-symfony-7-4-improved-invokable-commands)
+- [Tekniikkaseikkailu](https://www.io-tech.fi/tekniikkaseikkailu/)
 
 ## Authors
 
