@@ -424,6 +424,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [New in Symfony 7.4 - Improved Invokable Commands](https://symfony.com/blog/new-in-symfony-7-4-improved-invokable-commands)
 - [Tekniikkaseikkailu](https://www.io-tech.fi/tekniikkaseikkailu/)
+- [PHP RFC: Context Managers](https://wiki.php.net/rfc/context-managers)
+- [New in Symfony 7.4 - Decoupled Controller Helpers](https://symfony.com/blog/new-in-symfony-7-4-decoupled-controller-helpers)
 
 ## Authors
 
