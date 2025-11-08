@@ -426,6 +426,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Tekniikkaseikkailu](https://www.io-tech.fi/tekniikkaseikkailu/)
 - [PHP RFC: Context Managers](https://wiki.php.net/rfc/context-managers)
 - [New in Symfony 7.4 - Decoupled Controller Helpers](https://symfony.com/blog/new-in-symfony-7-4-decoupled-controller-helpers)
+- [How we use hyperfine to measure PHP Engine performance](https://tideways.com/profiler/blog/how-we-use-hyperfine-to-measure-php-engine-performance)
 
 ## Authors
 
