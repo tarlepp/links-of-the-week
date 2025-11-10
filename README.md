@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 43](#week-43)
     * [Week 44](#week-44)
     * [Week 45](#week-45)
+    * [Week 46](#week-46)
   * [Authors](#authors)
   * [License](#license)
 
@@ -429,6 +430,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How we use hyperfine to measure PHP Engine performance](https://tideways.com/profiler/blog/how-we-use-hyperfine-to-measure-php-engine-performance)
 - [Control Your Script With Your Voice](https://urq.app/)
 - [Dangerous runC flaws could allow hackers to escape Docker containers](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/)
+
+### Week 46
+
+- [Testing speech recognition with Playwright](https://dkarlovi.github.io/testing-speech-recognition/)
 
 ## Authors
 
