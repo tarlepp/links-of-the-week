@@ -435,6 +435,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Testing speech recognition with Playwright](https://dkarlovi.github.io/testing-speech-recognition/)
 - [Code, prompts, and... books? Why reading is your analog superpower in the age of AI](https://mattilehtinen.com/articles/code-prompts-and-books-why-reading-is-your-analog-superpower-in-the-age-of-ai/)
+- [The PHP Foundation is Seeking a New Executive Director](https://thephp.foundation/blog/2025/11/10/seeking-new-executive-director/)
 
 ## Authors
 
