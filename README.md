@@ -434,6 +434,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 46
 
 - [Testing speech recognition with Playwright](https://dkarlovi.github.io/testing-speech-recognition/)
+- [Code, prompts, and... books? Why reading is your analog superpower in the age of AI](https://mattilehtinen.com/articles/code-prompts-and-books-why-reading-is-your-analog-superpower-in-the-age-of-ai/)
 
 ## Authors
 
