@@ -443,6 +443,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 47
 
 - [augment 360](https://aug360.com/)
+- [Google Antigravity](https://antigravity.google/)
 
 ## Authors
 
