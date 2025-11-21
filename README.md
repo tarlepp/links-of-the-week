@@ -444,6 +444,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [augment 360](https://aug360.com/)
 - [Google Antigravity](https://antigravity.google/)
+- [New in Symfony 7.4 - Misc. Features (Part 1)](https://symfony.com/blog/new-in-symfony-7-4-misc-features-part-1)
 
 ## Authors
 
