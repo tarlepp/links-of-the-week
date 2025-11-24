@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 45](#week-45)
     * [Week 46](#week-46)
     * [Week 47](#week-47)
+    * [Week 48](#week-48)
   * [Authors](#authors)
   * [License](#license)
 
@@ -446,6 +447,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Google Antigravity](https://antigravity.google/)
 - [New in Symfony 7.4 - Misc. Features (Part 1)](https://symfony.com/blog/new-in-symfony-7-4-misc-features-part-1)
 - [PHP 8.5.0 Released!](https://www.php.net/archive/2025.php#2025-11-20-3)
+
+### Week 48
 
 ## Authors
 
