@@ -450,6 +450,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 48
 
+- [Our experience upgrading a project to Symfony 8](https://jolicode.com/blog/our-experience-upgrading-a-project-to-symfony-8)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
