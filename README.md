@@ -451,6 +451,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 48
 
 - [Our experience upgrading a project to Symfony 8](https://jolicode.com/blog/our-experience-upgrading-a-project-to-symfony-8)
+- [SymfonyCon Amsterdam 2025](https://pixi.live/gallery/symfonycon-amsterdam-2025)
 
 ## Authors
 
