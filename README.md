@@ -70,6 +70,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 46](#week-46)
     * [Week 47](#week-47)
     * [Week 48](#week-48)
+    * [Week 49](#week-49)
   * [Authors](#authors)
   * [License](#license)
 
@@ -453,6 +454,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Our experience upgrading a project to Symfony 8](https://jolicode.com/blog/our-experience-upgrading-a-project-to-symfony-8)
 - [SymfonyCon Amsterdam 2025](https://pixi.live/gallery/symfonycon-amsterdam-2025)
 - [Listening to the hotel security drama of #symfonycon Vienna in the uncon](https://phpc.social/@Skoop/115627686248499645)
+
+### Week 49
 
 ## Authors
 
