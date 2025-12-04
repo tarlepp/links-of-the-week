@@ -458,6 +458,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 49
 
 - [Advent of Agents](https://adventofagents.com/)
+- [Merging Unrelated Projects using Git](https://wouterj.nl/2025/12/merging-unrelated-repositories)
 
 ## Authors
 
