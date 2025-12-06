@@ -459,6 +459,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Advent of Agents](https://adventofagents.com/)
 - [Merging Unrelated Projects using Git](https://wouterj.nl/2025/12/merging-unrelated-repositories)
+- [Blazing Fast Symfony: How to Shave Milliseconds Off Your Response Time (The Ultimate Guide)](https://medium.com/@MattLeads/blazing-fast-symfony-how-to-shave-milliseconds-off-your-response-time-the-ultimate-guide-685b13163594)
 
 ## Authors
 
