@@ -465,7 +465,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/)
 - [Finding broken migrations with Bisect](https://iain.rocks/blog/2025/12/11/finding-broken-migrations-with-bisect)
-- https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/immutable-releases
+- [Immutable releases](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/immutable-releases)
+- [Building an Archaeology Matcher: A (Literal) Deep Dive Into Multimodal Vector Search](https://dev.to/mongodb/building-an-archaeology-matcher-a-literal-deep-dive-into-multimodal-vector-search-2d5o)
 
 ## Authors
 
