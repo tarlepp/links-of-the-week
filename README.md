@@ -71,6 +71,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 47](#week-47)
     * [Week 48](#week-48)
     * [Week 49](#week-49)
+    * [Week 50](#week-50)
+    * [Week 51](#week-51)
   * [Authors](#authors)
   * [License](#license)
 
@@ -467,6 +469,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Finding broken migrations with Bisect](https://iain.rocks/blog/2025/12/11/finding-broken-migrations-with-bisect)
 - [Immutable releases](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/immutable-releases)
 - [Building an Archaeology Matcher: A (Literal) Deep Dive Into Multimodal Vector Search](https://dev.to/mongodb/building-an-archaeology-matcher-a-literal-deep-dive-into-multimodal-vector-search-2d5o)
+
+### Week 51
 
 ## Authors
 
