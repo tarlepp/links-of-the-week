@@ -472,6 +472,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 51
 
+- [Rejecting rebase and stacked diffs, my way of doing atomic commits](https://iain.rocks/blog/2025/12/15/rejecting-rebase-and-stack-diffs-my-way-of-doing-atomic-commits)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
