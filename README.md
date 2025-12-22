@@ -73,6 +73,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 49](#week-49)
     * [Week 50](#week-50)
     * [Week 51](#week-51)
+    * [Week 52](#week-52)
   * [Authors](#authors)
   * [License](#license)
 
@@ -475,6 +476,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Rejecting rebase and stacked diffs, my way of doing atomic commits](https://iain.rocks/blog/2025/12/15/rejecting-rebase-and-stack-diffs-my-way-of-doing-atomic-commits)
 - [Symfony 20 year!](https://wouterj.nl/2025/12/symfony-20-year)
 - [Mago](https://github.com/carthage-software/mago)
+
+### Week 52
 
 ## Authors
 
