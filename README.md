@@ -479,6 +479,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 52
 
+- [From Domain Events to Webhooks](https://faizanakram.me/blog/domain-events-to-webhooks.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
