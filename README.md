@@ -481,6 +481,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [From Domain Events to Webhooks](https://faizanakram.me/blog/domain-events-to-webhooks.html)
 - [Generic DBAL Types for Similar Value Objects](https://dev.to/yceruto/generic-dbal-types-for-similar-value-objects-cjc)
+- [MongoDB warns admins to patch severe vulnerability immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/)
 
 ## Authors
 
