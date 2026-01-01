@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 1
 
 - [How a bug report on my blog turned out to be a WebKit engine issue](https://www.cezarcampos.com.br/en-us/posts/how-a-bug-report-on-my-blog-turned-out-to-be-a-browser-engine-problem/)
+- [Electricity price statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics)
 
 ## Authors
 
