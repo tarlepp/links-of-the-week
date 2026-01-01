@@ -43,4 +43,4 @@ And big thanks to all [contributors](https://github.com/tarlepp/links-of-the-wee
 
 [The MIT License (MIT)](LICENSE)
 
-Copyright © 2025 Tarmo Leppänen
+Copyright © 2026 Tarmo Leppänen
