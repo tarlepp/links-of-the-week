@@ -33,6 +33,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [How a bug report on my blog turned out to be a WebKit engine issue](https://www.cezarcampos.com.br/en-us/posts/how-a-bug-report-on-my-blog-turned-out-to-be-a-browser-engine-problem/)
 - [Electricity price statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics)
+- [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 
 ## Authors
 
