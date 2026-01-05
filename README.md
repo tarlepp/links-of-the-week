@@ -24,6 +24,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2025](2025.md)
   * [2026](#2026)
     * [Week 1](#week-1)
+    * [Week 2](#week-2)
   * [Authors](#authors)
   * [License](#license)
 
@@ -35,6 +36,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Electricity price statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics)
 - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 - [How to Handle Validation Errors in Symfony the Right Way](https://dev.to/mohammad_oveisi_9625d74d1/how-to-handle-validation-errors-in-symfony-the-right-way-3a4f)
+
+### Week 2
 
 ## Authors
 
