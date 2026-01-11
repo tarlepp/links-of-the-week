@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A multimodal sleep foundation model for disease prediction](https://www.nature.com/articles/s41591-025-04133-4)
 - [US is making plans to intercept Venezuela-linked oil tanker that Russia has claimed jurisdiction over, sources say](https://edition.cnn.com/2026/01/05/politics/us-plans-intercept-oil-tanker)
 - [Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)
+- [Investigating the World's FIRST Solid State Battery](https://www.youtube.com/watch?v=O8PjlwZVLVE)
 
 ## Authors
 
