@@ -25,6 +25,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
   * [2026](#2026)
     * [Week 1](#week-1)
     * [Week 2](#week-2)
+    * [Week 3](#week-3)
   * [Authors](#authors)
   * [License](#license)
 
@@ -43,6 +44,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [US is making plans to intercept Venezuela-linked oil tanker that Russia has claimed jurisdiction over, sources say](https://edition.cnn.com/2026/01/05/politics/us-plans-intercept-oil-tanker)
 - [Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)
 - [Investigating the World's FIRST Solid State Battery](https://www.youtube.com/watch?v=O8PjlwZVLVE)
+
+### Week 3
 
 ## Authors
 
