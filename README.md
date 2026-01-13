@@ -47,6 +47,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 3
 
+- [When backward compatibility became an advantage](https://dri.es/when-backward-compatibility-became-an-advantage)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
