@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 3
 
 - [When backward compatibility became an advantage](https://dri.es/when-backward-compatibility-became-an-advantage)
+- [How to Scale to a Billion Documents in Symfony](https://dev.to/mongodb/how-to-scale-to-a-billion-documents-in-symfony-16pf)
 
 ## Authors
 
