@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [When backward compatibility became an advantage](https://dri.es/when-backward-compatibility-became-an-advantage)
 - [How to Scale to a Billion Documents in Symfony](https://dev.to/mongodb/how-to-scale-to-a-billion-documents-in-symfony-16pf)
+- [jQuery 4.0.0](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 
 ## Authors
 
