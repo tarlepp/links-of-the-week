@@ -54,6 +54,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 4
 
+- [Majority of CEOs report zero payoff from AI splurge](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
