@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [UUID v7 Is a Game-Changer — And You’re Still Using v4](https://medium.com/mr-plan-publication/uuid-v7-the-key-to-faster-cleaner-databases-f5a81da48d1c)
 - [AliSQL](https://github.com/alibaba/AliSQL)
 - [Drift Masters Drivers 2026](https://dm.gp/seasons/drift-masters-2026/drivers/)
+- [PHP RFC: let construct (Block Scoping)](https://wiki.php.net/rfc/optin_block_scoping)
 
 ## Authors
 
