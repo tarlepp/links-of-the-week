@@ -27,6 +27,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 2](#week-2)
     * [Week 3](#week-3)
     * [Week 4](#week-4)
+    * [Week 5](#week-5)
   * [Authors](#authors)
   * [License](#license)
 
@@ -60,6 +61,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Drift Masters Drivers 2026](https://dm.gp/seasons/drift-masters-2026/drivers/)
 - [PHP RFC: let construct (Block Scoping)](https://wiki.php.net/rfc/optin_block_scoping)
 - [This Tool Gained 30K GitHub Stars in One Month — I Finally Tried It](https://medium.com/@alexjamesdunlop/this-tool-gained-30k-github-stars-in-one-month-i-finally-tried-it-1294a47f41b7)
+
+### Week 5
 
 ## Authors
 
