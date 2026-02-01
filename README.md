@@ -68,6 +68,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [We're Creating a Knowledge Collapse and No One's Talking About It](https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d)
 - [Space - the Final Straw ...or how the way you organise your project makes me sad](https://www.dantleech.com/blog/2026/01/30/space-the-final-straw/)
 - [Property Hooks in Action: Real-World Examples with Symfony 7.4](https://medium.com/@MattLeads/property-hooks-in-action-real-world-examples-with-symfony-7-4-b69978619e68)
+- [PHP Multithreading in Practice: Parallel Extension vs Symfony Process](https://jinalisolanki.medium.com/php-multithreading-in-practice-parallel-extension-vs-symfony-process-24d759612a5f)
 
 ## Authors
 
