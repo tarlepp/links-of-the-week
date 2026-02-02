@@ -28,6 +28,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 3](#week-3)
     * [Week 4](#week-4)
     * [Week 5](#week-5)
+    * [Week 6](#week-6)
   * [Authors](#authors)
   * [License](#license)
 
@@ -69,6 +70,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Space - the Final Straw ...or how the way you organise your project makes me sad](https://www.dantleech.com/blog/2026/01/30/space-the-final-straw/)
 - [Property Hooks in Action: Real-World Examples with Symfony 7.4](https://medium.com/@MattLeads/property-hooks-in-action-real-world-examples-with-symfony-7-4-b69978619e68)
 - [PHP Multithreading in Practice: Parallel Extension vs Symfony Process](https://jinalisolanki.medium.com/php-multithreading-in-practice-parallel-extension-vs-symfony-process-24d759612a5f)
+
+### Week 6
 
 ## Authors
 
