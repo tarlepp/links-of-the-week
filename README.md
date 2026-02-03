@@ -73,6 +73,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 6
 
+- [Manage environment variables in Kubernetes with Flux CD](https://wouterj.nl/2026/02/manage-env-vars-with-flux)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
