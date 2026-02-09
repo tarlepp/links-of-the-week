@@ -29,6 +29,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 4](#week-4)
     * [Week 5](#week-5)
     * [Week 6](#week-6)
+    * [Week 7](#week-7)
   * [Authors](#authors)
   * [License](#license)
 
@@ -77,6 +78,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Fewer Young People Are Getting Driver's Licenses, But Our Transportation Remains So Car-Centric](https://www.teenvogue.com/story/fewer-young-people-drivers-licenses)
 - [The German state pioneering digital sovereignty](https://www.euractiv.com/news/the-german-state-pioneering-digital-sovereignty/)
 - [Introducing Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
+
+### Week 7
 
 ## Authors
 
