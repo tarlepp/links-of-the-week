@@ -81,6 +81,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 7
 
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+- [AutoMapper 10.0: High-performance mapping ready for the future](https://jolicode.com/blog/automapper-10-0-high-performance-mapping-ready-for-the-future)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
