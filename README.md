@@ -86,6 +86,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Accessibility for everyone](https://ishadeed.com/article/too-early-breakpoint/)
 - [Introducing GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
 - [Benchmark: FrankenPHP vs. RoadRunner in Symfony 8](https://dev.to/mattleads/benchmark-frankenphp-vs-roadrunner-in-symfony-8-2lgp)
+- [Accelerating Mathematical and Scientific Discovery with Gemini Deep Think](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/)
 
 ## Authors
 
