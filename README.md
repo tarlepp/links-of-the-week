@@ -91,6 +91,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 8
 
+- [The World’s Real-Time Billionaires](https://www.forbes.com/real-time-billionaires/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
