@@ -94,6 +94,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The World’s Real-Time Billionaires](https://www.forbes.com/real-time-billionaires/)
 - [Drift Masters arkistot - Matkatoimisto Lupinus](https://lupinus.fi/aktiviteetit/drift-masters/)
 - [Amazon Bans Claude Code, Mandates In-House Titan](https://www.chosun.com/english/industry-en/2026/02/20/W5K3HBHK6BDPFJX33T3PPCLQMY/)
+- [Common Go Mistakes](https://100go.co/)
 
 ## Authors
 
