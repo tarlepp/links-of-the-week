@@ -102,6 +102,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 9
 
 - [I Donut Believe - Presenting Third Party Results](https://idonutbelieve.com/)
+- [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)
 
 ## Authors
 
