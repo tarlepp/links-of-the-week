@@ -103,6 +103,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [I Donut Believe - Presenting Third Party Results](https://idonutbelieve.com/)
 - [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)
+- [The easiest way to get your slacking excuse in hip xkcd format!](https://xkcd-excuse.com/)
 
 ## Authors
 
