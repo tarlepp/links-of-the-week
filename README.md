@@ -105,6 +105,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)
 - [The easiest way to get your slacking excuse in hip xkcd format!](https://xkcd-excuse.com/)
 - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
+- [Suomi kiristäisi avoimen koodin sääntelyä haitallisesti - vastusta ylimääräistä uhkasakkoa avoimelle koodille ja allekirjoita vetoomus](https://coss.fi/uutiset/suomi-kiristaisi-avoimen-koodin-saantelya-haitallisesti-vastusta-ylimaaraista-uhkasakkoa/)
 
 ## Authors
 
