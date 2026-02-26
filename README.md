@@ -106,6 +106,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The easiest way to get your slacking excuse in hip xkcd format!](https://xkcd-excuse.com/)
 - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
 - [Suomi kiristäisi avoimen koodin sääntelyä haitallisesti - vastusta ylimääräistä uhkasakkoa avoimelle koodille ja allekirjoita vetoomus](https://coss.fi/uutiset/suomi-kiristaisi-avoimen-koodin-saantelya-haitallisesti-vastusta-ylimaaraista-uhkasakkoa/)
+- [Doctrine ORM: How I Escaped the Cartesian Product Trap](https://dev.to/ahmedbhs/doctrine-orm-how-i-escaped-the-cartesian-product-trap-4mck)
 
 ## Authors
 
