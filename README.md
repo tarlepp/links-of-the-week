@@ -32,6 +32,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 7](#week-7)
     * [Week 8](#week-8)
     * [Week 9](#week-9)
+    * [Week 10](#week-10)
   * [Authors](#authors)
   * [License](#license)
 
@@ -110,6 +111,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [I deleted my source code](https://joppe.dev/2026/02/26/i-deleted-my-source-code/)
 - [How to Scale to a Billion Documents in Symfony - Part II](https://dev.to/mongodb/how-to-scale-to-a-billion-documents-in-symfony-part-ii-4h2e)
 - [Add reified generics to PHP](https://github.com/php/php-src/pull/21317)
+
+### Week 10
 
 ## Authors
 
