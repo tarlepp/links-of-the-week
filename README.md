@@ -115,6 +115,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 10
 - [Fuck Clean Code - Ain't Nobody Got Time for That](https://marcelmoll.dev/fuck-clean-code-aint-nobody-got-time-for-that/)
 - [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+- [Brainworm - Hiding in Your Context Window](https://www.originhq.com/blog/brainworm)
 
 ## Authors
 
