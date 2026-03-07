@@ -117,6 +117,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Meta’s AI Smart Glasses and Data Privacy Concerns: Workers Say “We See Everything”](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 - [Brainworm - Hiding in Your Context Window](https://www.originhq.com/blog/brainworm)
 - [Symfony in 200 lines](https://wouterj.nl/2026/02/200-lines-of-symfony)
+- [DTOs at the Speed of Plain PHP](https://www.dereuromark.de/2026/03/02/dtos-at-the-speed-of-plain-php/)
 
 ## Authors
 
