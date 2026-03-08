@@ -118,6 +118,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Brainworm - Hiding in Your Context Window](https://www.originhq.com/blog/brainworm)
 - [Symfony in 200 lines](https://wouterj.nl/2026/02/200-lines-of-symfony)
 - [DTOs at the Speed of Plain PHP](https://www.dereuromark.de/2026/03/02/dtos-at-the-speed-of-plain-php/)
+- [Symfony Messenger: What the Documentation Does Not Cover](https://marcelmoll.dev/symfony-messenger-what-the-documentation-does-not-cover/)
 
 ## Authors
 
