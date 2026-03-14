@@ -126,6 +126,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [A Simple Pattern That Makes Sorting in PHP Faster](https://dev.to/javiereguiluz/a-simple-pattern-that-makes-sorting-in-php-faster-4km9)
 - [PHP Debugger](https://github.com/pronskiy/php-debugger)
+- [rtk](https://github.com/rtk-ai/rtk)
 
 ## Authors
 
