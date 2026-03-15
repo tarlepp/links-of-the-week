@@ -127,6 +127,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [A Simple Pattern That Makes Sorting in PHP Faster](https://dev.to/javiereguiluz/a-simple-pattern-that-makes-sorting-in-php-faster-4km9)
 - [PHP Debugger](https://github.com/pronskiy/php-debugger)
 - [rtk](https://github.com/rtk-ai/rtk)
+- [AI is exhausting workers so much, researchers have dubbed the condition ‘AI brain fry’](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap)
 
 ## Authors
 
