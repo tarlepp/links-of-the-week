@@ -34,6 +34,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 9](#week-9)
     * [Week 10](#week-10)
     * [Week 11](#week-11)
+    * [Week 12](#week-12)
   * [Authors](#authors)
   * [License](#license)
 
@@ -129,6 +130,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [rtk](https://github.com/rtk-ai/rtk)
 - [AI is exhausting workers so much, researchers have dubbed the condition ‘AI brain fry’](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap)
 - [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
+
+### Week 13
 
 ## Authors
 
