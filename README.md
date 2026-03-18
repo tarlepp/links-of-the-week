@@ -134,6 +134,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 12
 
 - [JSON Machine](https://github.com/halaxa/json-machine)
+- [PHP-TUI](https://gnugat.github.io/2026/03/18/xl-12-php-tui.html)
 
 ## Authors
 
