@@ -137,6 +137,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP-TUI](https://gnugat.github.io/2026/03/18/xl-12-php-tui.html)
 - [Regex Blaster](https://mdp.github.io/regex-blaster/)
 - [PHP, Collections and You 🫵](https://www.dantleech.com/blog/2026/03/15/php-collections-and-you/)
+- [Why Array String Keys Are Not Type-Safe in PHP](https://phpstan.org/blog/why-array-string-keys-are-not-type-safe)
 
 ## Authors
 
