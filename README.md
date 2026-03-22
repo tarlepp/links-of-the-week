@@ -138,6 +138,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Regex Blaster](https://mdp.github.io/regex-blaster/)
 - [PHP, Collections and You 🫵](https://www.dantleech.com/blog/2026/03/15/php-collections-and-you/)
 - [Why Array String Keys Are Not Type-Safe in PHP](https://phpstan.org/blog/why-array-string-keys-are-not-type-safe)
+- [End of ID Chaos: Type-Safe Identifiers in Symfony and Doctrine (Automated)](https://medium.com/@mostka.j/end-of-id-chaos-type-safe-identifiers-in-symfony-and-doctrine-automated-71bee96cb371)
 
 ## Authors
 
