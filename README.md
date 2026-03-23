@@ -35,6 +35,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 10](#week-10)
     * [Week 11](#week-11)
     * [Week 12](#week-12)
+    * [Week 13](#week-13)
   * [Authors](#authors)
   * [License](#license)
 
@@ -139,6 +140,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP, Collections and You 🫵](https://www.dantleech.com/blog/2026/03/15/php-collections-and-you/)
 - [Why Array String Keys Are Not Type-Safe in PHP](https://phpstan.org/blog/why-array-string-keys-are-not-type-safe)
 - [End of ID Chaos: Type-Safe Identifiers in Symfony and Doctrine (Automated)](https://medium.com/@mostka.j/end-of-id-chaos-type-safe-identifiers-in-symfony-and-doctrine-automated-71bee96cb371)
+
+### Week 13
 
 ## Authors
 
