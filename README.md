@@ -143,6 +143,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 13
 
+- [Fast, Declarative, Reproducible, and Composable Developer Environments - devenv](https://devenv.sh/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
