@@ -144,6 +144,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 13
 
 - [Fast, Declarative, Reproducible, and Composable Developer Environments - devenv](https://devenv.sh/)
+- [Turn your PHP app into a standalone binary](https://gnugat.github.io/2026/03/25/turn-you-php-app-into-a-standalone-binary.html)
 
 ## Authors
 
