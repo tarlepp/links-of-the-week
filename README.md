@@ -149,6 +149,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 14
 
+- [TOML Support in PHP](https://www.dereuromark.de/2026/03/30/toml-support-in-php/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
