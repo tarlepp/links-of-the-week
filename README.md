@@ -36,6 +36,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 11](#week-11)
     * [Week 12](#week-12)
     * [Week 13](#week-13)
+    * [Week 14](#week-14)
   * [Authors](#authors)
   * [License](#license)
 
@@ -145,6 +146,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Fast, Declarative, Reproducible, and Composable Developer Environments - devenv](https://devenv.sh/)
 - [Turn your PHP app into a standalone binary](https://gnugat.github.io/2026/03/25/turn-you-php-app-into-a-standalone-binary.html)
+
+### Week 14
 
 ## Authors
 
