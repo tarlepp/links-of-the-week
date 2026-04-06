@@ -37,6 +37,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 12](#week-12)
     * [Week 13](#week-13)
     * [Week 14](#week-14)
+    * [Week 15](#week-15)
   * [Authors](#authors)
   * [License](#license)
 
@@ -151,6 +152,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [TOML Support in PHP](https://www.dereuromark.de/2026/03/30/toml-support-in-php/)
 - [Introducing EmDash — the spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
+
+### Week 15
 
 ## Authors
 
