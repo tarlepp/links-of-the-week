@@ -155,6 +155,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 15
 
+- [eusig-bundle](https://github.com/authentin/eusig-bundle)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
