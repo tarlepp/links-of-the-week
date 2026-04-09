@@ -157,6 +157,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [eusig-bundle](https://github.com/authentin/eusig-bundle)
 - [Call graphs from your PHP code (with PHPStan)](https://blog.ineersa.com/post/call-graphs-from-your-php-code-with-phpstan)
+- [Keychron Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/)
 
 ## Authors
 
