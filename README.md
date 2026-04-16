@@ -165,6 +165,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Screenshots that look the part](https://openshots.tracekit.dev/)
 - [Internet Protocol Version 8 (IPv8)](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
+- [LEGO-budjetti 2026](https://budjettipeli.toimii.fi/)
 
 ## Authors
 
