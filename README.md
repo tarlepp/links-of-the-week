@@ -38,6 +38,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 13](#week-13)
     * [Week 14](#week-14)
     * [Week 15](#week-15)
+    * [Week 16](#week-16)
   * [Authors](#authors)
   * [License](#license)
 
@@ -159,6 +160,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Call graphs from your PHP code (with PHPStan)](https://blog.ineersa.com/post/call-graphs-from-your-php-code-with-phpstan)
 - [Keychron Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/)
 - [We’ve raised $17M to build what comes after Git](https://blog.gitbutler.com/series-a)
+
+### Week 16
+
+- [Screenshots that look the part](https://openshots.tracekit.dev/)
 
 ## Authors
 
