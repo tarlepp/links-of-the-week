@@ -173,6 +173,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [The Listening Museum](https://sheets.works/data-viz/keyboard-sounds)
 - [Keeping code quality high with AI agents](https://locastic.com/blog/keeping-code-quality-high-with-ai-agents)
+- [Shannon — AI Pentester by Keygraph](https://github.com/KeygraphHQ/shannon)
 
 ## Authors
 
