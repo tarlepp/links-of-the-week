@@ -175,6 +175,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Keeping code quality high with AI agents](https://locastic.com/blog/keeping-code-quality-high-with-ai-agents)
 - [Shannon — AI Pentester by Keygraph](https://github.com/KeygraphHQ/shannon)
 - [Claude Desktop for Linux](https://github.com/aaddrick/claude-desktop-debian)
+- [Regex is (almost) all you need](https://lookingatcomputer.substack.com/p/regex-is-almost-all-you-need)
 
 ## Authors
 
