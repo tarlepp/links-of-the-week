@@ -181,6 +181,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 18
 
 - [Yii3 Framework](https://yii3.yiiframework.com/)
+- [Readalizer](https://readalizer.github.io/website/)
 
 ## Authors
 
