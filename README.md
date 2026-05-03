@@ -182,6 +182,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Yii3 Framework](https://yii3.yiiframework.com/)
 - [Readalizer](https://readalizer.github.io/website/)
+- [How to build a reactive SPA without writing a single line of React or Vue. Part #2](https://dev.to/mattleads/how-to-build-a-reactive-spa-without-writing-a-single-line-of-react-or-vue-part-2-2i79)
 
 ## Authors
 
