@@ -187,6 +187,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 19
 
+- [New in Symfony 8.1 - HTTP-Less Symfony Applications](https://symfony.com/blog/new-in-symfony-8-1-http-less-symfony-applications)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
