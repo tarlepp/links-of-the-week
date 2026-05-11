@@ -194,6 +194,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 20
 
 - [Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying)
+- [PHP RFC: Bound-Erased Generic Types](https://wiki.php.net/rfc/bound_erased_generic_types)
 
 ## Authors
 
