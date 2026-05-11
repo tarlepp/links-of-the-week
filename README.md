@@ -42,6 +42,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 17](#week-17)
     * [Week 18](#week-18)
     * [Week 19](#week-19)
+    * [Week 20](#week-20)
   * [Authors](#authors)
   * [License](#license)
 
@@ -189,6 +190,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [New in Symfony 8.1 - HTTP-Less Symfony Applications](https://symfony.com/blog/new-in-symfony-8-1-http-less-symfony-applications)
 - [New in Symfony 8.1 - Method-Based Commands](https://symfony.com/blog/new-in-symfony-8-1-method-based-commands)
+
+### Week 20
 
 ## Authors
 
