@@ -193,6 +193,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 20
 
+- [Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
