@@ -195,6 +195,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying](https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying)
 - [PHP RFC: Bound-Erased Generic Types](https://wiki.php.net/rfc/bound_erased_generic_types)
+- [Amazon staff use AI tool for unnecessary tasks to inflate usage scores](https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca?accessToken=zwAAAZ4d3-nbkdOO4NPvlUhCLdOP8evUitSyyg.MEUCIHuucY5fEN7IO4_V42Rk0Pg6pYSFlXCy0U_pS7vbMZ1hAiEAsYKIB8gZ3ftZ9bRPMyMx3qxSIXwcZVjb50DbxbPlGuE&syn-25a6b1a6=1)
 
 ## Authors
 
