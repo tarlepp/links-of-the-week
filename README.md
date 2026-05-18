@@ -200,6 +200,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Composer 2.9.8 and 2.2.28 fix GitHub Actions token disclosure in error messages](https://blog.packagist.com/composer-2-9-8-and-2-2-28-fix-github-actions-token-disclosure-in-error-messages/)
 - [Rewrite Bun in Rust](https://github.com/oven-sh/bun/pull/30412)
 
+### Week 21
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
