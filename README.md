@@ -202,6 +202,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 21
 
+- [Vain muutaman sekunnin tähden by Markku Veijalainen MTV Viihdetoimitus](https://www.youtube.com/watch?v=Tvz0snNCH9U)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
