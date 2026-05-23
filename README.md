@@ -204,6 +204,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Vain muutaman sekunnin tähden by Markku Veijalainen MTV Viihdetoimitus](https://www.youtube.com/watch?v=Tvz0snNCH9U)
 - [NeniTony - Ladamies (Official Music Video)](https://www.youtube.com/watch?v=3g6pcMy_4_U&list=RD3g6pcMy_4_U)
+- [Google Chrome silently installs a 4 GB AI model on your device without consent. At a billion-device scale the climate costs are insane](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ## Authors
 
