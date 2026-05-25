@@ -43,6 +43,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 18](#week-18)
     * [Week 19](#week-19)
     * [Week 20](#week-20)
+    * [Week 21](#week-21)
+    * [Week 22](#week-22)
   * [Authors](#authors)
   * [License](#license)
 
@@ -206,6 +208,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [NeniTony - Ladamies (Official Music Video)](https://www.youtube.com/watch?v=3g6pcMy_4_U&list=RD3g6pcMy_4_U)
 - [Google Chrome silently installs a 4 GB AI model on your device without consent. At a billion-device scale the climate costs are insane](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 - [Native PHP](https://nativephp.com/)
+
+### Week 22
 
 ## Authors
 
