@@ -212,6 +212,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 22
 
 - [Game of Thrones -viskiä tehdään nyt Isossakyrössä – Kyrö Distillery solmi jättisopimuksen Hollywood-jätin kanssa](https://yle.fi/a/74-20227833)
+- [CVE - Metrics](https://www.cve.org/about/Metrics)
 
 ## Authors
 
