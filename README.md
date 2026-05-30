@@ -215,6 +215,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [CVE - Metrics](https://www.cve.org/about/Metrics)
 - [Agentic Software Factories: The Future Of Programming?](https://marmelab.com/blog/2026/05/22/software-factories-the-future-of-programming.html)
 - [PHPStan 2.2: Unsealed Array Shapes, Safer Array Keys, and More!](https://phpstan.org/blog/phpstan-2-2-unsealed-array-shapes-safer-array-keys)
+- [Dutch workers not eager about EU wage transparency directive](https://nltimes.nl/2026/05/18/dutch-workers-eager-eu-wage-transparency-directive)
 
 ## Authors
 
