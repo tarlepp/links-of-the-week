@@ -220,6 +220,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 23
 
+- [Multiple redhat-cloud-services npm Packages compromised](https://www.stepsecurity.io/blog/multiple-redhat-cloud-services-npm-packages-compromised)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
