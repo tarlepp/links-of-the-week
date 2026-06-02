@@ -222,6 +222,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Multiple redhat-cloud-services npm Packages compromised](https://www.stepsecurity.io/blog/multiple-redhat-cloud-services-npm-packages-compromised)
 - [New in Symfony 8.1 - RateLimiter Improvements](https://symfony.com/blog/new-in-symfony-8-1-ratelimiter-improvements)
+- [Opinion about the recent “Bound-Erased Generic Types” RFC](https://gpb.moe/blog/opinion-bound-erased-generics.html)
 
 ## Authors
 
