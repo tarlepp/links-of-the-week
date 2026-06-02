@@ -221,6 +221,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 23
 
 - [Multiple redhat-cloud-services npm Packages compromised](https://www.stepsecurity.io/blog/multiple-redhat-cloud-services-npm-packages-compromised)
+- [New in Symfony 8.1 - RateLimiter Improvements](https://symfony.com/blog/new-in-symfony-8-1-ratelimiter-improvements)
 
 ## Authors
 
