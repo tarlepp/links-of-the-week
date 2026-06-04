@@ -225,6 +225,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Opinion about the recent “Bound-Erased Generic Types” RFC](https://gpb.moe/blog/opinion-bound-erased-generics.html)
 - [Coreutils for Windows](https://github.com/microsoft/coreutils)
 - [From issue to merge, in one app](https://github.com/features/preview/github-app)
+- [New in Symfony 8.1 - ObjectMapper Improvements](https://symfony.com/blog/new-in-symfony-8-1-objectmapper-improvements)
 
 ## Authors
 
