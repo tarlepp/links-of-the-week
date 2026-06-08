@@ -230,6 +230,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 24
 
+- [Souls Only: a human-readable, AI-unfriendly cipher font you can type](https://github.com/convictional/souls-only)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
