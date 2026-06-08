@@ -46,6 +46,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 21](#week-21)
     * [Week 22](#week-22)
     * [Week 23](#week-23)
+    * [Week 24](#week-24)
   * [Authors](#authors)
   * [License](#license)
 
@@ -226,6 +227,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Coreutils for Windows](https://github.com/microsoft/coreutils)
 - [From issue to merge, in one app](https://github.com/features/preview/github-app)
 - [New in Symfony 8.1 - ObjectMapper Improvements](https://symfony.com/blog/new-in-symfony-8-1-objectmapper-improvements)
+
+### Week 24
 
 ## Authors
 
