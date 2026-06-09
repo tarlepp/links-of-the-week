@@ -231,6 +231,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 24
 
 - [Souls Only: a human-readable, AI-unfriendly cipher font you can type](https://github.com/convictional/souls-only)
+- [JetBrains PHPverse 2026 – Bringing the PHP community together](https://www.youtube.com/watch?v=NR9L0zwXJq4)
 
 ## Authors
 
