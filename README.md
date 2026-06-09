@@ -232,6 +232,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Souls Only: a human-readable, AI-unfriendly cipher font you can type](https://github.com/convictional/souls-only)
 - [JetBrains PHPverse 2026 – Bringing the PHP community together](https://www.youtube.com/watch?v=NR9L0zwXJq4)
+- [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 
 ## Authors
 
