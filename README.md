@@ -238,6 +238,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 25
 
 - [PHP RFC: Literal Scalar Types](https://wiki.php.net/rfc/literal_scalar_types)
+- [Keeping Doctrine Entities Honest with DTOs and ObjectMapper](https://symfonycasts.com/blog/honest-entities)
 
 ## Authors
 
