@@ -48,6 +48,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 23](#week-23)
     * [Week 24](#week-24)
     * [Week 25](#week-25)
+    * [Week 26](#week-26)
   * [Authors](#authors)
   * [License](#license)
 
@@ -240,6 +241,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP RFC: Literal Scalar Types](https://wiki.php.net/rfc/literal_scalar_types)
 - [Keeping Doctrine Entities Honest with DTOs and ObjectMapper](https://symfonycasts.com/blog/honest-entities)
 - [This LEGO project got out of Hand...](https://www.youtube.com/watch?v=WN2aA0q-97E)
+
+### Week 26
 
 ## Authors
 
