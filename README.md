@@ -246,6 +246,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Did you spot a fish? Press the Fish Doorbell!](https://visdeurbel.nl/en/)
 - [From Psalm to Pzoom](https://mattbrown.dev/articles/from-psalm-to-pzoom)
+- [How a Symfony UX Security Fix Actually Happens](https://baksla.sh/blog/fixing-symfony-ux-security-vulnerabilities)
 
 ## Authors
 
