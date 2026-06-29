@@ -49,6 +49,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 24](#week-24)
     * [Week 25](#week-25)
     * [Week 26](#week-26)
+    * [Week 27](#week-27)
   * [Authors](#authors)
   * [License](#license)
 
@@ -247,6 +248,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Did you spot a fish? Press the Fish Doorbell!](https://visdeurbel.nl/en/)
 - [From Psalm to Pzoom](https://mattbrown.dev/articles/from-psalm-to-pzoom)
 - [How a Symfony UX Security Fix Actually Happens](https://baksla.sh/blog/fixing-symfony-ux-security-vulnerabilities)
+
+### Week 27
+
+- [Actions steps can now be run in parallel](https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel/)
 
 ## Authors
 
