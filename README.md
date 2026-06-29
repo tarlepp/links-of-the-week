@@ -252,6 +252,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 27
 
 - [Actions steps can now be run in parallel](https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel/)
+- [Phalcon v6.0.0-alpha.1 - we rewrote the whole thing in PHP](https://blog.phalcon.io/post/phalcon-v6-0-0alpha1-released)
 
 ## Authors
 
