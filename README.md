@@ -50,6 +50,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 25](#week-25)
     * [Week 26](#week-26)
     * [Week 27](#week-27)
+    * [Week 28](#week-28)
   * [Authors](#authors)
   * [License](#license)
 
@@ -256,6 +257,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 - [Ford ESCORT MK1 RS](https://borehammotorworks.com/ford-escort-mk1-rs/)
 - [GitHub Presents: Your Code, On a CD](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u)
+
+### Week 27
+
+- [PHP to native assembly](https://elephc.dev/)
 
 ## Authors
 
