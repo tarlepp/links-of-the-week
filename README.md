@@ -262,6 +262,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [PHP to native assembly](https://elephc.dev/)
 - [Keep Composer dependencies up-to-date with Dependabot](https://nth-root.nl/en/guides/keep-composer-dependencies-up-to-date-with-dependabot)
+- [prompt-mac](https://github.com/dunglas/prompt-mac)
 
 ## Authors
 
