@@ -268,6 +268,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 29
 
 - [PHPantom](https://github.com/PHPantom-dev/phpantom_lsp)
+- [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 ## Authors
 
