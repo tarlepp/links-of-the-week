@@ -51,6 +51,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 26](#week-26)
     * [Week 27](#week-27)
     * [Week 28](#week-28)
+    * [Week 29](#week-29)
   * [Authors](#authors)
   * [License](#license)
 
@@ -263,6 +264,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [PHP to native assembly](https://elephc.dev/)
 - [Keep Composer dependencies up-to-date with Dependabot](https://nth-root.nl/en/guides/keep-composer-dependencies-up-to-date-with-dependabot)
 - [prompt-mac](https://github.com/dunglas/prompt-mac)
+
+### Week 29
 
 ## Authors
 
