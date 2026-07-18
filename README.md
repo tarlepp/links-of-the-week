@@ -269,6 +269,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [PHPantom](https://github.com/PHPantom-dev/phpantom_lsp)
 - [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+- [PHP RFC: Update ext/gd to latest features](https://wiki.php.net/rfc/ext-gd-2.4)
 
 ## Authors
 
