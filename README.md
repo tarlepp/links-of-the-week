@@ -275,6 +275,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 30
 
 - [An MCP server in Symfony, with OAuth on both sides](https://timobakx.dev/php/symfony/2026/07/20/an-mcp-server-in-symfony-with-oauth-on-both-sides.html)
+- [Sculpin Returns](https://blog.sculpin.io/2026/07/19/sculpin-returns/)
 
 ## Authors
 
