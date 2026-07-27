@@ -53,6 +53,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 28](#week-28)
     * [Week 29](#week-29)
     * [Week 30](#week-30)
+    * [Week 31](#week-31)
   * [Authors](#authors)
   * [License](#license)
 
@@ -277,6 +278,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [An MCP server in Symfony, with OAuth on both sides](https://timobakx.dev/php/symfony/2026/07/20/an-mcp-server-in-symfony-with-oauth-on-both-sides.html)
 - [Sculpin Returns](https://blog.sculpin.io/2026/07/19/sculpin-returns/)
 - [Evolving Your Events Over Time](https://patchlevel.dev/blog/evolving-your-events-over-time)
+
+### Week 31
+
+- [Why Hallucinated Findings Are Worse Than No Auditor](https://vince-amstoutz.tech/en/blog/abd70afa585beed8)
 
 ## Authors
 
