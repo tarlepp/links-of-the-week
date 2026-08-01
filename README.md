@@ -282,6 +282,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 31
 
 - [Why Hallucinated Findings Are Worse Than No Auditor](https://vince-amstoutz.tech/en/blog/abd70afa585beed8)
+- [Writing the PHP Virtual Machine in Rust (with a lot of help from AI)](https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai)
 
 ## Authors
 
