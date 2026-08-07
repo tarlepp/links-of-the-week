@@ -287,6 +287,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 32
 
+- [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
