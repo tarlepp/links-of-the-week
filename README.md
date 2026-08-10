@@ -55,6 +55,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 30](#week-30)
     * [Week 31](#week-31)
     * [Week 32](#week-32)
+    * [Week 33](#week-33)
   * [Authors](#authors)
   * [License](#license)
 
@@ -288,6 +289,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 32
 
 - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
+
+### Week 33
 
 ## Authors
 
