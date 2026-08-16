@@ -56,6 +56,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 31](#week-31)
     * [Week 32](#week-32)
     * [Week 33](#week-33)
+    * [Week 34](#week-34)
   * [Authors](#authors)
   * [License](#license)
 
@@ -295,6 +296,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division/)
 - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
 - [Build a JSON-RPC 2.0 API in Symfony in 15 minutes: from composer require to OpenAPI](https://dev.to/otezvikentiy/build-a-json-rpc-20-api-in-symfony-in-15-minutes-from-composer-require-to-openapi-5bpk)
+
+### Week 34
 
 ## Authors
 
