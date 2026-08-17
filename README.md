@@ -299,6 +299,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 34
 
+- [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
