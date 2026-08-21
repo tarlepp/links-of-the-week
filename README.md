@@ -301,6 +301,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
 - [Solve mysteries through SQL](https://www.sqlnoir.com/)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 
 ## Authors
 
