@@ -306,6 +306,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 35
 
+- [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
