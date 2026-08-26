@@ -308,6 +308,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
 - [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- [Compile PHP to Native Binaries](https://swoole.com/aot/en)
 
 ## Authors
 
