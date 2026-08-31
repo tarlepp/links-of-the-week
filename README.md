@@ -58,6 +58,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 33](#week-33)
     * [Week 34](#week-34)
     * [Week 35](#week-35)
+    * [Week 36](#week-36)
   * [Authors](#authors)
   * [License](#license)
 
@@ -311,6 +312,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Compile PHP to Native Binaries](https://swoole.com/aot/en)
 - [Migrating from Webpack Encore to Vite with Reprise](https://jolicode.com/blog/migrating-from-webpack-encore-to-vite-with-reprise)
 - [Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America – The White House](https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/)
+
+### Week 36
 
 ## Authors
 
