@@ -315,6 +315,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 36
 
+- [:Claude: Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
