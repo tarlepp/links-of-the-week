@@ -315,8 +315,9 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 36
 
-- [:Claude: Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [Claude: Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 - [Toxiproxy](https://github.com/shopify/toxiproxy)
+- [No more issues](https://stitcher.io/blog/no-more-issues)
 
 ## Authors
 
