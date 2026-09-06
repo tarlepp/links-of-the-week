@@ -318,6 +318,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Claude: Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 - [Toxiproxy](https://github.com/shopify/toxiproxy)
 - [No more issues](https://stitcher.io/blog/no-more-issues)
+- [100% line coverage did not catch the one bug that mattered](https://dev.to/bosun18/100-line-coverage-did-not-catch-the-one-bug-that-mattered-318a)
 
 ## Authors
 
