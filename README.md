@@ -59,6 +59,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 34](#week-34)
     * [Week 35](#week-35)
     * [Week 36](#week-36)
+    * [Week 37](#week-37)
   * [Authors](#authors)
   * [License](#license)
 
@@ -319,6 +320,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Toxiproxy](https://github.com/shopify/toxiproxy)
 - [No more issues](https://stitcher.io/blog/no-more-issues)
 - [100% line coverage did not catch the one bug that mattered](https://dev.to/bosun18/100-line-coverage-did-not-catch-the-one-bug-that-mattered-318a)
+
+### Week 37
 
 ## Authors
 
