@@ -324,6 +324,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 37
 
 - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+- [Introducing SWE-2: Pushing the Pareto Frontier](https://cognition.com/blog/swe-2)
 
 ## Authors
 
