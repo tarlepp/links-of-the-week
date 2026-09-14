@@ -60,6 +60,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 35](#week-35)
     * [Week 36](#week-36)
     * [Week 37](#week-37)
+    * [Week 38](#week-38)
   * [Authors](#authors)
   * [License](#license)
 
@@ -326,6 +327,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 - [Introducing SWE-2: Pushing the Pareto Frontier](https://cognition.com/blog/swe-2)
 - [Opusfived](https://opusfived.dev/)
+
+### Week 38
 
 ## Authors
 
