@@ -332,6 +332,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [New in Symfony 8.2 - KeyManagement Component](https://symfony.com/blog/new-in-symfony-8-2-keymanagement-component)
 - [New in Symfony 8.2 - One Bundle per Component](https://symfony.com/blog/new-in-symfony-8-2-one-bundle-per-component)
+- [PHP, on a Whim #2: Stop Calling Everything an Array](https://carthage.software/en/blog/article/PHP-on-a-Whim-2-Stop-Calling-Everything-an-Array)
 
 ## Authors
 
