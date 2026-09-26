@@ -61,6 +61,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 36](#week-36)
     * [Week 37](#week-37)
     * [Week 38](#week-38)
+    * [Week 39](#week-39)
   * [Authors](#authors)
   * [License](#license)
 
@@ -334,6 +335,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in Symfony 8.2 - One Bundle per Component](https://symfony.com/blog/new-in-symfony-8-2-one-bundle-per-component)
 - [PHP, on a Whim #1: What If Files Had Attributes?](https://carthage.software/en/blog/article/PHP-on-a-Whim-1-What-If-Files-Had-Attributes)
 - [PHP, on a Whim #2: Stop Calling Everything an Array](https://carthage.software/en/blog/article/PHP-on-a-Whim-2-Stop-Calling-Everything-an-Array)
+
+### Week 39
+
+- [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 
 ## Authors
 
