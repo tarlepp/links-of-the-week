@@ -339,6 +339,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 39
 
 - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
+- [Salience](https://github.com/clegginabox/salience-macos)
 
 ## Authors
 
