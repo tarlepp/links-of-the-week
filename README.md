@@ -62,6 +62,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 37](#week-37)
     * [Week 38](#week-38)
     * [Week 39](#week-39)
+    * [Week 40](#week-40)
   * [Authors](#authors)
   * [License](#license)
 
@@ -341,6 +342,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [How we made claude.ai 3x faster in two weeks](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 - [Salience](https://github.com/clegginabox/salience-macos)
 - [From PHP to Xan to Rust: speeding up large CSV imports in Symfony](https://dev.to/tomvdpeet/from-php-to-xan-to-rust-speeding-up-large-csv-imports-in-symfony-46oe)
+
+### Week 40
 
 ## Authors
 
