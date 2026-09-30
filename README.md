@@ -345,6 +345,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 40
 
+- [STT suunnittelee uudelleenjärjestelyä: nykymuotoinen liiketoiminta saattaa päättyä](https://www.sttinfo.fi/tiedote/72371605/stt-suunnittelee-uudelleenjarjestelya-nykymuotoinen-liiketoiminta-saattaa-paattya)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
