@@ -346,6 +346,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 40
 
 - [STT suunnittelee uudelleenjärjestelyä: nykymuotoinen liiketoiminta saattaa päättyä](https://www.sttinfo.fi/tiedote/72371605/stt-suunnittelee-uudelleenjarjestelya-nykymuotoinen-liiketoiminta-saattaa-paattya)
+- [New in Symfony 8.2 - More Flexible Serialization Groups](https://symfony.com/blog/new-in-symfony-8-2-more-flexible-serialization-groups)
 
 ## Authors
 
