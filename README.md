@@ -63,6 +63,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 38](#week-38)
     * [Week 39](#week-39)
     * [Week 40](#week-40)
+    * [Week 41](#week-41)
   * [Authors](#authors)
   * [License](#license)
 
@@ -349,6 +350,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in Symfony 8.2 - More Flexible Serialization Groups](https://symfony.com/blog/new-in-symfony-8-2-more-flexible-serialization-groups)
 - [Vannik Developments - Internal Combustion Engine Simulation Software ](https://vannik.co.za/)
 - [RaceBox](https://www.racebox.pro/)
+
+### Week 41
 
 ## Authors
 
