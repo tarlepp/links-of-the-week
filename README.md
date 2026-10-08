@@ -354,6 +354,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 41
 
 - [PHPStan 2.3: Leap in Performance, Generics Improvements, Detecting Unused Variables, and More!](https://phpstan.org/blog/phpstan-2-3-leap-in-performance)
+- [New in Symfony 8.2 - EntityExists, Cron and Audio Constraints](https://symfony.com/blog/new-in-symfony-8-2-entityexists-cron-and-audio-constraints)
 
 ## Authors
 
