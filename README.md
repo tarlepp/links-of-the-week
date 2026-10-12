@@ -64,6 +64,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 39](#week-39)
     * [Week 40](#week-40)
     * [Week 41](#week-41)
+    * [Week 42](#week-42)
   * [Authors](#authors)
   * [License](#license)
 
@@ -357,6 +358,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in Symfony 8.2 - EntityExists, Cron and Audio Constraints](https://symfony.com/blog/new-in-symfony-8-2-entityexists-cron-and-audio-constraints)
 - [OpenAI’s math solutions aren’t meeting the field’s standards yet](https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/)
 - [Russian search engine Yandex struggles after Ukrainian strikes on data centres](https://www.bbc.com/news/articles/c68xzqqn4ekro)
+
+### Week 42
 
 ## Authors
 
