@@ -65,6 +65,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 40](#week-40)
     * [Week 41](#week-41)
     * [Week 42](#week-42)
+    * [Week 43](#week-43)
   * [Authors](#authors)
   * [License](#license)
 
@@ -364,6 +365,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [The $12 Server Challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge)
 - [Messenger Central: drive your Messenger workers from the terminal](https://blog.welcomattic.com/blog/2026-10-14-messenger-central-drive-messenger-workers-from-the-terminal/)
 - [James Deane Drifts Ireland's Legendary Healy Pass](https://www.youtube.com/watch?v=iGy_IGKBBI4)
+
+### Week 43
 
 ## Authors
 
