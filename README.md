@@ -369,6 +369,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 43
 
 - [New in Symfony 8.2 - JsonSchema Component](https://symfony.com/blog/new-in-symfony-8-2-jsonschema-component)
+- [Introducing tsrs: a Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port)
 
 ## Authors
 
