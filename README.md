@@ -371,6 +371,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [New in Symfony 8.2 - JsonSchema Component](https://symfony.com/blog/new-in-symfony-8-2-jsonschema-component)
 - [Introducing tsrs: a Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port)
 - [UniiChat: one chat that never ends](https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449)
+- [Fast is a design decision](https://shannadige.com/blog/performance-is-design/)
 
 ## Authors
 
