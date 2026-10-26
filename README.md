@@ -66,6 +66,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 41](#week-41)
     * [Week 42](#week-42)
     * [Week 43](#week-43)
+    * [Week 44](#week-44)
   * [Authors](#authors)
   * [License](#license)
 
@@ -372,6 +373,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Introducing tsrs: a Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port)
 - [UniiChat: one chat that never ends](https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449)
 - [Fast is a design decision](https://shannadige.com/blog/performance-is-design/)
+
+### Week 44
 
 ## Authors
 
