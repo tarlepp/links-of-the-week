@@ -376,6 +376,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 44
 
+- [Symfony AI 1.0.0-BETA1 + AI & MCP Hackathon](https://symfony.com/blog/symfony-ai-1-0-0-beta1-ai-and-mcp-hackathon)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
