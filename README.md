@@ -380,6 +380,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Microsoft offers buyouts to around 60,000 employees to contain costs](https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/)
 - [New in Symfony 8.2 - Security Expressions Everywhere](https://symfony.com/blog/new-in-symfony-8-2-security-expressions-everywhere)
 - [STT:n uutistoiminta päättyy maaliskuussa, 89 irtisanotaan – ”Kurja syntymäpäivälahja”, sanoo toimitusjohtaja](https://yle.fi/a/74-20254066)
+- [Patrick Stewart, Captain Picard on ‘Star Trek: The Next Generation,’ Dies](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
 ## Authors
 
