@@ -67,6 +67,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 42](#week-42)
     * [Week 43](#week-43)
     * [Week 44](#week-44)
+    * [Week 45](#week-45)
   * [Authors](#authors)
   * [License](#license)
 
@@ -382,6 +383,10 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [STT:n uutistoiminta päättyy maaliskuussa, 89 irtisanotaan – ”Kurja syntymäpäivälahja”, sanoo toimitusjohtaja](https://yle.fi/a/74-20254066)
 - [Patrick Stewart, Captain Picard on ‘Star Trek: The Next Generation,’ Dies](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 - [Official Claude Code Extension Compromise: Security Advisory](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+
+### Week 45
+
+-[Building a second brain w/ PHP MCP SDK and the PARA method](https://joppe.dev/2026/10/30/second-brain-php-mcp-para/)
 
 ## Authors
 
