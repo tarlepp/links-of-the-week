@@ -386,7 +386,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 45
 
--[Building a second brain w/ PHP MCP SDK and the PARA method](https://joppe.dev/2026/10/30/second-brain-php-mcp-para/)
+- [Building a second brain w/ PHP MCP SDK and the PARA method](https://joppe.dev/2026/10/30/second-brain-php-mcp-para/)
+- [LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/)
 
 ## Authors
 
