@@ -395,6 +395,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 ### Week 46
 
 - [Jane 8: modern PHP models, Symfony HttpClient and lazy API calls](https://jolicode.com/blog/jane-8-modern-php-models-symfony-httpclient-and-lazy-api-calls)
+- [Ram-Altman](https://ram-altman.lol/)
 
 ## Authors
 
