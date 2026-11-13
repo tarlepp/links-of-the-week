@@ -397,6 +397,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Jane 8: modern PHP models, Symfony HttpClient and lazy API calls](https://jolicode.com/blog/jane-8-modern-php-models-symfony-httpclient-and-lazy-api-calls)
 - [Ram-Altman](https://ram-altman.lol/)
 - [2 Shell 2 Furious](https://2shell2furio.us/)
+- [FAA issues nationwide ground stop for all flights](https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa)
 
 ## Authors
 
