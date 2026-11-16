@@ -69,6 +69,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
     * [Week 44](#week-44)
     * [Week 45](#week-45)
     * [Week 46](#week-46)
+    * [Week 47](#week-47)
   * [Authors](#authors)
   * [License](#license)
 
@@ -398,6 +399,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Ram-Altman](https://ram-altman.lol/)
 - [2 Shell 2 Furious](https://2shell2furio.us/)
 - [FAA issues nationwide ground stop for all flights](https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa)
+
+### Week 47
 
 ## Authors
 
