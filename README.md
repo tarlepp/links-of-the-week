@@ -402,6 +402,8 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 ### Week 47
 
+- [Many small reads, a few huge invalidations: what I learned alongside Symfony Cache on Redis Cluster](https://jolicode.com/blog/many-small-reads-a-few-huge-invalidations-what-i-learned-alongside-symfony-cache-on-redis-cluster)
+
 ## Authors
 
 [Tarmo Leppänen](https://github.com/tarlepp)
