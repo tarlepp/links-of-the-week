@@ -404,6 +404,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 
 - [Many small reads, a few huge invalidations: what I learned alongside Symfony Cache on Redis Cluster](https://jolicode.com/blog/many-small-reads-a-few-huge-invalidations-what-i-learned-alongside-symfony-cache-on-redis-cluster)
 - [Java4Shell RCE Demos: Keycloak, Jira, Confluence, Kafka, Elasticsearch, etc.](https://www.youtube.com/watch?v=-EOYmL4UKvs)
+- [Symfony is now a CVE Numbering Authority](https://symfony.com/blog/symfony-is-now-a-cve-numbering-authority)
 
 ## Authors
 
