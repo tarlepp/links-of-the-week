@@ -406,6 +406,7 @@ If _you_ have some interesting links / articles feel free to make a pull request
 - [Java4Shell RCE Demos: Keycloak, Jira, Confluence, Kafka, Elasticsearch, etc.](https://www.youtube.com/watch?v=-EOYmL4UKvs)
 - [Symfony is now a CVE Numbering Authority](https://symfony.com/blog/symfony-is-now-a-cve-numbering-authority)
 - [Cheap to write, expensive to depend on](https://phpunit.expert/articles/cheap-to-write-expensive-to-depend-on.html)
+- [Psalm 7.15: full PHP 8.6 support, SQL-aware security analysis and weak crypto detection](https://psalm.dev/articles/psalm-7-15)
 
 ## Authors
 
